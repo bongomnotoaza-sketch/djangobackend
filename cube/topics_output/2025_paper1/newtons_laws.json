@@ -1,0 +1,208 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "newtons_laws",
+  "count": 20,
+  "questions": [
+    {
+      "label": "1.1",
+      "topic": "newtons_laws",
+      "question": "1.1\nThe net force acting on an object on a horizontal surface is always ...\n\nA in the direction of motion of the object.\nB in the direction of acceleration of the object.\nC zero when the object moves at constant acceleration.\nD increasing when the object moves at constant acceleration.\n\n(2)",
+      "answer": "1.1\nB\n(2)",
+      "paper_pages": [3, 3],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.2",
+      "topic": "newtons_laws",
+      "question": "1.2\nA block is at rest on a rough horizontal surface. A horizontal force F is applied to the block and the block remains at rest.\n\nWhich ONE of the following statements is CORRECT?\n\nA The static frictional force is equal to F.\nB The static frictional force is greater than F.\nC The static frictional force is less than F.\nD There is no frictional force acting on the block.\n\n(2)",
+      "answer": "1.2\nA\n(2)",
+      "paper_pages": [3, 3],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.3",
+      "topic": "newtons_laws",
+      "question": "1.3\nA 5 kg block is pulled across a rough horizontal surface by a force of 30 N applied at an angle of 30° above the horizontal. The block moves at a CONSTANT VELOCITY.\n\nWhich ONE of the following statements is CORRECT?\n\nA The net force on the block is 30 N.\nB The net force on the block is zero.\nC The normal force on the block is 49 N.\nD The frictional force on the block is 30 N.\n\n(2)",
+      "answer": "1.3\nB\n(2)",
+      "paper_pages": [4, 4],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.4",
+      "topic": "newtons_laws",
+      "question": "1.4\nA block moves along a rough horizontal surface while a horizontal force F of magnitude 18 N and a constant kinetic frictional force of magnitude 6 N act on it.\n\nWhich ONE of the following combinations of ACCELERATION and NET WORK DONE ON THE BLOCK is CORRECT?\n\n| | Acceleration (m·s⁻²) | Net work done (J) |\n|---|---|---|\n| A | 2.4 | Positive |\n| B | 2.4 | Zero |\n| C | 3.6 | Positive |\n| D | 3.6 | Zero |\n\n(2)",
+      "answer": "1.4\nA\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.5",
+      "topic": "newtons_laws",
+      "question": "1.5\nTwo blocks of masses 4 kg and 6 kg are connected by a light inextensible string and are pulled across a frictionless horizontal surface by a force of 20 N applied to the 6 kg block.\n\nCalculate the tension in the string.\n\nA 4 N\nB 8 N\nC 12 N\nD 20 N\n\n(2)",
+      "answer": "1.5\nB\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.1",
+      "topic": "newtons_laws",
+      "question": "2.1\nState Newton's second law of motion in words.\n\n(2)",
+      "answer": "2.1\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nWhen the net/resultant force acts on an object, the object will accelerate in the direction of the force and the acceleration is directly proportional to the force and inversely proportional to the mass of the object.\n\nOR\n\nThe net/resultant force acting on an object is equal to the rate of change of momentum of the object (in the direction of the net force). (2 or 0)\n\n(2)",
+      "paper_pages": [6, 6],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.2",
+      "topic": "newtons_laws",
+      "question": "2.2\nA 5 kg block is at rest on a rough horizontal surface. A force F of magnitude 18 N is applied to the block at an angle θ above the horizontal. The block remains at rest. The horizontal component of force F is 15 N.\n\nDraw a labelled free-body diagram showing ALL the forces acting on the block.\n\n(4)",
+      "answer": "2.2\n\nAccepted labels:\nw — Fg / Fw / Fearth on P / weight / mg / 49 N / gravitational force\nF — FA / 18 N / Applied force\nfsmax — Ff / fs / f / Friction (force) / (static) friction\nN — FN / Normal (force) / Fnormal / Normaal (krag)\n\nNotes:\n• Mark awarded for label and arrow.\n• fk not accepted as label.\n• Do not penalise for length of arrows since drawing is not to scale.\n• Any other additional force(s): Max 3/4\n• If everything correct, but no arrows: Max 3/4\n• If force(s) do not make contact with the dot: Max 3/4\n\n(4)",
+      "paper_pages": [6, 6],
+      "memo_pages": [3, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.3",
+      "topic": "newtons_laws",
+      "question": "2.3\nA 5 kg block is at rest on a rough horizontal surface. A force F of magnitude 18 N is applied to the block at an angle θ above the horizontal. The block remains at rest. The horizontal component of force F is 15 N.\n\n2.3.1 Calculate θ.\n\n2.3.2 Calculate the coefficient of static friction.\n\n(7)",
+      "answer": "2.3.1\n\nFx = F cos θ\n15 = 18 cos θ\nθ = 33.56°\n\nOR\n\nFy = √(18² − 15²) = 9.95 N\n9.95 = 18 sin θ\nθ = 33.56°\n\n(2)\n\n2.3.2\n\nfsmax = μsN\nfsmax = μs(mg − F sin θ)\n15 = μs[(5)(9.8) − 18 sin 33.56°]\n15 = μs[49 − 9.95]\n15 = μs(39.05)\nμs = 0.38\n\nOR\n\nFN + Fy − Fg = 0\nFN + Fy = Fg\nFN = (5)(9.8) − (18 sin 33.56°)\nFN = 39.05 N\n\nfsmax = μsN\n15 = μs(39.05)\nμs = 0.38\n\n(5)\n\n(7)",
+      "paper_pages": [6, 6],
+      "memo_pages": [4, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.4",
+      "topic": "newtons_laws",
+      "question": "2.4\nAngle θ is decreased while the magnitude of force F remains constant.\n\nHow will the friction acting on the block be affected? Choose from INCREASES, DECREASES or REMAINS THE SAME. Explain the answer.\n\n(4)",
+      "answer": "2.4\n\nIncreases\n• Vertical component of F decreases\n• Normal force increases\n• μs remains constant, fsmax is directly proportional to N\n\nOR\n\nDecreases\n• Horizontal component of F increases\n• The block will move (Fnet will increase)\n• fk < fsmax\n\nOR\n\nRemains the same\n• Explain using relevant calculation\nNB: In the calculation, candidates must choose a μk < μs value and θ that together with the μk value will give an answer of 15 N for fk.\n\n(4)",
+      "paper_pages": [6, 7],
+      "memo_pages": [5, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.1",
+      "topic": "newtons_laws",
+      "question": "3.1\nState Newton's first law of motion in words.\n\n(2)",
+      "answer": "3.1\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nAn object continues in a state of rest or uniform (moving with constant) velocity unless it is acted upon by a net/resultant force.\n\n(2)",
+      "paper_pages": [7, 7],
+      "memo_pages": [6, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.2",
+      "topic": "newtons_laws",
+      "question": "3.2\nA 3 kg block is placed on a rough horizontal surface. A horizontal force of 12 N is applied to the block. The coefficient of kinetic friction between the block and the surface is 0.25.\n\n3.2.1 Draw a labelled free-body diagram showing ALL the forces acting on the block.\n\n3.2.2 Calculate the acceleration of the block.\n\n(7)",
+      "answer": "3.2.1\n\nAccepted labels:\nw — Fg / Fw / weight / mg / 29.4 N\nF — FA / 12 N / Applied force\nfk — Ff / f / kinetic friction / frictional force\nN — FN / Normal force\n\nNotes:\n• Mark awarded for label and arrow.\n• Do not penalise for length of arrows.\n• Any other additional force(s): Max 3/4\n• If everything correct, but no arrows: Max 3/4\n\n(4)\n\n3.2.2\n\nfk = μkN\nfk = μkmg\nfk = (0.25)(3)(9.8)\nfk = 7.35 N\n\nFnet = ma\nFA − fk = ma\n12 − 7.35 = 3a\n4.65 = 3a\na = 1.55 m·s⁻²\n\n(3)\n\n(7)",
+      "paper_pages": [7, 7],
+      "memo_pages": [6, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.3",
+      "topic": "newtons_laws",
+      "question": "3.3\nTwo blocks, A (4 kg) and B (6 kg), are connected by a light inextensible string. A force of 40 N is applied to block B horizontally to the right. The blocks move on a frictionless horizontal surface.\n\n3.3.1 Calculate the acceleration of the blocks.\n\n3.3.2 Calculate the tension in the string connecting the blocks.\n\n(6)",
+      "answer": "3.3.1\n\nFor the system (A + B):\nFnet = ma\n40 = (4 + 6)a\n40 = 10a\na = 4 m·s⁻²\n\n(3)\n\n3.3.2\n\nFor block A:\nFnet = ma\nT = mAa\nT = (4)(4)\nT = 16 N\n\nOR\n\nFor block B:\nFnet = ma\nF − T = mBa\n40 − T = (6)(4)\n40 − T = 24\nT = 16 N\n\n(3)\n\n(6)",
+      "paper_pages": [7, 8],
+      "memo_pages": [6, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.1",
+      "topic": "newtons_laws",
+      "question": "4.1\nA 2 kg block is placed on a rough inclined plane that makes an angle of 30° with the horizontal. The coefficient of kinetic friction between the block and the incline is 0.2. The block slides down the incline.\n\n4.1.1 Draw a labelled free-body diagram showing ALL the forces acting on the block.\n\n4.1.2 Calculate the acceleration of the block.\n\n(8)",
+      "answer": "4.1.1\n\nAccepted labels:\nw — Fg / Fw / weight / mg / 19.6 N\nfk — Ff / f / kinetic friction\nN — FN / Normal force\n\nNotes:\n• Mark awarded for label and arrow.\n• Do not penalise for length of arrows.\n• Any other additional force(s): Max 3/4\n• If everything correct, but no arrows: Max 3/4\n\n(4)\n\n4.1.2\n\nPerpendicular to incline:\nN = mg cos θ\nN = (2)(9.8) cos 30°\nN = 16.97 N\n\nfk = μkN\nfk = (0.2)(16.97)\nfk = 3.39 N\n\nParallel to incline:\nFnet = ma\nmg sin θ − fk = ma\n(2)(9.8) sin 30° − 3.39 = 2a\n9.8 − 3.39 = 2a\n6.41 = 2a\na = 3.21 m·s⁻²\n\n(4)\n\n(8)",
+      "paper_pages": [8, 8],
+      "memo_pages": [7, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.2",
+      "topic": "newtons_laws",
+      "question": "4.2\nA 5 kg block is pulled up a rough inclined plane by a force of 50 N applied parallel to the incline. The incline makes an angle of 25° with the horizontal. The coefficient of kinetic friction between the block and the incline is 0.15. The block accelerates up the incline.\n\n4.2.1 Draw a labelled free-body diagram showing ALL the forces acting on the block.\n\n4.2.2 Calculate the acceleration of the block.\n\n(8)",
+      "answer": "4.2.1\n\nAccepted labels:\nw — Fg / Fw / weight / mg / 49 N\nF — FA / 50 N / Applied force\nfk — Ff / f / kinetic friction\nN — FN / Normal force\n\nNotes:\n• Mark awarded for label and arrow.\n• Do not penalise for length of arrows.\n• Any other additional force(s): Max 3/4\n• If everything correct, but no arrows: Max 3/4\n\n(4)\n\n4.2.2\n\nPerpendicular to incline:\nN = mg cos θ\nN = (5)(9.8) cos 25°\nN = 44.41 N\n\nfk = μkN\nfk = (0.15)(44.41)\nfk = 6.66 N\n\nParallel to incline:\nFnet = ma\nFA − mg sin θ − fk = ma\n50 − (5)(9.8) sin 25° − 6.66 = 5a\n50 − 20.71 − 6.66 = 5a\n22.63 = 5a\na = 4.53 m·s⁻²\n\n(4)\n\n(8)",
+      "paper_pages": [8, 9],
+      "memo_pages": [7, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.3",
+      "topic": "newtons_laws",
+      "question": "4.3\nA 4 kg block and a 6 kg block are connected by a light inextensible string that passes over a frictionless pulley. The 4 kg block hangs vertically and the 6 kg block is on a rough horizontal surface. The coefficient of kinetic friction between the 6 kg block and the surface is 0.2.\n\n4.3.1 Draw a labelled free-body diagram for EACH block.\n\n4.3.2 Calculate the acceleration of the system.\n\n4.3.3 Calculate the tension in the string.\n\n(12)",
+      "answer": "4.3.1\n\nFor the 4 kg block (hanging):\nw — Fg / weight / mg / 39.2 N\nT — Tension\n\nFor the 6 kg block (on surface):\nw — Fg / weight / mg / 58.8 N\nT — Tension\nfk — Ff / f / kinetic friction\nN — FN / Normal force\n\nNotes:\n• Mark awarded for label and arrow.\n• Do not penalise for length of arrows.\n• Any other additional force(s): Max 3/4 per diagram\n\n(4)\n\n4.3.2\n\nFor the 6 kg block:\nN = mg = (6)(9.8) = 58.8 N\nfk = μkN = (0.2)(58.8) = 11.76 N\n\nFor the system:\nFnet = ma\nm4g − fk = (m4 + m6)a\n(4)(9.8) − 11.76 = (4 + 6)a\n39.2 − 11.76 = 10a\n27.44 = 10a\na = 2.74 m·s⁻²\n\n(4)\n\n4.3.3\n\nFor the 4 kg block:\nFnet = ma\nm4g − T = m4a\n(4)(9.8) − T = (4)(2.74)\n39.2 − T = 10.96\nT = 28.24 N\n\nOR\n\nFor the 6 kg block:\nFnet = ma\nT − fk = m6a\nT − 11.76 = (6)(2.74)\nT − 11.76 = 16.44\nT = 28.20 N\n\n(4)\n\n(12)",
+      "paper_pages": [9, 9],
+      "memo_pages": [8, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.4",
+      "topic": "newtons_laws",
+      "question": "4.4\nA 3 kg block is placed on top of a 7 kg block. A horizontal force of 30 N is applied to the 7 kg block. The 3 kg block is attached to a wall by a light inextensible string. The coefficient of kinetic friction between the 3 kg block and the 7 kg block is 0.3. The 7 kg block moves on a frictionless horizontal surface.\n\n4.4.1 Draw a labelled free-body diagram for the 3 kg block.\n\n4.4.2 Calculate the acceleration of the 7 kg block.\n\n(8)",
+      "answer": "4.4.1\n\nFor the 3 kg block:\nw — Fg / weight / mg / 29.4 N\nT — Tension\nfk — Ff / f / kinetic friction\nN — FN / Normal force (from 7 kg block)\n\n(4)\n\n4.4.2\n\nFor the 3 kg block:\nN = mg = (3)(9.8) = 29.4 N\nfk = μkN = (0.3)(29.4) = 8.82 N\n\nSince the 3 kg block is stationary:\nT = fk = 8.82 N\n\nFor the 7 kg block:\nFnet = ma\nFA − fk = m7a\n30 − 8.82 = 7a\n21.18 = 7a\na = 3.03 m·s⁻²\n\n(4)\n\n(8)",
+      "paper_pages": [9, 10],
+      "memo_pages": [8, 9],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.1",
+      "topic": "newtons_laws",
+      "question": "5.1\nA 2 kg block is pushed up a rough inclined plane by a force of 25 N applied parallel to the incline. The incline makes an angle of 20° with the horizontal. The coefficient of kinetic friction is 0.25. The block moves up the incline.\n\n5.1.1 Draw a labelled free-body diagram showing ALL the forces acting on the block.\n\n5.1.2 Calculate the acceleration of the block.\n\n5.1.3 How would the acceleration be affected if the angle of the incline was increased? Choose from INCREASES, DECREASES or REMAINS THE SAME. Explain the answer.\n\n(10)",
+      "answer": "5.1.1\n\nAccepted labels:\nw — Fg / Fw / weight / mg / 19.6 N\nF — FA / 25 N / Applied force\nfk — Ff / f / kinetic friction\nN — FN / Normal force\n\nNotes:\n• Mark awarded for label and arrow.\n• Do not penalise for length of arrows.\n• Any other additional force(s): Max 3/4\n• If everything correct, but no arrows: Max 3/4\n\n(4)\n\n5.1.2\n\nN = mg cos θ = (2)(9.8) cos 20° = 18.42 N\nfk = μkN = (0.25)(18.42) = 4.61 N\n\nFnet = ma\nFA − mg sin θ − fk = ma\n25 − (2)(9.8) sin 20° − 4.61 = 2a\n25 − 6.70 − 4.61 = 2a\n13.69 = 2a\na = 6.85 m·s⁻²\n\n(4)\n\n5.1.3\n\nDecreases ✓\n• The component of weight parallel to the incline (mg sin θ) increases. ✓\n• The normal force decreases, so friction decreases, but the increase in mg sin θ is greater. ✓\n\n(2)\n\n(10)",
+      "paper_pages": [10, 10],
+      "memo_pages": [9, 9],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2",
+      "topic": "newtons_laws",
+      "question": "5.2\nA 1.5 kg block is placed on a rough horizontal surface. A force of 10 N is applied to the block at an angle of 40° above the horizontal. The coefficient of kinetic friction between the block and the surface is 0.3. The block accelerates horizontally.\n\n5.2.1 Draw a labelled free-body diagram showing ALL the forces acting on the block.\n\n5.2.2 Calculate the acceleration of the block.\n\n(8)",
+      "answer": "5.2.1\n\nAccepted labels:\nw — Fg / Fw / weight / mg / 14.7 N\nF — FA / 10 N / Applied force\nfk — Ff / f / kinetic friction\nN — FN / Normal force\n\nNotes:\n• Mark awarded for label and arrow.\n• Do not penalise for length of arrows.\n• Any other additional force(s): Max 3/4\n• If everything correct, but no arrows: Max 3/4\n\n(4)\n\n5.2.2\n\nVertical components:\nN + F sin θ = mg\nN = mg − F sin θ\nN = (1.5)(9.8) − (10) sin 40°\nN = 14.7 − 6.43\nN = 8.27 N\n\nfk = μkN = (0.3)(8.27) = 2.48 N\n\nHorizontal components:\nFnet = ma\nF cos θ − fk = ma\n(10) cos 40° − 2.48 = 1.5a\n7.66 − 2.48 = 1.5a\n5.18 = 1.5a\na = 3.45 m·s⁻²\n\n(4)\n\n(8)",
+      "paper_pages": [10, 11],
+      "memo_pages": [9, 10],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3",
+      "topic": "newtons_laws",
+      "question": "5.3\nTwo blocks, P (3 kg) and Q (5 kg), are connected by a light inextensible string. Block P is on a rough horizontal surface and block Q hangs vertically over a frictionless pulley. The coefficient of kinetic friction between block P and the surface is 0.2.\n\n5.3.1 Draw labelled free-body diagrams for EACH block.\n\n5.3.2 Calculate the acceleration of the system.\n\n5.3.3 Calculate the tension in the string.\n\n(12)",
+      "answer": "5.3.1\n\nFor block P (on surface):\nw — Fg / weight / mg / 29.4 N\nT — Tension\nfk — Ff / f / kinetic friction\nN — FN / Normal force\n\nFor block Q (hanging):\nw — Fg / weight / mg / 49 N\nT — Tension\n\nNotes:\n• Mark awarded for label and arrow.\n• Do not penalise for length of arrows.\n• Any other additional force(s): Max 3/4 per diagram\n\n(4)\n\n5.3.2\n\nFor block P:\nN = mg = (3)(9.8) = 29.4 N\nfk = μkN = (0.2)(29.4) = 5.88 N\n\nFor the system:\nFnet = ma\nmQg − fk = (mP + mQ)a\n(5)(9.8) − 5.88 = (3 + 5)a\n49 − 5.88 = 8a\n43.12 = 8a\na = 5.39 m·s⁻²\n\n(4)\n\n5.3.3\n\nFor block Q:\nFnet = ma\nmQg − T = mQa\n(5)(9.8) − T = (5)(5.39)\n49 − T = 26.95\nT = 22.05 N\n\nOR\n\nFor block P:\nFnet = ma\nT − fk = mPa\nT − 5.88 = (3)(5.39)\nT − 5.88 = 16.17\nT = 22.05 N\n\n(4)\n\n(12)",
+      "paper_pages": [11, 11],
+      "memo_pages": [10, 10],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.4",
+      "topic": "newtons_laws",
+      "question": "5.4\nA 60 kg person stands on a bathroom scale in an elevator. The scale reads 720 N.\n\n5.4.1 Calculate the acceleration of the elevator.\n\n5.4.2 Describe the motion of the elevator.\n\n(5)",
+      "answer": "5.4.1\n\nFnet = ma\nFscale − mg = ma\n720 − (60)(9.8) = 60a\n720 − 588 = 60a\n132 = 60a\na = 2.2 m·s⁻²\n\n(3)\n\n5.4.2\n\nThe elevator is accelerating upwards at 2.2 m·s⁻².\n\n(2)\n\n(5)",
+      "paper_pages": [11, 12],
+      "memo_pages": [10, 10],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "electrostatics",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "electrostatics",
+      "question": "Three point charges, Q1, Q2 and Q3, are fixed in a straight line. Q1 is r metres from Q2, while Q3 is 2r metres from Q2. The magnitude of the charge on Q2 is q. The net electrostatic force on charge Q1 is zero. What is the magnitude of charge Q3 in terms of q?\n\nA (1/9)q\nB (1/3)q\nC 9q\nD 3q\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "electrostatics",
+      "question": "Two identical conducting spheres, A and B, carry charges of +6 microC and -2 microC respectively. The spheres are brought into contact and then separated. The charge on each sphere after separation is ...\n\nA +4 microC\nB +2 microC\nC -2 microC\nD -4 microC\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "electrostatics",
+      "question": "The electric field at a point is defined as the ...\n\nA force experienced by a unit positive charge placed at that point.\nB force experienced by a unit negative charge placed at that point.\nC electrostatic force per unit positive charge placed at that point.\nD electrostatic force per unit negative charge placed at that point.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "electrostatics",
+      "question": "Two point charges, +q and -q, are separated by a distance r. The magnitude of the electrostatic force between them is F. If the distance between the charges is halved, the magnitude of the electrostatic force will be ...\n\nA F/4\nB F/2\nC 2F\nD 4F\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "electrostatics",
+      "question": "Two point charges, Q1 = +4 x 10^-9 C and Q2 = -9 x 10^-9 C, are separated by a distance of 0.3 m. Point P is located on the line joining the charges, 0.1 m from Q1 and 0.2 m from Q2. The magnitude and direction of the net electric field at point P is ...\n\nA 3.6 x 10^3 N/C towards Q2\nB 3.6 x 10^3 N/C towards Q1\nC 4.5 x 10^3 N/C towards Q2\nD 4.5 x 10^3 N/C towards Q1\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "electrostatics",
+      "question": "An electric field is best described as ...\n\nA a region of space in which an electric charge experiences a force.\nB a region of space in which a magnet experiences a force.\nC the force per unit charge at a point.\nD the potential energy per unit charge at a point.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "electrostatics",
+      "question": "Coulomb's law states that the magnitude of the electrostatic force exerted by one point charge on another point charge is ...\n\nA directly proportional to the product of the charges and directly proportional to the square of the distance between them.\nB directly proportional to the product of the charges and inversely proportional to the square of the distance between them.\nC inversely proportional to the product of the charges and directly proportional to the square of the distance between them.\nD inversely proportional to the product of the charges and inversely proportional to the square of the distance between them.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "electrostatics",
+      "question": "A sphere X carrying a charge of +3 x 10^-7 C is fixed at point A. The electric field at a point 0.05 m from sphere X is 1.08 x 10^6 N/C. The value of r is ...\n\nA 0.01 m\nB 0.05 m\nC 0.10 m\nD 0.50 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "electrostatics",
+      "question": "The electric field pattern due to a positive point charge consists of ...\n\nA field lines radially inward towards the charge.\nB field lines radially outward from the charge.\nC parallel field lines pointing towards the charge.\nD parallel field lines pointing away from the charge.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "electrostatics",
+      "question": "Sphere Y, carrying a charge of -5 x 10^-7 C, is fixed at point P and sphere Z, carrying a charge of -4 x 10^-7 C, is fixed 0.04 m to the right of sphere X. The NET FORCE acting on sphere X is 0.0427 N at point A. Is the surface frictionless?\n\nA YES, because the net electrostatic force is zero.\nB YES, because the net electrostatic force equals the net force.\nC NO, because the net electrostatic force is greater than the net force.\nD NO, because the net electrostatic force is less than the net force.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "electrostatics",
+      "question": "Sphere Y is brought into contact with sphere X, and is placed back in its original position. How will the magnitude of the force that sphere X now exerts on sphere Y be affected?\n\nA Increases\nB Decreases\nC Remains the same\nD Becomes zero\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "electrostatics",
+      "question": "Two point charges, Q1 = +5 x 10^-6 C and Q2 = -3 x 10^-6 C, are separated by a distance of 0.2 m in a vacuum. The magnitude of the electrostatic force between the charges is ...\n\nA 1.69 N\nB 3.38 N\nC 6.75 N\nD 13.50 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "electrostatics",
+      "question": "Two point charges, Q1 = +2 x 10^-8 C and Q2 = +8 x 10^-8 C, are separated by a distance of 0.3 m. The magnitude of the electric field at a point P, which is 0.1 m from Q1 and 0.2 m from Q2, on the line joining the charges is ...\n\nA 0 N/C\nB 1.8 x 10^4 N/C\nC 3.6 x 10^4 N/C\nD 5.4 x 10^4 N/C\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "electrostatics",
+      "question": "A small charged sphere of mass 0.5 g carrying a charge of +4 x 10^-8 C is suspended from a light inextensible string in a uniform horizontal electric field of magnitude 2 x 10^4 N/C. The string makes an angle theta with the vertical. The angle theta is approximately ...\n\nA 5.00 degrees\nB 9.27 degrees\nC 15.00 degrees\nD 20.00 degrees\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "electrostatics",
+      "question": "Two identical small conducting spheres, A and B, carry charges of +8 microC and -4 microC respectively. They are separated by a distance of 0.2 m. The magnitude of the electrostatic force between the spheres is ...\n\nA 3.6 N\nB 7.2 N\nC 10.8 N\nD 14.4 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "electrostatics",
+      "question": "Two identical small conducting spheres, A and B, carry charges of +8 microC and -4 microC respectively. They are brought into contact and then separated to a distance of 0.2 m. The new electrostatic force between the spheres is ...\n\nA 0.9 N\nB 1.8 N\nC 3.6 N\nD 7.2 N\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "electrostatics",
+      "question": "Three point charges, Q1 = +2 x 10^-6 C, Q2 = -4 x 10^-6 C and Q3 = +6 x 10^-6 C, are placed at the corners of a right-angled triangle. Q1 is at the origin, Q2 is at (0.3, 0) m and Q3 is at (0, 0.4) m. The magnitude of the net electrostatic force on Q1 is approximately ...\n\nA 0.80 N\nB 1.05 N\nC 1.48 N\nD 2.00 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "electrostatics",
+      "question": "A point charge Q1 = +5 x 10^-9 C is placed at the origin. A second point charge Q2 = -3 x 10^-9 C is placed at x = 0.4 m. The magnitude and direction of the electric field at x = 0.2 m is ...\n\nA 1800 N/C in the +x direction\nB 1800 N/C in the -x direction\nC 450 N/C in the +x direction\nD 450 N/C in the -x direction\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "electrostatics",
+      "question": "A point charge Q1 = +5 x 10^-9 C is placed at the origin. A second point charge Q2 = -3 x 10^-9 C is placed at x = 0.4 m. The magnitude and direction of the electric field at x = 0.6 m is ...\n\nA 550 N/C in the +x direction\nB 550 N/C in the -x direction\nC 125 N/C in the +x direction\nD 125 N/C in the -x direction\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "electrostatics",
+      "question": "A small sphere of mass 2 g carrying a charge of +3 x 10^-8 C is placed in a uniform electric field of magnitude 5 x 10^4 N/C directed vertically upwards. The magnitude of the electric force on the sphere is ...\n\nA 1.5 x 10^-3 N\nB 3.0 x 10^-3 N\nC 6.0 x 10^-3 N\nD 1.5 x 10^-2 N\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "electrostatics",
+      "question": "A small sphere of mass 2 g carrying a charge of +3 x 10^-8 C is placed in a uniform electric field of magnitude 5 x 10^4 N/C directed vertically upwards. The magnitude and direction of the acceleration of the sphere is ...\n\nA 9.05 m/s^2 upwards\nB 9.05 m/s^2 downwards\nC 4.90 m/s^2 upwards\nD 4.90 m/s^2 downwards\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "electrostatics",
+      "question": "Two point charges, Q1 = +4 x 10^-6 C and Q2 = +9 x 10^-6 C, are separated by a distance of 0.5 m. The distance from Q1 at which the net electric field is zero is ...\n\nA 0.1 m\nB 0.2 m\nC 0.3 m\nD 0.4 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "electrostatics",
+      "question": "The electric field pattern for two like positive charges consists of ...\n\nA field lines that originate from one charge and terminate on the other.\nB field lines that originate from both charges and extend to infinity, repelling each other.\nC parallel field lines between the charges.\nD field lines that cross each other.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "electrostatics",
+      "question": "A small charged sphere of mass 0.8 g carrying a charge of +5 x 10^-8 C is suspended from a light inextensible string in a uniform horizontal electric field of magnitude 3 x 10^4 N/C. The string makes an angle theta with the vertical. The angle theta is approximately ...\n\nA 5.00 degrees\nB 10.83 degrees\nC 15.00 degrees\nD 20.00 degrees\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "electrostatics",
+      "question": "A small charged sphere of mass 0.8 g carrying a charge of +5 x 10^-8 C is suspended from a light inextensible string in a uniform horizontal electric field of magnitude 3 x 10^4 N/C. The tension in the string is approximately ...\n\nA 3.99 x 10^-3 N\nB 7.98 x 10^-3 N\nC 1.20 x 10^-2 N\nD 1.60 x 10^-2 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "electrostatics",
+      "question": "Coulomb's constant k has a value of ...\n\nA 9 x 10^9 N.m^2/C^2\nB 6.67 x 10^-11 N.m^2/kg^2\nC 1.6 x 10^-19 C\nD 3 x 10^8 m/s\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "electrostatics",
+      "question": "The electrostatic force between two point charges is ...\n\nA always attractive.\nB always repulsive.\nC attractive for like charges and repulsive for unlike charges.\nD attractive for unlike charges and repulsive for like charges.\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "electrostatics",
+      "question": "Two point charges of +4 x 10^-6 C and +9 x 10^-6 C are separated by a distance of 0.5 m. The distance from the +4 x 10^-6 C charge at which the net electric field is zero is ...\n\nA 0.1 m\nB 0.2 m\nC 0.3 m\nD 0.4 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "electrostatics",
+      "question": "When two identical conducting spheres carrying charges Q1 and Q2 are brought into contact and then separated, the charge on each sphere is ...\n\nA Q1 + Q2\nB Q1 - Q2\nC (Q1 + Q2)/2\nD (Q1 - Q2)/2\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "electrostatics",
+      "question": "The electric field due to a point charge Q at a distance r is given by ...\n\nA E = kQ/r\nB E = kQ/r^2\nC E = kQ^2/r\nD E = kQ^2/r^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "electrostatics",
+      "question": "The electrostatic force between two point charges is given by ...\n\nA F = kQ1Q2/r\nB F = kQ1Q2/r^2\nC F = kQ1Q2r\nD F = kQ1Q2r^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "electrostatics",
+      "question": "Two point charges of +6 x 10^-6 C and +2 x 10^-6 C are separated by a distance of 0.4 m. The magnitude of the electrostatic force between them is ...\n\nA 0.675 N\nB 1.350 N\nC 2.700 N\nD 5.400 N\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "electrostatics",
+      "question": "Two point charges of +3 x 10^-8 C and +12 x 10^-8 C are separated by a distance of 0.3 m. The electric field at the midpoint between them is ...\n\nA 0 N/C\nB 1.2 x 10^4 N/C\nC 3.6 x 10^4 N/C\nD 4.8 x 10^4 N/C\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "electrostatics",
+      "question": "A charged sphere of mass 0.4 g carrying a charge of +2 x 10^-8 C is suspended in a uniform horizontal electric field. The string makes an angle of 10 degrees with the vertical. The magnitude of the electric field is approximately ...\n\nA 1.73 x 10^4 N/C\nB 3.46 x 10^4 N/C\nC 5.19 x 10^4 N/C\nD 6.92 x 10^4 N/C\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "electrostatics",
+      "question": "Two point charges, Q1 = +8 x 10^-9 C and Q2 = -2 x 10^-9 C, are separated by a distance of 0.2 m. The electric field at the midpoint between them is ...\n\nA 0 N/C\nB 9.0 x 10^3 N/C\nC 1.8 x 10^4 N/C\nD 3.6 x 10^4 N/C\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "electrostatics",
+      "question": "Three point charges, Q1 = +1 x 10^-6 C, Q2 = -2 x 10^-6 C and Q3 = +3 x 10^-6 C, are placed at the corners of an equilateral triangle of side 0.1 m. The magnitude of the net electrostatic force on Q1 is approximately ...\n\nA 0.9 N\nB 1.8 N\nC 2.7 N\nD 3.6 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "electrostatics",
+      "question": "The electric field lines around a negative point charge are directed ...\n\nA radially outward from the charge.\nB radially inward towards the charge.\nC parallel to each other away from the charge.\nD parallel to each other towards the charge.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "electrostatics",
+      "question": "Two point charges of +5 x 10^-6 C and -5 x 10^-6 C are separated by a distance of 0.1 m. The magnitude of the electrostatic force between them is ...\n\nA 11.25 N\nB 22.50 N\nC 45.00 N\nD 90.00 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "electrostatics",
+      "question": "The electric field at a distance of 0.3 m from a point charge of +9 x 10^-9 C is ...\n\nA 100 N/C\nB 300 N/C\nC 900 N/C\nD 2700 N/C\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "electrostatics",
+      "question": "A point charge of +4 x 10^-6 C experiences a force of 0.8 N in an electric field. The magnitude of the electric field is ...\n\nA 2 x 10^5 N/C\nB 3.2 x 10^6 N/C\nC 5 x 10^5 N/C\nD 2 x 10^6 N/C\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "electrostatics",
+      "question": "Two charges of +2 microC and +8 microC are separated by a distance of 0.3 m. The distance from the +2 microC charge at which the electric field is zero is ...\n\nA 0.06 m\nB 0.10 m\nC 0.15 m\nD 0.20 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "electrostatics",
+      "question": "Two charges of +3 microC and +12 microC are separated by a distance of 0.5 m. The distance from the +3 microC charge at which the electric field is zero is ...\n\nA 0.10 m\nB 0.17 m\nC 0.25 m\nD 0.33 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "electrostatics",
+      "question": "A charged sphere of mass 0.2 g carrying a charge of +4 x 10^-8 C is suspended in a uniform horizontal electric field of magnitude 2.5 x 10^4 N/C. The angle the string makes with the vertical is approximately ...\n\nA 5.00 degrees\nB 27.00 degrees\nC 45.00 degrees\nD 63.00 degrees\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "electrostatics",
+      "question": "The force between two charges is F when they are separated by distance r. If the distance is doubled, the force becomes ...\n\nA F/4\nB F/2\nC 2F\nD 4F\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "electrostatics",
+      "question": "The force between two charges is F when they are separated by distance r. If the distance is tripled, the force becomes ...\n\nA F/9\nB F/3\nC 3F\nD 9F\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "electrostatics",
+      "question": "Two point charges of +2 x 10^-6 C and -8 x 10^-6 C are separated by a distance of 0.4 m. The electric field at the midpoint between them is ...\n\nA 0 N/C\nB 2.25 x 10^6 N/C\nC 4.50 x 10^6 N/C\nD 6.75 x 10^6 N/C\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "electrostatics",
+      "question": "A point charge Q is placed at the origin. The electric field at a distance of 0.2 m is 4500 N/C. The magnitude of Q is ...\n\nA 2 x 10^-8 C\nB 4 x 10^-8 C\nC 2 x 10^-7 C\nD 4 x 10^-7 C\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "electrostatics",
+      "question": "Two identical spheres carrying charges of +10 microC and -6 microC are brought into contact and then separated by a distance of 0.2 m. The force between them is ...\n\nA 0.36 N\nB 0.90 N\nC 1.80 N\nD 3.60 N\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "electrostatics",
+      "question": "Two identical spheres carrying charges of +12 microC and -4 microC are brought into contact and then separated by a distance of 0.3 m. The force between them is ...\n\nA 0.40 N\nB 0.80 N\nC 1.60 N\nD 3.20 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "electrostatics",
+      "question": "A charged particle of mass 1 g and charge +2 x 10^-7 C is placed in a uniform electric field of 5 x 10^4 N/C directed vertically upwards. The net force on the particle is ...\n\nA 1.0 x 10^-2 N upwards\nB 1.0 x 10^-2 N downwards\nC 2.0 x 10^-3 N upwards\nD 2.0 x 10^-3 N downwards\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "electrostatics",
+      "question": "The electric field at a point due to two point charges is the ...\n\nA sum of the magnitudes of the individual fields.\nB vector sum of the individual fields.\nC product of the individual fields.\nD difference of the magnitudes of the individual fields.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "electrostatics",
+      "question": "The net force on a charge due to two other charges is the ...\n\nA sum of the magnitudes of the individual forces.\nB vector sum of the individual forces.\nC product of the individual forces.\nD difference of the magnitudes of the individual forces.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "electrostatics",
+      "question": "A charge of +6 x 10^-6 C is placed at the origin and a charge of -2 x 10^-6 C is placed at x = 0.3 m. The electric field at x = 0.6 m is ...\n\nA 0 N/C\nB 1.0 x 10^5 N/C in the +x direction\nC 1.0 x 10^5 N/C in the -x direction\nD 2.0 x 10^5 N/C in the +x direction\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "electrostatics",
+      "question": "A charge of +6 x 10^-6 C is placed at the origin and a charge of -2 x 10^-6 C is placed at x = 0.3 m. The electric field at x = 0.1 m is ...\n\nA 4.0 x 10^6 N/C in the +x direction\nB 4.0 x 10^6 N/C in the -x direction\nC 5.4 x 10^6 N/C in the +x direction\nD 5.4 x 10^6 N/C in the -x direction\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "electrostatics",
+      "question": "The force between two charges is 10 N. If the magnitude of one charge is doubled and the distance between them is halved, the new force is ...\n\nA 20 N\nB 40 N\nC 80 N\nD 160 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "electrostatics",
+      "question": "The force between two charges is 20 N. If the magnitude of both charges is doubled and the distance between them is doubled, the new force is ...\n\nA 10 N\nB 20 N\nC 40 N\nD 80 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "electrostatics",
+      "question": "A point charge of +5 x 10^-6 C is placed at the origin. The electric field at a point 0.5 m away is ...\n\nA 1.8 x 10^5 N/C\nB 3.6 x 10^5 N/C\nC 9.0 x 10^4 N/C\nD 1.8 x 10^4 N/C\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "electrostatics",
+      "question": "A point charge of +5 x 10^-6 C is placed at the origin. The electric field at a point 1.0 m away is ...\n\nA 4.5 x 10^4 N/C\nB 9.0 x 10^4 N/C\nC 1.8 x 10^5 N/C\nD 3.6 x 10^5 N/C\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "electrostatics",
+      "question": "Two point charges of +4 x 10^-8 C and +4 x 10^-8 C are separated by a distance of 0.2 m. The electric field at the midpoint between them is ...\n\nA 0 N/C\nB 7.2 x 10^4 N/C\nC 1.44 x 10^5 N/C\nD 2.88 x 10^5 N/C\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "electrostatics",
+      "question": "Two point charges of +4 x 10^-8 C and -4 x 10^-8 C are separated by a distance of 0.2 m. The electric field at the midpoint between them is ...\n\nA 0 N/C\nB 7.2 x 10^4 N/C\nC 1.44 x 10^5 N/C\nD 2.88 x 10^5 N/C\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

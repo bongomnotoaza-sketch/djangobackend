@@ -1,0 +1,150 @@
+{
+  "year": 2025,
+  "paper": "paper2",
+  "topic": "chemical_equilibrium",
+  "count": 9,
+  "questions": [
+    {
+      "label": "1.5",
+      "topic": "chemical_equilibrium",
+      "question": "1.5 \nThe following reaction reaches equilibrium in a closed container: \n \nH2(g) + S(s) ⇌ H2S(g) ΔH < 0 \n \nThe reaction rate versus time graph for the reaction is given below. \n \n \n \n \n \n \n \n \n \n \n \nWhat change was made to the system at time t1? \n \n \n \nA \n \nB \n \nC \n \nD \nThe pressure was increased at a constant temperature. \n \nThe volume of the container was increased. \n \nThe temperature was increased. \n \nMore hydrogen was added to the system. \n \n(2) \n \n \n \nReaction rate \nTime \nt1 \n\nPhysical Sciences/P2 \n5 \nDBE/November 2025 \n \nNSC Confidential \nCopyright reserved \n \nPlease turn over",
+      "answer": "1.5 \nA  \n \n(2)",
+      "paper_pages": [
+        4,
+        5
+      ],
+      "memo_pages": [
+        2,
+        2
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "6.1",
+      "topic": "chemical_equilibrium",
+      "question": "6.1 \nEquilibrium is established at 25 °C in a saturated calcium hydroxide solution \naccording to the reaction: \n \nCa(OH)2(s) ⇌ Ca2+(aq) + 2OH\n─(aq)",
+      "answer": null,
+      "paper_pages": [
+        13,
+        13
+      ],
+      "memo_pages": null,
+      "topic_mismatch": null,
+      "missing_in": [
+        "memo"
+      ]
+    },
+    {
+      "label": "6.1.1",
+      "topic": "chemical_equilibrium",
+      "question": "6.1.1 \nState Le Chatelier's principle. \n (2)",
+      "answer": "6.1.1 \nMarking criteria/Nasienkriteria: \nIf any one of the underlined key phrases in the correct context is omitted, deduct 1 \nmark./Indien enige van die onderstreepte frases in die korrekte konteks uitgelaat is, \ntrek 1 punt af. \nThe underlined phrases must be in the correct context. / Die onderstreepte frases moet \nin die korrekte konteks wees. \n \n \n \n \nWhen the equilibrium in a closed system is disturbed, the system will re-instate \na new equilibrium by favouring the reaction that will cancel/oppose the \ndisturbance.  \nWanneer die ewewig in 'n geslote sisteem versteur word, sal die sisteem 'n \nnuwe ewewig instel deur die reaksie te bevoordeel wat die versteuring \nkanselleer/teenwerk. \n \n(2)",
+      "paper_pages": [
+        13,
+        13
+      ],
+      "memo_pages": [
+        13,
+        13
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "6.1.2",
+      "topic": "chemical_equilibrium",
+      "question": "6.1.2 \nA few drops of concentrated hydrochloric acid, HCℓ(conc.), are \nadded to the equilibrium mixture. What effect does this addition have \non the mass of Ca(OH)2(s)? Choose from INCREASES, \nDECREASES or REMAINS THE SAME. \n \n \n \n(1)",
+      "answer": "6.1.2 \n(Mass) decreases./(Massa) Afneem.  \n(1)",
+      "paper_pages": [
+        13,
+        13
+      ],
+      "memo_pages": [
+        13,
+        13
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "6.1.3",
+      "topic": "chemical_equilibrium",
+      "question": "6.1.3 \nExplain the answer to QUESTION 6.1.2 by using Le Chatelier's \nprinciple. \n \n(2)",
+      "answer": "6.1.3 \n• Decrease in amount of OH\n— ions /concentration of OH\n—- ions, favours the \nreaction that increases the amount/concentration of OH\n— ions.  OR \nAcid/ HCℓ/H+ reacts with OH\n—- ions. \n \n \n• The forward reaction is favoured  OR \nThe amount/concentration of the products increases. \n \n• 'n Afname in hoeveelheid OH\n—--ione /konsentrasie OH\n—-ione bevoordeel \ndie reaksie wat die hoeveelheid/konsentrasie van OH\n—-ione laat toeneem. \nOF \n \nSuur /HCℓ/H+ reageer met OH\n— ione. \n \n \n• Die voorwaartse reaksie is bevoordeel. OF \nDie hoeveelheid/konsentrasie van die produkte neem toe. \n(2)",
+      "paper_pages": [
+        13,
+        13
+      ],
+      "memo_pages": [
+        13,
+        13
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "6.2",
+      "topic": "chemical_equilibrium",
+      "question": "6.2 \nInitially 70 g of NH4HS(s) is placed in a 3 dm3 container at 250 °C. The container \nis sealed and the reaction is allowed to reach equilibrium according to the \nbalanced equation: \n \nNH4HS(s) ⇌ NH3(g) + H2S(g) \n \nThe Kc values for the decomposition of NH4HS(s) at different temperatures are \ngiven in the table below. \n \n \n \n \nTEMPERATURE (°C) \nKc \n \n \n \n \n200 \n7,5 x 10-2 \n \n \n \n250 \n18 x 10-2 \n \n \n \n300 \n40 x 10-2",
+      "answer": null,
+      "paper_pages": [
+        13,
+        13
+      ],
+      "memo_pages": null,
+      "topic_mismatch": null,
+      "missing_in": [
+        "memo"
+      ]
+    },
+    {
+      "label": "6.2.1",
+      "topic": "chemical_equilibrium",
+      "question": "6.2.1 \nIs the decomposition of NH4HS(s) an EXOTHERMIC or \nENDOTHERMIC reaction? \n \n(1)",
+      "answer": "6.2.1 \nEndothermic/Endotermies  \n(1)",
+      "paper_pages": [
+        13,
+        13
+      ],
+      "memo_pages": [
+        13,
+        13
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "6.2.2",
+      "topic": "chemical_equilibrium",
+      "question": "6.2.2 \nExplain the answer to QUESTION 6.2.1 by using Le Chatelier's \nprinciple. \n \n(3)",
+      "answer": "6.2.2 \n• With an increase in the temperature the Kc value increases.  \n• The concentration of the products increases. OR Concentration of reactants \ndecreases. OR The forward reaction is favoured.  \n• (According to Le Chatelier's principle) an increase in temperature favours the \nendothermic reaction.  \n \n• Met 'n toename in temperatuur neem die Kc-waarde toe. \n• Die konsentrasie van die produkte neem toe. OF Konsentrasie van die \nreaktante neem af. OF Voorwaartse reaksie is bevoordeel. \n• (Volgens Le Chatelier se beginsel) sal 'n toename in temperatuur die \nendotermiese reaksie bevoordeel. \n(3) \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n14 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief",
+      "paper_pages": [
+        13,
+        13
+      ],
+      "memo_pages": [
+        13,
+        14
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "6.2.3",
+      "topic": "chemical_equilibrium",
+      "question": "6.2.3 \nCalculate the mass of NH4HS(s) that will be present at equilibrium \nat 250 °C. \n \n(8) \n \n \n [17] \n \n \n\nPhysical Sciences/P2 \n14 \nDBE/November 2025 \n \nNSC Confidential \nCopyright reserved \n \nPlease turn over \n \n \nQUESTION 7 (Start on a new page.)",
+      "answer": "6.2.3 \nCALCULATIONS USING MOLES \nBEREKENINGE WAT MOL GEBRUIK \nMarking criteria: \n(a) Calculate number of moles NH4HS (\n70\n51)  OR 1,37 moles \n(b) USING RATIO: NH4HS : NH3 : H2S : = 1 : 1 : 1  \n(c) Calculate c(NH3) and c(H2S) at equilibrium (divide equilibrium moles by 3)  \n(d) Correct Kc expression  \n(e) Substitute Kc = 18 x 10-2  \n(f) \nn(NH4HS)eq = n(NH4HS)in - n(NH4HS)change OR \nm(NH4HS)eq = m(NH4HS)in - m(NH4HS)change  \n(g) Substitute 51 in n = \nm\nM  \n(h) CORRECT final answer: m = 5,61 g  \n \nRange: 4,96 – 5,74 g \n \nNasienkriteria: \n(a) \nBereken aantal mol NH4HS (\n70\n51)  OF 1,37 mol \n(b) \nGEBRUIK VERHOUDING: NH4HS : NH3 : H2S : = 1 : 1 : 1  \n(c) \nBereken c(NH3) en c(H2S) by ewewig (deel ewewig mol met 3)  \n(d) \nKorrekte Kc uitdrukking  \n(e) \nVervang Kc = 18 x 10-2  \n(f) \nn(NH4HS)eq = n(NH4HS)in - n(NH4HS)change OF \n \nm(NH4HS)eq = m(NH4HS)in - m(NH4HS)change  \n(g) \nVervang 51 in n = \nm\nM  \n(h) \nKORREKTE finale antwoord: m = 5,61 g  \n \nGebied: 4,95 – 5,74 g \n \nOPTION 1/OPSIE 1: \n n = \nm\nM \n = \n70\n51 \n \n \n \n \n \n \n \n \n \n \n \n Kc = [NH3][H2S] \n \n 18 x 10-2 = (\nx\n3)\n2\n \n x = 1,27 \n \nn(NH4HS)eq = 1,37 – 1,27 \n= 0,1 mol \n \nm(NH4HS)eq = nM \n \n \n= 0,1 x 51 \n \n \n \n \n \n \n= 5,1 g \n \nNH4HS(s) NH3(g) \nH2S(g) \nInitial amount (mol) \nAanvanklike hoeveelheid (mol) \n1,37 \n0 \n0 \nChange (mol) \nVerandering (mol) \nx \nx \nx \nEquilibrium amount (mol) \nEwewig hoeveelheid (mol) \n1,37 - x \nx \nx \nEquilibrium concentration (mol∙dm-3) \nEwewigskonsentrasie (mol∙dm-3) \n \nx\n3 \nx\n3 \n \n(a) \n(b) \n(c) \n(d) \n(e) \n(f) \n(g) \n(h) \nWrong Kc expression/ \nVerkeerde Kc-uitdrukking: Max./Maks. 6 8\n⁄ \nNo Kc expression, correct substitution \nGeen Kc- uitdrukking, korrekte substitusie: \nMax./Maks. 7 8\n⁄ \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n15 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief \n \n \n \nOPTION 2/OPSIE 2: \n \n Kc \n= [NH3][H2S] \n 18 x 10-2 = x2 \n x \n= 0,42 \n \n \nm(NH4HS)eq = nM \n \n \n \n= 0,11 x 51 \n \n \n \n \n \n= 5,61 g \n \n \n \n \n \n \nOR/OF \nm(NH4HS)change = nM \n= 1,26 x 51 \n= 64,26 g \n \n \nm(NH4HS)eq = 70 – 64,26 \n = 5,74 g \n \nNH4HS(s) \nNH3(g) \nH2S(g) \nInitial amount (mol) \nAanvanklike hoeveelheid (mol) \n1,37 \n0 \n0 \nChange (mol) \nVerandering (mol) \n1,26 \n1,26 \n1,26 \nEquilibrium amount (mol) \nEwewig hoeveelheid (mol) \n0,11 \n1,26 \n1,26 \nEquilibrium concentration (mol∙dm-3) \nEwewigskonsentrasie (mol∙dm-3) \n \n0,42 \n0,42 \n \n \n \n \n(a) \n(b) \n(d) \n(g) \n(f) \n(h) \n(e) \n(c) \n(f) \n(h) \nWrong Kc expression/ \nVerkeerde Kc-uitdrukking: Max./Maks. 6 8\n⁄ \nNo Kc expression, correct substitution \nGeen Kc- uitdrukking, korrekte substitusie: \nMax./Maks. 7 8\n⁄ \n(g) \nn = \nm\nM \n = \n70\n51 \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n16 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief \n \n \n \nCALCULATIONS USING CONCENTRATION \nBEREKENINGE WAT KONSENTRASIE GEBRUIK \n \n \n \n \n \n \nKc = [NH3][H2S] \n 18 x 10-2 \n= x2 \n x = 0,424 mol∙dm-3 \n \nnNH3(change) = cV \n = (0,424)(3) \n = 1,272 mol \n \nn(NH4HS)change = nNH3(change) = 1,272 mol \n \nn(NH4HS)eq = \n70\n51 – 1,272 \n= 0,098 mol \n \nm(NH4HS)eq = nM \n \n \n= 0,098 x 51 \n \n \n \n \n= 4,998 g \n \nOR/OF \n \nm(NH4HS)change = nM \n = 1,272 x 51 \n = 64,872 g \n \nm(NH4HS)eq = 70 – 64,872 \n = 5,128 g \n \nNH4HS(s) \nNH3(g) \nH2S(g) \nInitial concentration (mol∙dm-3) \nAanvanklike konsentrasie (mol∙dm-3) \n \n0 \n0 \nChange (mol∙dm-3) \nVerandering (mol∙dm-3) \n \nx \nx \nEquilibrium concentration (mol∙dm-3) \nEwewigskonsentrasie (mol∙dm-3) \n \nx \nx \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(8) \n \n \n \n[17] \n \n \n(a) \n(b) \n(c) \n(e) \n(d) \n(f) \n(g) \n(h) \n(f) \n(g) \n(h) \nWrong Kc expression/ \nVerkeerde Kc-uitdrukking: Max./Maks. 6 8\n⁄ \nNo Kc expression, correct substitution \nGeen Kc- uitdrukking, korrekte \nsubstitusie: Max./Maks. 7 8\n⁄ \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n17 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief \n \n \nQUESTION 7/VRAAG 7",
+      "paper_pages": [
+        13,
+        14
+      ],
+      "memo_pages": [
+        14,
+        17
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

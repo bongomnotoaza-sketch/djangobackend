@@ -1,0 +1,182 @@
+{
+  "year": 2025,
+  "paper": "paper2",
+  "topic": "acids_and_bases",
+  "count": 11,
+  "questions": [
+    {
+      "label": "1.7",
+      "topic": "acids_and_bases",
+      "question": "1.7 \nThe products for the reaction between a metal oxide and an acid are … \n \n \n \nA \n \nB \n \nC \n \nD \na salt and water. \n \na salt and hydrogen gas. \n \na salt and carbon dioxide. \n \na salt, water and carbon dioxide. \n \n(2)",
+      "answer": "1.7 \nA  \n (2)",
+      "paper_pages": [
+        5,
+        5
+      ],
+      "memo_pages": [
+        2,
+        2
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "1.8",
+      "topic": "acids_and_bases",
+      "question": "1.8 \nThe concentration of each of the four solutions below is 0,1 mol·dm-3. \n \nHNO3(aq), NH3(aq), NaOH(aq) and H2CO3(aq) \n \nWhich ONE of the following CORRECTLY places the solutions in order of \nINCREASING pH? \n \n \n \n \nA \n \nB \n \nC \n \nD \nH2CO3 ; HNO3 ; NH3 ; NaOH \n \nHNO3 ; H2CO3 ; NH3 ; NaOH \n \nNaOH ; NH3 ; H2CO3 ; HNO3 \n \nHNO3 ; H2CO3 ; NaOH; NH3 \n \n \n \n \n \n \n(2) \n \n \n \n\nPhysical Sciences/P2 \n6 \nDBE/November 2025 \n \nNSC Confidential \nCopyright reserved \n \nPlease turn over",
+      "answer": "1.8 \nB  \n (2)",
+      "paper_pages": [
+        5,
+        6
+      ],
+      "memo_pages": [
+        2,
+        2
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "7.1",
+      "topic": "acids_and_bases",
+      "question": "7.1 \nPhosphoric acid, H3PO4(aq), is an example of an acid that can ionise in three \nsteps, as shown below. \n \n \nH3PO4(aq) + H2O(ℓ) ⇌ H3O⁺(aq) + H2PO4\n─(aq) Ka = 6,9 x 10-3 \n \nH2PO4\n─(aq) + H2O(ℓ) ⇌ H3O⁺(aq) + HPO4\n2─(aq) \nKa = 6,2 x 10-8 \n \nHPO4\n2─(aq) + H2O(ℓ) ⇌ H3O⁺(aq) + PO4\n3─(aq) \nKa = 4,8 x 10-13",
+      "answer": null,
+      "paper_pages": [
+        14,
+        14
+      ],
+      "memo_pages": null,
+      "topic_mismatch": null,
+      "missing_in": [
+        "memo"
+      ]
+    },
+    {
+      "label": "7.1.1",
+      "topic": "acids_and_bases",
+      "question": "7.1.1 \nWhich one is the stronger acid, H2PO4\n─ or HPO4\n2─? \nGive a reason for the answer by referring to the data above. \n \n(2)",
+      "answer": "7.1.1 \nH2PO4\n─  \nKa of H2PO4\n─ greater/higher than Ka of HPO4\n2─  \nAccept: Ka of H2PO4\n─ greater \n \n(2)",
+      "paper_pages": [
+        14,
+        14
+      ],
+      "memo_pages": [
+        17,
+        17
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "7.1.2",
+      "topic": "acids_and_bases",
+      "question": "7.1.2 \nWrite down the FORMULA for the conjugate base of H2PO4\n─(aq). \n (1)",
+      "answer": "7.1.2 \nHPO4\n2─  \n \n(1)",
+      "paper_pages": [
+        14,
+        14
+      ],
+      "memo_pages": [
+        17,
+        17
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "7.1.3",
+      "topic": "acids_and_bases",
+      "question": "7.1.3 \nIdentify a substance behaving as an ampholyte in the reactions \nabove. \n \n(1) \n \n \nSodium hydrogen phosphate, Na2HPO4(s), is dissolved in water.",
+      "answer": "7.1.3 \nH2PO4\n─ OR/OF HPO4\n2─  \n \n(1)",
+      "paper_pages": [
+        14,
+        14
+      ],
+      "memo_pages": [
+        17,
+        17
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "7.1.4",
+      "topic": "acids_and_bases",
+      "question": "7.1.4 \nWill the resulting solution be ACIDIC or BASIC? \n (1)",
+      "answer": "7.1.4 \nBasic/Basies  \n \n(1)",
+      "paper_pages": [
+        14,
+        14
+      ],
+      "memo_pages": [
+        17,
+        17
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "7.1.5",
+      "topic": "acids_and_bases",
+      "question": "7.1.5 \nWrite \na \nbalanced \nequation \nto \nexplain \nthe \nanswer \nto \nQUESTION 7.1.4. \n \n(3)",
+      "answer": "7.1.5 \nMarking criteria/Nasienkriteria: \n• Reactants  \n Products  \nBalancing  \n \nReaktanse  \n Produkte  \nBalansering  \n• Ignore/Ignoreer → and phases/en fases \nMarking rule 6.3.10/Nasienreël 6.3.10 \n \n \n \n \nHPO4\n2─(aq) + H2O(ℓ) ⇌ H2PO4\n─(aq) + OH─(aq) bal  \n \n \nOR/OF \n \nHPO4\n2─(aq) + 2H2O(ℓ) ⇌ H3PO4 (aq) + 2OH─(aq) \n \n \n \n \n \nACCEPT/AANVAAR: \n \nNa2HPO4(aq) + H2O(ℓ) ⇌ NaH2PO4(aq) + NaOH(aq) \n \nNa2HPO4(aq) + H2O(ℓ) ⇌ H2PO4\n−(aq) + 2Na+(aq) + OH−(aq) \n \nNa2HPO4(aq) + H2O(ℓ) ⇌ NaH2PO4 (aq) + NaOH(aq) \n \nNa2HPO4(aq) + 2H2O(ℓ) ⇌ H3PO4(aq) + 2Na+(aq) + 2OH−(aq) \n \nNa2HPO4(aq) + 2H2O(ℓ) ⇌ H3PO4(aq) + 2NaOH (aq) \n \n(3) \n \n \n \n\n\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n18 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief",
+      "paper_pages": [
+        14,
+        14
+      ],
+      "memo_pages": [
+        17,
+        18
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "7.2",
+      "topic": "acids_and_bases",
+      "question": "7.2 \nBarium hydroxide, Ba(OH)2, dissolves in water according to the balanced \nequation: \n \nBa(OH)2(s) → Ba2+(aq) + 2OH─(aq) \n \nA 100 cm3 solution is prepared by dissolving an unknown amount of Ba(OH)2 \nat 25 °C. \n \n25 cm3 of this Ba(OH)2 solution is reacted with 15 cm3 of a 0,2 mol·dm-3 HCℓ \nsolution in a flask, according to the balanced equation: \n \nBa(OH)2(aq) + 2HCℓ(aq) → BaCℓ2(aq) + 2H2O(ℓ) \n \nThe final pH of the solution is 12,62 at 25 °C. \n \nCalculate the:",
+      "answer": null,
+      "paper_pages": [
+        14,
+        14
+      ],
+      "memo_pages": null,
+      "topic_mismatch": null,
+      "missing_in": [
+        "memo"
+      ]
+    },
+    {
+      "label": "7.2.1",
+      "topic": "acids_and_bases",
+      "question": "7.2.1 \nFinal concentration of the hydroxide ions in the flask \n (4)",
+      "answer": "7.2.1 \nMarking criteria: \na) Any formula: pH = -log[H3O+] / \npH = -log[H+] / [H3O+] = 10-pH/ \npOH = -log[OH─] / \n[H3O+][OH─] = 10-14 / \npH + pOH = 14  \nb) Substitute 12,62 in pH = -log[H3O+]/ \npH + pOH = 14  \nc) Substitute calculated [H3O+] in \n[H3O+][OH─] / \n1,38 in pOH = -log[OH─]  \nd) Final answer: 0,04 mol∙dm-3  \n RANGE: 0,04 – 0,042 mol∙dm-3 \nNasienkriteria: \na) Enige formule: pH = - log[H3O+] / \npH = - log[H+] /[H3O+] = 10-pH / \npOH = - log[OH-] / \n[H3O+][OH─] = 10-14 / \npH + pOH = 14  \nb) Vervang 12,62 in pH = - log[H3O+]/ \npH + pOH = 14  \nc) Vervang berekende [H3O+] in \n[H3O+][OH─] / \n1,38 in pOH = -log[OH─]  \nd) Finale antwoord: 0,04 mol∙dm-3  \nGEBIED: 0,04 – 0,042 mol∙dm-3 \n \n \n \nOPTION 1/OPSIE 1 \n pH = - log[H3O+] \n12,62 (b) = - log[H3O+] OR/OF [H3O+] = 10-12,62 \n [H3O+] = 2,4 x 10-13 \n \n[H3O+][OH─] = 10-14 \n \n(2,4 x 10-13)[OH─] = 1 x 10-14 \n[OH-] = 0,0417 mol∙dm-3 (d) (0,04) \n \n \n \nOPTION 2/OPSIE 2 \n pH + pOH = 14 \n 12,62 + pOH = 14 \n pOH = 1,38 \n \npOH = -log[OH─] \n1,38 (c) = -log[OH─] \n[OH-] = 0,042 mol∙dm-3 (d) (0,04) \n \n(4) \n \n \n \nAny one/Enige een (a) \n(c) \nAny one/Enige een (a) \n(b) \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n19 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief",
+      "paper_pages": [
+        14,
+        14
+      ],
+      "memo_pages": [
+        18,
+        19
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "7.2.2",
+      "topic": "acids_and_bases",
+      "question": "7.2.2 \nNumber of moles of Ba(OH)2 used to prepare the 100 cm3 solution \n (8) \n \n \n \n [20] \n \n \n \n\nPhysical Sciences/P2 \n15 \nDBE/November 2025 \n \nNSC Confidential \nCopyright reserved \n \nPlease turn over \n \n \nQUESTION 8 (Start on a new page.) \n \n \nThe diagram below represents a cell that operates initially under standard conditions.",
+      "answer": "7.2.2 \nPOSITIVE MARKING FROM QUESTION 7.2.1/ \nPOSITIEWE NASIEN VANAF VRAAG 7.2.1 \n \n \n \nMarking criteria \n(a) Substitute: 0,2 mol·dm-3 AND \n0,015 dm3 in n = cV  \n(b) USING RATIO: \nn(OH-) : nHCℓ = 1 : 1 / n(Ba(OH)2) : \nn(HCℓ) = 1 : 2  \n(c) Substitute: c(OH─) AND \n0,04 in n = cV  \n(d) Calculate n(OH─)ini \n = n(OH─)reacted with HCℓ + n(OH─)fin  \n(e) USING RATIO: \nn(Ba(OH)2) : n(OH-) = 1 : 2  \n(f) Multiply nBa(OH)2 in 25 cm3 by 4 \nOR \nDivide by 0,025 dm3 AND multiply \nby 0,1 dm3  \n(g) Final correct answer: \n9,34 x 10-3 mol  \nRange: 9,2 x 10-3 – 9,36 x 10-3 \nNasienkriteria: \n(a) Vervang: 0,2 mol·dm-3 EN \n0,015 dm3 in n = cV  \n(b) GEBRUIK VERHOUDING: \nn(OH-) : nHCℓ = 1 : 1 / n(Ba(OH)2) : \nn(HCℓ) = 1 : 2  \n(c) Vervang: c(OH─) EN \n0,04 in n = cV  \n(d) Bereken n(OH─)ini \n= n(OH─)reageer met HCℓ + n(OH─)finale \n(e) GEBRUIK VERHOUDING: \nn(Ba(OH)2) : n(OH-) = 1 : 2  \n(f) Vermenigvuldig nBa(OH)2 in \n 25 cm3 met 4 \n OF \nDeel deur 0,025 dm3 EN \nvermenigvuldig met 0,1 dm3 \n(g) Finale korrekte antwoord: \n9,34 x 10-3 mol  \nGebied: 9,2 x 10-3 – 9,36 x 10-3 \n \n \n \nOPTION 1/OPSIE 1 \nnHCℓ = cV \n \n = (0,2)(0,015) \n \n = 3 x 10-3 mol \n \nnOH─ = nHCℓ \n = 3 x 10-3 mol \n \nnOH─final = cV \n = (0,0417)(0,04) \n = 1,67 x 10-3 mol \n \nnOH─ ini = 3 x 10-3 + 1,67 x 10-3 \n = 4,67 x 10-3 mol \n \nnBa(OH)2 = \n1\n2 nOH─ ini \n = \n1\n2 (4,67 x 10-3) \n = 2,33 x 10-3 mol in 25 cm3 \n \nIn 100 cm3 = (4)(2,33 x 10-3) \n = 9,34 x 10-3 mol \nOPTION 2/OPSIE 2 \nnHCℓ = cV \n \n = (0,2)(0,015) \n \n = 3 x 10-3 mol \n \nnBa(OH)2 = \n1\n2 nHCℓ \n= \n1\n2 (3 x 10-3) \n= 1,5 x 10-3 mol \n \nnOH─final = cV \n = (0,0417)(0,04) \n = 1,67 x 10-3 mol \nnBa(OH)2 = \n1\n2 nOH─ ini \n = \n1\n2 (1,67 x 10-3) \n = 8,33 x 10-4 mol \n \nnBa(OH)2 ini= 1,5 x 10-3 + 8,33 x 10-4 \n= 2,33 x 10-3 mol in \n 25 cm3 \nIn 100 cm3 = (4)(2,33 x 10-3) \n = 9,34 x 10-3 mol \n \n \n \n \n \n(c) \n(a) \n(e) \n (d) \n(f) \n(b) \n(g) \n(a) \n(c) \n(e) \n(g) \n(b) \n (d) \n(f) \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n20 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief \n \n \n \nOPTION 3/OPSIE 3: \nnHCℓ = cV \n \n = (0,2)(0,015) \n \n = 3 x 10-3 mol \n \nnBa(OH)2 = \n1\n2 nHCℓ \n= \n1\n2 (3 x 10-3) \n= 1,5 x 10-3 mol \n \ncBa(OH)2 = \n1\n2 cOH─ final \n = \n1\n2 (0,0417) \n = 0,02085 mol·dm-3 \n \nnBa(OH)2 = cV \n= 0,02085 x 0,04 \n= 8,34 x 10-4 mol \n \nnBa(OH)2 ini= 1,5 x 10-3 + 8,34 x 10-4 \n= 2,34 x 10-3 mol in 25 cm3 \n \nIn 100 cm3 = (4)(2,34 x 10-3) \n = 9,36 x 10-3 mol \n \n(8) \n \n \n \n \n[20] \n \n \nQUESTION 8/VRAAG 8",
+      "paper_pages": [
+        14,
+        15
+      ],
+      "memo_pages": [
+        19,
+        20
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    }
+  ]
+}

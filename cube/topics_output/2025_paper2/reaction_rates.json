@@ -1,0 +1,182 @@
+{
+  "year": 2025,
+  "paper": "paper2",
+  "topic": "reaction_rates",
+  "count": 11,
+  "questions": [
+    {
+      "label": "1.4",
+      "topic": "reaction_rates",
+      "question": "1.4 \nMagnesium ribbon of mass 2 g reacts with excess hydrochloric acid of \nconcentration 0,1 mol·dm-3 at 20 °C: \n \nMg(s) + 2HCℓ(aq) → MgCℓ2(aq) + H2(g) \n \nWhich ONE of the following changes will NOT increase the initial rate of the \nreaction? \n \n \n \n \nA \n \nB \n \nC \n \nD \nUsing 2 g of powdered magnesium \n \nIncreasing the temperature of HCℓ to 30 °C \n \nUsing a longer piece of the magnesium ribbon \n \nDoubling the volume of the hydrochloric acid used \n \n(2)",
+      "answer": "1.4 \nD  \n \n(2)",
+      "paper_pages": [
+        4,
+        4
+      ],
+      "memo_pages": [
+        2,
+        2
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.1",
+      "topic": "reaction_rates",
+      "question": "5.1 \nDefine the term reaction rate. \n (2)",
+      "answer": "5.1 \nNOTE/LET WEL \nGive the mark for per unit time only if in context of reaction rate. \nGee die punt vir per eenheid tyd slegs indien in konteks met reaksietempo. \n \n \n \n \n \nANY ONE: \n• Change in concentration  of products/reactants per (unit) time.  \n \n• Change in amount/number of moles/volume/mass of products or reactants \nper (unit) time. \n \n• Amount/number of moles/volume/mass of products formed/reactants used \nper (unit) time. \n \n• Rate of change in concentration/amount/number of moles/volume/ \nmass. (2 or 0) \n \n \nENIGE EEN: \n• Verandering in konsentrasie van produkte/reaktanse per (eenheid) tyd. \n \n• Verandering in hoeveelheid/getal mol/volume/massa van produkte of \nreaktanse per (eenheid) tyd. \n \n• Hoeveelheid/getal mol/volume/massa van produkte gevorm/reaktanse \ngebruik per (eenheid) tyd. \n \n• Tempo van verandering in konsentrasie/ hoeveelheid/aantal mol/ \nvolume/massa. (2 of 0) \n \n(2)",
+      "paper_pages": [
+        11,
+        11
+      ],
+      "memo_pages": [
+        9,
+        9
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2",
+      "topic": "reaction_rates",
+      "question": "5.2 \nCarbon monoxide, CO(g), reacts with oxygen, O2(g), to form carbon dioxide, \nCO2(g), in a sealed container according to the balanced equation: \n \n2CO(g) + O2(g) → 2CO2(g) \n \nThe graph below shows the concentration of O2(g) versus time.",
+      "answer": null,
+      "paper_pages": [
+        11,
+        11
+      ],
+      "memo_pages": null,
+      "topic_mismatch": null,
+      "missing_in": [
+        "memo"
+      ]
+    },
+    {
+      "label": "5.2.1",
+      "topic": "reaction_rates",
+      "question": "5.2.1 \nAt which time, 10 s or 30 s, is the reaction rate higher? \n (1)",
+      "answer": "5.2.1 \n10 (s)  \n(1) \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n10 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief",
+      "paper_pages": [
+        11,
+        11
+      ],
+      "memo_pages": [
+        9,
+        10
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2.2",
+      "topic": "reaction_rates",
+      "question": "5.2.2 \nThe reaction takes place in a 3 dm3 container. Calculate the average \nrate (in mol·s-1) at which CO2(g) is formed in the first 10 s. \n \n(5)",
+      "answer": "5.2.2 \nMarking criteria \n(a) Calculate the change: \n[O2]final – [O2]initial / \nn(O2)final – n(O2)initial / \nn(CO2)final – n(CO2)initial.  \nAccept: 0,265 to 0,27 for [O2]initial \n(b) Substitute 10 s in rate formula.  \n(c) Multiply rate / concentration of O2 by \n3 dm3.  \n(d) USE mol ratio: \nn(O2) : n(CO2) = 1 : 2  \n(e) Final correct answer \n = 0,072 (mol∙s-1)  \nRANGE: 0,06 – 0,072 \nNasienkriteria: \n(a) Bereken die verandering: \n \n[O2]finale – [O2]aanvank / \nn(O2)finale – n(O2)aanvanklik / \n n(CO2)finale – n(CO2)aanvanklik  \n \nAanvaar: 0,265 tot 0,27 vir [O2]aanvank \n(b) Vervang 10 s in tempoformule.  \n(f) Vermenigvuldig tempo/konsentrasie \nO2 met 3 dm3.  \n(c) Gebruik molverhouding: \n \nn(O2) : n(CO2) = 1 : 2  \n(d) Finale korrekte antwoord \n \n= 0,072 (mol∙s-1)  \nGEBIED: 0,06 – 0,072 \n \n \nOPTION 1/OPSIE 1: \nRate/Tempo = - \nΔc(O2)\nΔt\n \n \n \n \n= - ( \n0,15 - 0,27\n10 - 0\n ) \n \n= 0,012 mol∙dm-3∙s-1 \n \nRate/Tempo (O2) in mol∙s-1 \n= cV \n= (0,012)(3) \n= 0,036 mol∙s-1 \n \nRate/Tempo (CO2) = 2 x rate (O2) \n \n= 2 x 0,036 \n = 0,072 (mol∙s-1) \nOPTION 2/OPSIE 2: \n \n∆c(O2) = 0,27 – 0,15 \n \n \n= 0,12 mol∙dm-3 \n \n∆n(O2) = cV \n \n= 0,12(3) \n \n= 0,36 mol \n \n∆n(CO2) = 2n(O2) \n \n= 2(0,36) \n \n= 0,72 mol \n \nRate(CO2) = \n∆n\n∆t \n = \n0,72\n10 - 0 \n = 0,072 (mol∙s-1) \n \n \nOPTION 3/OPSIE 3: \nn(O2)at 0s = cV \n \n= 0,27 x 3 \n \n= 0,81 mol \n \nn(O2)at 10s = cV \n \n= 0,15 x 3 \n \n \n= 0,45 mol \n \n \nRate (O2) = - \n∆n\n∆t \n \n \n \n= -(\n0,45 - 0,81\n10 - 0\n) \n \n= 0,036 mol·s-1 \n \nRate (CO2) = 2 x rate (O2) \n \n \n = 2 x 0,036 \n \n \n= 0,072 (mol·s-1) \n(5) \n \n \n \n (a) \n(b) \n(c) \n(d) \n \n(e) \n(c) \n(b) \n (a) \n(e) \n(d) \n(a) \n(b) \n(c) \n(d) \n(e) \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n11 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief",
+      "paper_pages": [
+        11,
+        11
+      ],
+      "memo_pages": [
+        10,
+        11
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2.3",
+      "topic": "reaction_rates",
+      "question": "5.2.3 \nWhich reactant is in excess, CO or O2? \n (1)",
+      "answer": "5.2.3 \nO2/Oxygen/Suurstof  \n(1)",
+      "paper_pages": [
+        11,
+        11
+      ],
+      "memo_pages": [
+        11,
+        11
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2.4",
+      "topic": "reaction_rates",
+      "question": "5.2.4 \nThis reaction was repeated using a smaller sealed container. How \nwill this affect the magnitude of the gradient of the graph at the \nbeginning of the reaction? Choose from INCREASES, DECREASES \nor REMAINS THE SAME. \nGive a reason for the answer. \n \n \n \n \n(2) \n \n \n \n0\n10\n20\n30\n40\n50\n60\nTime (s) \nConcentration of O2(g) (mol∙dm-3) \nGraph of concentration of O2(g) versus time \n0,30 \n \n0,25 \n \n0,20 \n \n0,15 \n \n0,10 \n \n0,05 \n \n 0 \n\nPhysical Sciences/P2 \n12 \nDBE/November 2025 \n \nNSC Confidential \nCopyright reserved \n \nPlease turn over",
+      "answer": "5.2.4 \nIncreases/Neem toe  \n \nHigher reaction rate./Concentration of reactants are higher.  \nHoër reaksietempo./Konsentrasie van die reaktanse is hoër. \n \nACCEPT/AANVAAR: pressure increased/druk verhoog. \n(2)",
+      "paper_pages": [
+        11,
+        12
+      ],
+      "memo_pages": [
+        11,
+        11
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3",
+      "topic": "reaction_rates",
+      "question": "5.3 \nThe reaction between sulphur dioxide, SO2(g), and oxygen, O2(g), takes place \nin a sealed container according to the balanced equation below. \n \n2SO2(g) + O2(g) ⇌ 2SO3(g) ΔH = -196 kJ·mol-1",
+      "answer": null,
+      "paper_pages": [
+        12,
+        12
+      ],
+      "memo_pages": null,
+      "topic_mismatch": null,
+      "missing_in": [
+        "memo"
+      ]
+    },
+    {
+      "label": "5.3.2",
+      "topic": "reaction_rates",
+      "question": "5.3.2 \nDefine the term activated complex. \n (2)",
+      "answer": "5.3.2 \nMarking criteria/Nasienkriteria: \nIf any one of the underlined key phrases in the correct context is omitted, deduct 1 \nmark./Indien enige van die onderstreepte frases in die korrekte konteks uitgelaat is, \ntrek 1 punt af. \nThe underlined phrases must be in the correct context. / Die onderstreepte frases moet \nin die korrekte konteks wees. \n \n \n \nUnstable (high energy) transition state from reactants to products.  \nOnstabiele (hoë energie) oorgangs-toestand van reaktanse na produkte \n \nACCEPT/AANVAAR: \nUnstable (high energy) transition state between reactants and products.  \nOnstabiele (hoë energie) oorgangs-toestand tussen reaktanse en produkte. \n(2)",
+      "paper_pages": [
+        12,
+        12
+      ],
+      "memo_pages": [
+        11,
+        11
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3.3",
+      "topic": "reaction_rates",
+      "question": "5.3.3 \nA catalyst, vanadium pentoxide, is added to the reaction. Explain, in \nterms of the collision theory, why the rate of the reaction will \nincrease. \n \n \n(3) \n \n \n \n \n \nCurve X is the Maxwell Boltzmann distribution curve for the reaction above. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMore SO2(g) is now added to the container at constant temperature.",
+      "answer": "5.3.3 \n• Catalyst provides an alternative path with lower activation energy / lowers \nthe activation energy.  \n• More particles have sufficient (kinetic) energy / kinetic energy greater (or \nequal to) activation energy.  \n• More effective collisions per unit time/second.  \n OR \n \nHigher frequency of effective collisions. \n \n \n• Katalisator verskaf 'n alternatiewe roete met 'n laer aktiveringsenergie/ \nVerlaag die aktiveringsenergie. \n• Meer deeltjies het genoeg (kinetiese) energie/kinetiese energie groter (of \ngelyk aan) aktiveringsenergie. \n• Meer effektiewe botsings per eenheid tyd/sekonde. \n \nOF \n \nHoër frekwensie van effektiewe botsings. \n(3)",
+      "paper_pages": [
+        12,
+        12
+      ],
+      "memo_pages": [
+        11,
+        11
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3.5",
+      "topic": "reaction_rates",
+      "question": "5.3.5 \nRedraw the above graph in the ANSWER BOOK. On the same set \nof axes, draw the curve that will now be obtained. Label this as \ncurve Y. \n \n(2) \n \n \n [20] \n \n \n \n \nNumber of particles \nKinetic energy \nX \n\nPhysical Sciences/P2 \n13 \nDBE/November 2025 \n \nNSC Confidential \nCopyright reserved \n \nPlease turn over \n \n \nQUESTION 6 (Start on a new page.)",
+      "answer": "5.3.5 \n \n \n \n \n \n \n \n \n \n \n \n \n \nMarking criteria: \n• Both curves start at origin and have \ncorrect shape with peaks at same \nEk.  \n• Peak of curve Y must be higher \nthan curve X with peaks at same \nEk.  \nNasienkriteria: \n• \nBeide \nkurwes \nbegin \nby \ndie \noorsprong en het dieselfde vorm \nmet maksimums by dieselfde Ek. \n• \nMaksimum van kurwe Y moet hoër \nwees as kurwe X met maksimums \nby dieselfde Ek. \n \n \nIF/INDIEN: \n \n• Both curves not labelled./ \nBeide kurwes nie benoem \n \n• Curves intersect at any other point, beside the origin. \nKurwes kruis by enige ander punt as oorsprong. \nMax: 1 2\n⁄ . \n \n \nIF/INDIEN: \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMax/Maks: 1 2\n⁄ \n \n(2) \n \n \n[20] \n \n \n 0 2\n⁄ \nNumber of particles / \nAantal deeltjies \nKinetic energy/ Kinetiese energie \nCurve X \nCurve Y \n  \nNumber of particles / \nAantal deeltjies \nKinetic energy/ Kinetiese energie \nCurve Y \nCurve X \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n13 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief \n \n \nQUESTION 6/VRAAG 6 \n \n \n6.1",
+      "paper_pages": [
+        12,
+        13
+      ],
+      "memo_pages": [
+        12,
+        13
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

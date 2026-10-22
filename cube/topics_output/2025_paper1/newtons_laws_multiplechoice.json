@@ -1,0 +1,608 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "newtons_laws",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "newtons_laws",
+      "question": "The net force acting on an object on a horizontal surface is always ...\n\nA in the direction of motion of the object.\nB in the direction of acceleration of the object.\nC zero when the object moves at constant acceleration.\nD increasing when the object moves at constant acceleration.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "newtons_laws",
+      "question": "A block is at rest on a rough horizontal surface. A horizontal force F is applied to the block and the block remains at rest. Which ONE of the following statements is CORRECT?\n\nA The static frictional force is equal to F.\nB The static frictional force is greater than F.\nC The static frictional force is less than F.\nD There is no frictional force acting on the block.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "newtons_laws",
+      "question": "A 5 kg block is pulled across a rough horizontal surface by a force of 30 N applied at an angle of 30 degrees above the horizontal. The block moves at a CONSTANT VELOCITY. Which ONE of the following statements is CORRECT?\n\nA The net force on the block is 30 N.\nB The net force on the block is zero.\nC The normal force on the block is 49 N.\nD The frictional force on the block is 30 N.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "newtons_laws",
+      "question": "A block moves along a rough horizontal surface while a horizontal force F of magnitude 18 N and a constant kinetic frictional force of magnitude 6 N act on it. Which ONE of the following combinations of ACCELERATION and NET WORK DONE ON THE BLOCK is CORRECT?\n\nA Acceleration 2.4 m/s^2; Net work done Positive\nB Acceleration 2.4 m/s^2; Net work done Zero\nC Acceleration 3.6 m/s^2; Net work done Positive\nD Acceleration 3.6 m/s^2; Net work done Zero\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "newtons_laws",
+      "question": "Two blocks of masses 4 kg and 6 kg are connected by a light inextensible string and are pulled across a frictionless horizontal surface by a force of 20 N applied to the 6 kg block. The tension in the string is ...\n\nA 4 N\nB 8 N\nC 12 N\nD 20 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "newtons_laws",
+      "question": "Newton's second law of motion states that when the net force acts on an object, the object will accelerate in the direction of the force and the acceleration is ...\n\nA directly proportional to the force and directly proportional to the mass of the object.\nB directly proportional to the force and inversely proportional to the mass of the object.\nC inversely proportional to the force and directly proportional to the mass of the object.\nD inversely proportional to the force and inversely proportional to the mass of the object.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "newtons_laws",
+      "question": "A 5 kg block is at rest on a rough horizontal surface. A force F of magnitude 18 N is applied to the block at an angle theta above the horizontal. The block remains at rest. The horizontal component of force F is 15 N. The angle theta is approximately ...\n\nA 30.00 degrees\nB 33.56 degrees\nC 45.00 degrees\nD 56.44 degrees\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "newtons_laws",
+      "question": "A 5 kg block is at rest on a rough horizontal surface. A force F of magnitude 18 N is applied to the block at an angle theta above the horizontal. The block remains at rest. The horizontal component of force F is 15 N. The coefficient of static friction is approximately ...\n\nA 0.25\nB 0.30\nC 0.38\nD 0.45\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "newtons_laws",
+      "question": "Angle theta is decreased while the magnitude of force F remains constant. How will the friction acting on the block be affected?\n\nA Increases\nB Decreases\nC Remains the same\nD Becomes zero\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "newtons_laws",
+      "question": "Newton's first law of motion states that an object continues in a state of rest or uniform velocity unless ...\n\nA it is acted upon by a net force.\nB it is acted upon by a zero net force.\nC it is acted upon by a gravitational force.\nD it is acted upon by a frictional force.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "newtons_laws",
+      "question": "A 3 kg block is placed on a rough horizontal surface. A horizontal force of 12 N is applied to the block. The coefficient of kinetic friction between the block and the surface is 0.25. The acceleration of the block is ...\n\nA 0.75 m/s^2\nB 1.55 m/s^2\nC 2.45 m/s^2\nD 4.00 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "newtons_laws",
+      "question": "Two blocks, A (4 kg) and B (6 kg), are connected by a light inextensible string. A force of 40 N is applied to block B horizontally to the right. The blocks move on a frictionless horizontal surface. The acceleration of the blocks is ...\n\nA 2 m/s^2\nB 4 m/s^2\nC 6 m/s^2\nD 10 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "newtons_laws",
+      "question": "Two blocks, A (4 kg) and B (6 kg), are connected by a light inextensible string. A force of 40 N is applied to block B horizontally to the right. The blocks move on a frictionless horizontal surface. The tension in the string connecting the blocks is ...\n\nA 8 N\nB 12 N\nC 16 N\nD 24 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "newtons_laws",
+      "question": "A 2 kg block is placed on a rough inclined plane that makes an angle of 30 degrees with the horizontal. The coefficient of kinetic friction between the block and the incline is 0.2. The block slides down the incline. The acceleration of the block is approximately ...\n\nA 1.50 m/s^2\nB 3.21 m/s^2\nC 4.90 m/s^2\nD 6.41 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "newtons_laws",
+      "question": "A 5 kg block is pulled up a rough inclined plane by a force of 50 N applied parallel to the incline. The incline makes an angle of 25 degrees with the horizontal. The coefficient of kinetic friction between the block and the incline is 0.15. The acceleration of the block is approximately ...\n\nA 2.26 m/s^2\nB 4.53 m/s^2\nC 6.79 m/s^2\nD 9.06 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "newtons_laws",
+      "question": "A 4 kg block and a 6 kg block are connected by a light inextensible string that passes over a frictionless pulley. The 4 kg block hangs vertically and the 6 kg block is on a rough horizontal surface. The coefficient of kinetic friction between the 6 kg block and the surface is 0.2. The acceleration of the system is approximately ...\n\nA 1.37 m/s^2\nB 2.74 m/s^2\nC 4.11 m/s^2\nD 5.48 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "newtons_laws",
+      "question": "A 4 kg block and a 6 kg block are connected by a light inextensible string that passes over a frictionless pulley. The 4 kg block hangs vertically and the 6 kg block is on a rough horizontal surface. The coefficient of kinetic friction between the 6 kg block and the surface is 0.2. The tension in the string is approximately ...\n\nA 14.12 N\nB 22.24 N\nC 28.24 N\nD 34.48 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "newtons_laws",
+      "question": "A 3 kg block is placed on top of a 7 kg block. A horizontal force of 30 N is applied to the 7 kg block. The 3 kg block is attached to a wall by a light inextensible string. The coefficient of kinetic friction between the 3 kg block and the 7 kg block is 0.3. The 7 kg block moves on a frictionless horizontal surface. The acceleration of the 7 kg block is approximately ...\n\nA 1.52 m/s^2\nB 3.03 m/s^2\nC 4.55 m/s^2\nD 6.06 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "newtons_laws",
+      "question": "A 2 kg block is pushed up a rough inclined plane by a force of 25 N applied parallel to the incline. The incline makes an angle of 20 degrees with the horizontal. The coefficient of kinetic friction is 0.25. The block moves up the incline. The acceleration of the block is approximately ...\n\nA 3.43 m/s^2\nB 6.85 m/s^2\nC 10.28 m/s^2\nD 13.70 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "newtons_laws",
+      "question": "A 1.5 kg block is placed on a rough horizontal surface. A force of 10 N is applied to the block at an angle of 40 degrees above the horizontal. The coefficient of kinetic friction between the block and the surface is 0.3. The acceleration of the block is approximately ...\n\nA 1.73 m/s^2\nB 3.45 m/s^2\nC 5.18 m/s^2\nD 6.91 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "newtons_laws",
+      "question": "Two blocks, P (3 kg) and Q (5 kg), are connected by a light inextensible string. Block P is on a rough horizontal surface and block Q hangs vertically over a frictionless pulley. The coefficient of kinetic friction between block P and the surface is 0.2. The acceleration of the system is approximately ...\n\nA 2.70 m/s^2\nB 5.39 m/s^2\nC 8.09 m/s^2\nD 10.78 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "newtons_laws",
+      "question": "Two blocks, P (3 kg) and Q (5 kg), are connected by a light inextensible string. Block P is on a rough horizontal surface and block Q hangs vertically over a frictionless pulley. The coefficient of kinetic friction between block P and the surface is 0.2. The tension in the string is approximately ...\n\nA 11.03 N\nB 16.54 N\nC 22.05 N\nD 27.56 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "newtons_laws",
+      "question": "A 60 kg person stands on a bathroom scale in an elevator. The scale reads 720 N. The acceleration of the elevator is ...\n\nA 1.1 m/s^2\nB 2.2 m/s^2\nC 3.3 m/s^2\nD 4.4 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "newtons_laws",
+      "question": "A 60 kg person stands on a bathroom scale in an elevator. The scale reads 720 N. The motion of the elevator is ...\n\nA accelerating downwards.\nB accelerating upwards.\nC moving at constant velocity upwards.\nD moving at constant velocity downwards.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "newtons_laws",
+      "question": "The kinetic frictional force between an object and a surface is given by ...\n\nA fk = mu_k N\nB fk = mu_k / N\nC fk = N / mu_k\nD fk = mu_k N^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "newtons_laws",
+      "question": "The normal force on an object on a horizontal surface is equal to ...\n\nA mg\nB mg sin theta\nC mg cos theta\nD zero\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "newtons_laws",
+      "question": "The normal force on an object on an inclined plane is equal to ...\n\nA mg\nB mg sin theta\nC mg cos theta\nD zero\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "newtons_laws",
+      "question": "The component of weight parallel to an inclined plane is ...\n\nA mg\nB mg sin theta\nC mg cos theta\nD zero\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "newtons_laws",
+      "question": "A 4 kg block and a 2 kg block are connected by a light inextensible string and are pulled across a frictionless horizontal surface by a force of 12 N applied to the 4 kg block. The tension in the string is ...\n\nA 2 N\nB 4 N\nC 6 N\nD 8 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "newtons_laws",
+      "question": "A 4 kg block and a 2 kg block are connected by a light inextensible string and are pulled across a frictionless horizontal surface by a force of 12 N applied to the 4 kg block. The acceleration of the system is ...\n\nA 1 m/s^2\nB 2 m/s^2\nC 3 m/s^2\nD 4 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "newtons_laws",
+      "question": "A 5 kg block is pulled across a rough horizontal surface by a force of 30 N applied at an angle of 30 degrees above the horizontal. The block moves at a CONSTANT VELOCITY. The normal force on the block is approximately ...\n\nA 34 N\nB 49 N\nC 64 N\nD 79 N\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "newtons_laws",
+      "question": "A 5 kg block is pulled across a rough horizontal surface by a force of 30 N applied at an angle of 30 degrees above the horizontal. The block moves at a CONSTANT VELOCITY. The frictional force on the block is approximately ...\n\nA 15 N\nB 26 N\nC 30 N\nD 49 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "newtons_laws",
+      "question": "A block moves along a rough horizontal surface while a horizontal force F of magnitude 18 N and a constant kinetic frictional force of magnitude 6 N act on it. The acceleration of the block if its mass is 5 kg is ...\n\nA 1.2 m/s^2\nB 2.4 m/s^2\nC 3.6 m/s^2\nD 4.8 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "newtons_laws",
+      "question": "A block moves along a rough horizontal surface while a horizontal force F of magnitude 18 N and a constant kinetic frictional force of magnitude 6 N act on it. The net work done on the block is ...\n\nA zero because the net force is zero.\nB positive because the net force is in the direction of motion.\nC negative because friction opposes motion.\nD zero because the block moves at constant velocity.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "newtons_laws",
+      "question": "A 2 kg block is placed on a rough inclined plane that makes an angle of 30 degrees with the horizontal. The coefficient of kinetic friction between the block and the incline is 0.2. The block slides down the incline. The normal force on the block is approximately ...\n\nA 9.8 N\nB 16.97 N\nC 19.6 N\nD 22.5 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "newtons_laws",
+      "question": "A 2 kg block is placed on a rough inclined plane that makes an angle of 30 degrees with the horizontal. The coefficient of kinetic friction between the block and the incline is 0.2. The block slides down the incline. The frictional force on the block is approximately ...\n\nA 1.96 N\nB 3.39 N\nC 4.90 N\nD 6.41 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "newtons_laws",
+      "question": "A 5 kg block is pulled up a rough inclined plane by a force of 50 N applied parallel to the incline. The incline makes an angle of 25 degrees with the horizontal. The coefficient of kinetic friction between the block and the incline is 0.15. The normal force on the block is approximately ...\n\nA 44.41 N\nB 49.00 N\nC 53.59 N\nD 58.18 N\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "newtons_laws",
+      "question": "A 5 kg block is pulled up a rough inclined plane by a force of 50 N applied parallel to the incline. The incline makes an angle of 25 degrees with the horizontal. The coefficient of kinetic friction between the block and the incline is 0.15. The frictional force on the block is approximately ...\n\nA 3.33 N\nB 6.66 N\nC 9.99 N\nD 13.32 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "newtons_laws",
+      "question": "A 4 kg block and a 6 kg block are connected by a light inextensible string that passes over a frictionless pulley. The 4 kg block hangs vertically and the 6 kg block is on a rough horizontal surface. The coefficient of kinetic friction between the 6 kg block and the surface is 0.2. The normal force on the 6 kg block is ...\n\nA 39.2 N\nB 58.8 N\nC 78.4 N\nD 98.0 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "newtons_laws",
+      "question": "A 4 kg block and a 6 kg block are connected by a light inextensible string that passes over a frictionless pulley. The 4 kg block hangs vertically and the 6 kg block is on a rough horizontal surface. The coefficient of kinetic friction between the 6 kg block and the surface is 0.2. The frictional force on the 6 kg block is ...\n\nA 5.88 N\nB 11.76 N\nC 17.64 N\nD 23.52 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "newtons_laws",
+      "question": "A 3 kg block is placed on top of a 7 kg block. A horizontal force of 30 N is applied to the 7 kg block. The 3 kg block is attached to a wall by a light inextensible string. The coefficient of kinetic friction between the 3 kg block and the 7 kg block is 0.3. The 7 kg block moves on a frictionless horizontal surface. The frictional force between the 3 kg block and the 7 kg block is ...\n\nA 2.94 N\nB 5.88 N\nC 8.82 N\nD 11.76 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "newtons_laws",
+      "question": "A 2 kg block is pushed up a rough inclined plane by a force of 25 N applied parallel to the incline. The incline makes an angle of 20 degrees with the horizontal. The coefficient of kinetic friction is 0.25. The block moves up the incline. The normal force on the block is approximately ...\n\nA 6.70 N\nB 18.42 N\nC 19.60 N\nD 25.00 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "newtons_laws",
+      "question": "A 2 kg block is pushed up a rough inclined plane by a force of 25 N applied parallel to the incline. The incline makes an angle of 20 degrees with the horizontal. The coefficient of kinetic friction is 0.25. The block moves up the incline. The frictional force on the block is approximately ...\n\nA 2.31 N\nB 4.61 N\nC 6.91 N\nD 9.21 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "newtons_laws",
+      "question": "A 1.5 kg block is placed on a rough horizontal surface. A force of 10 N is applied to the block at an angle of 40 degrees above the horizontal. The coefficient of kinetic friction between the block and the surface is 0.3. The normal force on the block is approximately ...\n\nA 8.27 N\nB 14.70 N\nC 21.13 N\nD 27.56 N\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "newtons_laws",
+      "question": "A 1.5 kg block is placed on a rough horizontal surface. A force of 10 N is applied to the block at an angle of 40 degrees above the horizontal. The coefficient of kinetic friction between the block and the surface is 0.3. The frictional force on the block is approximately ...\n\nA 2.48 N\nB 4.41 N\nC 6.34 N\nD 8.27 N\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "newtons_laws",
+      "question": "Two blocks, P (3 kg) and Q (5 kg), are connected by a light inextensible string. Block P is on a rough horizontal surface and block Q hangs vertically over a frictionless pulley. The coefficient of kinetic friction between block P and the surface is 0.2. The normal force on block P is ...\n\nA 19.6 N\nB 29.4 N\nC 39.2 N\nD 49.0 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "newtons_laws",
+      "question": "Two blocks, P (3 kg) and Q (5 kg), are connected by a light inextensible string. Block P is on a rough horizontal surface and block Q hangs vertically over a frictionless pulley. The coefficient of kinetic friction between block P and the surface is 0.2. The frictional force on block P is ...\n\nA 2.94 N\nB 5.88 N\nC 8.82 N\nD 11.76 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "newtons_laws",
+      "question": "A 60 kg person stands on a bathroom scale in an elevator. The scale reads 720 N. The net force on the person is ...\n\nA 132 N upwards\nB 132 N downwards\nC 588 N upwards\nD 588 N downwards\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "newtons_laws",
+      "question": "A 60 kg person stands on a bathroom scale in an elevator. If the elevator accelerates downwards at 2.2 m/s^2, the scale reading will be ...\n\nA 456 N\nB 588 N\nC 720 N\nD 852 N\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "newtons_laws",
+      "question": "A 60 kg person stands on a bathroom scale in an elevator. If the elevator moves at constant velocity, the scale reading will be ...\n\nA 0 N\nB 588 N\nC 720 N\nD 852 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "newtons_laws",
+      "question": "A 2 kg block and a 3 kg block are connected by a light inextensible string and are pulled across a frictionless horizontal surface by a force of 20 N applied to the 3 kg block. The tension in the string is ...\n\nA 4 N\nB 8 N\nC 12 N\nD 16 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "newtons_laws",
+      "question": "A 2 kg block and a 3 kg block are connected by a light inextensible string and are pulled across a frictionless horizontal surface by a force of 20 N applied to the 3 kg block. The acceleration of the system is ...\n\nA 2 m/s^2\nB 4 m/s^2\nC 6 m/s^2\nD 8 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "newtons_laws",
+      "question": "A 5 kg block is pulled across a rough horizontal surface by a force of 40 N applied at an angle of 25 degrees above the horizontal. The block moves at CONSTANT VELOCITY. The coefficient of kinetic friction is approximately ...\n\nA 0.50\nB 0.63\nC 0.75\nD 0.88\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "newtons_laws",
+      "question": "A 3 kg block is placed on a rough inclined plane that makes an angle of 40 degrees with the horizontal. The coefficient of kinetic friction is 0.25. The block slides down the incline. The acceleration of the block is approximately ...\n\nA 2.74 m/s^2\nB 4.32 m/s^2\nC 6.30 m/s^2\nD 8.28 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "newtons_laws",
+      "question": "A 6 kg block and a 4 kg block are connected by a light inextensible string that passes over a frictionless pulley. The 6 kg block hangs vertically and the 4 kg block is on a frictionless horizontal surface. The acceleration of the system is ...\n\nA 1.96 m/s^2\nB 3.92 m/s^2\nC 5.88 m/s^2\nD 7.84 m/s^2\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "newtons_laws",
+      "question": "A 6 kg block and a 4 kg block are connected by a light inextensible string that passes over a frictionless pulley. The 6 kg block hangs vertically and the 4 kg block is on a frictionless horizontal surface. The tension in the string is ...\n\nA 11.76 N\nB 15.68 N\nC 23.52 N\nD 31.36 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "newtons_laws",
+      "question": "A 10 kg block is pushed across a rough horizontal surface by a force of 50 N applied horizontally. The coefficient of kinetic friction is 0.3. The acceleration of the block is ...\n\nA 1.06 m/s^2\nB 2.06 m/s^2\nC 3.06 m/s^2\nD 4.06 m/s^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "newtons_laws",
+      "question": "A 10 kg block is pushed across a rough horizontal surface by a force of 50 N applied horizontally. The coefficient of kinetic friction is 0.3. The frictional force on the block is ...\n\nA 19.6 N\nB 29.4 N\nC 39.2 N\nD 49.0 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "newtons_laws",
+      "question": "A 4 kg block is placed on a rough inclined plane that makes an angle of 35 degrees with the horizontal. The coefficient of kinetic friction is 0.3. The block slides down the incline. The normal force on the block is approximately ...\n\nA 22.5 N\nB 32.1 N\nC 39.2 N\nD 45.8 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "newtons_laws",
+      "question": "A 4 kg block is placed on a rough inclined plane that makes an angle of 35 degrees with the horizontal. The coefficient of kinetic friction is 0.3. The block slides down the incline. The acceleration of the block is approximately ...\n\nA 2.61 m/s^2\nB 3.21 m/s^2\nC 4.10 m/s^2\nD 5.62 m/s^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

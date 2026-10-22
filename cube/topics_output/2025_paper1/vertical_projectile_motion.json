@@ -1,0 +1,208 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "vertical_projectile_motion",
+  "count": 20,
+  "questions": [
+    {
+      "label": "1.1",
+      "topic": "vertical_projectile_motion",
+      "question": "1.1\nA ball is thrown vertically upwards from the ground. Ignore air resistance.\n\nWhich ONE of the following graphs best represents the acceleration versus time graph for the motion of the ball from the moment it is thrown until it returns to the ground?\n\nA A straight horizontal line at a positive value.\nB A straight horizontal line at a negative value.\nC A straight line with a positive gradient.\nD A straight line with a negative gradient.\n\n(2)",
+      "answer": "1.1\nB\n(2)",
+      "paper_pages": [2, 2],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.2",
+      "topic": "vertical_projectile_motion",
+      "question": "1.2\nA stone is dropped from rest from the top of a tall building. Ignore air resistance.\n\nWhich ONE of the following statements is CORRECT about the motion of the stone?\n\nA The velocity of the stone decreases.\nB The acceleration of the stone increases.\nC The acceleration of the stone remains constant.\nD The displacement of the stone decreases.\n\n(2)",
+      "answer": "1.2\nC\n(2)",
+      "paper_pages": [2, 2],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.3",
+      "topic": "vertical_projectile_motion",
+      "question": "1.3\nA hot-air balloon is moving downwards at a constant velocity. A small stone is dropped from the balloon. Ignore the effects of friction on the stone.\n\nWhich ONE of the following graphs represents the motions of the balloon and the stone?\n\nA The balloon and stone have the same velocity-time graph.\nB The balloon has a constant negative velocity and the stone has a constant positive velocity.\nC The balloon has a constant negative velocity and the stone has a velocity that increases in the negative direction.\nD The balloon has a constant negative velocity and the stone has a velocity that decreases in the negative direction.\n\n(2)",
+      "answer": "1.3\nC\n(2)",
+      "paper_pages": [3, 3],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.4",
+      "topic": "vertical_projectile_motion",
+      "question": "1.4\nA ball is thrown vertically upwards from the top of a building. It rises to a maximum height and then falls to the ground below. Ignore air resistance.\n\nWhich ONE of the following graphs best represents the velocity versus time graph for the motion of the ball?\n\nA A straight line with a positive gradient, crossing the time axis once.\nB A straight line with a negative gradient, crossing the time axis once.\nC A straight line with a positive gradient, crossing the time axis twice.\nD A straight line with a negative gradient, crossing the time axis twice.\n\n(2)",
+      "answer": "1.4\nB\n(2)",
+      "paper_pages": [3, 3],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.5",
+      "topic": "vertical_projectile_motion",
+      "question": "1.5\nTwo identical balls, A and B, are thrown vertically upwards from the same point at the same time. Ball A is thrown with an initial velocity of 10 m·s⁻¹ and ball B with an initial velocity of 20 m·s⁻¹. Ignore air resistance.\n\nWhich ONE of the following statements is CORRECT?\n\nA Ball A reaches a greater maximum height than ball B.\nB Both balls reach the same maximum height.\nC Ball B reaches a greater maximum height than ball A.\nD Ball A takes longer to reach its maximum height than ball B.\n\n(2)",
+      "answer": "1.5\nC\n(2)",
+      "paper_pages": [4, 4],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.1",
+      "topic": "vertical_projectile_motion",
+      "question": "2.1\nDefine the term free fall.\n\n(2)",
+      "answer": "2.1\nMotion under the influence of weight/gravitational force only.\n\nNOTE: If projectile defined: 0/2\n\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.2",
+      "topic": "vertical_projectile_motion",
+      "question": "2.2\nA ball is thrown vertically upwards from the ground with an initial velocity of 12 m·s⁻¹. Ignore air resistance.\n\nUsing EQUATIONS OF MOTION ONLY, calculate the time it takes for the ball to reach its maximum height.\n\n(3)",
+      "answer": "2.2\n\nUPWARDS AS POSITIVE:\nvf = vi + aΔt\n0 = 12 + (−9.8)Δt\nΔt = 1.22 s\n\nDOWNWARDS AS POSITIVE:\nvf = vi + aΔt\n0 = −12 + (9.8)Δt\nΔt = 1.22 s\n\n(3)",
+      "paper_pages": [5, 5],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.3",
+      "topic": "vertical_projectile_motion",
+      "question": "2.3\nA stone is dropped from rest from the top of a building that is 45 m high. Ignore air resistance.\n\nUsing EQUATIONS OF MOTION ONLY, calculate the velocity with which the stone strikes the ground.\n\n(3)",
+      "answer": "2.3\n\nDOWNWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\nvf² = (0)² + 2(9.8)(45)\nvf² = 882\nvf = 29.70 m·s⁻¹\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\nvf² = (0)² + 2(−9.8)(−45)\nvf² = 882\nvf = −29.70\nvf = 29.70 m·s⁻¹\n\n(3)",
+      "paper_pages": [5, 6],
+      "memo_pages": [3, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.4",
+      "topic": "vertical_projectile_motion",
+      "question": "2.4\nA ball is thrown vertically upwards from the ground with an initial velocity of 15 m·s⁻¹. Ignore air resistance.\n\nUsing EQUATIONS OF MOTION ONLY, calculate the maximum height reached by the ball.\n\n(3)",
+      "answer": "2.4\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\n0² = (15)² + 2(−9.8)Δy\n0 = 225 − 19.6Δy\nΔy = 11.48 m\n\nDOWNWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\n0² = (−15)² + 2(9.8)Δy\n0 = 225 + 19.6Δy\nΔy = −11.48 m\nHeight = 11.48 m\n\n(3)",
+      "paper_pages": [6, 6],
+      "memo_pages": [4, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.5",
+      "topic": "vertical_projectile_motion",
+      "question": "2.5\nA ball is thrown vertically upwards from the top of a building 20 m high with an initial velocity of 10 m·s⁻¹. The ball rises to a maximum height and then falls to the ground. Ignore air resistance.\n\nUsing EQUATIONS OF MOTION ONLY, calculate the total time the ball is in the air before it strikes the ground.\n\n(4)",
+      "answer": "2.5\n\nUPWARDS AS POSITIVE:\nΔy = viΔt + ½aΔt²\n−20 = (10)Δt + ½(−9.8)Δt²\n−20 = 10Δt − 4.9Δt²\n4.9Δt² − 10Δt − 20 = 0\n\nΔt = [10 ± √(100 + 392)] / (2 × 4.9)\nΔt = [10 ± √492] / 9.8\nΔt = [10 ± 22.18] / 9.8\nΔt = 3.28 s (positive root)\n\nDOWNWARDS AS POSITIVE:\nΔy = viΔt + ½aΔt²\n20 = (−10)Δt + ½(9.8)Δt²\n20 = −10Δt + 4.9Δt²\n4.9Δt² − 10Δt − 20 = 0\nΔt = 3.28 s\n\n(4)",
+      "paper_pages": [6, 6],
+      "memo_pages": [4, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.1",
+      "topic": "vertical_projectile_motion",
+      "question": "3.1\nA ball is thrown vertically upwards from the ground with an initial velocity of 18 m·s⁻¹. Ignore air resistance.\n\nCalculate the total time the ball is in the air before it returns to the ground.\n\n(3)",
+      "answer": "3.1\n\nUPWARDS AS POSITIVE:\nΔy = viΔt + ½aΔt²\n0 = (18)Δt + ½(−9.8)Δt²\n0 = 18Δt − 4.9Δt²\n0 = Δt(18 − 4.9Δt)\nΔt = 0 (initial) or Δt = 18/4.9 = 3.67 s\n\nOR\n\nTime to max height:\nvf = vi + aΔt\n0 = 18 + (−9.8)Δt\nΔt = 1.84 s\nTotal time = 2 × 1.84 = 3.67 s\n\n(3)",
+      "paper_pages": [7, 7],
+      "memo_pages": [5, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.2",
+      "topic": "vertical_projectile_motion",
+      "question": "3.2\nA ball is thrown vertically upwards from the ground with an initial velocity of 20 m·s⁻¹. Ignore air resistance.\n\nCalculate the velocity of the ball at a height of 10 m above the ground.\n\n(3)",
+      "answer": "3.2\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\nvf² = (20)² + 2(−9.8)(10)\nvf² = 400 − 196\nvf² = 204\nvf = ±14.28 m·s⁻¹\n\nThe ball is at 10 m twice: once going up (+14.28 m·s⁻¹) and once coming down (−14.28 m·s⁻¹).\n\n(3)",
+      "paper_pages": [7, 7],
+      "memo_pages": [5, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.3",
+      "topic": "vertical_projectile_motion",
+      "question": "3.3\nA ball is thrown vertically upwards from the top of a cliff 30 m high with an initial velocity of 8 m·s⁻¹. The ball rises to a maximum height and then falls to the ground at the base of the cliff. Ignore air resistance.\n\nCalculate the velocity with which the ball strikes the ground.\n\n(3)",
+      "answer": "3.3\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\nvf² = (8)² + 2(−9.8)(−30)\nvf² = 64 + 588\nvf² = 652\nvf = −25.53\nvf = 25.53 m·s⁻¹\n\nDOWNWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\nvf² = (−8)² + 2(9.8)(30)\nvf² = 64 + 588\nvf² = 652\nvf = 25.53 m·s⁻¹\n\n(3)",
+      "paper_pages": [7, 7],
+      "memo_pages": [5, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.4",
+      "topic": "vertical_projectile_motion",
+      "question": "3.4\nA ball is dropped from rest from the top of a building 50 m high. At the same instant, a second ball is thrown vertically upwards from the ground with an initial velocity of 25 m·s⁻¹. Ignore air resistance.\n\nCalculate the time it takes for the two balls to meet.\n\n(4)",
+      "answer": "3.4\n\nLet the balls meet at time t and at height h above the ground.\n\nFor ball 1 (dropped from top):\nDOWNWARDS AS POSITIVE:\nΔy = viΔt + ½aΔt²\n(50 − h) = 0 + ½(9.8)t²\n50 − h = 4.9t² ... (1)\n\nFor ball 2 (thrown from ground):\nUPWARDS AS POSITIVE:\nh = viΔt + ½aΔt²\nh = 25t + ½(−9.8)t²\nh = 25t − 4.9t² ... (2)\n\nSubstitute (2) into (1):\n50 − (25t − 4.9t²) = 4.9t²\n50 − 25t + 4.9t² = 4.9t²\n50 = 25t\nt = 2 s\n\n(4)",
+      "paper_pages": [7, 8],
+      "memo_pages": [6, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.5",
+      "topic": "vertical_projectile_motion",
+      "question": "3.5\nA ball is thrown vertically upwards from the ground with an initial velocity of 15 m·s⁻¹. Ignore air resistance.\n\nSketch a velocity versus time graph for the motion of the ball from the time it was thrown until it returns to the ground.\n\nShow the following NUMERICAL VALUES on the graph:\n• The initial velocity\n• The time at which the ball reaches maximum height\n• The velocity with which the ball returns to the ground\n\n(4)",
+      "answer": "3.5\n\nCriteria for graph:\n• Straight line starting at v = 15 m·s⁻¹ with negative final velocity (or starting at v = −15 m·s⁻¹ with positive final velocity). ✓\n• Straight line cuts time axis at t = 1.53 s (calculated from vf = vi + aΔt). ✓\n• Correct final velocity of −15 m·s⁻¹ (or 15 m·s⁻¹) at t = 3.06 s. ✓\n• Graph is a straight line with constant negative gradient. ✓\n\nUPWARDS AS POSITIVE:\n\nv (m·s⁻¹)\n15 |\\\n   | \\\n   |  \\\n   |   \\\n0  |----\\-------- t (s)\n   |     \\     1.53\n   |      \\\n   |       \\\n−15|________\\___\n              3.06\n\n(4)",
+      "paper_pages": [8, 8],
+      "memo_pages": [6, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.1",
+      "topic": "vertical_projectile_motion",
+      "question": "4.1\nA ball is thrown vertically upwards from the ground. It reaches a maximum height of 20 m. Ignore air resistance.\n\nCalculate the initial velocity of the ball.\n\n(3)",
+      "answer": "4.1\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\n0² = vi² + 2(−9.8)(20)\n0 = vi² − 392\nvi² = 392\nvi = 19.80 m·s⁻¹\n\nDOWNWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\n0² = vi² + 2(9.8)(−20)\n0 = vi² − 392\nvi = ±19.80\nvi = 19.80 m·s⁻¹ (upwards)\n\n(3)",
+      "paper_pages": [8, 8],
+      "memo_pages": [7, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.2",
+      "topic": "vertical_projectile_motion",
+      "question": "4.2\nA stone is thrown vertically downwards from the top of a building 60 m high with an initial velocity of 5 m·s⁻¹. Ignore air resistance.\n\nCalculate the time it takes for the stone to reach the ground.\n\n(3)",
+      "answer": "4.2\n\nDOWNWARDS AS POSITIVE:\nΔy = viΔt + ½aΔt²\n60 = (5)Δt + ½(9.8)Δt²\n60 = 5Δt + 4.9Δt²\n4.9Δt² + 5Δt − 60 = 0\n\nΔt = [−5 ± √(25 + 1176)] / (2 × 4.9)\nΔt = [−5 ± √1201] / 9.8\nΔt = [−5 ± 34.66] / 9.8\nΔt = 3.03 s (positive root)\n\n(3)",
+      "paper_pages": [8, 9],
+      "memo_pages": [7, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.3",
+      "topic": "vertical_projectile_motion",
+      "question": "4.3\nA ball is thrown vertically upwards from the ground with an initial velocity of 25 m·s⁻¹. Ignore air resistance.\n\n4.3.1 Calculate the maximum height reached by the ball.\n\n4.3.2 Calculate the total time the ball is in the air.\n\n(5)",
+      "answer": "4.3.1\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\n0² = (25)² + 2(−9.8)Δy\n0 = 625 − 19.6Δy\nΔy = 31.89 m\n\n(3)\n\n4.3.2\n\nUPWARDS AS POSITIVE:\nΔy = viΔt + ½aΔt²\n0 = (25)Δt + ½(−9.8)Δt²\n0 = 25Δt − 4.9Δt²\n0 = Δt(25 − 4.9Δt)\nΔt = 0 or Δt = 25/4.9 = 5.10 s\n\n(2)\n\n(5)",
+      "paper_pages": [9, 9],
+      "memo_pages": [7, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.4",
+      "topic": "vertical_projectile_motion",
+      "question": "4.4\nA ball is thrown vertically upwards from the top of a building 25 m high with an initial velocity of 12 m·s⁻¹. The ball rises to a maximum height and then falls to the ground. Ignore air resistance.\n\n4.4.1 Calculate the maximum height above the building reached by the ball.\n\n4.4.2 Calculate the total time the ball is in the air before it strikes the ground.\n\n(6)",
+      "answer": "4.4.1\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\n0² = (12)² + 2(−9.8)Δy\n0 = 144 − 19.6Δy\nΔy = 7.35 m\n\n(3)\n\n4.4.2\n\nUPWARDS AS POSITIVE:\nΔy = viΔt + ½aΔt²\n−25 = (12)Δt + ½(−9.8)Δt²\n−25 = 12Δt − 4.9Δt²\n4.9Δt² − 12Δt − 25 = 0\n\nΔt = [12 ± √(144 + 490)] / (2 × 4.9)\nΔt = [12 ± √634] / 9.8\nΔt = [12 ± 25.18] / 9.8\nΔt = 3.79 s (positive root)\n\n(3)\n\n(6)",
+      "paper_pages": [9, 10],
+      "memo_pages": [8, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.5",
+      "topic": "vertical_projectile_motion",
+      "question": "4.5\nA ball is thrown vertically upwards from the ground with an initial velocity of 30 m·s⁻¹. Ignore air resistance.\n\n4.5.1 Calculate the velocity of the ball at a height of 25 m above the ground.\n\n4.5.2 Is the collision with the ground ELASTIC or INELASTIC if the ball bounces back to a maximum height of 20 m? Explain the answer WITHOUT the use of calculations.\n\n(5)",
+      "answer": "4.5.1\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\nvf² = (30)² + 2(−9.8)(25)\nvf² = 900 − 490\nvf² = 410\nvf = ±20.25 m·s⁻¹\n\nThe ball is at 25 m twice: once going up (+20.25 m·s⁻¹) and once coming down (−20.25 m·s⁻¹).\n\n(3)\n\n4.5.2\n\nInelastic. ✓\nThe height decreased/smaller. ✓\nThe kinetic energy is not conserved. / Kinetic energy is converted to heat and sound energy. ✓\n\nNOTE: DO NOT ACCEPT ANY CALCULATION AS AN EXPLANATION.\n\n(2)\n\n(5)",
+      "paper_pages": [10, 10],
+      "memo_pages": [8, 9],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

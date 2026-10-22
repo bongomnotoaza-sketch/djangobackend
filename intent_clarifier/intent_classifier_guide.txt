@@ -1,0 +1,187 @@
+# Intent Classifier Service — Reference Guide
+
+This explains how each file in the `intent_classifier` Django app works and
+how to extend it (e.g. adding a new lesson or intent) without breaking
+anything.
+
+## File overview
+
+```
+intent_classifier/
+  schemas.py        <- Pydantic models: what a valid response looks like
+  system_prompt.py  <- Fixed instructions given to the model (rarely changes)
+  examples.json      <- Few-shot examples (changes often, plain JSON data)
+  prompts.py         <- Combines system_prompt.py + examples.json for services.py
+  exceptions.py      <- App-level exception, isolates instructor's internals
+  services.py        <- The actual classify() logic (rarely needs editing)
+```
+
+---
+
+## 1. schemas.py — defining what a valid answer looks like
+
+This file has two Pydantic models:
+
+- `LessonRequest` — one (intent, lesson_name) pair
+- `IntentResponse` — a list of `LessonRequest`, so compound queries
+  ("who teaches bio and when is it") can return more than one answer
+
+### How to add a new lesson (e.g. "geography")
+
+1. Add it to the `LessonName` Literal:
+   ```python
+   LessonName = Literal["biology", "mathematics", "chemistry", "physics",
+                        "english", "geography", "unclear"]
+   ```
+2. Add it to the `known` set inside `clean_lesson_name`:
+   ```python
+   known = {"biology", "mathematics", "chemistry", "physics", "english",
+            "geography", "unclear"}
+   ```
+   This set is a safety net — if the model returns a lesson name that
+   isn't in this set, it gets silently coerced to `"unclear"` instead of
+   crashing the whole request. Forgetting to add a new lesson here means
+   valid answers about that lesson will incorrectly get treated as unclear.
+
+### How to add a new intent (e.g. "get_lesson_room")
+
+Add it to the `intent` Literal in `LessonRequest`:
+```python
+intent: Literal[
+    "get_lesson_date",
+    "get_lesson_teacher",
+    "get_lesson_notes",
+    "get_lesson_room",
+    "unclear",
+]
+```
+
+### Rule of thumb
+Every value the model is allowed to return must exist in **both** the
+Literal type and, for lesson names, the `known` safety-net set. If you add
+one but not the other, you'll get a validation error not because a new
+lesson doesn't work, but because you only updated it in one place.
+
+---
+
+## 2. system_prompt.py — the fixed instructions
+
+This is the plain instruction text the model reads to understand the
+task. It rarely needs to change — mostly only when you add a new lesson
+or intent, since the "Available intents" / "Available lessons" sections
+need to list every valid value.
+
+### How to update it
+- New lesson → add its name to the "Available lessons" line.
+- New intent → add a short paragraph describing when to use it, following
+  the same pattern as the existing three intents.
+- Do NOT rely on this file alone to teach the model new behavior — prose
+  rules are much weaker than concrete examples. Always pair a system
+  prompt update with a matching example in `examples.json`.
+
+---
+
+## 3. examples.json — few-shot examples
+
+This is the part that actually anchors the model's behavior most
+strongly. It's a plain JSON array of alternating `user`/`assistant`
+message turns, each `assistant` reply being a JSON string matching the
+`IntentResponse` schema exactly.
+
+### Why this file is separate
+Small local models rely heavily on matching the *shape* of examples
+they've seen, more than on prose instructions. Keeping this in its own
+JSON file means you can add/edit examples without touching any Python
+code, and without risk of introducing a syntax error elsewhere.
+
+### How to add a new example
+1. Pick a realistic user phrasing.
+2. Write the exact JSON the model should reply with, matching the
+   `IntentResponse` schema (a `"requests"` list of one or more
+   `{"intent": ..., "lesson_name": ...}` objects).
+3. Append both as two new entries (`user`, then `assistant`) to the array.
+
+Example — adding a new lesson "geography":
+```json
+{"role": "user", "content": "when is geography"},
+{"role": "assistant", "content": "{\"requests\": [{\"intent\": \"get_lesson_date\", \"lesson_name\": \"geography\"}]}"}
+```
+
+### What needs at least one example
+- Every intent should have at least one example using it.
+- Every lesson name should appear in at least one example.
+- Compound queries (two requests in one message) need their own example
+  pattern — the model won't infer "split this into two entries" just
+  from single-intent examples.
+- Out-of-scope queries (unrelated topics, or lessons not in your list)
+  need an "unclear" example too, otherwise the model may guess a real
+  lesson instead of admitting it doesn't know. (The `known` safety net in
+  `schemas.py` catches this even if the example doesn't, but it's better
+  for the model to get it right on its own first try.)
+
+### Validating your JSON
+Since this is hand-edited JSON, a small typo (missing comma, stray quote)
+will break the whole file. Before running the app, sanity-check it:
+```bash
+python -c "import json; json.load(open('intent_classifier/examples.json'))"
+```
+If that runs with no output, the JSON is valid.
+
+---
+
+## 4. prompts.py — wiring, no editing needed
+
+This file just loads `system_prompt.py` and `examples.json` and exposes
+them as `SYSTEM_PROMPT` and `FEW_SHOT` for `services.py` to use. You
+shouldn't normally need to edit this file — only `system_prompt.py` and
+`examples.json` need updating for content changes.
+
+---
+
+## 5. exceptions.py — no editing needed
+
+Defines `IntentClassificationFailed`, a single app-level exception that
+wraps whatever instructor's real exception is under the hood. This
+insulates the rest of your Django app from instructor's internal
+exception path changing between versions (which is exactly what broke
+the original script — `instructor.exceptions.InstructorRetryException`
+didn't exist in the installed version; the real path was
+`instructor.v2.core.errors.InstructorRetryException`).
+
+You should only touch this file if you want to add more specific
+exception types later (e.g. distinguishing "model unreachable" from
+"validation failed").
+
+---
+
+## 6. services.py — no editing needed for content changes
+
+Contains `IntentClassifierService`, which builds the instructor client
+once and exposes `classify(user_input)`. This file is schema/prompt
+agnostic — it just imports whatever `schemas.py` and `prompts.py`
+currently define, so adding lessons/intents/examples never requires
+touching this file.
+
+You would only edit this file to change *how* classification works —
+e.g. swapping models, changing `temperature`/`max_retries`, or adding
+logging/caching.
+
+---
+
+## Quick checklist: adding a new lesson end-to-end
+
+| Step | File | Change |
+|---|---|---|
+| 1 | `schemas.py` | Add to `LessonName` Literal and to `known` set |
+| 2 | `system_prompt.py` | Add to "Available lessons" list |
+| 3 | `examples.json` | Add at least one example using the new lesson |
+| 4 | — | Test via `python manage.py test_intent` |
+
+## Quick checklist: adding a new intent end-to-end
+
+| Step | File | Change |
+|---|---|---|
+| 1 | `schemas.py` | Add to `intent` Literal in `LessonRequest` |
+| 2 | `system_prompt.py` | Add a short description of when to use it |
+| 3 | `examples.json` | Add at least one example using the new intent |
+| 4 | — | Test via `python manage.py test_intent` |

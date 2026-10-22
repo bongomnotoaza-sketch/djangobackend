@@ -1,0 +1,14 @@
+{
+  "year": 2025,
+  "paper": "paper2",
+  "total_sub_questions": 82,
+  "topics": {
+    "acids_and_bases": 11,
+    "chemical_equilibrium": 9,
+    "electrochemistry": 11,
+    "energy_and_chemical_change": 3,
+    "organic_chemistry": 37,
+    "reaction_rates": 11
+  },
+  "unmatched_count": 14
+}

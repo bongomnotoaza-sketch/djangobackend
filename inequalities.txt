@@ -1,0 +1,500 @@
+# Solving Inequalities
+
+An inequality compares two values that are **not necessarily equal**.
+
+Instead of using:
+
+$$
+=
+$$
+
+we use inequality symbols:
+
+$$
+<,\ >,\ \leq,\ \geq
+$$
+
+---
+
+# Inequality Symbols
+
+| Symbol   | Meaning                  |
+| -------- | ------------------------ |
+| \(<\)    | Less than                |
+| \(>\)    | Greater than             |
+| \(\leq\) | Less than or equal to    |
+| \(\geq\) | Greater than or equal to |
+
+Examples:
+
+$$
+x<5
+$$
+
+means:
+
+$$
+x \text{ is smaller than } 5
+$$
+
+$$
+x\geq3
+$$
+
+means:
+
+$$
+x \text{ is 3 or greater}
+$$
+
+---
+
+# Solving Linear Inequalities
+
+Linear inequalities are solved using the same steps as linear equations.
+
+The main difference:
+
+**When multiplying or dividing by a negative number, the inequality sign must change direction.**
+
+---
+
+# Linear Inequality Method
+
+## Step 1
+
+Remove brackets if needed.
+
+## Step 2
+
+Collect variables on one side.
+
+## Step 3
+
+Collect constants on the other side.
+
+## Step 4
+
+Divide by the coefficient of the variable.
+
+## Step 5
+
+Check if division was by a negative number.
+
+If yes, reverse the inequality sign.
+
+---
+
+# Example 1
+
+Solve:
+
+$$
+x+5>12
+$$
+
+---
+
+## Step 1: Move the constant
+
+Subtract 5 from both sides:
+
+$$
+x+5-5>12-5
+$$
+
+$$
+x>7
+$$
+
+---
+
+## Final Answer
+
+$$
+x>7
+$$
+
+---
+
+# Example 2
+
+Solve:
+
+$$
+3x-4\leq11
+$$
+
+---
+
+## Step 1: Move constants
+
+Add 4:
+
+$$
+3x-4+4\leq11+4
+$$
+
+$$
+3x\leq15
+$$
+
+---
+
+## Step 2: Divide by coefficient
+
+$$
+\frac{3x}{3}\leq\frac{15}{3}
+$$
+
+$$
+x\leq5
+$$
+
+---
+
+## Final Answer
+
+$$
+x\leq5
+$$
+
+---
+
+# Negative Division Rule
+
+When dividing or multiplying by a negative number:
+
+$$
+\text{Reverse the inequality sign}
+$$
+
+Examples:
+
+$$
+5>-2
+$$
+
+becomes:
+
+$$
+-5<2
+$$
+
+The direction changes.
+
+---
+
+# Example 3: Negative Coefficient
+
+Solve:
+
+$$
+-2x>8
+$$
+
+---
+
+## Step 1: Divide by -2
+
+Because we divide by a negative number, reverse the sign.
+
+$$
+\frac{-2x}{-2}<\frac{8}{-2}
+$$
+
+---
+
+## Step 2: Simplify
+
+$$
+x<-4
+$$
+
+---
+
+## Final Answer
+
+$$
+x<-4
+$$
+
+---
+
+# Inequalities With Brackets
+
+Example:
+
+$$
+2(x+3)>14
+$$
+
+---
+
+## Step 1: Expand brackets
+
+$$
+2(x)+2(3)>14
+$$
+
+$$
+2x+6>14
+$$
+
+---
+
+## Step 2: Move constants
+
+Subtract 6:
+
+$$
+2x>8
+$$
+
+---
+
+## Step 3: Divide
+
+$$
+x>4
+$$
+
+---
+
+## Final Answer
+
+$$
+x>4
+$$
+
+---
+
+# Double Inequalities
+
+A double inequality shows a range of values.
+
+Example:
+
+$$
+2<x<7
+$$
+
+This means:
+
+* \(x\) is greater than 2
+* \(x\) is less than 7
+
+The values are between 2 and 7.
+
+---
+
+# Solving Double Inequalities
+
+Perform the same operation on all three parts.
+
+---
+
+# Example
+
+Solve:
+
+$$
+3<2x+1<9
+$$
+
+---
+
+## Step 1: Remove the constant
+
+Subtract 1 from all parts:
+
+$$
+3-1<2x+1-1<9-1
+$$
+
+$$
+2<2x<8
+$$
+
+---
+
+## Step 2: Divide all parts by 2
+
+$$
+\frac{2}{2}<\frac{2x}{2}<\frac{8}{2}
+$$
+
+---
+
+## Final Answer
+
+$$
+1<x<4
+$$
+
+---
+
+# Number Line Representation
+
+Inequalities can also be shown on a number line.
+
+Rules:
+
+### Open circle
+
+Used for:
+
+$$
+<
+$$
+
+or
+
+$$
+>
+$$
+
+The value is **not included**.
+
+Example:
+
+$$
+x>3
+$$
+
+---
+
+### Closed circle
+
+Used for:
+
+$$
+\leq
+$$
+
+or
+
+$$
+\geq
+$$
+
+The value **is included**.
+
+Example:
+
+$$
+x\geq3
+$$
+
+---
+
+# Inequality Checking Method
+
+Choose a value that satisfies the answer and substitute it back.
+
+Example:
+
+Answer:
+
+$$
+x>4
+$$
+
+Choose:
+
+$$
+x=5
+$$
+
+Check:
+
+$$
+5>4
+$$
+
+Correct.
+
+---
+
+# Common Exam Mistakes
+
+## 1. Forgetting to reverse the sign
+
+Wrong:
+
+$$
+-2x>8
+$$
+
+$$
+x>-4
+$$
+
+Correct:
+
+$$
+x<-4
+$$
+
+---
+
+## 2. Treating inequalities exactly like equations
+
+An equation has one answer:
+
+$$
+x=5
+$$
+
+An inequality has a range:
+
+$$
+x>5
+$$
+
+---
+
+## 3. Forgetting the equal sign
+
+Remember:
+
+$$
+\leq
+$$
+
+and
+
+$$
+\geq
+$$
+
+include the boundary value.
+
+Example:
+
+$$
+x\leq5
+$$
+
+includes:
+
+$$
+x=5
+$$
+
+---
+
+# Exam Checklist
+
+Before submitting:
+
+✓ Correct inequality symbol copied
+✓ Brackets expanded correctly
+✓ Signs handled correctly
+✓ Negative division rule applied
+✓ Final answer written as an inequality
+✓ Number line included if required
+
+---
+
+This keeps the same exam-focused method style: **identify → apply steps → show working → final answer**, so students can collect method marks even when they make a calculation mistake.

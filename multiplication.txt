@@ -1,0 +1,652 @@
+# Multiplication of Binomials and Trinomials & Simplification
+
+## Multiplication Types
+
+---
+
+# Single-Binomial (SB)
+
+A single term multiplied by a binomial.
+
+$$
+a(b+c)
+$$
+
+Multiply the term outside the bracket by every term inside.
+
+$$
+a \times b+a \times c
+$$
+
+### Example
+
+Simplify:
+
+$$
+3(x+4)
+$$
+
+Multiply:
+
+$$
+3(x)+3(4)
+$$
+
+$$
+3x+12
+$$
+
+---
+
+# Single-Trinomial (ST)
+
+A single term multiplied by a trinomial.
+
+$$
+a(b+c+d)
+$$
+
+Multiply the term outside the bracket by every term inside.
+
+$$
+a \times b+a \times c+a \times d
+$$
+
+### Example
+
+Simplify:
+
+$$
+2(3x^2+5x-4)
+$$
+
+Multiply:
+
+$$
+2(3x^2)+2(5x)+2(-4)
+$$
+
+$$
+6x^2+10x-8
+$$
+
+---
+
+# Binomial-Binomial (BB)
+
+Two binomials multiplied together.
+
+$$
+(a+b)(c+d)
+$$
+
+Multiply every term from the first bracket by every term in the second bracket.
+
+$$
+ac+ad+bc+bd
+$$
+
+### Example
+
+Simplify:
+
+$$
+(x+3)(x+5)
+$$
+
+Multiply:
+
+$$
+x(x)+x(5)+3(x)+3(5)
+$$
+
+$$
+x^2+5x+3x+15
+$$
+
+Now simplify using the family method.
+
+## Step 1: Identify families
+
+Family list:
+
+1. \(x^2\)
+2. \(x\)
+3. Constants
+
+## Step 2: Label every term
+
+$$
+(1)\ x^2+(2)\ 5x+(2)\ 3x+(3)\ 15
+$$
+
+## Step 3: Combine families
+
+$$
+(1)\ x^2+(2)\ (5+3)x+(3)\ 15
+$$
+
+## Step 4: Calculate each family
+
+$$
+x^2+8x+15
+$$
+
+---
+
+# Binomial-Trinomial (BT)
+
+A binomial multiplied by a trinomial.
+
+$$
+(a+b)(c+d+e)
+$$
+
+Multiply every term in the first bracket by every term in the second bracket.
+
+$$
+ac+ad+ae+bc+bd+be
+$$
+
+### Example
+
+Simplify:
+
+$$
+(x+2)(x^2+3x+4)
+$$
+
+Multiply:
+
+$$
+x(x^2)+x(3x)+x(4)+2(x^2)+2(3x)+2(4)
+$$
+
+$$
+x^3+3x^2+4x+2x^2+6x+8
+$$
+
+Now simplify using the family method.
+
+## Step 1: Identify families
+
+Family list:
+
+1. \(x^3\)
+2. \(x^2\)
+3. \(x\)
+4. Constants
+
+## Step 2: Label every term
+
+$$
+(1)\ x^3+(2)\ 3x^2+(3)\ 4x+(2)\ 2x^2+(3)\ 6x+(4)\ 8
+$$
+
+## Step 3: Combine families
+
+$$
+(1)\ x^3+(2)\ (3+2)x^2+(3)\ (4+6)x+(4)\ 8
+$$
+
+## Step 4: Calculate each family
+
+$$
+x^3+5x^2+10x+8
+$$
+
+---
+
+# Powers of Binomials
+
+When a binomial has a power, expand the brackets first.
+
+Example:
+
+$$
+(x+2)^3
+$$
+
+Rewrite:
+
+$$
+(x+2)(x+2)(x+2)
+$$
+
+---
+
+## Step 1: Complete BB multiplication
+
+First two brackets:
+
+$$
+(x+2)(x+2)
+$$
+
+Multiply:
+
+$$
+x(x)+x(2)+2(x)+2(2)
+$$
+
+$$
+x^2+2x+2x+4
+$$
+
+Simplify:
+
+$$
+x^2+4x+4
+$$
+
+---
+
+## Step 2: Complete BT multiplication
+
+Multiply:
+
+$$
+(x^2+4x+4)(x+2)
+$$
+
+$$
+x^2(x)+x^2(2)+4x(x)+4x(2)+4(x)+4(2)
+$$
+
+$$
+x^3+2x^2+4x^2+8x+4x+8
+$$
+
+---
+
+## Step 3: Simplify using families
+
+Family list:
+
+1. \(x^3\)
+2. \(x^2\)
+3. \(x\)
+4. Constants
+
+Label:
+
+$$
+(1)\ x^3+(2)\ 2x^2+(2)\ 4x^2+(3)\ 8x+(3)\ 4x+(4)\ 8
+$$
+
+Combine:
+
+$$
+(1)\ x^3+(2)\ (2+4)x^2+(3)\ (8+4)x+(4)\ 8
+$$
+
+Final answer:
+
+$$
+x^3+6x^2+12x+8
+$$
+
+---
+
+# Simplification Rules
+
+## Like Terms
+
+Like terms have:
+
+* The same variables
+* The same powers
+
+Only like terms can be combined.
+
+Example:
+
+$$
+3x+5x=8x
+$$
+
+$$
+4x^2+7x^2=11x^2
+$$
+
+Cannot simplify:
+
+$$
+3x+5x^2
+$$
+
+because \(x\) and \(x^2\) are different families.
+
+---
+
+# Family Method For Simplification
+
+## Step 1: Identify Families
+
+Create a family list.
+
+Example:
+
+$$
+8x^2+6x+20x+15
+$$
+
+Family list:
+
+1. \(x^2\)
+2. \(x\)
+3. Constants
+
+---
+
+## Step 2: Label Every Term
+
+$$
+(1)\ 8x^2+(2)\ 6x+(2)\ 20x+(3)\ 15
+$$
+
+---
+
+## Step 3: Combine Families
+
+$$
+(1)\ 8x^2+(2)\ (6+20)x+(3)\ 15
+$$
+
+---
+
+## Step 4: Calculate Families
+
+$$
+8x^2+26x+15
+$$
+
+---
+
+# Sign Rules
+
+Signs belong to each term.
+
+$$
+(+)\times(+)=+
+$$
+
+$$
+(+)\times(-)=-
+$$
+
+$$
+(-)\times(+)=-
+$$
+
+$$
+(-)\times(-)=+
+$$
+
+Example:
+
+$$
+(3x-5)(2x+4)
+$$
+
+Multiply:
+
+$$
+3x(2x)+3x(4)-5(2x)-5(4)
+$$
+
+$$
+6x^2+12x-10x-20
+$$
+
+Simplify.
+
+Family list:
+
+1. \(x^2\)
+2. \(x\)
+3. Constants
+
+Label:
+
+$$
+(1)\ 6x^2+(2)\ 12x+(2)\ -10x+(3)\ -20
+$$
+
+Combine:
+
+$$
+(1)\ 6x^2+(2)\ (12-10)x+(3)\ -20
+$$
+
+Answer:
+
+$$
+6x^2+2x-20
+$$
+
+---
+
+# Multiplying Coefficients and Variables
+
+Multiply numbers first, then variables.
+
+Example:
+
+$$
+3x \times 4x
+$$
+
+Numbers:
+
+$$
+3\times4=12
+$$
+
+Variables:
+
+$$
+x\times x=x^2
+$$
+
+Answer:
+
+$$
+12x^2
+$$
+
+---
+
+# Multiplying Variables With Powers
+
+When multiplying the same variables, add powers.
+
+Rule:
+
+$$
+x^a\times x^b=x^{a+b}
+$$
+
+Example:
+
+$$
+x^2\times x^3=x^5
+$$
+
+---
+
+# Zero Families
+
+A family can disappear when it becomes zero.
+
+Example:
+
+$$
+5x^2+3x-3x+4
+$$
+
+Family list:
+
+1. \(x^2\)
+2. \(x\)
+3. Constants
+
+Label:
+
+$$
+(1)\ 5x^2+(2)\ 3x+(2)\ -3x+(3)\ 4
+$$
+
+Combine:
+
+$$
+(1)\ 5x^2+(2)\ (3-3)x+(3)\ 4
+$$
+
+Since:
+
+$$
+3-3=0
+$$
+
+Final answer:
+
+$$
+5x^2+4
+$$
+
+---
+
+# General Simplification Method
+
+## Step 1
+
+Classify all multiplication:
+
+* BB
+* BT
+* SB
+* ST
+
+If there are no brackets, move directly to simplification.
+
+---
+
+## Step 2
+
+Complete multiplication and simplify using the family method.
+
+---
+
+## Step 3
+
+Apply the sign outside a bracket to every term inside.
+
+Example:
+
+$$
+-(x+3)
+$$
+
+becomes:
+
+$$
+-x-3
+$$
+
+---
+
+## Step 4
+
+Remove brackets and run the family simplification method again.
+
+---
+
+# Multiplication Order Rule
+
+Always complete multiplication in this order:
+
+1. BB
+2. BT
+3. SB or ST
+
+Example:
+
+$$
+5x(4y-6)^2
+$$
+
+Contains:
+
+* BB: \((4y-6)^2\)
+* SB: \(5x(\text{answer})\)
+
+First complete BB.
+
+---
+
+## Step 1: Complete BB
+
+$$
+(4y-6)(4y-6)
+$$
+
+Multiply:
+
+$$
+4y(4y)+4y(-6)-6(4y)-6(-6)
+$$
+
+$$
+16y^2-24y-24y+36
+$$
+
+Simplify using families:
+
+Family list:
+
+1. \(y^2\)
+2. \(y\)
+3. Constants
+
+Label:
+
+$$
+(1)\ 16y^2+(2)\ -24y+(2)\ -24y+(3)\ 36
+$$
+
+Combine:
+
+$$
+(1)\ 16y^2+(2)\ (-24-24)y+(3)\ 36
+$$
+
+Answer:
+
+$$
+16y^2-48y+36
+$$
+
+---
+
+## Step 2: Complete SB
+
+$$
+5x(16y^2-48y+36)
+$$
+
+Multiply:
+
+$$
+80xy^2-240xy+180x
+$$
+
+Final answer:
+
+$$
+80xy^2-240xy+180x
+$$
+
+---
+
+This is now the complete method format: **every multiplication is expanded, every term receives a family number, and every simplification is traceable.**

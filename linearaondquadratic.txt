@@ -1,0 +1,551 @@
+
+#Solving Equations
+
+An equation is solved by finding the value of the unknown variable that makes both sides equal.
+
+The goal is always:
+
+$$
+\text{Variable}=\text{Answer}
+$$
+
+---
+
+# Types of Equations
+
+The main equation types covered are:
+
+1. Linear Equations
+2. Quadratic Equations
+3. Simultaneous Equations
+
+---
+
+# 1. Linear Equations
+
+A linear equation has a variable with a power of 1.
+
+General form:
+
+$$
+ax+b=c
+$$
+
+The highest power of the variable is:
+
+$$
+x^1=x
+$$
+
+---
+
+# Linear Equation Method
+
+## Step 1
+
+Remove brackets if they exist.
+
+## Step 2
+
+Collect like terms on the same side.
+
+* Variables on one side
+* Constants on the other side
+
+## Step 3
+
+Simplify both sides.
+
+## Step 4
+
+Divide by the coefficient of the variable.
+
+---
+
+# Example 1
+
+Solve:
+
+$$
+3x+5=20
+$$
+
+---
+
+## Step 1: Move constants away from the variable
+
+Subtract 5 from both sides:
+
+$$
+3x+5-5=20-5
+$$
+
+$$
+3x=15
+$$
+
+---
+
+## Step 2: Divide by the coefficient of \(x\)
+
+$$
+\frac{3x}{3}=\frac{15}{3}
+$$
+
+$$
+x=5
+$$
+
+---
+
+# Example 2
+
+Solve:
+
+$$
+5x-7=18
+$$
+
+---
+
+## Step 1: Move constants
+
+Add 7 to both sides:
+
+$$
+5x-7+7=18+7
+$$
+
+$$
+5x=25
+$$
+
+---
+
+## Step 2: Divide by coefficient
+
+$$
+\frac{5x}{5}=\frac{25}{5}
+$$
+
+$$
+x=5
+$$
+
+---
+
+# Linear Equations With Brackets
+
+Example:
+
+$$
+3(x+4)=21
+$$
+
+---
+
+## Step 1: Expand brackets
+
+$$
+3(x)+3(4)=21
+$$
+
+$$
+3x+12=21
+$$
+
+---
+
+## Step 2: Move constants
+
+Subtract 12:
+
+$$
+3x+12-12=21-12
+$$
+
+$$
+3x=9
+$$
+
+---
+
+## Step 3: Divide
+
+$$
+x=3
+$$
+
+---
+
+# Linear Equations With Variables On Both Sides
+
+Example:
+
+$$
+5x+4=2x+19
+$$
+
+---
+
+## Step 1: Move variables to one side
+
+Subtract \(2x\):
+
+$$
+5x-2x+4=19
+$$
+
+$$
+3x+4=19
+$$
+
+---
+
+## Step 2: Move constants
+
+Subtract 4:
+
+$$
+3x=15
+$$
+
+---
+
+## Step 3: Divide
+
+$$
+x=5
+$$
+
+---
+
+# 2. Quadratic Equations
+
+A quadratic equation has the form:
+
+$$
+ax^2+bx+c=0
+$$
+
+The highest power of the variable is:
+
+$$
+x^2
+$$
+
+---
+
+# Quadratic Equation Methods
+
+Quadratics can be solved using:
+
+1. Factorisation
+2. Quadratic Formula
+
+---
+
+# Method 1: Solving Quadratics by Factorisation
+
+## Steps
+
+### Step 1
+
+Move everything to one side.
+
+$$
+ax^2+bx+c=0
+$$
+
+### Step 2
+
+Factorise the quadratic.
+
+### Step 3
+
+Use the zero product rule:
+
+If:
+
+$$
+(a)(b)=0
+$$
+
+then:
+
+$$
+a=0
+$$
+
+or
+
+$$
+b=0
+$$
+
+---
+
+# Example 1
+
+Solve:
+
+$$
+x^2+5x+6=0
+$$
+
+---
+
+## Step 1: Factorise
+
+Find two numbers that:
+
+Multiply to:
+
+$$
+6
+$$
+
+Add to:
+
+$$
+5
+$$
+
+Numbers:
+
+$$
+2 \text{ and } 3
+$$
+
+Therefore:
+
+$$
+(x+2)(x+3)=0
+$$
+
+---
+
+## Step 2: Solve each bracket
+
+First bracket:
+
+$$
+x+2=0
+$$
+
+$$
+x=-2
+$$
+
+Second bracket:
+
+$$
+x+3=0
+$$
+
+$$
+x=-3
+$$
+
+---
+
+## Final Answer
+
+$$
+x=-2 \text{ or } x=-3
+$$
+
+---
+
+# Example 2: Quadratic Requiring Rearranging
+
+Solve:
+
+$$
+x^2+3=5x
+$$
+
+---
+
+## Step 1: Move everything to one side
+
+$$
+x^2-5x+3=0
+$$
+
+---
+
+## Step 2: Factorise if possible
+
+In this case, factorisation is difficult.
+
+Use the quadratic formula.
+
+---
+
+# Method 2: Quadratic Formula
+
+For:
+
+$$
+ax^2+bx+c=0
+$$
+
+The solution is:
+
+$$
+x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+$$
+
+genui{"learning_viz":{"type_id":"QUADRATIC_FORMULA"}}
+
+---
+
+# Quadratic Formula Method
+
+## Step 1
+
+Identify:
+
+$$
+a=\_\_
+$$
+
+$$
+b=\_\_
+$$
+
+$$
+c=\_\_
+$$
+
+---
+
+## Step 2
+
+Write the formula.
+
+---
+
+## Step 3
+
+Substitute values carefully.
+
+---
+
+## Step 4
+
+Calculate the discriminant:
+
+$$
+b^2-4ac
+$$
+
+---
+
+## Step 5
+
+Simplify both solutions.
+
+---
+
+# Example
+
+Solve:
+
+$$
+x^2-5x+3=0
+$$
+
+---
+
+## Step 1: Identify values
+
+Compare:
+
+$$
+ax^2+bx+c=0
+$$
+
+Therefore:
+
+$$
+a=1
+$$
+
+$$
+b=-5
+$$
+
+$$
+c=3
+$$
+
+---
+
+## Step 2: Substitute into formula
+
+$$
+x=\frac{-(-5)\pm\sqrt{(-5)^2-4(1)(3)}}{2(1)}
+$$
+
+---
+
+## Step 3: Simplify
+
+$$
+x=\frac{5\pm\sqrt{25-12}}{2}
+$$
+
+$$
+x=\frac{5\pm\sqrt{13}}{2}
+$$
+
+---
+
+## Final Answer
+
+$$
+x=\frac{5+\sqrt{13}}{2}
+$$
+
+or
+
+$$
+x=\frac{5-\sqrt{13}}{2}
+$$
+
+---
+
+# Quadratic Formula Checklist
+
+Before submitting:
+
+✓ Equation is equal to zero
+✓ Values of \(a,b,c\) are written
+✓ Formula is written
+✓ Substitution is shown
+✓ Both answers are calculated
+
+---
+
+# Exam Rule
+
+Never only write:
+
+$$
+x=5
+$$
+
+Even if the answer is correct, marks are usually awarded for the method.
+
+Always show:
+
+1. Rearranging
+2. Formula or factorisation
+3. Working
+4. Final answers
+
+---
+
+This matches the same "show the method to collect marks" approach used in your multiplication and factorisation notes.

@@ -1,0 +1,493 @@
+# Solving Simultaneous Equations
+
+Simultaneous equations are two equations that contain the same variables.
+
+The solution is the pair of values that makes **both equations true**.
+
+General form:
+
+$$
+ax+by=c
+$$
+
+$$
+dx+ey=f
+$$
+
+The answer is written as:
+
+$$
+x=\_\_
+$$
+
+$$
+y=\_\_
+$$
+
+---
+
+# Method 1: Substitution
+
+Substitution is used when one equation can easily be rearranged to make one variable the subject.
+
+## Steps
+
+### Step 1
+
+Choose one equation and make one variable the subject.
+
+### Step 2
+
+Substitute that value into the other equation.
+
+### Step 3
+
+Solve for the remaining variable.
+
+### Step 4
+
+Substitute back to find the other variable.
+
+---
+
+# Example 1: Substitution
+
+Solve:
+
+$$
+x+y=10
+$$
+
+$$
+x-y=2
+$$
+
+---
+
+## Step 1: Make one variable the subject
+
+Use the first equation:
+
+$$
+x+y=10
+$$
+
+Make \(x\) the subject:
+
+$$
+x=10-y
+$$
+
+---
+
+## Step 2: Substitute into the second equation
+
+$$
+x-y=2
+$$
+
+Replace \(x\):
+
+$$
+(10-y)-y=2
+$$
+
+---
+
+## Step 3: Solve for \(y\)
+
+Remove brackets:
+
+$$
+10-y-y=2
+$$
+
+Simplify:
+
+$$
+10-2y=2
+$$
+
+Move constants:
+
+$$
+-2y=2-10
+$$
+
+$$
+-2y=-8
+$$
+
+Divide:
+
+$$
+y=4
+$$
+
+---
+
+## Step 4: Substitute back
+
+$$
+x=10-y
+$$
+
+$$
+x=10-4
+$$
+
+$$
+x=6
+$$
+
+---
+
+## Final Answer
+
+$$
+x=6
+$$
+
+$$
+y=4
+$$
+
+---
+
+# Method 2: Elimination
+
+Elimination removes one variable by adding or subtracting equations.
+
+This method is useful when the variables have matching coefficients.
+
+## Steps
+
+### Step 1
+
+Arrange equations vertically.
+
+### Step 2
+
+Multiply an equation if needed so one variable has matching coefficients.
+
+### Step 3
+
+Add or subtract equations to remove one variable.
+
+### Step 4
+
+Solve the remaining equation.
+
+### Step 5
+
+Substitute back to find the second variable.
+
+---
+
+# Example 2: Elimination
+
+Solve:
+
+$$
+x+y=10
+$$
+
+$$
+x-y=2
+$$
+
+---
+
+## Step 1: Write equations underneath each other
+
+$$
+x+y=10
+$$
+
+$$
+x-y=2
+$$
+
+---
+
+## Step 2: Eliminate \(y\)
+
+Add the equations:
+
+$$
+(x+y)+(x-y)=10+2
+$$
+
+---
+
+## Step 3: Simplify
+
+$$
+2x=12
+$$
+
+Divide:
+
+$$
+x=6
+$$
+
+---
+
+## Step 4: Substitute back
+
+Use:
+
+$$
+x+y=10
+$$
+
+Replace \(x\):
+
+$$
+6+y=10
+$$
+
+Subtract 6:
+
+$$
+y=4
+$$
+
+---
+
+## Final Answer
+
+$$
+x=6
+$$
+
+$$
+y=4
+$$
+
+---
+
+# Elimination With Multiplication
+
+Sometimes coefficients do not match.
+
+Example:
+
+$$
+2x+y=7
+$$
+
+$$
+3x+2y=12
+$$
+
+---
+
+## Step 1: Make one variable match
+
+Multiply the first equation by 2:
+
+$$
+2(2x+y=7)
+$$
+
+$$
+4x+2y=14
+$$
+
+Now:
+
+$$
+4x+2y=14
+$$
+
+$$
+3x+2y=12
+$$
+
+---
+
+## Step 2: Eliminate \(y\)
+
+Subtract equations:
+
+$$
+(4x+2y)-(3x+2y)=14-12
+$$
+
+---
+
+## Step 3: Simplify
+
+$$
+x=2
+$$
+
+---
+
+## Step 4: Substitute back
+
+Use:
+
+$$
+2x+y=7
+$$
+
+$$
+2(2)+y=7
+$$
+
+$$
+4+y=7
+$$
+
+$$
+y=3
+$$
+
+---
+
+## Final Answer
+
+$$
+x=2
+$$
+
+$$
+y=3
+$$
+
+---
+
+# Checking Your Answer
+
+Always check by substituting your answers into both original equations.
+
+Example:
+
+Given:
+
+$$
+x=2
+$$
+
+$$
+y=3
+$$
+
+First equation:
+
+$$
+2(2)+3=7
+$$
+
+$$
+7=7
+$$
+
+Correct.
+
+Second equation:
+
+$$
+3(2)+2(3)=12
+$$
+
+$$
+12=12
+$$
+
+Correct.
+
+---
+
+# Exam Strategy
+
+When choosing a method:
+
+### Use Substitution when:
+
+✓ One variable already has a coefficient of 1
+✓ An equation is easy to rearrange
+
+Example:
+
+$$
+x+y=8
+$$
+
+---
+
+### Use Elimination when:
+
+✓ Variables have matching coefficients
+✓ Adding or subtracting removes a variable quickly
+
+Example:
+
+$$
+2x+y=5
+$$
+
+$$
+2x-y=3
+$$
+
+---
+
+# Common Mistakes
+
+## 1. Forgetting to change signs
+
+Example:
+
+$$
+-(x+3)
+$$
+
+becomes:
+
+$$
+-x-3
+$$
+
+---
+
+## 2. Not substituting into the original equation
+
+Students often find one variable and stop.
+
+Always find:
+
+$$
+x=\_\_
+$$
+
+and
+
+$$
+y=\_\_
+$$
+
+---
+
+## 3. Not checking answers
+
+A correct-looking answer can still contain calculation mistakes.
+
+---
+
+# Quick Exam Checklist
+
+Before submitting:
+
+✓ Two equations written clearly
+✓ Method identified
+✓ All operations shown
+✓ Both variables found
+✓ Answer checked
+
+---
+
+Next section after this would naturally be **Inequalities**, then we can finish the equations topic with **quadratic equations as part of the solving equations revision flow**.

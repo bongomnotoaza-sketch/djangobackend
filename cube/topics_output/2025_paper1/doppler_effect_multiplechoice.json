@@ -1,0 +1,607 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "doppler_effect",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "doppler_effect",
+      "question": "A star's spectrum, observed from Earth, is red shifted. Which ONE of the following statements is CORRECT?\n\nA The speed of light is increasing.\nB The star is moving towards Earth.\nC The frequency of each spectral line has increased.\nD The wavelength of each spectral line has increased.\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "doppler_effect",
+      "question": "A star's spectrum, observed from Earth, is blue shifted. Which ONE of the following statements is CORRECT?\n\nA The star is moving away from Earth.\nB The star is moving towards Earth.\nC The wavelength of each spectral line has increased.\nD The frequency of each spectral line has decreased.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "doppler_effect",
+      "question": "A sound source moves at a constant speed towards a stationary listener. The frequency of the sound detected by the listener is ...\n\nA lower than the frequency emitted by the source.\nB equal to the frequency emitted by the source.\nC higher than the frequency emitted by the source.\nD zero.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "doppler_effect",
+      "question": "A sound source moves at a constant speed away from a stationary listener. The frequency of the sound detected by the listener is ...\n\nA lower than the frequency emitted by the source.\nB equal to the frequency emitted by the source.\nC higher than the frequency emitted by the source.\nD zero.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "doppler_effect",
+      "question": "A sound source moves away from a stationary listener. Which ONE of the following statements is CORRECT?\n\nA The wavelength detected by the listener is longer than the wavelength emitted.\nB The wavelength detected by the listener is shorter than the wavelength emitted.\nC The frequency detected by the listener is higher than the frequency emitted.\nD The speed of sound in air increases.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "doppler_effect",
+      "question": "A sound source moves towards a stationary listener. Which ONE of the following statements is CORRECT?\n\nA The wavelength detected by the listener is longer than the wavelength emitted.\nB The wavelength detected by the listener is shorter than the wavelength emitted.\nC The frequency detected by the listener is lower than the frequency emitted.\nD The speed of sound in air decreases.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "doppler_effect",
+      "question": "An ambulance with its siren sounding moves at a constant speed towards a stationary observer, passes the observer, and then moves away at the same constant speed. Which ONE of the following graphs best represents the frequency detected by the observer as a function of time?\n\nA A graph that is constant throughout.\nB A graph that shows a sudden increase at the moment the ambulance passes the observer.\nC A graph that shows a sudden decrease at the moment the ambulance passes the observer.\nD A graph that shows a gradual increase followed by a gradual decrease.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "doppler_effect",
+      "question": "A source emits sound of frequency fs. The source moves towards a stationary listener at speed vs. The speed of sound in air is v. Which ONE of the following expressions correctly gives the frequency fL detected by the listener?\n\nA fL = (v / (v + vs)) fs\nB fL = (v / (v - vs)) fs\nC fL = ((v + vs) / v) fs\nD fL = ((v - vs) / v) fs\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "doppler_effect",
+      "question": "A source emits sound of frequency fs. The source moves away from a stationary listener at speed vs. The speed of sound in air is v. Which ONE of the following expressions correctly gives the frequency fL detected by the listener?\n\nA fL = (v / (v + vs)) fs\nB fL = (v / (v - vs)) fs\nC fL = ((v + vs) / v) fs\nD fL = ((v - vs) / v) fs\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "doppler_effect",
+      "question": "A stationary source emits sound of frequency fs. A listener moves towards the source at speed vL. The speed of sound in air is v. Which ONE of the following expressions correctly gives the frequency fL detected by the listener?\n\nA fL = (v / (v + vL)) fs\nB fL = (v / (v - vL)) fs\nC fL = ((v + vL) / v) fs\nD fL = ((v - vL) / v) fs\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "doppler_effect",
+      "question": "A stationary source emits sound of frequency fs. A listener moves away from the source at speed vL. The speed of sound in air is v. Which ONE of the following expressions correctly gives the frequency fL detected by the listener?\n\nA fL = (v / (v + vL)) fs\nB fL = (v / (v - vL)) fs\nC fL = ((v + vL) / v) fs\nD fL = ((v - vL) / v) fs\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "doppler_effect",
+      "question": "The Doppler effect is defined as ...\n\nA the change in speed of sound due to the motion of the source.\nB the change in frequency (or pitch) of sound detected by a listener because the source and listener have different velocities relative to the medium.\nC the change in amplitude of sound due to the motion of the source.\nD the change in wavelength of light due to the motion of the observer.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "doppler_effect",
+      "question": "A sound source moves at a constant speed towards a stationary listener. The wavelength of the sound detected by the listener is ...\n\nA longer than the wavelength emitted.\nB equal to the wavelength emitted.\nC shorter than the wavelength emitted.\nD zero.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "doppler_effect",
+      "question": "A sound source moves at a constant speed away from a stationary listener. The wavelength of the sound detected by the listener is ...\n\nA longer than the wavelength emitted.\nB equal to the wavelength emitted.\nC shorter than the wavelength emitted.\nD zero.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "doppler_effect",
+      "question": "A car horn emits sound at a constant frequency. As the car approaches a stationary observer, the observer hears a sound of ...\n\nA higher frequency and shorter wavelength.\nB higher frequency and longer wavelength.\nC lower frequency and shorter wavelength.\nD lower frequency and longer wavelength.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "doppler_effect",
+      "question": "A car horn emits sound at a constant frequency. As the car moves away from a stationary observer, the observer hears a sound of ...\n\nA higher frequency and shorter wavelength.\nB higher frequency and longer wavelength.\nC lower frequency and shorter wavelength.\nD lower frequency and longer wavelength.\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "doppler_effect",
+      "question": "A stationary observer hears the sound of a car horn. The car is moving towards the observer at 20 m/s. The frequency of the horn is 500 Hz. The speed of sound in air is 340 m/s. The frequency detected by the observer is approximately ...\n\nA 470 Hz\nB 500 Hz\nC 531 Hz\nD 560 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "doppler_effect",
+      "question": "A stationary observer hears the sound of a car horn. The car is moving away from the observer at 20 m/s. The frequency of the horn is 500 Hz. The speed of sound in air is 340 m/s. The frequency detected by the observer is approximately ...\n\nA 470 Hz\nB 500 Hz\nC 531 Hz\nD 560 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "doppler_effect",
+      "question": "A train moving at 30 m/s sounds its whistle as it approaches a tunnel. The frequency of the whistle is 600 Hz. The speed of sound in air is 340 m/s. The frequency heard by a stationary observer near the tunnel entrance is approximately ...\n\nA 551 Hz\nB 600 Hz\nC 658 Hz\nD 720 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "doppler_effect",
+      "question": "A train moving at 30 m/s sounds its whistle after passing a tunnel. The frequency of the whistle is 600 Hz. The speed of sound in air is 340 m/s. The frequency heard by a stationary observer near the tunnel entrance is approximately ...\n\nA 551 Hz\nB 600 Hz\nC 658 Hz\nD 720 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "doppler_effect",
+      "question": "A sound source of frequency 800 Hz moves at a constant speed towards a stationary listener. The listener detects a frequency of 850 Hz. The speed of sound in air is 340 m/s. The speed of the source is ...\n\nA 15 m/s\nB 20 m/s\nC 25 m/s\nD 30 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "doppler_effect",
+      "question": "A police car with its siren sounding moves at a constant speed of 25 m/s towards a stationary observer. The frequency of the siren is 700 Hz. The speed of sound in air is 340 m/s. The frequency detected by the observer is approximately ...\n\nA 652 Hz\nB 700 Hz\nC 756 Hz\nD 800 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "doppler_effect",
+      "question": "A police car with its siren sounding moves at a constant speed of 25 m/s away from a stationary observer. The frequency of the siren is 700 Hz. The speed of sound in air is 340 m/s. The frequency detected by the observer is approximately ...\n\nA 652 Hz\nB 700 Hz\nC 756 Hz\nD 800 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "doppler_effect",
+      "question": "A bat emits ultrasound of frequency 50 kHz while flying towards a moth at 8 m/s. The moth is stationary. The speed of sound in air is 340 m/s. The frequency of the sound detected by the moth is approximately ...\n\nA 48.8 kHz\nB 50.0 kHz\nC 51.2 kHz\nD 52.4 kHz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "doppler_effect",
+      "question": "A bat emits ultrasound of frequency 50 kHz while flying towards a moth at 8 m/s. The moth is stationary. The sound reflects off the moth and is detected by the bat. The speed of sound in air is 340 m/s. The frequency detected by the bat is approximately ...\n\nA 50.0 kHz\nB 51.2 kHz\nC 52.4 kHz\nD 53.6 kHz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "doppler_effect",
+      "question": "A sound source emits sound of frequency 1000 Hz. The source moves towards a stationary listener at speed vs. The listener detects a frequency of 1100 Hz. The speed of sound in air is 340 m/s. The speed of the source is approximately ...\n\nA 25.0 m/s\nB 30.9 m/s\nC 35.5 m/s\nD 40.0 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "doppler_effect",
+      "question": "A sound source emits sound of frequency 1000 Hz. The source moves away from a stationary listener at 30.91 m/s. The speed of sound in air is 340 m/s. The frequency detected by the listener is approximately ...\n\nA 850 Hz\nB 917 Hz\nC 1000 Hz\nD 1100 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "doppler_effect",
+      "question": "A stationary source emits sound of frequency 500 Hz. A listener moves towards the source at 20 m/s. The speed of sound in air is 340 m/s. The frequency detected by the listener is approximately ...\n\nA 470 Hz\nB 500 Hz\nC 529 Hz\nD 560 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "doppler_effect",
+      "question": "A stationary source emits sound of frequency 500 Hz. A listener moves away from the source at 20 m/s. The speed of sound in air is 340 m/s. The frequency detected by the listener is approximately ...\n\nA 470 Hz\nB 500 Hz\nC 529 Hz\nD 560 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "doppler_effect",
+      "question": "A car approaching a stationary observer sounds its horn at a frequency of 400 Hz. The observer detects a frequency of 440 Hz. The speed of sound in air is 340 m/s. The speed of the car is approximately ...\n\nA 25.0 m/s\nB 30.9 m/s\nC 35.5 m/s\nD 40.0 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "doppler_effect",
+      "question": "A car approaching a stationary observer sounds its horn at a frequency of 400 Hz. The observer detects a frequency of 440 Hz. The car then moves away from the observer at the same speed. The speed of sound in air is 340 m/s. The frequency detected by the observer is approximately ...\n\nA 367 Hz\nB 400 Hz\nC 440 Hz\nD 480 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "doppler_effect",
+      "question": "Two cars, A and B, are moving towards each other. Car A moves at 20 m/s and car B moves at 15 m/s. Car A sounds its horn at a frequency of 600 Hz. The speed of sound in air is 340 m/s. The frequency detected by the driver of car B is approximately ...\n\nA 541.67 Hz\nB 600 Hz\nC 665.63 Hz\nD 720 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "doppler_effect",
+      "question": "Two cars, A and B, are moving away from each other. Car A moves at 20 m/s and car B moves at 15 m/s. Car A sounds its horn at a frequency of 600 Hz. The speed of sound in air is 340 m/s. The frequency detected by the driver of car B is approximately ...\n\nA 541.67 Hz\nB 600 Hz\nC 665.63 Hz\nD 720 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "doppler_effect",
+      "question": "A source of sound moves in a circle of radius 2 m at a constant speed of 10 m/s. A stationary observer is positioned at a large distance from the circle. The frequency of the sound emitted by the source is 800 Hz. The speed of sound in air is 340 m/s. The maximum frequency detected by the observer is approximately ...\n\nA 777 Hz\nB 800 Hz\nC 824 Hz\nD 850 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "doppler_effect",
+      "question": "A source of sound moves in a circle of radius 2 m at a constant speed of 10 m/s. A stationary observer is positioned at a large distance from the circle. The frequency of the sound emitted by the source is 800 Hz. The speed of sound in air is 340 m/s. The minimum frequency detected by the observer is approximately ...\n\nA 777 Hz\nB 800 Hz\nC 824 Hz\nD 850 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "doppler_effect",
+      "question": "A source of sound moves in a circle at a constant speed. A stationary observer is positioned at a large distance from the circle. The frequency of the sound emitted by the source is 800 Hz. The speed of sound in air is 340 m/s. When the velocity of the source is perpendicular to the line joining it to the observer, the frequency detected is ...\n\nA 777 Hz\nB 800 Hz\nC 824 Hz\nD 850 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "doppler_effect",
+      "question": "A train passes a platform without stopping. The train's whistle emits sound at a constant frequency of 550 Hz. The train moves at a constant speed of 25 m/s. The speed of sound in air is 340 m/s. The frequency detected by a stationary observer as the train approaches is approximately ...\n\nA 512 Hz\nB 550 Hz\nC 594 Hz\nD 640 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "doppler_effect",
+      "question": "A train passes a platform without stopping. The train's whistle emits sound at a constant frequency of 550 Hz. The train moves at a constant speed of 25 m/s. The speed of sound in air is 340 m/s. The frequency detected by a stationary observer as the train moves away is approximately ...\n\nA 512 Hz\nB 550 Hz\nC 594 Hz\nD 640 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "doppler_effect",
+      "question": "An ambulance with its siren sounding moves at a constant speed towards a stationary observer, passes the observer, and then moves away. The frequency detected by the observer ...\n\nA remains constant.\nB increases suddenly when the ambulance passes.\nC decreases suddenly when the ambulance passes.\nD gradually increases then gradually decreases.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "doppler_effect",
+      "question": "A star is moving away from Earth. The light from the star observed on Earth will be ...\n\nA blue shifted.\nB red shifted.\nC unchanged.\nD polarised.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "doppler_effect",
+      "question": "A star is moving towards Earth. The light from the star observed on Earth will be ...\n\nA blue shifted.\nB red shifted.\nC unchanged.\nD polarised.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "doppler_effect",
+      "question": "The red shift of a star's spectrum indicates that the star is ...\n\nA moving towards Earth.\nB moving away from Earth.\nC stationary relative to Earth.\nD rotating.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "doppler_effect",
+      "question": "The blue shift of a star's spectrum indicates that the star is ...\n\nA moving towards Earth.\nB moving away from Earth.\nC stationary relative to Earth.\nD rotating.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "doppler_effect",
+      "question": "In the Doppler effect for sound, the detected frequency depends on ...\n\nA the relative motion between the source and the listener.\nB the amplitude of the sound wave.\nC the distance between the source and the listener.\nD the medium through which the sound travels only.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "doppler_effect",
+      "question": "A sound source moves towards a stationary listener. The detected frequency is 850 Hz. The emitted frequency is 800 Hz. The speed of sound in air is 340 m/s. The speed of the source is ...\n\nA 15 m/s\nB 20 m/s\nC 25 m/s\nD 30 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "doppler_effect",
+      "question": "A police car with its siren sounding moves at a constant speed of 25 m/s towards a stationary observer. The frequency of the siren is 700 Hz. The speed of sound in air is 340 m/s. The change in frequency detected when the car passes the observer and moves away at the same speed is approximately ...\n\nA 52 Hz\nB 104 Hz\nC 148 Hz\nD 200 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "doppler_effect",
+      "question": "A car approaching a stationary observer sounds its horn at a frequency of 400 Hz. The observer detects a frequency of 440 Hz. The car then moves away from the observer at the same speed. The change in detected frequency is approximately ...\n\nA 37 Hz\nB 73 Hz\nC 110 Hz\nD 147 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "doppler_effect",
+      "question": "A bat emits ultrasound of frequency 50 kHz while flying towards a moth at 8 m/s. The moth is stationary. The speed of sound in air is 340 m/s. The frequency of the sound detected by the moth is approximately ...\n\nA 48.8 kHz\nB 50.0 kHz\nC 51.2 kHz\nD 52.4 kHz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "doppler_effect",
+      "question": "A bat emits ultrasound of frequency 50 kHz while flying towards a moth at 8 m/s. The moth is stationary. The sound reflects off the moth and is detected by the bat. The speed of sound in air is 340 m/s. The frequency detected by the bat is approximately ...\n\nA 50.0 kHz\nB 51.2 kHz\nC 52.4 kHz\nD 53.6 kHz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "doppler_effect",
+      "question": "Two cars, A and B, are moving towards each other. Car A moves at 20 m/s and car B moves at 15 m/s. Car A sounds its horn at a frequency of 600 Hz. The speed of sound in air is 340 m/s. The frequency detected by the driver of car B is approximately ...\n\nA 541.67 Hz\nB 600 Hz\nC 665.63 Hz\nD 720 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "doppler_effect",
+      "question": "Two cars, A and B, are moving away from each other. Car A moves at 20 m/s and car B moves at 15 m/s. Car A sounds its horn at a frequency of 600 Hz. The speed of sound in air is 340 m/s. The frequency detected by the driver of car B is approximately ...\n\nA 541.67 Hz\nB 600 Hz\nC 665.63 Hz\nD 720 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "doppler_effect",
+      "question": "A source of sound moves in a circle of radius 2 m at a constant speed of 10 m/s. A stationary observer is positioned at a large distance from the circle. The frequency of the sound emitted by the source is 800 Hz. The speed of sound in air is 340 m/s. The maximum frequency detected by the observer is approximately ...\n\nA 777 Hz\nB 800 Hz\nC 824 Hz\nD 850 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "doppler_effect",
+      "question": "A source of sound moves in a circle of radius 2 m at a constant speed of 10 m/s. A stationary observer is positioned at a large distance from the circle. The frequency of the sound emitted by the source is 800 Hz. The speed of sound in air is 340 m/s. The minimum frequency detected by the observer is approximately ...\n\nA 777 Hz\nB 800 Hz\nC 824 Hz\nD 850 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "doppler_effect",
+      "question": "A train passes a platform without stopping. The train's whistle emits sound at a constant frequency of 550 Hz. The train moves at a constant speed of 25 m/s. The speed of sound in air is 340 m/s. The frequency detected by a stationary observer as the train approaches is approximately ...\n\nA 512 Hz\nB 550 Hz\nC 594 Hz\nD 640 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "doppler_effect",
+      "question": "A train passes a platform without stopping. The train's whistle emits sound at a constant frequency of 550 Hz. The train moves at a constant speed of 25 m/s. The speed of sound in air is 340 m/s. The frequency detected by a stationary observer as the train moves away is approximately ...\n\nA 512 Hz\nB 550 Hz\nC 594 Hz\nD 640 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "doppler_effect",
+      "question": "A stationary observer hears the sound of a car horn. The car is moving towards the observer at 20 m/s. The frequency of the horn is 500 Hz. The speed of sound in air is 340 m/s. The frequency detected by the observer is approximately ...\n\nA 470 Hz\nB 500 Hz\nC 531 Hz\nD 560 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "doppler_effect",
+      "question": "A stationary observer hears the sound of a car horn. The car is moving away from the observer at 20 m/s. The frequency of the horn is 500 Hz. The speed of sound in air is 340 m/s. The frequency detected by the observer is approximately ...\n\nA 470 Hz\nB 500 Hz\nC 531 Hz\nD 560 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "doppler_effect",
+      "question": "A sound source of frequency 800 Hz moves at a constant speed towards a stationary listener. The listener detects a frequency of 850 Hz. The speed of sound in air is 340 m/s. The speed of the source is ...\n\nA 15 m/s\nB 20 m/s\nC 25 m/s\nD 30 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "doppler_effect",
+      "question": "A sound source emits sound of frequency 1000 Hz. The source moves towards a stationary listener at speed vs. The listener detects a frequency of 1100 Hz. The speed of sound in air is 340 m/s. The speed of the source is approximately ...\n\nA 25.0 m/s\nB 30.9 m/s\nC 35.5 m/s\nD 40.0 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "doppler_effect",
+      "question": "The Doppler effect is observed for ...\n\nA sound waves only.\nB light waves only.\nC both sound and light waves.\nD neither sound nor light waves.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

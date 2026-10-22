@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Login</title>
+</head>
+
+<body>
+
+    <h1>Login</h1>
+
+    <form id="login-form">
+
+        {% csrf_token %}
+
+        <input
+            type="text"
+            id="username"
+            name="username"
+            placeholder="Username"
+            required
+        >
+
+        <br><br>
+
+        <input
+            type="password"
+            id="password"
+            name="password"
+            placeholder="Password"
+            required
+        >
+
+        <br><br>
+
+        <button type="submit">
+            Login
+        </button>
+
+    </form>
+
+    <br>
+
+    <a href="#" id="forgot-password">
+        Forgot password?
+    </a>
+
+    <br><br>
+
+    <button
+        type="button"
+        id="logout-button"
+    >
+        Logout
+    </button>
+
+    <p id="message"></p>
+
+
+    <script>
+
+    /*
+     * Get a cookie by name.
+     */
+    function getCookie(name) {
+
+        const cookies =
+            document.cookie.split(";");
+
+        for (let cookie of cookies) {
+
+            cookie = cookie.trim();function getCookie(name) {
+
+        const cookies =
+            document.cookie.split(";");
+
+        for (let cookie of cookies) {
+
+            cookie = cookie.trim();
+
+            if (
+                cookie.startsWith(
+                    name + "="
+                )
+            ) {
+
+                return decodeURIComponent(
+                    cookie.substring(
+                        name.length + 1
+                    )
+                );
+            }
+        }
+
+        return null;
+    }
+
+            if (
+                cookie.startsWith(
+                    name + "="
+                )
+            ) {
+
+                return decodeURIComponent(
+                    cookie.substring(
+                        name.length + 1
+                    )
+                );
+            }
+        }
+
+        return null;
+    }
+
+
+    /*
+     * Get the Django CSRF token
+     * from the browser cookie.function getCookie(name) {
+
+        const cookies =
+            document.cookie.split(";");
+
+        for (let cookie of cookies) {
+
+            cookie = cookie.trim();
+
+            if (
+                cookie.startsWith(
+                    name + "="
+                )
+            ) {
+
+                return decodeURIComponent(
+                    cookie.substring(
+                        name.length + 1
+                    )
+                );
+            }
+        }
+
+        return null;
+    }
+     */
+    function getCSRFToken() {
+
+        return getCookie("csrftoken");
+    }
+
+
+    /*async function loginUser() 
+     * Login
+     */
+    async function loginUser() {
+
+        const username =
+            document.getElementById(
+                "username"
+            ).value;
+
+        const password =
+            document.getElementById(
+                "password"
+            ).value;
+
+        const csrfToken =
+            getCSRFToken();
+
+
+        console.log(
+            "CSRF token:",
+            csrfToken
+        );
+
+
+        try {
+
+            const response =
+                await fetch(
+                    "/auth/login/",
+                    {
+                        method: "POST",
+
+                        headers: {
+                            "Content-Type":
+                                "application/json",
+
+                            "X-CSRFToken":
+                                csrfToken
+                        },
+
+                        credentials:
+                            "include",
+
+                        body:
+                            JSON.stringify({
+                                username:
+                                    username,
+
+                                password:
+                                    password
+                            })
+                    }
+                );
+
+
+            const data =
+                await response.json();
+
+
+            console.log(
+                "Login status:",
+                response.status
+            );
+
+            console.log(
+                "Login response:",
+                data
+            );
+
+
+            if (response.ok) {
+
+                document.getElementById(
+                    "message"
+                ).textContent =
+                    data.message;
+
+
+                /*
+                 * Login successful.
+                 *
+                 * Navigate to the filesystem
+                 * directory test page.
+                 */
+                window.location.href =
+                    "http://127.0.0.1:8000/filesystem/directory_test_page/";
+
+
+            } else {
+
+                document.getElementById(
+                    "message"
+                ).textContent =
+                    data.error ||
+                    "Login failed.";
+            }
+
+
+        } catch (error) {
+
+            console.error(
+                "Login request failed:",
+                error
+            );
+
+            document.getElementById(
+                "message"
+            ).textContent =
+                "Unable to connect to the server.";
+        }
+    }
+
+
+    /*
+     * Password recovery
+     */
+    async function recoverPassword() {
+
+        const username =
+            document.getElementById(
+                "username"
+            ).value.trim();
+
+        const message =
+            document.getElementById(
+                "message"
+            );
+
+
+        if (!username) {
+
+            message.textContent =
+                "Enter your username first.";
+
+            document.getElementById(
+                "username"
+            ).focus();
+
+            return;
+        }
+
+
+        const csrfToken =
+            getCSRFToken();
+
+
+        message.textContent =
+            "Processing password recovery request...";
+
+
+        try {
+
+            const response =
+                await fetch(
+                    "/auth/password-recovery/",
+                    {
+                        method: "POST",
+
+                        headers: {
+                            "Content-Type":
+                                "application/json",
+
+                            "X-CSRFToken":
+                                csrfToken
+                        },
+
+                        credentials:
+                            "include",
+
+                        body:
+                            JSON.stringify({
+                                username:
+                                    username
+                            })
+                    }
+                );
+
+
+            const data =
+                await response.json();
+
+
+            console.log(
+                "Password recovery status:",
+                response.status
+            );
+
+            console.log(
+                "Password recovery response:",
+                data
+            );
+
+
+            message.textContent =
+                data.message ||
+                data.error ||
+                "Unable to process password recovery request.";
+
+
+        } catch (error) {
+
+            console.error(
+                "Password recovery request failed:",
+                error
+            );
+
+            message.textContent =
+                "Unable to connect to the server.";
+        }
+    }
+
+
+    /*
+     * Logout
+     */
+    async function logoutUser() {
+
+        const csrfToken =
+            getCSRFToken();
+
+        const message =
+            document.getElementById(
+                "message"
+            );
+
+
+        console.log(
+            "Logout CSRF token:",
+            csrfToken
+        );
+
+
+        if (!csrfToken) {
+
+            message.textContent =
+                "CSRF token not found.";
+
+            return;
+        }
+
+
+        try {
+
+            const response =
+                await fetch(
+                    "/auth/logout/",
+                    {
+                        method: "POST",
+
+                        headers: {
+                            "X-CSRFToken":
+                                csrfToken
+                        },
+
+                        credentials:
+                            "include"
+                    }
+                );
+
+
+            const data =
+                await response.json();
+
+
+            console.log(
+                "Logout status:",
+                response.status
+            );
+
+            console.log(
+                "Logout response:",
+                data
+            );
+
+
+            if (response.ok) {
+
+                window.location.href =
+                    "/auth/login/page/";
+
+            } else {
+
+                message.textContent =
+                    data.error ||
+                    "Logout failed.";
+            }
+
+
+        } catch (error) {
+
+            console.error(
+                "Logout request failed:",
+                error
+            );
+
+            message.textContent =
+                "Unable to connect to the server.";
+        }
+    }
+
+
+    /*
+     * Login form submission.
+     */
+    document
+        .getElementById("login-form")
+        .addEventListener(
+            "submit",
+            function (event) {
+
+                event.preventDefault();
+
+                loginUser();
+            }
+        );
+
+
+    /*
+     * Forgot password.
+     */
+    document
+        .getElementById("forgot-password")
+        .addEventListener(
+            "click",
+            function (event) {
+
+                event.preventDefault();
+
+                recoverPassword();
+            }
+        );
+
+
+    /*
+     * Logout button.
+     */
+    document
+        .getElementById("logout-button")
+        .addEventListener(
+            "click",
+            logoutUser
+        );
+
+</script>
+
+</body>
+
+</html>

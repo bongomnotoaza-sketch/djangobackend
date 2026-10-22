@@ -1,0 +1,608 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "vertical_projectile_motion",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground. Ignore air resistance. Which ONE of the following graphs best represents the acceleration versus time graph for the motion of the ball from the moment it is thrown until it returns to the ground?\n\nA A straight horizontal line at a positive value.\nB A straight horizontal line at a negative value.\nC A straight line with a positive gradient.\nD A straight line with a negative gradient.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "vertical_projectile_motion",
+      "question": "A stone is dropped from rest from the top of a tall building. Ignore air resistance. Which ONE of the following statements is CORRECT about the motion of the stone?\n\nA The velocity of the stone decreases.\nB The acceleration of the stone increases.\nC The acceleration of the stone remains constant.\nD The displacement of the stone decreases.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "vertical_projectile_motion",
+      "question": "A hot-air balloon is moving downwards at a constant velocity. A small stone is dropped from the balloon. Ignore the effects of friction on the stone. Which ONE of the following graphs represents the motions of the balloon and the stone?\n\nA The balloon and stone have the same velocity-time graph.\nB The balloon has a constant negative velocity and the stone has a constant positive velocity.\nC The balloon has a constant negative velocity and the stone has a velocity that increases in the negative direction.\nD The balloon has a constant negative velocity and the stone has a velocity that decreases in the negative direction.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a building. It rises to a maximum height and then falls to the ground below. Ignore air resistance. Which ONE of the following graphs best represents the velocity versus time graph for the motion of the ball?\n\nA A straight line with a positive gradient, crossing the time axis once.\nB A straight line with a negative gradient, crossing the time axis once.\nC A straight line with a positive gradient, crossing the time axis twice.\nD A straight line with a negative gradient, crossing the time axis twice.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "vertical_projectile_motion",
+      "question": "Two identical balls, A and B, are thrown vertically upwards from the same point at the same time. Ball A is thrown with an initial velocity of 10 m/s and ball B with an initial velocity of 20 m/s. Ignore air resistance. Which ONE of the following statements is CORRECT?\n\nA Ball A reaches a greater maximum height than ball B.\nB Both balls reach the same maximum height.\nC Ball B reaches a greater maximum height than ball A.\nD Ball A takes longer to reach its maximum height than ball B.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "vertical_projectile_motion",
+      "question": "Free fall is defined as motion under the influence of ...\n\nA weight/gravitational force only.\nB weight and air resistance.\nC a constant applied force.\nD zero net force.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 12 m/s. Ignore air resistance. The time it takes for the ball to reach its maximum height is ...\n\nA 0.61 s\nB 1.22 s\nC 2.45 s\nD 3.67 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "vertical_projectile_motion",
+      "question": "A stone is dropped from rest from the top of a building that is 45 m high. Ignore air resistance. The velocity with which the stone strikes the ground is ...\n\nA 14.85 m/s\nB 21.00 m/s\nC 29.70 m/s\nD 44.10 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 15 m/s. Ignore air resistance. The maximum height reached by the ball is ...\n\nA 5.74 m\nB 11.48 m\nC 22.96 m\nD 45.92 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a building 20 m high with an initial velocity of 10 m/s. The ball rises to a maximum height and then falls to the ground. Ignore air resistance. The total time the ball is in the air before it strikes the ground is ...\n\nA 1.64 s\nB 2.04 s\nC 3.28 s\nD 4.08 s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 18 m/s. Ignore air resistance. The total time the ball is in the air before it returns to the ground is ...\n\nA 1.84 s\nB 2.76 s\nC 3.67 s\nD 4.59 s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 20 m/s. Ignore air resistance. The velocity of the ball at a height of 10 m above the ground is ...\n\nA 10.00 m/s\nB 14.28 m/s\nC 17.32 m/s\nD 20.00 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a cliff 30 m high with an initial velocity of 8 m/s. The ball rises to a maximum height and then falls to the ground at the base of the cliff. Ignore air resistance. The velocity with which the ball strikes the ground is ...\n\nA 17.20 m/s\nB 21.54 m/s\nC 25.53 m/s\nD 30.00 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is dropped from rest from the top of a building 50 m high. At the same instant, a second ball is thrown vertically upwards from the ground with an initial velocity of 25 m/s. Ignore air resistance. The time it takes for the two balls to meet is ...\n\nA 1.0 s\nB 1.5 s\nC 2.0 s\nD 2.5 s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 15 m/s. Ignore air resistance. The time at which the ball reaches maximum height is ...\n\nA 0.77 s\nB 1.53 s\nC 2.30 s\nD 3.06 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 15 m/s. Ignore air resistance. The velocity with which the ball returns to the ground is ...\n\nA 7.5 m/s\nB 15 m/s\nC 22.5 m/s\nD 30 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground. It reaches a maximum height of 20 m. Ignore air resistance. The initial velocity of the ball is ...\n\nA 14.00 m/s\nB 19.80 m/s\nC 28.00 m/s\nD 39.60 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "vertical_projectile_motion",
+      "question": "A stone is thrown vertically downwards from the top of a building 60 m high with an initial velocity of 5 m/s. Ignore air resistance. The time it takes for the stone to reach the ground is ...\n\nA 2.50 s\nB 3.03 s\nC 3.50 s\nD 4.00 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 25 m/s. Ignore air resistance. The maximum height reached by the ball is ...\n\nA 15.95 m\nB 31.89 m\nC 47.84 m\nD 63.78 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 25 m/s. Ignore air resistance. The total time the ball is in the air is ...\n\nA 2.55 s\nB 3.83 s\nC 5.10 s\nD 6.38 s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a building 25 m high with an initial velocity of 12 m/s. The ball rises to a maximum height and then falls to the ground. Ignore air resistance. The maximum height above the building reached by the ball is ...\n\nA 3.67 m\nB 7.35 m\nC 11.02 m\nD 14.69 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a building 25 m high with an initial velocity of 12 m/s. The ball rises to a maximum height and then falls to the ground. Ignore air resistance. The total time the ball is in the air before it strikes the ground is ...\n\nA 2.45 s\nB 3.79 s\nC 4.12 s\nD 5.06 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 30 m/s. Ignore air resistance. The velocity of the ball at a height of 25 m above the ground is ...\n\nA 15.00 m/s\nB 20.25 m/s\nC 25.00 m/s\nD 30.00 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 30 m/s. It bounces back to a maximum height of 20 m. The collision with the ground is ...\n\nA elastic because kinetic energy is conserved.\nB inelastic because the height decreased and kinetic energy is not conserved.\nC elastic because the ball bounces back.\nD inelastic because the ball sticks to the ground.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "vertical_projectile_motion",
+      "question": "The acceleration of an object in free fall near the Earth's surface is approximately ...\n\nA 0 m/s^2\nB 4.9 m/s^2 downwards\nC 9.8 m/s^2 downwards\nD 19.6 m/s^2 downwards\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "vertical_projectile_motion",
+      "question": "The gradient of a velocity versus time graph for an object in free fall represents ...\n\nA displacement.\nB acceleration.\nC velocity.\nD time.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "vertical_projectile_motion",
+      "question": "The area under a velocity versus time graph for an object in free fall represents ...\n\nA displacement.\nB acceleration.\nC velocity.\nD time.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "vertical_projectile_motion",
+      "question": "The equation vf = vi + aΔt can be used to calculate ...\n\nA displacement.\nB final velocity.\nC acceleration.\nD time only.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "vertical_projectile_motion",
+      "question": "The equation vf^2 = vi^2 + 2aΔy can be used to calculate ...\n\nA displacement without time.\nB time without displacement.\nC acceleration without velocity.\nD velocity without acceleration.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "vertical_projectile_motion",
+      "question": "The equation Δy = viΔt + ½aΔt² can be used to calculate ...\n\nA displacement.\nB final velocity.\nC acceleration only.\nD time only.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "vertical_projectile_motion",
+      "question": "At the maximum height of a vertically projected object, the velocity is ...\n\nA maximum.\nB zero.\nC equal to the initial velocity.\nD negative.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "vertical_projectile_motion",
+      "question": "At the maximum height of a vertically projected object, the acceleration is ...\n\nA zero.\nB 9.8 m/s^2 upwards.\nC 9.8 m/s^2 downwards.\nD equal to the initial velocity.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards and returns to the thrower's hand. The time taken to go up is ...\n\nA greater than the time taken to come down.\nB less than the time taken to come down.\nC equal to the time taken to come down.\nD zero.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards and returns to the thrower's hand. The speed with which it returns is ...\n\nA greater than the initial speed.\nB less than the initial speed.\nC equal to the initial speed.\nD zero.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is dropped from rest from a height h. The time it takes to reach the ground is ...\n\nA √(2h/g)\nB √(h/g)\nC 2h/g\nD h/g\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is dropped from rest from a height h. The velocity with which it strikes the ground is ...\n\nA √(2gh)\nB √(gh)\nC 2gh\nD gh\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards with initial velocity vi. The maximum height reached is ...\n\nA vi^2 / (2g)\nB vi^2 / g\nC vi / (2g)\nD vi / g\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards with initial velocity vi. The time to reach maximum height is ...\n\nA vi / g\nB vi / (2g)\nC 2vi / g\nD vi^2 / g\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards with initial velocity vi. The total time in the air is ...\n\nA vi / g\nB 2vi / g\nC vi / (2g)\nD vi^2 / g\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 40 m/s. Ignore air resistance. The maximum height reached by the ball is approximately ...\n\nA 40.82 m\nB 81.63 m\nC 122.45 m\nD 163.27 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 40 m/s. Ignore air resistance. The total time the ball is in the air is approximately ...\n\nA 4.08 s\nB 8.16 s\nC 12.24 s\nD 16.32 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "vertical_projectile_motion",
+      "question": "A stone is dropped from rest from the top of a building 80 m high. Ignore air resistance. The time it takes for the stone to reach the ground is approximately ...\n\nA 2.86 s\nB 4.04 s\nC 5.71 s\nD 8.08 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "vertical_projectile_motion",
+      "question": "A stone is dropped from rest from the top of a building 80 m high. Ignore air resistance. The velocity with which the stone strikes the ground is approximately ...\n\nA 19.80 m/s\nB 28.00 m/s\nC 39.60 m/s\nD 56.00 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 35 m/s. Ignore air resistance. The maximum height reached by the ball is approximately ...\n\nA 31.25 m\nB 62.50 m\nC 93.75 m\nD 125.00 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 35 m/s. Ignore air resistance. The total time the ball is in the air is approximately ...\n\nA 3.57 s\nB 7.14 s\nC 10.71 s\nD 14.28 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 10 m/s. Ignore air resistance. The velocity of the ball at a height of 3 m above the ground is approximately ...\n\nA 2.00 m/s\nB 4.00 m/s\nC 6.63 m/s\nD 8.00 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a building 15 m high with an initial velocity of 6 m/s. The ball rises to a maximum height and then falls to the ground. Ignore air resistance. The maximum height above the building reached by the ball is approximately ...\n\nA 1.84 m\nB 3.67 m\nC 5.51 m\nD 7.35 m\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a building 15 m high with an initial velocity of 6 m/s. The ball rises to a maximum height and then falls to the ground. Ignore air resistance. The total time the ball is in the air before it strikes the ground is approximately ...\n\nA 2.00 s\nB 2.45 s\nC 3.00 s\nD 3.45 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 8 m/s. Ignore air resistance. The time at which the ball reaches maximum height is approximately ...\n\nA 0.41 s\nB 0.82 s\nC 1.63 s\nD 3.27 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 8 m/s. Ignore air resistance. The maximum height reached by the ball is approximately ...\n\nA 1.63 m\nB 3.27 m\nC 4.90 m\nD 6.53 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 8 m/s. Ignore air resistance. The total time the ball is in the air is approximately ...\n\nA 0.82 s\nB 1.63 s\nC 2.45 s\nD 3.27 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is dropped from rest from a height of 20 m. Ignore air resistance. The time it takes to reach the ground is approximately ...\n\nA 1.43 s\nB 2.02 s\nC 2.86 s\nD 4.04 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is dropped from rest from a height of 20 m. Ignore air resistance. The velocity with which it strikes the ground is approximately ...\n\nA 14.00 m/s\nB 19.80 m/s\nC 28.00 m/s\nD 39.60 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 45 m/s. Ignore air resistance. The maximum height reached by the ball is approximately ...\n\nA 51.66 m\nB 103.32 m\nC 154.98 m\nD 206.64 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 45 m/s. Ignore air resistance. The total time the ball is in the air is approximately ...\n\nA 4.59 s\nB 9.18 s\nC 13.77 s\nD 18.36 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 22 m/s. Ignore air resistance. The velocity of the ball at a height of 15 m above the ground is approximately ...\n\nA 11.00 m/s\nB 15.56 m/s\nC 22.00 m/s\nD 27.00 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a building 40 m high with an initial velocity of 15 m/s. The ball rises to a maximum height and then falls to the ground. Ignore air resistance. The maximum height above the building reached by the ball is approximately ...\n\nA 5.74 m\nB 11.48 m\nC 17.22 m\nD 22.96 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a building 40 m high with an initial velocity of 15 m/s. The ball rises to a maximum height and then falls to the ground. Ignore air resistance. The total time the ball is in the air before it strikes the ground is approximately ...\n\nA 3.06 s\nB 4.48 s\nC 5.10 s\nD 6.12 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the top of a building 40 m high with an initial velocity of 15 m/s. The ball rises to a maximum height and then falls to the ground. Ignore air resistance. The velocity with which the ball strikes the ground is approximately ...\n\nA 15.00 m/s\nB 25.00 m/s\nC 31.62 m/s\nD 40.00 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "vertical_projectile_motion",
+      "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 50 m/s. Ignore air resistance. The velocity of the ball at a height of 100 m above the ground is approximately ...\n\nA 10.00 m/s\nB 22.36 m/s\nC 31.62 m/s\nD 50.00 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

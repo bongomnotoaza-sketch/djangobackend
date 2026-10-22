@@ -1,0 +1,208 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "alternating_current",
+  "count": 20,
+  "questions": [
+    {
+      "label": "1.1",
+      "topic": "alternating_current",
+      "question": "1.1\nDefine the term rms potential difference.\n\n(2)",
+      "answer": "1.1\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nThe AC potential difference/voltage that produces/dissipates the same amount of energy as an equivalent DC potential difference/voltage.\n\nNOTE: If DC written first/energy or heating effect is omitted/alternating current is defined: 0/2\n\n(2)",
+      "paper_pages": [15, 15],
+      "memo_pages": [18, 18],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.2",
+      "topic": "alternating_current",
+      "question": "1.2\nAn AC generator produces a maximum potential difference of 340 V. The rms potential difference is ...\n\nA 170 V\nB 240 V\nC 340 V\nD 480 V\n\n(2)",
+      "answer": "1.2\nB\n(2)",
+      "paper_pages": [15, 15],
+      "memo_pages": [18, 18],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.3",
+      "topic": "alternating_current",
+      "question": "1.3\nThe main difference between an AC generator and a DC generator is that an AC generator has ...\n\nA a commutator.\nB slip rings.\nC a permanent magnet.\nD a coil.\n\n(2)",
+      "answer": "1.3\nB\n(2)",
+      "paper_pages": [15, 15],
+      "memo_pages": [18, 18],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.4",
+      "topic": "alternating_current",
+      "question": "1.4\nA coil rotates at a constant speed in a uniform magnetic field. The induced emf is maximum when the plane of the coil is ...\n\nA parallel to the magnetic field.\nB perpendicular to the magnetic field.\nC at 45° to the magnetic field.\nD at 60° to the magnetic field.\n\n(2)",
+      "answer": "1.4\nA\n(2)",
+      "paper_pages": [15, 15],
+      "memo_pages": [18, 18],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.5",
+      "topic": "alternating_current",
+      "question": "1.5\nThe resistance of a fan is 60 Ω and the maximum potential difference produced by the generator is 311.11 V. The average power dissipated by the fan is approximately ...\n\nA 400 W\nB 600 W\nC 807 W\nD 1200 W\n\n(2)",
+      "answer": "1.5\nC\n(2)",
+      "paper_pages": [15, 15],
+      "memo_pages": [18, 18],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.1",
+      "topic": "alternating_current",
+      "question": "2.1\nDefine the term rms potential difference.\n\n(2)",
+      "answer": "2.1\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nThe AC potential difference/voltage that produces/dissipates the same amount of energy as an equivalent DC potential difference/voltage.\n\nNOTE: If DC written first/energy or heating effect is omitted/alternating current is defined: 0/2\n\n(2)",
+      "paper_pages": [16, 16],
+      "memo_pages": [19, 19],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.2",
+      "topic": "alternating_current",
+      "question": "2.2\nAn AC generator operates a fan. The directions of the rotation of the coil and the induced current are shown in the simplified diagram below.\n\nWhat is the polarity of the magnet at Z?\n\n(2)",
+      "answer": "2.2\nN/North/Noord\n\n(2)",
+      "paper_pages": [16, 16],
+      "memo_pages": [19, 19],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.3",
+      "topic": "alternating_current",
+      "question": "2.3\nThe resistance of the fan is 60 Ω and the maximum potential difference produced by the generator is 311.11 V.\n\nCalculate the cost of operating the fan for 1.5 hours if the cost of electricity is R3.33 per kWh.\n\n(5)",
+      "answer": "2.3\n\nOPTION 1\nVrms = Vmax/√2\n= 311.11/√2\n= 219.99 V\n\nPave = Vrms²/R\n= (219.99)²/60\n= 806.59 W\n= 0.80659 kW\n\ncost = PΔt × tariff\n= 0.80659(1.5)(3.33)\n= R4.03\n\nOPTION 2\nVrms = Vmax/√2\n= 311.11/√2\n= 219.99 V\n\nPave = Vrms²/R\n= (219.99)²/60\n= 806.59 W\n= 0.80659 kW\n\nE = PΔt\n= 0.80659(1.5)\n= 1.21 kWh\n\ncost = E × tariff\n= 1.21(3.33)\n= R4.03\n\nOPTION 3\nPave = VrmsIrms\n= (311.11/√2)(220/60)\n= 806.67 W\n= 0.8067 kW\n\ncost = PΔt × tariff\n= 0.8067(1.5)(3.33)\n= R4.03\n\nOPTION 4\nVrms = Vmax/√2\n= 311.11/√2\n= 219.99 V\n\nW = V²/R × Δt\n= (219.99)²/60 × (1.5)(10⁻³)\n= 1.21 kWh\n\nCost = E × tariff\n= (1.21)(3.33)\n= R4.03\n\n(5)",
+      "paper_pages": [16, 16],
+      "memo_pages": [19, 19],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.4",
+      "topic": "alternating_current",
+      "question": "2.4\nThe voltage versus time graph for this generator is given below.\n\nVoltage (V) vs Time (s): A cosine graph with a maximum of 311.11 V and a period of 4 s.\n\nRedraw this graph in the ANSWER BOOK and label it as A. On the same set of axes, draw the graph for ONE rotation of the coil when the speed of rotation is doubled. Label this as graph B.\n\n(3)",
+      "answer": "2.4\n\nMarking criteria:\n• Amplitude of graph B bigger than that of graph A\n• Period of B is half of A\n• Correct shape and one cycle (cosine graph)\n\n(3)",
+      "paper_pages": [16, 16],
+      "memo_pages": [19, 20],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.5",
+      "topic": "alternating_current",
+      "question": "2.5\nState ONE way in which this generator can be changed to a DC generator.\n\n(1)",
+      "answer": "2.5\nBy replacing slip rings with split ring commutator / split ring / commutator.\n\n(1)",
+      "paper_pages": [16, 16],
+      "memo_pages": [19, 19],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.1",
+      "topic": "alternating_current",
+      "question": "3.1\nAn AC generator produces a maximum potential difference of 240 V. The resistance of the appliance connected to the generator is 80 Ω.\n\n3.1.1 Calculate the rms potential difference.\n\n3.1.2 Calculate the average power dissipated by the appliance.\n\n3.1.3 Calculate the cost of operating the appliance for 2 hours if the cost of electricity is R2.50 per kWh.\n\n(8)",
+      "answer": "3.1.1\n\nVrms = Vmax/√2\nVrms = 240/√2\nVrms = 169.71 V\n\n(2)\n\n3.1.2\n\nPave = Vrms²/R\nPave = (169.71)²/80\nPave = 360.00 W\nPave = 0.36 kW\n\n(3)\n\n3.1.3\n\nE = PΔt\nE = 0.36 × 2\nE = 0.72 kWh\n\nCost = E × tariff\nCost = 0.72 × 2.50\nCost = R1.80\n\n(3)\n\n(8)",
+      "paper_pages": [17, 17],
+      "memo_pages": [20, 20],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.2",
+      "topic": "alternating_current",
+      "question": "3.2\nAn AC generator produces a voltage that varies with time as shown in the graph below.\n\nVoltage (V) vs Time (s): A cosine graph with a maximum of 200 V and a period of 0.02 s.\n\n3.2.1 Write down the maximum voltage.\n\n3.2.2 Calculate the rms voltage.\n\n3.2.3 Calculate the frequency of the AC voltage.\n\n3.2.4 Calculate the average power dissipated in a 50 Ω resistor connected to this generator.\n\n(8)",
+      "answer": "3.2.1\n\nVmax = 200 V\n\n(1)\n\n3.2.2\n\nVrms = Vmax/√2\nVrms = 200/√2\nVrms = 141.42 V\n\n(2)\n\n3.2.3\n\nT = 0.02 s\nf = 1/T\nf = 1/0.02\nf = 50 Hz\n\n(2)\n\n3.2.4\n\nPave = Vrms²/R\nPave = (141.42)²/50\nPave = 400.00 W\n\n(3)\n\n(8)",
+      "paper_pages": [17, 17],
+      "memo_pages": [20, 21],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.3",
+      "topic": "alternating_current",
+      "question": "3.3\nAn AC generator has a coil of 200 turns and a cross-sectional area of 0.02 m². The coil rotates at 50 revolutions per second in a uniform magnetic field of magnitude 0.5 T.\n\n3.3.1 Calculate the maximum induced emf.\n\n3.3.2 Calculate the rms emf.\n\n3.3.3 Write down the expression for the induced emf as a function of time.\n\n(7)",
+      "answer": "3.3.1\n\nεmax = NABω\nω = 2πf = 2π(50) = 314.16 rad·s⁻¹\nεmax = (200)(0.02)(0.5)(314.16)\nεmax = 628.32 V\n\n(3)\n\n3.3.2\n\nεrms = εmax/√2\nεrms = 628.32/√2\nεrms = 444.29 V\n\n(2)\n\n3.3.3\n\nε(t) = εmax cos(ωt)\nε(t) = 628.32 cos(314.16t)\n\n(2)\n\n(7)",
+      "paper_pages": [17, 18],
+      "memo_pages": [21, 21],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.1",
+      "topic": "alternating_current",
+      "question": "4.1\nAn AC generator produces a maximum potential difference of 500 V. The generator is connected to a heater of resistance 100 Ω.\n\n4.1.1 Calculate the rms potential difference.\n\n4.1.2 Calculate the average power dissipated by the heater.\n\n4.1.3 Calculate the energy dissipated by the heater in 3 hours.\n\n4.1.4 Calculate the cost of operating the heater for 3 hours if the cost of electricity is R2.80 per kWh.\n\n(10)",
+      "answer": "4.1.1\n\nVrms = Vmax/√2\nVrms = 500/√2\nVrms = 353.55 V\n\n(2)\n\n4.1.2\n\nPave = Vrms²/R\nPave = (353.55)²/100\nPave = 1250.00 W\nPave = 1.25 kW\n\n(3)\n\n4.1.3\n\nE = PΔt\nE = 1.25 × 3\nE = 3.75 kWh\n\n(2)\n\n4.1.4\n\nCost = E × tariff\nCost = 3.75 × 2.80\nCost = R10.50\n\n(3)\n\n(10)",
+      "paper_pages": [18, 18],
+      "memo_pages": [21, 21],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.2",
+      "topic": "alternating_current",
+      "question": "4.2\nAn AC generator produces a voltage that varies with time as shown in the graph below.\n\nVoltage (V) vs Time (s): A cosine graph with a maximum of 150 V and a period of 0.04 s.\n\n4.2.1 Write down the maximum voltage.\n\n4.2.2 Calculate the rms voltage.\n\n4.2.3 Calculate the frequency of the AC voltage.\n\n4.2.4 Calculate the average power dissipated in a 75 Ω resistor connected to this generator.\n\n4.2.5 Calculate the cost of operating this resistor for 4 hours if the cost of electricity is R3.00 per kWh.\n\n(10)",
+      "answer": "4.2.1\n\nVmax = 150 V\n\n(1)\n\n4.2.2\n\nVrms = Vmax/√2\nVrms = 150/√2\nVrms = 106.07 V\n\n(2)\n\n4.2.3\n\nT = 0.04 s\nf = 1/T\nf = 1/0.04\nf = 25 Hz\n\n(2)\n\n4.2.4\n\nPave = Vrms²/R\nPave = (106.07)²/75\nPave = 150.00 W\nPave = 0.15 kW\n\n(3)\n\n4.2.5\n\nE = PΔt\nE = 0.15 × 4\nE = 0.60 kWh\n\nCost = E × tariff\nCost = 0.60 × 3.00\nCost = R1.80\n\n(2)\n\n(10)",
+      "paper_pages": [18, 18],
+      "memo_pages": [21, 22],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.3",
+      "topic": "alternating_current",
+      "question": "4.3\nAn AC generator has a coil of 150 turns and a cross-sectional area of 0.03 m². The coil rotates at 60 revolutions per second in a uniform magnetic field of magnitude 0.4 T.\n\n4.3.1 Calculate the maximum induced emf.\n\n4.3.2 Calculate the rms emf.\n\n4.3.3 Write down the expression for the induced emf as a function of time.\n\n(7)",
+      "answer": "4.3.1\n\nεmax = NABω\nω = 2πf = 2π(60) = 376.99 rad·s⁻¹\nεmax = (150)(0.03)(0.4)(376.99)\nεmax = 678.58 V\n\n(3)\n\n4.3.2\n\nεrms = εmax/√2\nεrms = 678.58/√2\nεrms = 479.83 V\n\n(2)\n\n4.3.3\n\nε(t) = εmax cos(ωt)\nε(t) = 678.58 cos(376.99t)\n\n(2)\n\n(7)",
+      "paper_pages": [18, 19],
+      "memo_pages": [22, 22],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.1",
+      "topic": "alternating_current",
+      "question": "5.1\nAn AC generator produces a maximum potential difference of 400 V. The generator is connected to a device of resistance 120 Ω.\n\n5.1.1 Calculate the rms potential difference.\n\n5.1.2 Calculate the average power dissipated by the device.\n\n5.1.3 Calculate the cost of operating the device for 5 hours if the cost of electricity is R2.20 per kWh.\n\n(8)",
+      "answer": "5.1.1\n\nVrms = Vmax/√2\nVrms = 400/√2\nVrms = 282.84 V\n\n(2)\n\n5.1.2\n\nPave = Vrms²/R\nPave = (282.84)²/120\nPave = 666.67 W\nPave = 0.6667 kW\n\n(3)\n\n5.1.3\n\nE = PΔt\nE = 0.6667 × 5\nE = 3.33 kWh\n\nCost = E × tariff\nCost = 3.33 × 2.20\nCost = R7.33\n\n(3)\n\n(8)",
+      "paper_pages": [19, 19],
+      "memo_pages": [22, 22],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2",
+      "topic": "alternating_current",
+      "question": "5.2\nAn AC generator produces a voltage that varies with time as shown in the graph below.\n\nVoltage (V) vs Time (s): A cosine graph with a maximum of 100 V and a period of 0.01 s.\n\n5.2.1 Write down the maximum voltage.\n\n5.2.2 Calculate the rms voltage.\n\n5.2.3 Calculate the frequency of the AC voltage.\n\n5.2.4 Calculate the average power dissipated in a 25 Ω resistor connected to this generator.\n\n5.2.5 Calculate the cost of operating this resistor for 8 hours if the cost of electricity is R1.80 per kWh.\n\n(10)",
+      "answer": "5.2.1\n\nVmax = 100 V\n\n(1)\n\n5.2.2\n\nVrms = Vmax/√2\nVrms = 100/√2\nVrms = 70.71 V\n\n(2)\n\n5.2.3\n\nT = 0.01 s\nf = 1/T\nf = 1/0.01\nf = 100 Hz\n\n(2)\n\n5.2.4\n\nPave = Vrms²/R\nPave = (70.71)²/25\nPave = 200.00 W\nPave = 0.20 kW\n\n(3)\n\n5.2.5\n\nE = PΔt\nE = 0.20 × 8\nE = 1.60 kWh\n\nCost = E × tariff\nCost = 1.60 × 1.80\nCost = R2.88\n\n(2)\n\n(10)",
+      "paper_pages": [19, 19],
+      "memo_pages": [22, 23],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3",
+      "topic": "alternating_current",
+      "question": "5.3\nAn AC generator has a coil of 100 turns and a cross-sectional area of 0.05 m². The coil rotates at 40 revolutions per second in a uniform magnetic field of magnitude 0.6 T.\n\n5.3.1 Calculate the maximum induced emf.\n\n5.3.2 Calculate the rms emf.\n\n5.3.3 Write down the expression for the induced emf as a function of time.\n\n(7)",
+      "answer": "5.3.1\n\nεmax = NABω\nω = 2πf = 2π(40) = 251.33 rad·s⁻¹\nεmax = (100)(0.05)(0.6)(251.33)\nεmax = 753.99 V\n\n(3)\n\n5.3.2\n\nεrms = εmax/√2\nεrms = 753.99/√2\nεrms = 533.15 V\n\n(2)\n\n5.3.3\n\nε(t) = εmax cos(ωt)\nε(t) = 753.99 cos(251.33t)\n\n(2)\n\n(7)",
+      "paper_pages": [19, 20],
+      "memo_pages": [23, 23],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.4",
+      "topic": "alternating_current",
+      "question": "5.4\nAn AC generator produces a maximum potential difference of 311.11 V. The resistance of the fan is 60 Ω.\n\n5.4.1 Calculate the rms potential difference.\n\n5.4.2 Calculate the average power dissipated by the fan.\n\n5.4.3 Calculate the cost of operating the fan for 1.5 hours if the cost of electricity is R3.33 per kWh.\n\n5.4.4 Redraw the voltage versus time graph for this generator in the ANSWER BOOK and label it as A. On the same set of axes, draw the graph for ONE rotation of the coil when the speed of rotation is doubled. Label this as graph B.\n\n5.4.5 State ONE way in which this generator can be changed to a DC generator.\n\n(13)",
+      "answer": "5.4.1\n\nVrms = Vmax/√2\nVrms = 311.11/√2\nVrms = 219.99 V\n\n(2)\n\n5.4.2\n\nPave = Vrms²/R\nPave = (219.99)²/60\nPave = 806.59 W\nPave = 0.80659 kW\n\n(3)\n\n5.4.3\n\nE = PΔt\nE = 0.80659 × 1.5\nE = 1.21 kWh\n\nCost = E × tariff\nCost = 1.21 × 3.33\nCost = R4.03\n\n(3)\n\n5.4.4\n\nMarking criteria:\n• Amplitude of graph B bigger than that of graph A\n• Period of B is half of A\n• Correct shape and one cycle (cosine graph)\n\n(3)\n\n5.4.5\n\nBy replacing slip rings with split ring commutator / split ring / commutator.\n\n(2)\n\n(13)",
+      "paper_pages": [20, 20],
+      "memo_pages": [23, 24],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

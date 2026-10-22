@@ -1,0 +1,608 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "alternating_current",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "alternating_current",
+      "question": "The rms potential difference of an AC source is defined as the AC potential difference that...\n\nA has the same frequency as an equivalent DC source\nB produces the same amount of energy as an equivalent DC potential difference\nC has the same maximum value as an equivalent DC source\nD reverses direction at the same rate as an equivalent DC source\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "alternating_current",
+      "question": "An AC generator produces a maximum potential difference of 340 V. The rms potential difference is ...\n\nA 170 V\nB 240 V\nC 340 V\nD 480 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "alternating_current",
+      "question": "The relationship between rms voltage and maximum voltage is:\n\nA Vrms = Vmax\nB Vrms = Vmax x sqrt(2)\nC Vrms = Vmax / sqrt(2)\nD Vrms = Vmax / 2\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "alternating_current",
+      "question": "An AC generator produces a maximum potential difference of 500 V. The rms potential difference is approximately ...\n\nA 250 V\nB 354 V\nC 500 V\nD 707 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "alternating_current",
+      "question": "An AC generator produces a maximum potential difference of 240 V. The rms potential difference is approximately ...\n\nA 120 V\nB 170 V\nC 240 V\nD 339 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "alternating_current",
+      "question": "An AC generator produces a maximum potential difference of 400 V. The rms potential difference is approximately ...\n\nA 200 V\nB 283 V\nC 400 V\nD 566 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "alternating_current",
+      "question": "An AC generator produces a maximum potential difference of 150 V. The rms potential difference is approximately ...\n\nA 75 V\nB 106 V\nC 150 V\nD 212 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "alternating_current",
+      "question": "An AC generator produces a maximum potential difference of 100 V. The rms potential difference is approximately ...\n\nA 50 V\nB 71 V\nC 100 V\nD 141 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "alternating_current",
+      "question": "An AC generator produces a maximum potential difference of 200 V. The rms potential difference is approximately ...\n\nA 100 V\nB 141 V\nC 200 V\nD 283 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "alternating_current",
+      "question": "An AC generator produces a maximum potential difference of 311.11 V. The rms potential difference is approximately ...\n\nA 155.56 V\nB 220 V\nC 311.11 V\nD 440 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "alternating_current",
+      "question": "If the rms potential difference of an AC source is 220 V, the maximum potential difference is approximately ...\n\nA 110 V\nB 155.56 V\nC 311.11 V\nD 440 V\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "alternating_current",
+      "question": "If the rms potential difference of an AC source is 141.42 V, the maximum potential difference is ...\n\nA 70.71 V\nB 100 V\nC 200 V\nD 282.84 V\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "alternating_current",
+      "question": "If the rms potential difference of an AC source is 169.71 V, the maximum potential difference is ...\n\nA 84.86 V\nB 120 V\nC 240 V\nD 339.42 V\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "alternating_current",
+      "question": "If the rms potential difference of an AC source is 70.71 V, the maximum potential difference is ...\n\nA 35.36 V\nB 50 V\nC 100 V\nD 141.42 V\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "alternating_current",
+      "question": "If the rms potential difference of an AC source is 106.07 V, the maximum potential difference is ...\n\nA 53.04 V\nB 75 V\nC 150 V\nD 212.14 V\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "alternating_current",
+      "question": "The main difference between an AC generator and a DC generator is that an AC generator has ...\n\nA a commutator\nB slip rings\nC a permanent magnet\nD a coil\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "alternating_current",
+      "question": "A DC generator uses a ______ to convert AC to DC.\n\nA slip ring\nB commutator\nC transformer\nD capacitor\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "alternating_current",
+      "question": "To change an AC generator to a DC generator, one should replace the ...\n\nA coil with a permanent magnet\nB slip rings with a split ring commutator\nC magnetic field with an electric field\nD commutator with slip rings\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "alternating_current",
+      "question": "Which component is found in an AC generator but NOT in a DC generator?\n\nA Coil\nB Magnet\nC Slip rings\nD Commutator\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "alternating_current",
+      "question": "Which component is found in a DC generator but NOT in an AC generator?\n\nA Coil\nB Magnet\nC Slip rings\nD Split ring commutator\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "alternating_current",
+      "question": "Slip rings in an AC generator are used to ...\n\nA reverse the current direction every half rotation\nB maintain the current direction in the external circuit\nC connect the rotating coil to the external circuit without reversing current direction\nD increase the magnitude of the induced emf\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "alternating_current",
+      "question": "A commutator in a DC generator is used to ...\n\nA maintain the current direction in the external circuit\nB reverse the current direction every half rotation\nC connect the coil to the external circuit without changing current direction\nD decrease the magnitude of the induced emf\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "alternating_current",
+      "question": "A coil rotates at a constant speed in a uniform magnetic field. The induced emf is maximum when the plane of the coil is ...\n\nA parallel to the magnetic field\nB perpendicular to the magnetic field\nC at 45 degrees to the magnetic field\nD at 60 degrees to the magnetic field\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "alternating_current",
+      "question": "A coil rotates at a constant speed in a uniform magnetic field. The induced emf is zero when the plane of the coil is ...\n\nA parallel to the magnetic field\nB perpendicular to the magnetic field\nC at 45 degrees to the magnetic field\nD at 60 degrees to the magnetic field\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "alternating_current",
+      "question": "The maximum induced emf in a rotating coil is given by:\n\nA emf_max = NAB\nB emf_max = NABw\nC emf_max = NAB / w\nD emf_max = NABw^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "alternating_current",
+      "question": "A coil of 200 turns and cross-sectional area 0.02 m^2 rotates at 50 rev/s in a 0.5 T magnetic field. The maximum induced emf is approximately ...\n\nA 314 V\nB 628 V\nC 100 V\nD 200 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "alternating_current",
+      "question": "A coil of 150 turns and cross-sectional area 0.03 m^2 rotates at 60 rev/s in a 0.4 T magnetic field. The maximum induced emf is approximately ...\n\nA 339 V\nB 679 V\nC 150 V\nD 453 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "alternating_current",
+      "question": "A coil of 100 turns and cross-sectional area 0.05 m^2 rotates at 40 rev/s in a 0.6 T magnetic field. The maximum induced emf is approximately ...\n\nA 377 V\nB 754 V\nC 251 V\nD 502 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "alternating_current",
+      "question": "In the expression emf(t) = emf_max cos(wt), the angular frequency w is equal to:\n\nA pi x f\nB 2 x pi x f\nC f / (2 x pi)\nD pi x f^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "alternating_current",
+      "question": "A coil rotates at 50 rev/s. The angular frequency w is:\n\nA 50 rad/s\nB 100 rad/s\nC 314.16 rad/s\nD 628.32 rad/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "alternating_current",
+      "question": "A coil rotates at 60 rev/s. The angular frequency w is:\n\nA 60 rad/s\nB 120 rad/s\nC 376.99 rad/s\nD 753.98 rad/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "alternating_current",
+      "question": "A coil rotates at 40 rev/s. The angular frequency w is:\n\nA 40 rad/s\nB 80 rad/s\nC 251.33 rad/s\nD 502.65 rad/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "alternating_current",
+      "question": "The average power dissipated in a resistor connected to an AC source is given by:\n\nA Pave = Vrms^2 / R\nB Pave = Vrms^2 x R\nC Pave = Vrms / R\nD Pave = Vrms x R^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "alternating_current",
+      "question": "A fan has resistance 60 ohm and is connected to a generator with maximum potential difference 311.11 V. The average power dissipated is approximately ...\n\nA 400 W\nB 600 W\nC 807 W\nD 1200 W\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "alternating_current",
+      "question": "A heater of resistance 100 ohm is connected to a generator with maximum potential difference 500 V. The average power dissipated is ...\n\nA 625 W\nB 1250 W\nC 2500 W\nD 5000 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "alternating_current",
+      "question": "An appliance of resistance 80 ohm is connected to a generator with maximum potential difference 240 V. The average power dissipated is ...\n\nA 180 W\nB 360 W\nC 720 W\nD 1440 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "alternating_current",
+      "question": "A 50 ohm resistor is connected to a generator with maximum voltage 200 V. The average power dissipated is ...\n\nA 200 W\nB 400 W\nC 800 W\nD 1600 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "alternating_current",
+      "question": "A 75 ohm resistor is connected to a generator with maximum voltage 150 V. The average power dissipated is ...\n\nA 75 W\nB 150 W\nC 300 W\nD 600 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "alternating_current",
+      "question": "A 25 ohm resistor is connected to a generator with maximum voltage 100 V. The average power dissipated is ...\n\nA 100 W\nB 200 W\nC 400 W\nD 800 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "alternating_current",
+      "question": "A 120 ohm device is connected to a generator with maximum potential difference 400 V. The average power dissipated is approximately ...\n\nA 333 W\nB 667 W\nC 1333 W\nD 2667 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "alternating_current",
+      "question": "The average power dissipated in an AC circuit can also be calculated using:\n\nA Pave = Vrms x Irms\nB Pave = Vmax x Imax\nC Pave = Vrms x R\nD Pave = Irms^2 / R\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "alternating_current",
+      "question": "If the rms voltage across a 60 ohm resistor is 219.99 V, the average power dissipated is approximately ...\n\nA 400 W\nB 600 W\nC 807 W\nD 1200 W\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "alternating_current",
+      "question": "If the rms voltage across an 80 ohm resistor is 169.71 V, the average power dissipated is ...\n\nA 180 W\nB 360 W\nC 720 W\nD 1440 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "alternating_current",
+      "question": "If the rms voltage across a 100 ohm resistor is 353.55 V, the average power dissipated is ...\n\nA 625 W\nB 1250 W\nC 2500 W\nD 5000 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "alternating_current",
+      "question": "If the rms voltage across a 50 ohm resistor is 141.42 V, the average power dissipated is ...\n\nA 200 W\nB 400 W\nC 800 W\nD 1600 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "alternating_current",
+      "question": "The period of an AC voltage is 0.02 s. The frequency is:\n\nA 20 Hz\nB 50 Hz\nC 100 Hz\nD 200 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "alternating_current",
+      "question": "The period of an AC voltage is 0.04 s. The frequency is:\n\nA 25 Hz\nB 40 Hz\nC 50 Hz\nD 100 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "alternating_current",
+      "question": "The period of an AC voltage is 0.01 s. The frequency is:\n\nA 10 Hz\nB 50 Hz\nC 100 Hz\nD 1000 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "alternating_current",
+      "question": "The frequency of an AC voltage is 50 Hz. The period is:\n\nA 0.01 s\nB 0.02 s\nC 0.05 s\nD 0.1 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "alternating_current",
+      "question": "The frequency of an AC voltage is 25 Hz. The period is:\n\nA 0.02 s\nB 0.04 s\nC 0.25 s\nD 0.5 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "alternating_current",
+      "question": "The frequency of an AC voltage is 100 Hz. The period is:\n\nA 0.001 s\nB 0.01 s\nC 0.1 s\nD 1 s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "alternating_current",
+      "question": "The cost of operating an appliance is calculated using:\n\nA Cost = Power x time x tariff\nB Cost = Energy / tariff\nC Cost = Power / (time x tariff)\nD Cost = Energy x time / tariff\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "alternating_current",
+      "question": "Electrical energy is calculated using:\n\nA E = P / t\nB E = P x t\nC E = t / P\nD E = P^2 x t\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "alternating_current",
+      "question": "An appliance with average power 0.80659 kW operates for 1.5 hours. The energy consumed is approximately:\n\nA 0.54 kWh\nB 1.21 kWh\nC 2.42 kWh\nD 4.84 kWh\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "alternating_current",
+      "question": "An appliance with average power 1.25 kW operates for 3 hours. The energy consumed is:\n\nA 0.42 kWh\nB 1.25 kWh\nC 3.75 kWh\nD 7.50 kWh\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "alternating_current",
+      "question": "An appliance with average power 0.36 kW operates for 2 hours. The energy consumed is:\n\nA 0.18 kWh\nB 0.36 kWh\nC 0.72 kWh\nD 1.44 kWh\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "alternating_current",
+      "question": "An appliance with average power 0.15 kW operates for 4 hours. The energy consumed is:\n\nA 0.15 kWh\nB 0.30 kWh\nC 0.60 kWh\nD 1.20 kWh\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "alternating_current",
+      "question": "An appliance with average power 0.6667 kW operates for 5 hours. The energy consumed is approximately:\n\nA 1.33 kWh\nB 3.33 kWh\nC 6.67 kWh\nD 13.33 kWh\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "alternating_current",
+      "question": "An appliance with average power 0.20 kW operates for 8 hours. The energy consumed is:\n\nA 0.80 kWh\nB 1.60 kWh\nC 3.20 kWh\nD 6.40 kWh\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "alternating_current",
+      "question": "The energy consumed by an appliance with average power 0.80659 kW over 1.5 hours at a tariff of R3.33 per kWh costs approximately:\n\nA R2.02\nB R4.03\nC R8.06\nD R12.09\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

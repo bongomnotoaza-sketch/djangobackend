@@ -1,0 +1,56 @@
+{
+  "year": 2025,
+  "paper": "paper2",
+  "topic": "energy_and_chemical_change",
+  "count": 3,
+  "questions": [
+    {
+      "label": "1.6",
+      "topic": "energy_and_chemical_change",
+      "question": "1.6 \nA hypothetical endothermic reaction is given below. \n \nA(g) + B(g) ⇌ AB(g) \n \nThe activation energy for the reverse reaction is 50 kJ∙mol-1. \n \nWhich ONE of the following is possible for the reaction above? \n \n \n \nA \n \nB \n \nC \n \nD \nThe heat of the reaction is +70 kJ∙mol-1. \n \nThe activation energy for the forward reaction is 50 kJ∙mol-1. \n \nThe energy of the activated complex is 40 kJ∙mol-1. \n \nThe activation energy for the forward reaction is 40 kJ∙mol-1. \n \n(2)",
+      "answer": "1.6 \nA  \n \n(2)",
+      "paper_pages": [
+        5,
+        5
+      ],
+      "memo_pages": [
+        2,
+        2
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "5.3.1",
+      "topic": "energy_and_chemical_change",
+      "question": "5.3.1 \nWas there a net release or net absorption of energy during the \nREVERSE reaction? \n \n(1)",
+      "answer": "5.3.1 \nAbsorption  \nAbsorpsie \n(1)",
+      "paper_pages": [
+        12,
+        12
+      ],
+      "memo_pages": [
+        11,
+        11
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    },
+    {
+      "label": "5.3.4",
+      "topic": "energy_and_chemical_change",
+      "question": "5.3.4 \nHow will this change affect the heat of the reaction? Choose from \nINCREASES, DECREASES or REMAINS THE SAME. \n \n(1)",
+      "answer": "5.3.4 \nRemains the same/Bly dieselfde  \n(1) \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n12 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief",
+      "paper_pages": [
+        12,
+        12
+      ],
+      "memo_pages": [
+        11,
+        12
+      ],
+      "topic_mismatch": true,
+      "missing_in": null
+    }
+  ]
+}

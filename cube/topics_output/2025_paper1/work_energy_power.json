@@ -1,0 +1,208 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "work_energy_power",
+  "count": 20,
+  "questions": [
+    {
+      "label": "1.1",
+      "topic": "work_energy_power",
+      "question": "1.1\nA box is pulled across a rough horizontal surface at a CONSTANT VELOCITY by a force F applied at an angle θ to the horizontal.\n\nConsider the following statements about the motion of the box:\n\n(i) The net work done on the box is zero.\n(ii) The work done by the applied force F is equal to the work done by friction.\n(iii) The kinetic energy of the box increases.\n(iv) The mechanical energy of the box remains constant.\n\nWhich of the statements above are CORRECT?\n\nA (i) and (ii) only\nB (i) and (iii) only\nC (ii) and (iv) only\nD (iii) and (iv) only\n\n(2)",
+      "answer": "1.1\nA\n(2)",
+      "paper_pages": [2, 2],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.2",
+      "topic": "work_energy_power",
+      "question": "1.2\nA crane lifts a load vertically upwards at a CONSTANT SPEED.\n\nWhich ONE of the following statements is CORRECT?\n\nA The net work done on the load is zero.\nB The work done by the crane on the load is zero.\nC The kinetic energy of the load increases.\nD The gravitational potential energy of the load decreases.\n\n(2)",
+      "answer": "1.2\nA\n(2)",
+      "paper_pages": [2, 2],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.3",
+      "topic": "work_energy_power",
+      "question": "1.3\nA car accelerates uniformly along a straight horizontal road.\n\nConsider the following statements:\n\n(i) The net work done on the car is equal to the change in its kinetic energy.\n(ii) The power delivered by the engine is constant.\n(iii) The mechanical energy of the car increases.\n(iv) The mechanical energy of the car remains constant.\n\nWhich of the statements above are CORRECT?\n\nA (i) and (ii) only\nB (i) and (iii) only\nC (ii) and (iv) only\nD (iii) and (iv) only\n\n(2)",
+      "answer": "1.3\nB\n(2)",
+      "paper_pages": [3, 3],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.4",
+      "topic": "work_energy_power",
+      "question": "1.4\nA motor lifts a bucket of water vertically upwards at a CONSTANT VELOCITY.\n\nWhich ONE of the following combinations is CORRECT?\n\n| | Rate of work done by motor | Mechanical energy of bucket |\n|---|---|---|\n| A | Increases | Increases |\n| B | Constant | Increases |\n| C | Constant | Remains constant |\n| D | Increases | Remains constant |\n\n(2)",
+      "answer": "1.4\nB\n(2)",
+      "paper_pages": [3, 3],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.5",
+      "topic": "work_energy_power",
+      "question": "1.5\nA block slides down a frictionless inclined plane.\n\nConsider the following statements:\n\n(i) The mechanical energy of the block remains constant.\n(ii) The net work done on the block is zero.\n(iii) The kinetic energy of the block increases.\n(iv) The gravitational potential energy of the block increases.\n\nWhich of the statements above are CORRECT?\n\nA (i) and (iii) only\nB (i) and (iv) only\nC (ii) and (iii) only\nD (ii) and (iv) only\n\n(2)",
+      "answer": "1.5\nA\n(2)",
+      "paper_pages": [4, 4],
+      "memo_pages": [1, 1],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.1",
+      "topic": "work_energy_power",
+      "question": "2.1\nState the work-energy theorem in words.\n\n(2)",
+      "answer": "2.1\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nThe net/total work done (on an object) is equal to the change in the object's kinetic energy.\n\nOR\n\nThe work done (on an object) by a resultant/net force is equal to the change in the object's kinetic energy.\n\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.2",
+      "topic": "work_energy_power",
+      "question": "2.2\nA 5 kg crate is pulled from rest across a rough horizontal surface by a constant force of 30 N applied horizontally. The crate moves a distance of 4 m and experiences a constant frictional force of 10 N.\n\nUsing ENERGY PRINCIPLES ONLY, calculate the kinetic energy of the crate after moving 4 m.\n\n(3)",
+      "answer": "2.2\nOPTION 1\n\nWnet = ΔEk\nWF + Wf = Ekf − Eki\nFΔx cosθ + fΔx cosθ = Ekf − Eki\n(30)(4)cos0° + (10)(4)cos180° = Ekf − 0\n120 − 40 = Ekf\nEkf = 80 J\n\nOPTION 2\n\nWnet = ΔEk\nFnetΔx cosθ = Ekf − Eki\n(30 − 10)(4)cos0° = Ekf − 0\n(20)(4) = Ekf\nEkf = 80 J\n\n(3)",
+      "paper_pages": [5, 5],
+      "memo_pages": [3, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.3",
+      "topic": "work_energy_power",
+      "question": "2.3\nA 2 kg block is pushed up a rough inclined plane by a force F applied parallel to the incline. The block moves at a CONSTANT VELOCITY of 3 m·s⁻¹ up the incline. The incline makes an angle of 25° with the horizontal. The frictional force acting on the block is 8 N.\n\nDraw a free-body diagram showing ALL the forces acting on the block as it moves up the incline.\n\n(3)",
+      "answer": "2.3\n\nAccepted labels:\nw — Fw / Fg / mg / gravitational force / weight\nf — Ff / fk / friction / frictional force\nN — FN / Normal force\nF — Applied force\n\nNotes:\n• Mark awarded for label and arrow.\n• Do not penalise for length of arrows.\n• If any additional force is shown: Max 2/3\n• If everything is correct but no arrows: Max 2/3\n• If forces do not make contact with the dot: Max 2/3\n\n(3)",
+      "paper_pages": [5, 6],
+      "memo_pages": [4, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.4",
+      "topic": "work_energy_power",
+      "question": "2.4\nA 4 kg crate is pulled up a rough inclined plane by a constant force of 50 N applied parallel to the incline. The crate moves a distance of 5 m up the incline. The incline makes an angle of 30° with the horizontal. The frictional force acting on the crate is 15 N. The crate starts from rest.\n\nUsing ENERGY PRINCIPLES ONLY, calculate the speed of the crate after moving 5 m up the incline.\n\n(5)",
+      "answer": "2.4\n\nWnet = ΔEk\nWF + Wf + Wg = Ekf − Eki\nFΔx cosθ + fΔx cosθ + mg sinθ Δx cosθ = Ekf − Eki\n(50)(5)cos0° + (15)(5)cos180° + (4)(9.8)sin30°(5)cos180° = Ekf − 0\n250 − 75 − 98 = Ekf\nEkf = 77 J\n\nEk = ½mv²\n77 = ½(4)v²\nv² = 38.5\nv = 6.20 m·s⁻¹\n\n(5)",
+      "paper_pages": [6, 6],
+      "memo_pages": [4, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.1",
+      "topic": "work_energy_power",
+      "question": "3.1\nA motor is used to lift a 200 kg load vertically upwards at a constant speed of 2 m·s⁻¹.\n\nCalculate the power delivered by the motor.\n\n(3)",
+      "answer": "3.1\n\nP = Fv\nF = mg (since velocity is constant, F = weight)\nF = (200)(9.8) = 1960 N\nP = (1960)(2)\nP = 3920 W\n\nOR\n\nP = W/t\nW = FΔx = mgΔx\nP = mgΔx/t = mgv\nP = (200)(9.8)(2)\nP = 3920 W\n\n(3)",
+      "paper_pages": [7, 7],
+      "memo_pages": [5, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.2",
+      "topic": "work_energy_power",
+      "question": "3.2\nA pump is used to pump water from a borehole to a tank on the surface. The pump lifts 150 kg of water per minute through a vertical height of 20 m.\n\nCalculate the minimum power output of the pump.\n\n(3)",
+      "answer": "3.2\n\nP = W/t\nW = ΔEp = mgh\nW = (150)(9.8)(20) = 29400 J\nt = 1 min = 60 s\nP = 29400/60\nP = 490 W\n\n(3)",
+      "paper_pages": [7, 7],
+      "memo_pages": [5, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.3",
+      "topic": "work_energy_power",
+      "question": "3.3\nA car of mass 1200 kg accelerates uniformly from rest to a speed of 20 m·s⁻¹ in 10 s along a straight horizontal road. The average frictional force acting on the car is 500 N.\n\nCalculate the average power delivered by the engine during the 10 s.\n\n(5)",
+      "answer": "3.3\n\nWnet = ΔEk\nWengine + Wfriction = Ekf − Eki\nWengine + fΔx cos180° = ½mv² − 0\n\nFirst find Δx:\nvf = vi + at\n20 = 0 + a(10)\na = 2 m·s⁻²\n\nΔx = vit + ½at²\nΔx = 0 + ½(2)(10)²\nΔx = 100 m\n\nWengine + (500)(100)(−1) = ½(1200)(20)²\nWengine − 50000 = 240000\nWengine = 290000 J\n\nP = W/t = 290000/10\nP = 29000 W\n\n(5)",
+      "paper_pages": [7, 8],
+      "memo_pages": [5, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.1",
+      "topic": "work_energy_power",
+      "question": "4.1\nA 3 kg block is released from rest at the top of a frictionless inclined plane of height 5 m. The block slides down the incline and reaches the bottom.\n\nUsing ENERGY PRINCIPLES ONLY, calculate the speed of the block at the bottom of the incline.\n\n(3)",
+      "answer": "4.1\n\nWnet = ΔEk\nWg = ΔEk\nmg sinθ Δx cos0° = Ekf − Eki\nmgh = ½mvf² − 0\n(3)(9.8)(5) = ½(3)vf²\n147 = 1.5vf²\nvf² = 98\nvf = 9.90 m·s⁻¹\n\nOR\n\nΔEp + ΔEk = 0\nEp_i + Ek_i = Ep_f + Ek_f\nmgh + 0 = 0 + ½mvf²\n(3)(9.8)(5) = ½(3)vf²\nvf = 9.90 m·s⁻¹\n\n(3)",
+      "paper_pages": [8, 8],
+      "memo_pages": [6, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.2",
+      "topic": "work_energy_power",
+      "question": "4.2\nA 2 kg block slides down a rough inclined plane from a height of 4 m. The block reaches the bottom of the incline with a speed of 6 m·s⁻¹. The incline makes an angle of 35° with the horizontal.\n\nUsing ENERGY PRINCIPLES ONLY, calculate the work done by friction on the block.\n\n(4)",
+      "answer": "4.2\n\nWnc = ΔEk + ΔEp\nWf = (Ekf − Eki) + (Epf − Epi)\nWf = (½mvf² − 0) + (0 − mgh)\nWf = ½(2)(6)² − (2)(9.8)(4)\nWf = 36 − 78.4\nWf = −42.4 J\n\n(4)",
+      "paper_pages": [8, 8],
+      "memo_pages": [6, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.3",
+      "topic": "work_energy_power",
+      "question": "4.3\nA 5 kg crate is pulled up a rough inclined plane by a constant force F applied parallel to the incline. The crate moves at a CONSTANT VELOCITY of 2 m·s⁻¹ up the incline. The incline makes an angle of 20° with the horizontal. The frictional force acting on the crate is 12 N.\n\nCalculate the magnitude of force F.\n\n(4)",
+      "answer": "4.3\n\nSince velocity is constant, net force = 0.\nF − mg sinθ − f = 0\nF = mg sinθ + f\nF = (5)(9.8)sin20° + 12\nF = 16.76 + 12\nF = 28.76 N\n\nOR using energy principles:\n\nWnet = ΔEk = 0 (constant velocity)\nWF + Wf + Wg = 0\nFΔx cos0° + fΔx cos180° + mg sinθ Δx cos180° = 0\nF − f − mg sinθ = 0\nF = f + mg sinθ\nF = 12 + (5)(9.8)sin20°\nF = 28.76 N\n\n(4)",
+      "paper_pages": [8, 9],
+      "memo_pages": [7, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.4",
+      "topic": "work_energy_power",
+      "question": "4.4\nA 6 kg block is pushed against a spring, compressing it by 0.3 m. The spring constant is 200 N·m⁻¹. The block is then released and slides along a frictionless horizontal surface.\n\nUsing ENERGY PRINCIPLES ONLY, calculate the speed of the block when it leaves the spring.\n\n(4)",
+      "answer": "4.4\n\nEp_spring = ½kx²\nEp_spring = ½(200)(0.3)²\nEp_spring = ½(200)(0.09)\nEp_spring = 9 J\n\nEp_spring = Ek_block\n9 = ½mv²\n9 = ½(6)v²\nv² = 3\nv = 1.73 m·s⁻¹\n\n(4)",
+      "paper_pages": [9, 9],
+      "memo_pages": [7, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.1",
+      "topic": "work_energy_power",
+      "question": "5.1\nA 2 kg object is dropped from a height of 10 m above the ground. It falls freely under gravity and experiences air resistance of 5 N.\n\nUsing ENERGY PRINCIPLES ONLY, calculate the speed of the object when it reaches the ground.\n\n(5)",
+      "answer": "5.1\n\nWnc = ΔEk + ΔEp\nWair = (Ekf − Eki) + (Epf − Epi)\nfΔx cos180° = (½mvf² − 0) + (0 − mgh)\n(5)(10)(−1) = ½(2)vf² − (2)(9.8)(10)\n−50 = vf² − 196\nvf² = 146\nvf = 12.08 m·s⁻¹\n\n(5)",
+      "paper_pages": [9, 9],
+      "memo_pages": [7, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2",
+      "topic": "work_energy_power",
+      "question": "5.2\nA 1500 kg car travels along a straight horizontal road at a constant speed of 25 m·s⁻¹. The engine delivers a power of 45 kW.\n\nCalculate the magnitude of the frictional force acting on the car.\n\n(3)",
+      "answer": "5.2\n\nP = Fv\n45000 = F(25)\nF = 1800 N\n\nSince speed is constant, the driving force equals the frictional force.\nf = 1800 N\n\n(3)",
+      "paper_pages": [9, 10],
+      "memo_pages": [8, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3",
+      "topic": "work_energy_power",
+      "question": "5.3\nA 3 kg block is released from rest at point A at the top of a curved frictionless track. The block slides down the track and reaches point B, which is 2 m below point A. From point B, the block slides along a rough horizontal surface and comes to rest at point C after travelling 4 m.\n\n5.3.1 Using ENERGY PRINCIPLES ONLY, calculate the speed of the block at point B.\n\n5.3.2 Calculate the coefficient of kinetic friction between the block and the horizontal surface.\n\n(6)",
+      "answer": "5.3.1\n\nWnet = ΔEk\nWg = ΔEk\nmgh = ½mvf² − 0\n(3)(9.8)(2) = ½(3)vf²\n58.8 = 1.5vf²\nvf² = 39.2\nvf = 6.26 m·s⁻¹\n\n(3)\n\n5.3.2\n\nWnc = ΔEk + ΔEp\nWf = (Ekf − Eki) + 0\nfkΔx cos180° = 0 − ½mvB²\nμkN(4)(−1) = −½(3)(39.2)\nμk(3)(9.8)(4) = 58.8\nμk(117.6) = 58.8\nμk = 0.50\n\n(3)\n\n(6)",
+      "paper_pages": [10, 10],
+      "memo_pages": [8, 9],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.4",
+      "topic": "work_energy_power",
+      "question": "5.4\nA 4 kg crate is pulled up a rough inclined plane by a constant force of 60 N applied parallel to the incline. The crate moves a distance of 6 m up the incline. The incline makes an angle of 25° with the horizontal. The frictional force acting on the crate is 18 N. The crate starts from rest.\n\n5.4.1 Draw a free-body diagram showing ALL the forces acting on the crate as it moves up the incline.\n\n5.4.2 Using ENERGY PRINCIPLES ONLY, determine whether the crate will reach the top of the incline if the incline is 6 m long.\n\n(8)",
+      "answer": "5.4.1\n\nAccepted labels:\nw — Fw / Fg / mg / gravitational force / weight\nf — Ff / fk / friction / frictional force\nN — FN / Normal force\nF — Applied force\n\nNotes:\n• Mark awarded for label and arrow.\n• Do not penalise for length of arrows.\n• If any additional force is shown: Max 2/3\n• If everything is correct but no arrows: Max 2/3\n• If forces do not make contact with the dot: Max 2/3\n\n(3)\n\n5.4.2\n\nWnet = ΔEk\nWF + Wf + Wg = Ekf − Eki\nFΔx cos0° + fΔx cos180° + mg sinθ Δx cos180° = Ekf − 0\n(60)(6) + (18)(6)(−1) + (4)(9.8)sin25°(6)(−1) = Ekf\n360 − 108 − 99.4 = Ekf\nEkf = 152.6 J\n\nSince Ekf > 0, the crate will reach the top of the incline.\n\n(5)\n\n(8)",
+      "paper_pages": [10, 11],
+      "memo_pages": [9, 10],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

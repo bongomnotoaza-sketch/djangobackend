@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Django
+db.sqlite3
+staticfiles/
+media/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# JavaScript dependencies
+node_modules/
+
+# User uploads and runtime data
+uploads/
+
+# Local databases
+*.sqlite3
+db.sqlite3
+
+# Logs and editor files
+*.log
+.vscode/
+.idea/
+.DS_Store
+
+# Machine learning model checkpoints
+cube/checkpoints/
+
+# Generated and processed datasets
+cube/data/processed/
+cube/data/raw/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# JavaScript dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# User uploads and runtime data
+uploads/
+
+# Local databases
+*.sqlite3
+db.sqlite3
+
+# Logs
+*.log

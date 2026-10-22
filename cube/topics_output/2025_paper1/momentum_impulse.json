@@ -1,0 +1,208 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "momentum_impulse",
+  "count": 20,
+  "questions": [
+    {
+      "label": "1.1",
+      "topic": "momentum_impulse",
+      "question": "1.1\nObjects P and Q, with masses m and 2m respectively, have the same momentum.\n\nThe velocity of P is ...\n\nA equal to the velocity of Q.\nB half the velocity of Q.\nC twice the velocity of Q.\nD four times the velocity of Q.\n\n(2)",
+      "answer": "1.1\nC\n(2)",
+      "paper_pages": [4, 4],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.2",
+      "topic": "momentum_impulse",
+      "question": "1.2\nA ball with momentum p strikes a wall perpendicularly and bounces back with the same speed. The change in momentum of the ball is ...\n\nA 0.\nB p.\nC 2p.\nD −2p.\n\n(2)",
+      "answer": "1.2\nD\n(2)",
+      "paper_pages": [4, 4],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.3",
+      "topic": "momentum_impulse",
+      "question": "1.3\nTwo objects with different masses have the same kinetic energy. The object with the greater mass will have ...\n\nA greater momentum.\nB smaller momentum.\nC the same momentum.\nD zero momentum.\n\n(2)",
+      "answer": "1.3\nA\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.4",
+      "topic": "momentum_impulse",
+      "question": "1.4\nA cricket ball is hit by a bat. The contact time between the bat and the ball is Δt and the average net force acting on the ball is F.\n\nWhich ONE of the following graphs best represents the relationship between the final momentum (pf) of the ball and the contact time (Δt) for a constant average net force?\n\nA A straight line with a positive gradient passing through the origin.\nB A straight line with a negative gradient.\nC A horizontal straight line.\nD A curve with a positive gradient.\n\n(2)",
+      "answer": "1.4\nA\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.5",
+      "topic": "momentum_impulse",
+      "question": "1.5\nA 2 kg object moving at 4 m·s⁻¹ collides head-on with a 3 kg object moving at 2 m·s⁻¹ in the opposite direction. After the collision, the 2 kg object moves at 1 m·s⁻¹ in the opposite direction.\n\nThe magnitude of the velocity of the 3 kg object after the collision is ...\n\nA 0 m·s⁻¹\nB 2 m·s⁻¹\nC 4 m·s⁻¹\nD 6 m·s⁻¹\n\n(2)",
+      "answer": "1.5\nB\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.1",
+      "topic": "momentum_impulse",
+      "question": "2.1\nDefine the term impulse.\n\n(2)",
+      "answer": "2.1\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nThe product of the resultant/net force acting on an object and the time the (net) force acts on the object.\n\nOR\n\nThe product of the resultant/net force and the contact time.\n\n(2)",
+      "paper_pages": [6, 6],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.2",
+      "topic": "momentum_impulse",
+      "question": "2.2\nDefine the term momentum.\n\n(2)",
+      "answer": "2.2\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nThe product of the mass and the velocity of an object.\n\n(2)",
+      "paper_pages": [6, 6],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.3",
+      "topic": "momentum_impulse",
+      "question": "2.3\nA cricket ball of mass 150 g is thrown horizontally with an initial velocity of 15 m·s⁻¹. It is struck by a bat and moves in the opposite direction with a velocity of 30 m·s⁻¹. The contact time between the bat and the ball is 0.03 s.\n\nCalculate the average net force acting on the ball.\n\n(4)",
+      "answer": "2.3\n\nTake the direction of the initial velocity as positive.\npi = mvi = (0.15)(15) = 2.25 kg·m·s⁻¹\npf = mvf = (0.15)(−30) = −4.5 kg·m·s⁻¹\n\nFnetΔt = Δp\nFnetΔt = pf − pi\nFnet(0.03) = −4.5 − 2.25\nFnet(0.03) = −6.75\nFnet = −225 N\nFnet = 225 N in the direction opposite to the initial velocity\n\n(4)",
+      "paper_pages": [6, 6],
+      "memo_pages": [3, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.4",
+      "topic": "momentum_impulse",
+      "question": "2.4\nA 1200 kg car travelling at 20 m·s⁻¹ collides head-on with a 2000 kg truck travelling at 15 m·s⁻¹ in the opposite direction. After the collision, the car moves at 5 m·s⁻¹ in the opposite direction.\n\nCalculate the magnitude and direction of the velocity of the truck after the collision.\n\n(5)",
+      "answer": "2.4\n\nTake the direction of the car's initial velocity as positive.\n\nΣpi = Σpf\nm1v1i + m2v2i = m1v1f + m2v2f\n(1200)(20) + (2000)(−15) = (1200)(−5) + (2000)v2f\n24000 − 30000 = −6000 + 2000v2f\n−6000 = −6000 + 2000v2f\n0 = 2000v2f\nv2f = 0 m·s⁻¹\n\nThe truck is stationary after the collision.\n\n(5)",
+      "paper_pages": [6, 7],
+      "memo_pages": [4, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.1",
+      "topic": "momentum_impulse",
+      "question": "3.1\nState the principle of conservation of linear momentum in words.\n\n(2)",
+      "answer": "3.1\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nThe total linear momentum of an isolated/closed system remains constant (is conserved).\n\nOR\n\nThe total linear momentum before a collision is equal to the total linear momentum after the collision in an isolated/closed system.\n\n(2)",
+      "paper_pages": [7, 7],
+      "memo_pages": [5, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.2",
+      "topic": "momentum_impulse",
+      "question": "3.2\nA 0.2 kg ball is dropped from a height of 5 m onto a hard floor. It bounces back to a height of 3.2 m. The ball is in contact with the floor for 0.02 s.\n\n3.2.1 Calculate the velocity with which the ball strikes the floor.\n\n3.2.2 Calculate the velocity with which the ball leaves the floor.\n\n3.2.3 Calculate the average net force exerted by the floor on the ball.\n\n(9)",
+      "answer": "3.2.1\n\nDOWNWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\nvf² = (0)² + 2(9.8)(5)\nvf² = 98\nvf = 9.90 m·s⁻¹ (downwards)\n\n(3)\n\n3.2.2\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\n0² = vi² + 2(−9.8)(3.2)\n0 = vi² − 62.72\nvi² = 62.72\nvi = 7.92 m·s⁻¹ (upwards)\n\n(3)\n\n3.2.3\n\nTake upwards as positive.\nvinitial = −9.90 m·s⁻¹\nvfinal = +7.92 m·s⁻¹\n\nFnetΔt = Δp\nFnetΔt = mvf − mvi\nFnet(0.02) = (0.2)(7.92) − (0.2)(−9.90)\nFnet(0.02) = 1.584 + 1.98\nFnet(0.02) = 3.564\nFnet = 178.2 N (upwards)\n\n(3)\n\n(9)",
+      "paper_pages": [7, 8],
+      "memo_pages": [5, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.3",
+      "topic": "momentum_impulse",
+      "question": "3.3\nA 4 kg block moving at 6 m·s⁻¹ collides with a stationary 2 kg block. After the collision, the 4 kg block moves at 2 m·s⁻¹ in the same direction.\n\n3.3.1 Calculate the velocity of the 2 kg block after the collision.\n\n3.3.2 Determine whether the collision is elastic or inelastic. Show ALL calculations.\n\n(7)",
+      "answer": "3.3.1\n\nΣpi = Σpf\nm1v1i + m2v2i = m1v1f + m2v2f\n(4)(6) + (2)(0) = (4)(2) + (2)v2f\n24 = 8 + 2v2f\n16 = 2v2f\nv2f = 8 m·s⁻¹\n\n(3)\n\n3.3.2\n\nTotal Ek before:\nEk_i = ½m1v1i² + ½m2v2i²\nEk_i = ½(4)(6)² + 0\nEk_i = 72 J\n\nTotal Ek after:\nEk_f = ½m1v1f² + ½m2v2f²\nEk_f = ½(4)(2)² + ½(2)(8)²\nEk_f = 8 + 64\nEk_f = 72 J\n\nSince Ek_i = Ek_f, the collision is elastic.\n\n(4)\n\n(7)",
+      "paper_pages": [8, 8],
+      "memo_pages": [6, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.4",
+      "topic": "momentum_impulse",
+      "question": "3.4\nA 0.15 kg cricket ball is thrown horizontally with a certain initial velocity and is struck by a bat so that the ball moves in the opposite direction. The average net force acting on the ball is horizontal.\n\nThe experiment is repeated using the same ball. The average net force and the initial velocity of the ball are kept constant. The contact time between the bat and the ball is changed EACH time. The results obtained are shown in the graph below.\n\n| Contact time Δt (s) | Final momentum pf (kg·m·s⁻¹) |\n|---|---|\n| 0.01 | 0 |\n| 0.03 | 4.5 |\n\n3.4.1 Calculate the average net force acting on the ball.\n\n3.4.2 Calculate the magnitude of the initial velocity of the ball.\n\n3.4.3 Redraw the graph in the ANSWER BOOK and label it as A. On the same set of axes, draw the graph that will be obtained when a ball with a bigger mass is used, without changing the initial velocity and average net force. Label this as B.\n\n(9)",
+      "answer": "3.4.1\n\nGradient = Fnet = Δpf / Δt\nFnet = (4.5 − 0) / (0.03 − 0.01)\nFnet = 4.5 / 0.02\nFnet = 225 N\nFnet = 225 N to the right / opposite to the original direction of the ball\n\n(3)\n\n3.4.2\n\nFnetΔt = Δp\nFnetΔt = pf − pi\nFnetΔt = mvf − mvi\n(225)(0.03) = 4.5 − (0.15)vi\n6.75 = 4.5 − 0.15vi\n0.15vi = 4.5 − 6.75\n0.15vi = −2.25\nvi = −15 m·s⁻¹\nvi = 15 m·s⁻¹\n\n(4)\n\n3.4.3\n\nCriteria for graph:\n• Graph A: Straight line passing through (0.01; 0) and (0.03; 4.5).\n• Graph B: Straight line with the same gradient (parallel to A) but with a smaller y-intercept (more negative) and passing through a point with a lower pf value at the same Δt.\n• Correct labels A and B.\n\nNOTE: If labels A and B not indicated: 0/2\nAward full marks for solid lines with labels.\n\n(2)\n\n(9)",
+      "paper_pages": [8, 9],
+      "memo_pages": [6, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.1",
+      "topic": "momentum_impulse",
+      "question": "4.1\nA 0.5 kg ball is thrown vertically downwards from a height of 10 m with an initial velocity of 5 m·s⁻¹. It strikes the ground and bounces back to a height of 6 m. The ball is in contact with the ground for 0.05 s.\n\n4.1.1 Calculate the velocity with which the ball strikes the ground.\n\n4.1.2 Calculate the velocity with which the ball leaves the ground.\n\n4.1.3 Calculate the average net force exerted by the ground on the ball.\n\n(10)",
+      "answer": "4.1.1\n\nDOWNWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\nvf² = (5)² + 2(9.8)(10)\nvf² = 25 + 196\nvf² = 221\nvf = 14.87 m·s⁻¹ (downwards)\n\n(3)\n\n4.1.2\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\n0² = vi² + 2(−9.8)(6)\n0 = vi² − 117.6\nvi² = 117.6\nvi = 10.84 m·s⁻¹ (upwards)\n\n(3)\n\n4.1.3\n\nTake upwards as positive.\nvinitial = −14.87 m·s⁻¹\nvfinal = +10.84 m·s⁻¹\n\nFnetΔt = Δp\nFnetΔt = mvf − mvi\nFnet(0.05) = (0.5)(10.84) − (0.5)(−14.87)\nFnet(0.05) = 5.42 + 7.435\nFnet(0.05) = 12.855\nFnet = 257.1 N (upwards)\n\n(4)\n\n(10)",
+      "paper_pages": [9, 9],
+      "memo_pages": [7, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.2",
+      "topic": "momentum_impulse",
+      "question": "4.2\nA 1500 kg car travelling east at 25 m·s⁻¹ collides with a 2500 kg truck travelling west at 15 m·s⁻¹. After the collision, the car moves west at 5 m·s⁻¹.\n\n4.2.1 Calculate the velocity of the truck after the collision.\n\n4.2.2 Determine whether the collision is elastic or inelastic. Show ALL calculations.\n\n(8)",
+      "answer": "4.2.1\n\nTake east as positive.\n\nΣpi = Σpf\nm1v1i + m2v2i = m1v1f + m2v2f\n(1500)(25) + (2500)(−15) = (1500)(−5) + (2500)v2f\n37500 − 37500 = −7500 + 2500v2f\n0 = −7500 + 2500v2f\n2500v2f = 7500\nv2f = 3 m·s⁻¹ (east)\n\n(4)\n\n4.2.2\n\nTotal Ek before:\nEk_i = ½m1v1i² + ½m2v2i²\nEk_i = ½(1500)(25)² + ½(2500)(15)²\nEk_i = 468750 + 281250\nEk_i = 750000 J\n\nTotal Ek after:\nEk_f = ½m1v1f² + ½m2v2f²\nEk_f = ½(1500)(5)² + ½(2500)(3)²\nEk_f = 18750 + 11250\nEk_f = 30000 J\n\nSince Ek_i ≠ Ek_f (Ek_i > Ek_f), the collision is inelastic.\n\n(4)\n\n(8)",
+      "paper_pages": [9, 10],
+      "memo_pages": [8, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.3",
+      "topic": "momentum_impulse",
+      "question": "4.3\nA 2 kg block moving at 8 m·s⁻¹ collides with a stationary 3 kg block. After the collision, the two blocks stick together and move as one unit.\n\n4.3.1 Calculate the velocity of the combined blocks after the collision.\n\n4.3.2 Calculate the loss in kinetic energy during the collision.\n\n(6)",
+      "answer": "4.3.1\n\nΣpi = Σpf\nm1v1i + m2v2i = (m1 + m2)vf\n(2)(8) + (3)(0) = (2 + 3)vf\n16 = 5vf\nvf = 3.2 m·s⁻¹\n\n(3)\n\n4.3.2\n\nEk_i = ½m1v1i² + ½m2v2i²\nEk_i = ½(2)(8)² + 0\nEk_i = 64 J\n\nEk_f = ½(m1 + m2)vf²\nEk_f = ½(5)(3.2)²\nEk_f = ½(5)(10.24)\nEk_f = 25.6 J\n\nLoss in Ek = Ek_i − Ek_f\nLoss in Ek = 64 − 25.6\nLoss in Ek = 38.4 J\n\n(3)\n\n(6)",
+      "paper_pages": [10, 10],
+      "memo_pages": [8, 9],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.1",
+      "topic": "momentum_impulse",
+      "question": "5.1\nA 0.05 kg bullet is fired horizontally into a 2 kg wooden block resting on a frictionless horizontal surface. The bullet embeds itself in the block and the combined system moves at 3 m·s⁻¹.\n\n5.1.1 Calculate the initial velocity of the bullet.\n\n5.1.2 Calculate the loss in kinetic energy during the collision.\n\n(6)",
+      "answer": "5.1.1\n\nΣpi = Σpf\nmbvbi + mwvwi = (mb + mw)vf\n(0.05)vbi + (2)(0) = (0.05 + 2)(3)\n0.05vbi = (2.05)(3)\n0.05vbi = 6.15\nvbi = 123 m·s⁻¹\n\n(3)\n\n5.1.2\n\nEk_i = ½mbvbi²\nEk_i = ½(0.05)(123)²\nEk_i = ½(0.05)(15129)\nEk_i = 378.23 J\n\nEk_f = ½(mb + mw)vf²\nEk_f = ½(2.05)(3)²\nEk_f = ½(2.05)(9)\nEk_f = 9.23 J\n\nLoss in Ek = 378.23 − 9.23 = 369 J\n\n(3)\n\n(6)",
+      "paper_pages": [10, 11],
+      "memo_pages": [9, 9],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2",
+      "topic": "momentum_impulse",
+      "question": "5.2\nA 0.2 kg tennis ball approaches a racket horizontally with a velocity of 20 m·s⁻¹. The racket applies an average net force of 400 N on the ball for a contact time of 0.03 s. The ball leaves the racket in the opposite direction.\n\n5.2.1 Calculate the velocity of the ball after it leaves the racket.\n\n5.2.2 Calculate the impulse exerted by the racket on the ball.\n\n(5)",
+      "answer": "5.2.1\n\nTake the direction of the initial velocity as positive.\n\nFnetΔt = Δp\nFnetΔt = mvf − mvi\n(−400)(0.03) = (0.2)vf − (0.2)(20)\n−12 = 0.2vf − 4\n0.2vf = −12 + 4\n0.2vf = −8\nvf = −40 m·s⁻¹\nvf = 40 m·s⁻¹ in the opposite direction\n\n(3)\n\n5.2.2\n\nImpulse = FnetΔt = (−400)(0.03) = −12 N·s\nMagnitude = 12 N·s in the direction opposite to the initial velocity\n\n(2)\n\n(5)",
+      "paper_pages": [11, 11],
+      "memo_pages": [9, 10],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3",
+      "topic": "momentum_impulse",
+      "question": "5.3\nA 0.5 kg ball is dropped from a height of 8 m onto a hard floor. It bounces back to a height of 4.5 m. The ball is in contact with the floor for 0.03 s.\n\n5.3.1 Calculate the speed of the ball just before it strikes the floor.\n\n5.3.2 Calculate the speed of the ball just after it leaves the floor.\n\n5.3.3 Calculate the average net force exerted by the floor on the ball.\n\n5.3.4 Is the collision between the ball and the floor elastic or inelastic? Explain the answer without any calculation.\n\n(12)",
+      "answer": "5.3.1\n\nDOWNWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\nvf² = (0)² + 2(9.8)(8)\nvf² = 156.8\nvf = 12.52 m·s⁻¹ (downwards)\n\n(3)\n\n5.3.2\n\nUPWARDS AS POSITIVE:\nvf² = vi² + 2aΔy\n0² = vi² + 2(−9.8)(4.5)\n0 = vi² − 88.2\nvi² = 88.2\nvi = 9.39 m·s⁻¹ (upwards)\n\n(3)\n\n5.3.3\n\nTake upwards as positive.\nvinitial = −12.52 m·s⁻¹\nvfinal = +9.39 m·s⁻¹\n\nFnetΔt = Δp\nFnetΔt = mvf − mvi\nFnet(0.03) = (0.5)(9.39) − (0.5)(−12.52)\nFnet(0.03) = 4.695 + 6.26\nFnet(0.03) = 10.955\nFnet = 365.2 N (upwards)\n\n(4)\n\n5.3.4\n\nInelastic.\nThe height decreased / is smaller.\nThe kinetic energy is not conserved. / Kinetic energy is converted to heat and sound energy.\n\nNOTE: DO NOT ACCEPT ANY CALCULATION AS AN EXPLANATION.\n\n(2)\n\n(12)",
+      "paper_pages": [11, 12],
+      "memo_pages": [10, 11],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.4",
+      "topic": "momentum_impulse",
+      "question": "5.4\nA 0.15 kg cricket ball is thrown horizontally with a certain initial velocity and is struck by a bat so that the ball moves in the opposite direction. The average net force acting on the ball is horizontal.\n\nThe experiment is repeated using the same ball. The average net force and the initial velocity of the ball are kept constant. The contact time between the bat and the ball is changed EACH time. The results obtained are shown in the sketch graph below.\n\nGraph: pf (kg·m·s⁻¹) vs Δt (s)\n\n| Δt (s) | pf (kg·m·s⁻¹) |\n|---|---|\n| 0.01 | 0 |\n| 0.03 | 4.5 |\n\n5.4.1 Calculate the average net force acting on the ball.\n\n5.4.2 Calculate the magnitude of the initial velocity of the ball.\n\n5.4.3 Redraw the graph in the ANSWER BOOK and label it as A. On the same set of axes, draw the graph that will be obtained when a ball with a bigger mass is used, without changing the initial velocity and average net force. Label this as B.\n\n(9)",
+      "answer": "5.4.1\n\nGradient = Fnet = Δpf / Δt\nFnet = (4.5 − 0) / (0.03 − 0.01)\nFnet = 4.5 / 0.02\nFnet = 225 N\nFnet = 225 N to the right / opposite to the original direction of the ball\n\n(3)\n\n5.4.2\n\nFnetΔt = Δp\nFnetΔt = pf − pi\nFnetΔt = mvf − mvi\n(225)(0.03) = 4.5 − (0.15)vi\n6.75 = 4.5 − 0.15vi\n0.15vi = 4.5 − 6.75\n0.15vi = −2.25\nvi = −15 m·s⁻¹\nvi = 15 m·s⁻¹\n\n(4)\n\n5.4.3\n\nCriteria for graph:\n• Graph A: Straight line passing through (0.01; 0) and (0.03; 4.5).\n• Graph B: Straight line with the same gradient (parallel to A) but with a smaller y-intercept (more negative) and passing through a point with a lower pf value at the same Δt.\n• Correct labels A and B.\n\nNOTE: If labels A and B not indicated: 0/2\nAward full marks for solid lines with labels.\n\n(2)\n\n(9)",
+      "paper_pages": [12, 12],
+      "memo_pages": [11, 12],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

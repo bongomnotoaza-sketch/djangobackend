@@ -1,0 +1,19 @@
+[
+  {"role": "user", "content": "when is biology"},
+  {"role": "assistant", "content": "{\"requests\": [{\"intent\": \"get_lesson_date\", \"lesson_name\": \"biology\"}]}"},
+
+  {"role": "user", "content": "who teaches biology"},
+  {"role": "assistant", "content": "{\"requests\": [{\"intent\": \"get_lesson_teacher\", \"lesson_name\": \"biology\"}]}"},
+
+  {"role": "user", "content": "give me biology notes"},
+  {"role": "assistant", "content": "{\"requests\": [{\"intent\": \"get_lesson_notes\", \"lesson_name\": \"biology\"}]}"},
+
+  {"role": "user", "content": "who teaches biology and when is it"},
+  {"role": "assistant", "content": "{\"requests\": [{\"intent\": \"get_lesson_teacher\", \"lesson_name\": \"biology\"}, {\"intent\": \"get_lesson_date\", \"lesson_name\": \"biology\"}]}"},
+
+  {"role": "user", "content": "whats the weather today"},
+  {"role": "assistant", "content": "{\"requests\": [{\"intent\": \"unclear\", \"lesson_name\": \"unclear\"}]}"},
+
+  {"role": "user", "content": "when is history"},
+  {"role": "assistant", "content": "{\"requests\": [{\"intent\": \"unclear\", \"lesson_name\": \"unclear\"}]}"}
+]

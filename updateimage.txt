@@ -1,0 +1,28 @@
+************************************************************************************************************************************************************************docker rm -f logictree-django
+docker build -t logictree-django .
+
+ docker run -d \
+  --name logictree-django \
+  --network logictree \
+  -p 8000:8000 \
+  logictree-django
+
+docker logs -f logictree-django
+
+docker rm -f logictree-django
+
+
+-+
+
+docker rm -f logictree-django
+
+docker run -d \
+  --name logictree-django \
+  --network logictree \
+  -p 8000:8000 \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  logictree-django
+
+uvicorn main:app --host 0.0.0.0 --port 4000
+
+sk_5e5548dccd53751b7365e3d35f9c146e6b91edbb46282afc

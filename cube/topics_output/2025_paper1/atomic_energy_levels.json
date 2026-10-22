@@ -1,0 +1,198 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "atomic_energy_levels",
+  "count": 20,
+  "questions": [
+    {
+      "label": "1.1",
+      "topic": "atomic_energy_levels",
+      "question": "1.1\nThe energy diagram below (NOT drawn to scale) shows the electron energies in different energy levels, E1, E2 and E3, of a certain atom.\n\nE3 = 5.7 × 10⁻¹⁹ J\nE2 = 5.1 × 10⁻¹⁹ J\nE1 = 1.3 × 10⁻¹⁹ J\n\nAn electron of this atom moves from E3 to E1. Photon X is emitted.\n\nCalculate the frequency of photon X.\n\n(4)",
+      "answer": "1.1\n\nOPTION 1\nE = hf\n5.7 × 10⁻¹⁹ − 1.3 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 6.64 × 10¹⁴ Hz\n\nOPTION 2\nΔE = E1 − E3\n= 1.3 × 10⁻¹⁹ − 5.7 × 10⁻¹⁹\n= −4.4 × 10⁻¹⁹ J\nE = hf\n4.4 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 6.64 × 10¹⁴ Hz\nf must be positive\n\n(4)",
+      "paper_pages": [16, 16],
+      "memo_pages": [20, 20],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.2",
+      "topic": "atomic_energy_levels",
+      "question": "1.2\nIs it possible for a photon with an energy of 2.5 × 10⁻¹⁹ J to be emitted from this atom? Choose from YES or NO. Give a reason for the answer.\n\n(2)",
+      "answer": "1.2\nNo. The energy does not correspond to any transition in this atom.\n\n(2)",
+      "paper_pages": [16, 16],
+      "memo_pages": [20, 20],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.3",
+      "topic": "atomic_energy_levels",
+      "question": "1.3\nThe energy diagram below shows the electron energies in different energy levels, E1, E2, E3 and E4, of a certain atom.\n\nE4 = 8.0 × 10⁻¹⁹ J\nE3 = 5.5 × 10⁻¹⁹ J\nE2 = 3.2 × 10⁻¹⁹ J\nE1 = 0 J (ground state)\n\n1.3.1 Calculate the energy of the photon emitted when an electron moves from E4 to E2.\n\n1.3.2 Calculate the wavelength of the photon emitted in 1.3.1.\n\n1.3.3 Calculate the frequency of the photon emitted when an electron moves from E3 to E1.\n\n(10)",
+      "answer": "1.3.1\n\nΔE = E4 − E2\nΔE = 8.0 × 10⁻¹⁹ − 3.2 × 10⁻¹⁹\nΔE = 4.8 × 10⁻¹⁹ J\n\n(3)\n\n1.3.2\n\nE = hc/λ\n4.8 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)(3 × 10⁸)/λ\nλ = (6.63 × 10⁻³⁴)(3 × 10⁸)/(4.8 × 10⁻¹⁹)\nλ = 4.14 × 10⁻⁷ m\n\n(3)\n\n1.3.3\n\nΔE = E3 − E1\nΔE = 5.5 × 10⁻¹⁹ − 0\nΔE = 5.5 × 10⁻¹⁹ J\n\nE = hf\n5.5 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 8.30 × 10¹⁴ Hz\n\n(4)\n\n(10)",
+      "paper_pages": [17, 17],
+      "memo_pages": [21, 21],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.4",
+      "topic": "atomic_energy_levels",
+      "question": "1.4\nThe energy levels of a hydrogen atom are given by the equation En = −13.6/n² eV, where n is the principal quantum number.\n\n1.4.1 Calculate the energy of the ground state (n = 1) in joules.\n\n1.4.2 Calculate the energy of the first excited state (n = 2) in joules.\n\n1.4.3 Calculate the energy of the photon emitted when an electron transitions from n = 3 to n = 2.\n\n1.4.4 Calculate the wavelength of the photon emitted in 1.4.3.\n\n(10)",
+      "answer": "1.4.1\n\nE1 = −13.6/1² eV\nE1 = −13.6 eV\nE1 = (−13.6)(1.6 × 10⁻¹⁹)\nE1 = −2.176 × 10⁻¹⁸ J\n\n(2)\n\n1.4.2\n\nE2 = −13.6/2² eV\nE2 = −13.6/4 eV\nE2 = −3.4 eV\nE2 = (−3.4)(1.6 × 10⁻¹⁹)\nE2 = −5.44 × 10⁻¹⁹ J\n\n(2)\n\n1.4.3\n\nE3 = −13.6/3² eV\nE3 = −13.6/9 eV\nE3 = −1.51 eV\nE3 = (−1.51)(1.6 × 10⁻¹⁹)\nE3 = −2.42 × 10⁻¹⁹ J\n\nΔE = E3 − E2\nΔE = −2.42 × 10⁻¹⁹ − (−5.44 × 10⁻¹⁹)\nΔE = 3.02 × 10⁻¹⁹ J\n\n(3)\n\n1.4.4\n\nE = hc/λ\n3.02 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)(3 × 10⁸)/λ\nλ = (6.63 × 10⁻³⁴)(3 × 10⁸)/(3.02 × 10⁻¹⁹)\nλ = 6.59 × 10⁻⁷ m\n\n(3)\n\n(10)",
+      "paper_pages": [17, 17],
+      "memo_pages": [21, 22],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.5",
+      "topic": "atomic_energy_levels",
+      "question": "1.5\nThe energy diagram below shows the first four energy levels of a certain atom.\n\nE4 = 12.0 eV\nE3 = 9.0 eV\nE2 = 5.0 eV\nE1 = 0 eV (ground state)\n\n1.5.1 How many possible spectral lines can be emitted when electrons transition from higher to lower energy levels?\n\n1.5.2 Calculate the energy of the photon with the highest frequency.\n\n1.5.3 Calculate the energy of the photon with the longest wavelength.\n\n(8)",
+      "answer": "1.5.1\n\nNumber of possible transitions = n(n − 1)/2\n= 4(4 − 1)/2\n= 4(3)/2\n= 6 spectral lines\n\n(2)\n\n1.5.2\n\nHighest frequency corresponds to the largest energy transition.\nΔE = E4 − E1\nΔE = 12.0 − 0\nΔE = 12.0 eV\nΔE = (12.0)(1.6 × 10⁻¹⁹)\nΔE = 1.92 × 10⁻¹⁸ J\n\n(3)\n\n1.5.3\n\nLongest wavelength corresponds to the smallest energy transition.\nΔE = E4 − E3\nΔE = 12.0 − 9.0\nΔE = 3.0 eV\nΔE = (3.0)(1.6 × 10⁻¹⁹)\nΔE = 4.8 × 10⁻¹⁹ J\n\n(3)\n\n(8)",
+      "paper_pages": [18, 18],
+      "memo_pages": [22, 22],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.1",
+      "topic": "atomic_energy_levels",
+      "question": "2.1\nThe energy diagram below (NOT drawn to scale) shows the electron energies in different energy levels, E1, E2 and E3, of a certain atom.\n\nE3 = 5.7 × 10⁻¹⁹ J\nE2 = 5.1 × 10⁻¹⁹ J\nE1 = 1.3 × 10⁻¹⁹ J\n\n2.1.1 An electron of this atom moves from E3 to E1. Photon X is emitted. Calculate the frequency of photon X.\n\n2.1.2 Is it possible for a photon with an energy of 2.5 × 10⁻¹⁹ J to be emitted from this atom? Choose from YES or NO. Give a reason for the answer.\n\n(6)",
+      "answer": "2.1.1\n\nOPTION 1\nE = hf\n5.7 × 10⁻¹⁹ − 1.3 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 6.64 × 10¹⁴ Hz\n\nOPTION 2\nΔE = E1 − E3\n= 1.3 × 10⁻¹⁹ − 5.7 × 10⁻¹⁹\n= −4.4 × 10⁻¹⁹ J\nE = hf\n4.4 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 6.64 × 10¹⁴ Hz\nf must be positive\n\n(4)\n\n2.1.2\n\nNo. The energy does not correspond to any transition in this atom.\n\n(2)\n\n(6)",
+      "paper_pages": [16, 16],
+      "memo_pages": [20, 20],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.2",
+      "topic": "atomic_energy_levels",
+      "question": "2.2\nThe energy levels of a certain atom are shown below.\n\nE4 = 6.0 × 10⁻¹⁹ J\nE3 = 4.0 × 10⁻¹⁹ J\nE2 = 2.0 × 10⁻¹⁹ J\nE1 = 0 J\n\n2.2.1 Calculate the energy of the photon emitted when an electron transitions from E4 to E2.\n\n2.2.2 Calculate the wavelength of the photon emitted in 2.2.1.\n\n2.2.3 Calculate the frequency of the photon emitted when an electron transitions from E3 to E1.\n\n(10)",
+      "answer": "2.2.1\n\nΔE = E4 − E2\nΔE = 6.0 × 10⁻¹⁹ − 2.0 × 10⁻¹⁹\nΔE = 4.0 × 10⁻¹⁹ J\n\n(3)\n\n2.2.2\n\nE = hc/λ\n4.0 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)(3 × 10⁸)/λ\nλ = (6.63 × 10⁻³⁴)(3 × 10⁸)/(4.0 × 10⁻¹⁹)\nλ = 4.97 × 10⁻⁷ m\n\n(3)\n\n2.2.3\n\nΔE = E3 − E1\nΔE = 4.0 × 10⁻¹⁹ − 0\nΔE = 4.0 × 10⁻¹⁹ J\n\nE = hf\n4.0 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 6.03 × 10¹⁴ Hz\n\n(4)\n\n(10)",
+      "paper_pages": [17, 17],
+      "memo_pages": [21, 21],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.3",
+      "topic": "atomic_energy_levels",
+      "question": "2.3\nThe energy levels of a hydrogen atom are given by En = −13.6/n² eV.\n\n2.3.1 Calculate the energy of the n = 2 level in joules.\n\n2.3.2 Calculate the energy of the n = 4 level in joules.\n\n2.3.3 Calculate the energy of the photon emitted when an electron transitions from n = 4 to n = 2.\n\n2.3.4 Calculate the wavelength of the photon emitted in 2.3.3.\n\n(10)",
+      "answer": "2.3.1\n\nE2 = −13.6/2² eV\nE2 = −13.6/4 eV\nE2 = −3.4 eV\nE2 = (−3.4)(1.6 × 10⁻¹⁹)\nE2 = −5.44 × 10⁻¹⁹ J\n\n(2)\n\n2.3.2\n\nE4 = −13.6/4² eV\nE4 = −13.6/16 eV\nE4 = −0.85 eV\nE4 = (−0.85)(1.6 × 10⁻¹⁹)\nE4 = −1.36 × 10⁻¹⁹ J\n\n(2)\n\n2.3.3\n\nΔE = E4 − E2\nΔE = −1.36 × 10⁻¹⁹ − (−5.44 × 10⁻¹⁹)\nΔE = 4.08 × 10⁻¹⁹ J\n\n(3)\n\n2.3.4\n\nE = hc/λ\n4.08 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)(3 × 10⁸)/λ\nλ = (6.63 × 10⁻³⁴)(3 × 10⁸)/(4.08 × 10⁻¹⁹)\nλ = 4.88 × 10⁻⁷ m\n\n(3)\n\n(10)",
+      "paper_pages": [17, 18],
+      "memo_pages": [21, 22],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.4",
+      "topic": "atomic_energy_levels",
+      "question": "2.4\nThe energy diagram below shows the first four energy levels of a certain atom.\n\nE4 = 10.0 eV\nE3 = 7.0 eV\nE2 = 4.0 eV\nE1 = 0 eV\n\n2.4.1 How many possible spectral lines can be emitted?\n\n2.4.2 Calculate the energy of the photon with the highest frequency.\n\n2.4.3 Calculate the energy of the photon with the longest wavelength.\n\n2.4.4 Calculate the frequency of the photon emitted when an electron transitions from E3 to E2.\n\n(10)",
+      "answer": "2.4.1\n\nNumber of possible transitions = n(n − 1)/2\n= 4(4 − 1)/2\n= 6 spectral lines\n\n(2)\n\n2.4.2\n\nHighest frequency corresponds to the largest energy transition.\nΔE = E4 − E1\nΔE = 10.0 − 0\nΔE = 10.0 eV\nΔE = (10.0)(1.6 × 10⁻¹⁹)\nΔE = 1.6 × 10⁻¹⁸ J\n\n(2)\n\n2.4.3\n\nLongest wavelength corresponds to the smallest energy transition.\nΔE = E4 − E3\nΔE = 10.0 − 7.0\nΔE = 3.0 eV\nΔE = (3.0)(1.6 × 10⁻¹⁹)\nΔE = 4.8 × 10⁻¹⁹ J\n\n(2)\n\n2.4.4\n\nΔE = E3 − E2\nΔE = 7.0 − 4.0\nΔE = 3.0 eV\nΔE = (3.0)(1.6 × 10⁻¹⁹)\nΔE = 4.8 × 10⁻¹⁹ J\n\nE = hf\n4.8 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 7.24 × 10¹⁴ Hz\n\n(4)\n\n(10)",
+      "paper_pages": [18, 18],
+      "memo_pages": [22, 22],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.1",
+      "topic": "atomic_energy_levels",
+      "question": "3.1\nThe energy diagram below shows the electron energies in different energy levels of a certain atom.\n\nE3 = 5.7 × 10⁻¹⁹ J\nE2 = 5.1 × 10⁻¹⁹ J\nE1 = 1.3 × 10⁻¹⁹ J\n\n3.1.1 Calculate the energy of the photon emitted when an electron moves from E3 to E2.\n\n3.1.2 Calculate the frequency of the photon emitted when an electron moves from E2 to E1.\n\n3.1.3 Is it possible for a photon with an energy of 4.4 × 10⁻¹⁹ J to be emitted from this atom? Choose from YES or NO. Give a reason for the answer.\n\n(8)",
+      "answer": "3.1.1\n\nΔE = E3 − E2\nΔE = 5.7 × 10⁻¹⁹ − 5.1 × 10⁻¹⁹\nΔE = 0.6 × 10⁻¹⁹ J\n\n(2)\n\n3.1.2\n\nΔE = E2 − E1\nΔE = 5.1 × 10⁻¹⁹ − 1.3 × 10⁻¹⁹\nΔE = 3.8 × 10⁻¹⁹ J\n\nE = hf\n3.8 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 5.73 × 10¹⁴ Hz\n\n(3)\n\n3.1.3\n\nYes. The energy corresponds to the transition from E3 to E1.\nΔE = E3 − E1 = 5.7 × 10⁻¹⁹ − 1.3 × 10⁻¹⁹ = 4.4 × 10⁻¹⁹ J\n\n(3)\n\n(8)",
+      "paper_pages": [18, 19],
+      "memo_pages": [22, 23],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.2",
+      "topic": "atomic_energy_levels",
+      "question": "3.2\nThe energy levels of a hydrogen atom are given by En = −13.6/n² eV.\n\n3.2.1 Calculate the energy of the n = 3 level in joules.\n\n3.2.2 Calculate the energy of the photon emitted when an electron transitions from n = 3 to n = 1.\n\n3.2.3 Calculate the frequency of the photon emitted in 3.2.2.\n\n(8)",
+      "answer": "3.2.1\n\nE3 = −13.6/3² eV\nE3 = −13.6/9 eV\nE3 = −1.51 eV\nE3 = (−1.51)(1.6 × 10⁻¹⁹)\nE3 = −2.42 × 10⁻¹⁹ J\n\n(2)\n\n3.2.2\n\nE1 = −13.6/1² eV\nE1 = −13.6 eV\nE1 = (−13.6)(1.6 × 10⁻¹⁹)\nE1 = −2.176 × 10⁻¹⁸ J\n\nΔE = E3 − E1\nΔE = −2.42 × 10⁻¹⁹ − (−2.176 × 10⁻¹⁸)\nΔE = −2.42 × 10⁻¹⁹ + 21.76 × 10⁻¹⁹\nΔE = 19.34 × 10⁻¹⁹ J\nΔE = 1.934 × 10⁻¹⁸ J\n\n(3)\n\n3.2.3\n\nE = hf\n1.934 × 10⁻¹⁸ = (6.63 × 10⁻³⁴)f\nf = 2.92 × 10¹⁵ Hz\n\n(3)\n\n(8)",
+      "paper_pages": [19, 19],
+      "memo_pages": [23, 23],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.3",
+      "topic": "atomic_energy_levels",
+      "question": "3.3\nThe energy diagram below shows the first five energy levels of a certain atom.\n\nE5 = 15.0 eV\nE4 = 12.0 eV\nE3 = 9.0 eV\nE2 = 5.0 eV\nE1 = 0 eV\n\n3.3.1 How many possible spectral lines can be emitted?\n\n3.3.2 Calculate the energy of the photon with the highest frequency.\n\n3.3.3 Calculate the energy of the photon with the longest wavelength.\n\n3.3.4 Calculate the frequency of the photon emitted when an electron transitions from E4 to E2.\n\n(10)",
+      "answer": "3.3.1\n\nNumber of possible transitions = n(n − 1)/2\n= 5(5 − 1)/2\n= 5(4)/2\n= 10 spectral lines\n\n(2)\n\n3.3.2\n\nHighest frequency corresponds to the largest energy transition.\nΔE = E5 − E1\nΔE = 15.0 − 0\nΔE = 15.0 eV\nΔE = (15.0)(1.6 × 10⁻¹⁹)\nΔE = 2.4 × 10⁻¹⁸ J\n\n(2)\n\n3.3.3\n\nLongest wavelength corresponds to the smallest energy transition.\nΔE = E5 − E4\nΔE = 15.0 − 12.0\nΔE = 3.0 eV\nΔE = (3.0)(1.6 × 10⁻¹⁹)\nΔE = 4.8 × 10⁻¹⁹ J\n\n(2)\n\n3.3.4\n\nΔE = E4 − E2\nΔE = 12.0 − 5.0\nΔE = 7.0 eV\nΔE = (7.0)(1.6 × 10⁻¹⁹)\nΔE = 1.12 × 10⁻¹⁸ J\n\nE = hf\n1.12 × 10⁻¹⁸ = (6.63 × 10⁻³⁴)f\nf = 1.69 × 10¹⁵ Hz\n\n(4)\n\n(10)",
+      "paper_pages": [19, 19],
+      "memo_pages": [23, 23],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.1",
+      "topic": "atomic_energy_levels",
+      "question": "4.1\nThe energy diagram below shows the electron energies in different energy levels of a certain atom.\n\nE3 = 8.0 × 10⁻¹⁹ J\nE2 = 4.0 × 10⁻¹⁹ J\nE1 = 0 J\n\n4.1.1 Calculate the frequency of the photon emitted when an electron moves from E2 to E1.\n\n4.1.2 Calculate the wavelength of the photon emitted in 4.1.1.\n\n4.1.3 Calculate the energy of the photon absorbed when an electron moves from E1 to E3.\n\n(9)",
+      "answer": "4.1.1\n\nΔE = E2 − E1\nΔE = 4.0 × 10⁻¹⁹ − 0\nΔE = 4.0 × 10⁻¹⁹ J\n\nE = hf\n4.0 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 6.03 × 10¹⁴ Hz\n\n(3)\n\n4.1.2\n\nE = hc/λ\n4.0 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)(3 × 10⁸)/λ\nλ = (6.63 × 10⁻³⁴)(3 × 10⁸)/(4.0 × 10⁻¹⁹)\nλ = 4.97 × 10⁻⁷ m\n\n(3)\n\n4.1.3\n\nΔE = E3 − E1\nΔE = 8.0 × 10⁻¹⁹ − 0\nΔE = 8.0 × 10⁻¹⁹ J\n\n(3)\n\n(9)",
+      "paper_pages": [19, 20],
+      "memo_pages": [23, 24],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.2",
+      "topic": "atomic_energy_levels",
+      "question": "4.2\nThe energy levels of a hydrogen atom are given by En = −13.6/n² eV.\n\n4.2.1 Calculate the energy of the n = 5 level in joules.\n\n4.2.2 Calculate the energy of the photon emitted when an electron transitions from n = 5 to n = 2.\n\n4.2.3 Calculate the frequency of the photon emitted in 4.2.2.\n\n(9)",
+      "answer": "4.2.1\n\nE5 = −13.6/5² eV\nE5 = −13.6/25 eV\nE5 = −0.544 eV\nE5 = (−0.544)(1.6 × 10⁻¹⁹)\nE5 = −8.70 × 10⁻²⁰ J\n\n(2)\n\n4.2.2\n\nE2 = −13.6/2² eV\nE2 = −13.6/4 eV\nE2 = −3.4 eV\nE2 = (−3.4)(1.6 × 10⁻¹⁹)\nE2 = −5.44 × 10⁻¹⁹ J\n\nΔE = E5 − E2\nΔE = −8.70 × 10⁻²⁰ − (−5.44 × 10⁻¹⁹)\nΔE = −8.70 × 10⁻²⁰ + 54.4 × 10⁻²⁰\nΔE = 45.7 × 10⁻²⁰ J\nΔE = 4.57 × 10⁻¹⁹ J\n\n(3)\n\n4.2.3\n\nE = hf\n4.57 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 6.89 × 10¹⁴ Hz\n\n(4)\n\n(9)",
+      "paper_pages": [20, 20],
+      "memo_pages": [24, 24],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.3",
+      "topic": "atomic_energy_levels",
+      "question": "4.3\nThe energy diagram below shows the first four energy levels of a certain atom.\n\nE4 = 14.0 eV\nE3 = 10.0 eV\nE2 = 6.0 eV\nE1 = 0 eV\n\n4.3.1 How many possible spectral lines can be emitted?\n\n4.3.2 Calculate the energy of the photon with the highest frequency.\n\n4.3.3 Calculate the energy of the photon with the longest wavelength.\n\n4.3.4 Calculate the frequency of the photon emitted when an electron transitions from E3 to E1.\n\n(10)",
+      "answer": "4.3.1\n\nNumber of possible transitions = n(n − 1)/2\n= 4(4 − 1)/2\n= 6 spectral lines\n\n(2)\n\n4.3.2\n\nHighest frequency corresponds to the largest energy transition.\nΔE = E4 − E1\nΔE = 14.0 − 0\nΔE = 14.0 eV\nΔE = (14.0)(1.6 × 10⁻¹⁹)\nΔE = 2.24 × 10⁻¹⁸ J\n\n(2)\n\n4.3.3\n\nLongest wavelength corresponds to the smallest energy transition.\nΔE = E4 − E3\nΔE = 14.0 − 10.0\nΔE = 4.0 eV\nΔE = (4.0)(1.6 × 10⁻¹⁹)\nΔE = 6.4 × 10⁻¹⁹ J\n\n(2)\n\n4.3.4\n\nΔE = E3 − E1\nΔE = 10.0 − 0\nΔE = 10.0 eV\nΔE = (10.0)(1.6 × 10⁻¹⁹)\nΔE = 1.6 × 10⁻¹⁸ J\n\nE = hf\n1.6 × 10⁻¹⁸ = (6.63 × 10⁻³⁴)f\nf = 2.41 × 10¹⁵ Hz\n\n(4)\n\n(10)",
+      "paper_pages": [20, 20],
+      "memo_pages": [24, 24],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.1",
+      "topic": "atomic_energy_levels",
+      "question": "5.1\nThe energy diagram below shows the electron energies in different energy levels of a certain atom.\n\nE3 = 6.0 × 10⁻¹⁹ J\nE2 = 3.0 × 10⁻¹⁹ J\nE1 = 1.0 × 10⁻¹⁹ J\n\n5.1.1 Calculate the energy of the photon emitted when an electron moves from E3 to E2.\n\n5.1.2 Calculate the frequency of the photon emitted when an electron moves from E2 to E1.\n\n5.1.3 Calculate the wavelength of the photon emitted when an electron moves from E3 to E1.\n\n(10)",
+      "answer": "5.1.1\n\nΔE = E3 − E2\nΔE = 6.0 × 10⁻¹⁹ − 3.0 × 10⁻¹⁹\nΔE = 3.0 × 10⁻¹⁹ J\n\n(2)\n\n5.1.2\n\nΔE = E2 − E1\nΔE = 3.0 × 10⁻¹⁹ − 1.0 × 10⁻¹⁹\nΔE = 2.0 × 10⁻¹⁹ J\n\nE = hf\n2.0 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 3.02 × 10¹⁴ Hz\n\n(4)\n\n5.1.3\n\nΔE = E3 − E1\nΔE = 6.0 × 10⁻¹⁹ − 1.0 × 10⁻¹⁹\nΔE = 5.0 × 10⁻¹⁹ J\n\nE = hc/λ\n5.0 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)(3 × 10⁸)/λ\nλ = (6.63 × 10⁻³⁴)(3 × 10⁸)/(5.0 × 10⁻¹⁹)\nλ = 3.98 × 10⁻⁷ m\n\n(4)\n\n(10)",
+      "paper_pages": [20, 21],
+      "memo_pages": [24, 25],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2",
+      "topic": "atomic_energy_levels",
+      "question": "5.2\nThe energy levels of a hydrogen atom are given by En = −13.6/n² eV.\n\n5.2.1 Calculate the energy of the n = 6 level in joules.\n\n5.2.2 Calculate the energy of the photon emitted when an electron transitions from n = 6 to n = 3.\n\n5.2.3 Calculate the wavelength of the photon emitted in 5.2.2.\n\n(9)",
+      "answer": "5.2.1\n\nE6 = −13.6/6² eV\nE6 = −13.6/36 eV\nE6 = −0.378 eV\nE6 = (−0.378)(1.6 × 10⁻¹⁹)\nE6 = −6.05 × 10⁻²⁰ J\n\n(2)\n\n5.2.2\n\nE3 = −13.6/3² eV\nE3 = −13.6/9 eV\nE3 = −1.51 eV\nE3 = (−1.51)(1.6 × 10⁻¹⁹)\nE3 = −2.42 × 10⁻¹⁹ J\n\nΔE = E6 − E3\nΔE = −6.05 × 10⁻²⁰ − (−2.42 × 10⁻¹⁹)\nΔE = −6.05 × 10⁻²⁰ + 24.2 × 10⁻²⁰\nΔE = 18.15 × 10⁻²⁰ J\nΔE = 1.815 × 10⁻¹⁹ J\n\n(3)\n\n5.2.3\n\nE = hc/λ\n1.815 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)(3 × 10⁸)/λ\nλ = (6.63 × 10⁻³⁴)(3 × 10⁸)/(1.815 × 10⁻¹⁹)\nλ = 1.096 × 10⁻⁶ m\n\n(4)\n\n(9)",
+      "paper_pages": [21, 21],
+      "memo_pages": [25, 25],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3",
+      "topic": "atomic_energy_levels",
+      "question": "5.3\nThe energy diagram below shows the first five energy levels of a certain atom.\n\nE5 = 20.0 eV\nE4 = 15.0 eV\nE3 = 10.0 eV\nE2 = 5.0 eV\nE1 = 0 eV\n\n5.3.1 How many possible spectral lines can be emitted?\n\n5.3.2 Calculate the energy of the photon with the highest frequency.\n\n5.3.3 Calculate the energy of the photon with the longest wavelength.\n\n5.3.4 Calculate the frequency of the photon emitted when an electron transitions from E5 to E3.\n\n(10)",
+      "answer": "5.3.1\n\nNumber of possible transitions = n(n − 1)/2\n= 5(5 − 1)/2\n= 5(4)/2\n= 10 spectral lines\n\n(2)\n\n5.3.2\n\nHighest frequency corresponds to the largest energy transition.\nΔE = E5 − E1\nΔE = 20.0 − 0\nΔE = 20.0 eV\nΔE = (20.0)(1.6 × 10⁻¹⁹)\nΔE = 3.2 × 10⁻¹⁸ J\n\n(2)\n\n5.3.3\n\nLongest wavelength corresponds to the smallest energy transition.\nΔE = E5 − E4\nΔE = 20.0 − 15.0\nΔE = 5.0 eV\nΔE = (5.0)(1.6 × 10⁻¹⁹)\nΔE = 8.0 × 10⁻¹⁹ J\n\n(2)\n\n5.3.4\n\nΔE = E5 − E3\nΔE = 20.0 − 10.0\nΔE = 10.0 eV\nΔE = (10.0)(1.6 × 10⁻¹⁹)\nΔE = 1.6 × 10⁻¹⁸ J\n\nE = hf\n1.6 × 10⁻¹⁸ = (6.63 × 10⁻³⁴)f\nf = 2.41 × 10¹⁵ Hz\n\n(4)\n\n(10)",
+      "paper_pages": [21, 21],
+      "memo_pages": [25, 25],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.4",
+      "topic": "atomic_energy_levels",
+      "question": "5.4\nThe energy diagram below (NOT drawn to scale) shows the electron energies in different energy levels, E1, E2 and E3, of a certain atom.\n\nE3 = 5.7 × 10⁻¹⁹ J\nE2 = 5.1 × 10⁻¹⁹ J\nE1 = 1.3 × 10⁻¹⁹ J\n\n5.4.1 An electron of this atom moves from E3 to E1. Photon X is emitted. Calculate the frequency of photon X.\n\n5.4.2 Calculate the energy of the photon emitted when an electron moves from E3 to E2.\n\n5.4.3 Calculate the frequency of the photon emitted when an electron moves from E2 to E1.\n\n5.4.4 Is it possible for a photon with an energy of 2.5 × 10⁻¹⁹ J to be emitted from this atom? Choose from YES or NO. Give a reason for the answer.\n\n(12)",
+      "answer": "5.4.1\n\nOPTION 1\nE = hf\n5.7 × 10⁻¹⁹ − 1.3 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 6.64 × 10¹⁴ Hz\n\nOPTION 2\nΔE = E1 − E3\n= 1.3 × 10⁻¹⁹ − 5.7 × 10⁻¹⁹\n= −4.4 × 10⁻¹⁹ J\nE = hf\n4.4 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 6.64 × 10¹⁴ Hz\nf must be positive\n\n(4)\n\n5.4.2\n\nΔE = E3 − E2\nΔE = 5.7 × 10⁻¹⁹ − 5.1 × 10⁻¹⁹\nΔE = 0.6 × 10⁻¹⁹ J\n\n(2)\n\n5.4.3\n\nΔE = E2 − E1\nΔE = 5.1 × 10⁻¹⁹ − 1.3 × 10⁻¹⁹\nΔE = 3.8 × 10⁻¹⁹ J\n\nE = hf\n3.8 × 10⁻¹⁹ = (6.63 × 10⁻³⁴)f\nf = 5.73 × 10¹⁴ Hz\n\n(3)\n\n5.4.4\n\nNo. The energy does not correspond to any transition in this atom.\n\n(3)\n\n(12)",
+      "paper_pages": [21, 22],
+      "memo_pages": [25, 26],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

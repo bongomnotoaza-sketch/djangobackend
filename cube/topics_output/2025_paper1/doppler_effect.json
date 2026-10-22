@@ -1,0 +1,208 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "doppler_effect",
+  "count": 20,
+  "questions": [
+    {
+      "label": "1.1",
+      "topic": "doppler_effect",
+      "question": "1.1\nA star's spectrum, observed from Earth, is red shifted. Which ONE of the following statements is CORRECT?\n\nA The speed of light is increasing.\nB The star is moving towards Earth.\nC The frequency of each spectral line has increased.\nD The wavelength of each spectral line has increased.\n\n(2)",
+      "answer": "1.1\nD\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.2",
+      "topic": "doppler_effect",
+      "question": "1.2\nA sound source moves at a constant speed towards a stationary listener. The frequency of the sound detected by the listener is ...\n\nA lower than the frequency emitted by the source.\nB equal to the frequency emitted by the source.\nC higher than the frequency emitted by the source.\nD zero.\n\n(2)",
+      "answer": "1.2\nC\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.3",
+      "topic": "doppler_effect",
+      "question": "1.3\nA sound source moves away from a stationary listener. Which ONE of the following statements is CORRECT?\n\nA The wavelength detected by the listener is longer than the wavelength emitted.\nB The wavelength detected by the listener is shorter than the wavelength emitted.\nC The frequency detected by the listener is higher than the frequency emitted.\nD The speed of sound in air increases.\n\n(2)",
+      "answer": "1.3\nA\n(2)",
+      "paper_pages": [6, 6],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.4",
+      "topic": "doppler_effect",
+      "question": "1.4\nAn ambulance with its siren sounding moves at a constant speed towards a stationary observer, passes the observer, and then moves away at the same constant speed.\n\nWhich ONE of the following graphs best represents the frequency detected by the observer as a function of time?\n\nA A graph that is constant throughout.\nB A graph that shows a sudden increase at the moment the ambulance passes the observer.\nC A graph that shows a sudden decrease at the moment the ambulance passes the observer.\nD A graph that shows a gradual increase followed by a gradual decrease.\n\n(2)",
+      "answer": "1.4\nC\n(2)",
+      "paper_pages": [6, 6],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.5",
+      "topic": "doppler_effect",
+      "question": "1.5\nA source emits sound of frequency fs. The source moves towards a stationary listener at speed vs. The speed of sound in air is v.\n\nWhich ONE of the following expressions correctly gives the frequency fL detected by the listener?\n\nA fL = (v / (v + vs)) fs\nB fL = (v / (v − vs)) fs\nC fL = ((v + vs) / v) fs\nD fL = ((v − vs) / v) fs\n\n(2)",
+      "answer": "1.5\nB\n(2)",
+      "paper_pages": [6, 6],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.1",
+      "topic": "doppler_effect",
+      "question": "2.1\nState the Doppler effect.\n\n(2)",
+      "answer": "2.1\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nThe change in frequency (or pitch) of the sound detected by a listener, because the sound source and the listener have different velocities relative to the medium of sound propagation.\n\nOR\n\nIs an (apparent) change in (observed/detected) frequency (pitch) as a result of the relative motion between a sound source and an observer.\n\n(2)",
+      "paper_pages": [7, 7],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.2",
+      "topic": "doppler_effect",
+      "question": "2.2\nAn ambulance with its siren sounding moves at a constant speed towards a stationary sound detector (Part A) and away from the stationary sound detector (Part B) at constant velocities. The experiment is repeated for different velocities of the ambulance. The detected frequency is measured for EACH velocity. The results obtained are shown in the graph below.\n\n| Velocity of ambulance (m·s⁻¹) | Detected frequency (Hz) |\n|---|---|| 5 | 1298 |\n| 10 | 1275 |\n| 15 | 1253 |\n| 20 | 1232 |\n| 25 | 1211 |\n| 30 | 1191 |\n\nFor Part A (ambulance approaching):\n\n| Velocity of ambulance (m·s⁻¹) | Detected frequency (Hz) |\n|---|---|\n| 5 | 1320 |\n| 10 | 1343 |\n| 15 | 1367 |\n| 20 | 1391 |\n| 25 | 1416 |\n| 30 | 1442 |\n\n2.2.1 Write down the independent variable.\n\n2.2.2 Write down ONE controlled variable.\n\n(2)",
+      "answer": "2.2.1\nVelocity/speed of the ambulance/source\n\n(1)\n\n2.2.2\nFrequency/wavelength of the sound produced by the ambulance siren / fs / speed of sound / density/temperature of air / detector/listener is stationary\n\n(1)\n\n(2)",
+      "paper_pages": [7, 7],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.3",
+      "topic": "doppler_effect",
+      "question": "2.3\nWhat conclusion can be made for Part B of this experiment?\n\n(2)",
+      "answer": "2.3\nAs the velocity of the ambulance increases, the detected frequency decreases.\n\nNOTE: If inversely proportional indicated: 0/2\n\n(2)",
+      "paper_pages": [7, 7],
+      "memo_pages": [3, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.4",
+      "topic": "doppler_effect",
+      "question": "2.4\nCalculate the speed of sound in air.\n\n(6)",
+      "answer": "2.4\n\nAmbulance approaching:\nfL = (v / (v − vs)) fs\n1298 = (v / (v − 25)) fs\nvfs = 1298(v − 25) ... (1)\n\nAmbulance moving away:\nfL = (v / (v + vs)) fs\n1115 = (v / (v + 25)) fs\nvfs = 1115(v + 25) ... (2)\n\n(1) = (2):\n1298(v − 25) = 1115(v + 25)\n1298v − 32450 = 1115v + 27875\n183v = 60325\nv = 329.64 m·s⁻¹\n\n(6)",
+      "paper_pages": [7, 8],
+      "memo_pages": [4, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.5",
+      "topic": "doppler_effect",
+      "question": "2.5\nA stationary observer hears the sound of a car horn. The car is moving towards the observer at 20 m·s⁻¹. The frequency of the horn is 500 Hz. The speed of sound in air is 340 m·s⁻¹.\n\nCalculate the frequency detected by the observer.\n\n(3)",
+      "answer": "2.5\n\nfL = (v / (v − vs)) fs\nfL = (340 / (340 − 20)) (500)\nfL = (340 / 320) (500)\nfL = 531.25 Hz\n\n(3)",
+      "paper_pages": [8, 8],
+      "memo_pages": [4, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.1",
+      "topic": "doppler_effect",
+      "question": "3.1\nA train moving at 30 m·s⁻¹ sounds its whistle as it approaches a tunnel. The frequency of the whistle is 600 Hz. The speed of sound in air is 340 m·s⁻¹.\n\n3.1.1 Calculate the frequency of the sound heard by a stationary observer standing near the tunnel entrance.\n\n3.1.2 Calculate the frequency of the sound heard by the observer after the train has passed and is moving away at 30 m·s⁻¹.\n\n(6)",
+      "answer": "3.1.1\n\nfL = (v / (v − vs)) fs\nfL = (340 / (340 − 30)) (600)\nfL = (340 / 310) (600)\nfL = 658.06 Hz\n\n(3)\n\n3.1.2\n\nfL = (v / (v + vs)) fs\nfL = (340 / (340 + 30)) (600)\nfL = (340 / 370) (600)\nfL = 551.35 Hz\n\n(3)\n\n(6)",
+      "paper_pages": [8, 8],
+      "memo_pages": [5, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.2",
+      "topic": "doppler_effect",
+      "question": "3.2\nA sound source of frequency 800 Hz moves at a constant speed towards a stationary listener. The listener detects a frequency of 850 Hz. The speed of sound in air is 340 m·s⁻¹.\n\nCalculate the speed of the source.\n\n(3)",
+      "answer": "3.2\n\nfL = (v / (v − vs)) fs\n850 = (340 / (340 − vs)) (800)\n850(340 − vs) = 340 × 800\n289000 − 850vs = 272000\n850vs = 17000\nvs = 20 m·s⁻¹\n\n(3)",
+      "paper_pages": [8, 9],
+      "memo_pages": [5, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.3",
+      "topic": "doppler_effect",
+      "question": "3.3\nA police car with its siren sounding moves at a constant speed of 25 m·s⁻¹ towards a stationary observer. The frequency of the siren is 700 Hz. The speed of sound in air is 340 m·s⁻¹.\n\n3.3.1 Calculate the frequency detected by the observer.\n\n3.3.2 The police car now moves away from the observer at the same speed. Calculate the frequency detected by the observer.\n\n3.3.3 Calculate the change in frequency detected by the observer.\n\n(6)",
+      "answer": "3.3.1\n\nfL = (v / (v − vs)) fs\nfL = (340 / (340 − 25)) (700)\nfL = (340 / 315) (700)\nfL = 755.56 Hz\n\n(2)\n\n3.3.2\n\nfL = (v / (v + vs)) fs\nfL = (340 / (340 + 25)) (700)\nfL = (340 / 365) (700)\nfL = 652.05 Hz\n\n(2)\n\n3.3.3\n\nChange in frequency = 755.56 − 652.05 = 103.51 Hz\n\n(2)\n\n(6)",
+      "paper_pages": [9, 9],
+      "memo_pages": [5, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.1",
+      "topic": "doppler_effect",
+      "question": "4.1\nA bat emits ultrasound of frequency 50 kHz while flying towards a moth at 8 m·s⁻¹. The moth is stationary. The speed of sound in air is 340 m·s⁻¹.\n\n4.1.1 Calculate the frequency of the sound detected by the moth.\n\n4.1.2 The sound reflects off the moth and is detected by the bat. Calculate the frequency detected by the bat.\n\n(6)",
+      "answer": "4.1.1\n\nfL = (v / (v − vs)) fs\nfL = (340 / (340 − 8)) (50000)\nfL = (340 / 332) (50000)\nfL = 51204.82 Hz\n\n(3)\n\n4.1.2\n\nNow the moth acts as a stationary source of frequency 51204.82 Hz, and the bat is a moving listener approaching at 8 m·s⁻¹.\nfL = ((v + vL) / v) fs\nfL = ((340 + 8) / 340) (51204.82)\nfL = (348 / 340) (51204.82)\nfL = 52409.64 Hz\n\n(3)\n\n(6)",
+      "paper_pages": [9, 9],
+      "memo_pages": [6, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.2",
+      "topic": "doppler_effect",
+      "question": "4.2\nA sound source emits sound of frequency 1000 Hz. The source moves towards a stationary listener at speed vs. The listener detects a frequency of 1100 Hz. The speed of sound in air is 340 m·s⁻¹.\n\n4.2.1 Calculate the speed of the source.\n\n4.2.2 The source now moves away from the listener at the same speed. Calculate the frequency detected by the listener.\n\n(5)",
+      "answer": "4.2.1\n\nfL = (v / (v − vs)) fs\n1100 = (340 / (340 − vs)) (1000)\n1100(340 − vs) = 340000\n374000 − 1100vs = 340000\n1100vs = 34000\nvs = 30.91 m·s⁻¹\n\n(3)\n\n4.2.2\n\nfL = (v / (v + vs)) fs\nfL = (340 / (340 + 30.91)) (1000)\nfL = (340 / 370.91) (1000)\nfL = 916.66 Hz\n\n(2)\n\n(5)",
+      "paper_pages": [9, 10],
+      "memo_pages": [6, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.3",
+      "topic": "doppler_effect",
+      "question": "4.3\nA stationary source emits sound of frequency 500 Hz. A listener moves towards the source at 20 m·s⁻¹. The speed of sound in air is 340 m·s⁻¹.\n\n4.3.1 Calculate the frequency detected by the listener.\n\n4.3.2 The listener now moves away from the source at the same speed. Calculate the frequency detected by the listener.\n\n(5)",
+      "answer": "4.3.1\n\nfL = ((v + vL) / v) fs\nfL = ((340 + 20) / 340) (500)\nfL = (360 / 340) (500)\nfL = 529.41 Hz\n\n(3)\n\n4.3.2\n\nfL = ((v − vL) / v) fs\nfL = ((340 − 20) / 340) (500)\nfL = (320 / 340) (500)\nfL = 470.59 Hz\n\n(2)\n\n(5)",
+      "paper_pages": [10, 10],
+      "memo_pages": [6, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.1",
+      "topic": "doppler_effect",
+      "question": "5.1\nA car approaching a stationary observer sounds its horn at a frequency of 400 Hz. The observer detects a frequency of 440 Hz. The speed of sound in air is 340 m·s⁻¹.\n\n5.1.1 Calculate the speed of the car.\n\n5.1.2 The car now moves away from the observer at the same speed. Calculate the frequency detected by the observer.\n\n5.1.3 Calculate the change in the detected frequency.\n\n(7)",
+      "answer": "5.1.1\n\nfL = (v / (v − vs)) fs\n440 = (340 / (340 − vs)) (400)\n440(340 − vs) = 340 × 400\n149600 − 440vs = 136000\n440vs = 13600\nvs = 30.91 m·s⁻¹\n\n(3)\n\n5.1.2\n\nfL = (v / (v + vs)) fs\nfL = (340 / (340 + 30.91)) (400)\nfL = (340 / 370.91) (400)\nfL = 366.66 Hz\n\n(2)\n\n5.1.3\n\nChange = 440 − 366.66 = 73.34 Hz\n\n(2)\n\n(7)",
+      "paper_pages": [10, 10],
+      "memo_pages": [7, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2",
+      "topic": "doppler_effect",
+      "question": "5.2\nTwo cars, A and B, are moving towards each other. Car A moves at 20 m·s⁻¹ and car B moves at 15 m·s⁻¹. Car A sounds its horn at a frequency of 600 Hz. The speed of sound in air is 340 m·s⁻¹.\n\n5.2.1 Calculate the frequency detected by the driver of car B.\n\n5.2.2 After the cars pass each other, car A continues at 20 m·s⁻¹ and car B continues at 15 m·s⁻¹ in opposite directions. Calculate the frequency detected by the driver of car B now.\n\n(6)",
+      "answer": "5.2.1\n\nThe listener (car B) is moving towards the source, and the source (car A) is moving towards the listener.\nfL = ((v + vL) / (v − vs)) fs\nfL = ((340 + 15) / (340 − 20)) (600)\nfL = (355 / 320) (600)\nfL = 665.63 Hz\n\n(3)\n\n5.2.2\n\nNow the source and listener are moving away from each other.\nfL = ((v − vL) / (v + vs)) fs\nfL = ((340 − 15) / (340 + 20)) (600)\nfL = (325 / 360) (600)\nfL = 541.67 Hz\n\n(3)\n\n(6)",
+      "paper_pages": [10, 11],
+      "memo_pages": [7, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3",
+      "topic": "doppler_effect",
+      "question": "5.3\nA source of sound moves in a circle of radius 2 m at a constant speed of 10 m·s⁻¹. A stationary observer is positioned at a large distance from the circle. The frequency of the sound emitted by the source is 800 Hz. The speed of sound in air is 340 m·s⁻¹.\n\n5.3.1 Calculate the maximum frequency detected by the observer.\n\n5.3.2 Calculate the minimum frequency detected by the observer.\n\n5.3.3 Calculate the frequency detected when the source is at the point where its velocity is perpendicular to the line joining it to the observer.\n\n(8)",
+      "answer": "5.3.1\n\nMaximum frequency occurs when the source moves directly towards the observer.\nfL = (v / (v − vs)) fs\nfL = (340 / (340 − 10)) (800)\nfL = (340 / 330) (800)\nfL = 824.24 Hz\n\n(3)\n\n5.3.2\n\nMinimum frequency occurs when the source moves directly away from the observer.\nfL = (v / (v + vs)) fs\nfL = (340 / (340 + 10)) (800)\nfL = (340 / 350) (800)\nfL = 777.14 Hz\n\n(3)\n\n5.3.3\n\nWhen the velocity is perpendicular to the line joining the source and observer, the component of velocity along the line of sight is zero.\nfL = fs = 800 Hz\n\n(2)\n\n(8)",
+      "paper_pages": [11, 11],
+      "memo_pages": [8, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.4",
+      "topic": "doppler_effect",
+      "question": "5.4\nAn observer is standing on a platform. A train passes the platform without stopping. The train's whistle emits sound at a constant frequency of 550 Hz. The train moves at a constant speed of 25 m·s⁻¹. The speed of sound in air is 340 m·s⁻¹.\n\n5.4.1 Calculate the frequency detected by the observer as the train approaches.\n\n5.4.2 Calculate the frequency detected by the observer as the train moves away.\n\n5.4.3 Sketch a graph of detected frequency versus time for the observer from the moment the train approaches until it moves far away. Indicate the values calculated in 5.4.1 and 5.4.2 on the graph.\n\n(10)",
+      "answer": "5.4.1\n\nfL = (v / (v − vs)) fs\nfL = (340 / (340 − 25)) (550)\nfL = (340 / 315) (550)\nfL = 593.65 Hz\n\n(3)\n\n5.4.2\n\nfL = (v / (v + vs)) fs\nfL = (340 / (340 + 25)) (550)\nfL = (340 / 365) (550)\nfL = 512.33 Hz\n\n(3)\n\n5.4.3\n\nGraph criteria:\n• The graph shows a constant frequency of 593.65 Hz before the train passes.\n• At the moment the train passes, the frequency drops abruptly to 512.33 Hz.\n• The graph shows a constant frequency of 512.33 Hz after the train passes.\n• Correct labels and values on the y-axis.\n\n(4)\n\n(10)",
+      "paper_pages": [11, 12],
+      "memo_pages": [8, 9],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "year": 2025,
+  "paper": "paper2",
+  "topic": "electrochemistry",
+  "count": 11,
+  "questions": [
+    {
+      "label": "1.9",
+      "topic": "electrochemistry",
+      "question": "1.9 \nA galvanic cell consists of the following half-cells: \n \nFe3+(aq)|Fe2+(aq) \n \nNi2+(aq)|Ni(s) \n \nWhich ONE of the following statements is CORRECT for this cell? \n \n \n \n \nA \n \nB \n \nC \n \nD \nNi2+ is reduced and Fe2+ is oxidised. \n \nNi2+ is oxidised and Fe3+ is reduced. \n \nPt is the electrode at the cathode. \n \nNi is the electrode at the cathode. \n \n \n \n \n \n \n(2) \n \n1.10 \nThe set-up for electroplating an iron medal with silver is shown in the simplified \ndiagram below. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nWhich ONE of the following combinations for the ANODE and REACTION AT \nTHE CATHODE is CORRECT? \n \n \n \n \n \nANODE \nREACTION AT THE CATHODE \n \n \n(2) \nA \nIron medal \nAg+(aq) + e- → Ag(s) \n \nB \nSilver rod \nFe2+(aq) + 2e- → Fe(s) \n \nC \nIron medal \nAg(s) → Ag+(aq) + e- \n \nD \nSilver rod \nAg+(aq) + e- → Ag(s) \n \n \n \n[20] \n \n \n \nPower \nsource \nSilver rod \nIron medal \nElectrolyte \n\nPhysical Sciences/P2 \n7 \nDBE/November 2025 \n \nNSC Confidential \nCopyright reserved \n \nPlease turn over \n \n \nQUESTION 2 (Start on a new page.) \n \n \nThe letters A to G in the table below represent organic compounds. \n \n \nA \n \n \n \n \n \n \n \n \n \nB \n \n \n \n \n \n \n \n \n \n \n \n \nC \nCH3CH(CH3)CH2CHO \nD \nC4H10O \nE \n \nC3H8 \nF \nPentane \nG \n \n \n \n \n2.1 \nWrite down the LETTER(S) that represent(s) EACH of the following:",
+      "answer": "1.9 \nC  \n (2)",
+      "paper_pages": [
+        6,
+        7
+      ],
+      "memo_pages": [
+        2,
+        2
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.10",
+      "topic": "electrochemistry",
+      "question": "1.10) in the ANSWER BOOK, e.g. 1.11 E. \n \n \n1.1 \nWhich ONE of the following is the name of the functional group of propan-1-ol? \n \n \nA \n \nB \n \nC \n \nD \nCarboxyl \n \nCarbonyl \n \nHydroxyl \n \nFormyl \n \n(2)",
+      "answer": "1.10 \nD  \n \n(2) \n \n \n \n[20] \n \nQUESTION 2/VRAAG 2 \n \n \n2.1",
+      "paper_pages": [
+        3,
+        3
+      ],
+      "memo_pages": [
+        2,
+        2
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "8.1",
+      "topic": "electrochemistry",
+      "question": "8.1 \nDefine the term electrolyte. \n (2)",
+      "answer": "8.1 \nANY ONE: \n• A substance whose (aqueous) solution contains ions.  (2 OR/OF 0) \n• Substance that dissolves in water to give a solution that conducts \nelectricity (through movement of ions). \nOR \n• A substance that dissociates to form ions in water/in molten state. \n \nENIGE EEN: \n• 'n Stof waarvan die (waterige) oplossing ione bevat. \n• 'n Stof wat in water oplos om 'n oplossing te vorm wat elektrisiteit gelei \n(deur die beweging van ione). \nOF \n• ‘n Stof wat dissosieer om ione in water te vorm/in gesmelte toestand \n \n(2)",
+      "paper_pages": [
+        15,
+        15
+      ],
+      "memo_pages": [
+        20,
+        20
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "8.2",
+      "topic": "electrochemistry",
+      "question": "8.2 \nWhich ion concentration, Aℓ3+(aq) or Zn2+(aq), will increase? Give a reason for \nthe answer. \n \n(2)",
+      "answer": "8.2 \nAℓ 3+/Aluminium ion/ioon  \nAℓ is oxidised OR Aℓ is a stronger reducing agent.  \nAℓ is geoksideer OF Aℓ is ’n sterker reduseermiddel. \n \n(2) \n \n \n(g) in all options/in alle opsies: \n \nnBa(OH)2 in 25 cm3 = cV \n 2,33 x 10-3 mol = c(0,025) \n cBa(OH)2 in 25 cm3 = 0,0936 mol·dm-3 \n \nnBa(OH)2 in 100 cm3 = cV \n \n = (0,0936)(0,1) \n = 0,0936 mol \n(a) \n(b) \n(c) \n (d) \n(e) \n(f) \n(g) \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n21 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om asseblief",
+      "paper_pages": [
+        15,
+        15
+      ],
+      "memo_pages": [
+        20,
+        21
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "8.3",
+      "topic": "electrochemistry",
+      "question": "8.3 \nWrite down the cell notation for this cell. \n (3) \n \n \n \n \nThe electrolyte in the aluminium half-cell is prepared by dissolving some \naluminium sulphate, Aℓ2(SO4)3(s), in water.",
+      "answer": "8.3 \n \n \n \n \nAℓ(s) | Aℓ3+(aq) || Zn2+(aq) | Zn(s) \n \nOR/OF \nAℓ(s) | Aℓ 3+ (1 mol·dm-3) || Zn2+(aq) (1 mol·dm-3) | Zn(s) \n \nACCEPT/AANVAAR \nAℓ | Aℓ 3+ || Zn2+ | Zn \n \n(3)",
+      "paper_pages": [
+        15,
+        15
+      ],
+      "memo_pages": [
+        21,
+        21
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "8.4",
+      "topic": "electrochemistry",
+      "question": "8.4 \nCalculate the mass of Aℓ2(SO4)3(s) needed to prepare 250 cm3 of this solution \nso that the cell operates initially under STANDARD CONDITIONS. \n \n(4) \n \n \n [11] \n \nAℓ \nZn \nZn2+(aq) \nAℓ3+(aq) \nV \n\nPhysical Sciences/P2 \n16 \nDBE/November 2025 \n \nNSC Confidential \nCopyright reserved \n \n \n \n \n \nQUESTION 9 (Start on a new page.) \n \n \nThe diagram below represents a cell used for the refining of copper. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe unrefined copper contains zinc as the only impurity.",
+      "answer": "8.4 \nMarking criteria \n(a) Calculate n(Aℓ3+)  \n(b) USE mol ratio: \n \nnAℓ2(SO4)3 : nAℓ3+ = 1 : 2  \n(c) Multiply nAℓ2(SO4)3 by M = 342  \n(d) Final correct answer \n= 42,75 g  \nNasienkriteria: \n(a) Bereken n(Aℓ3+)  \n(b) Gebruik molverhouding: \nnAℓ2(SO4)3 : nAℓ3+ = 1 : 2  \n(c) Vermenigvuldig nAℓ2(SO4)3 met \nM = 342 \n(d) Finale korrekte antwoord \n= 42,75 g  \n \n \nOPTION 1/OPSIE 1: \nn(Aℓ3+) = cV \n \n= (1)(0,25) \n \n= 0,25 mol \n \nnAℓ2(SO4)3 = \n1\n2 n(Aℓ3+) \n \n= \n1\n2 (0,25) \n \n= 0,125 mol \n \nnAℓ2(SO4)3 = \nm\nM \n 0,125 = \nm\n342 \n \n m = 42,75 g \nOPTION 2/OPSIE 2: \nc = m\nVM \n1 = \nm\n(0,25) (342) \n \nm = 85,5 g \n \nAl2(SO4)3 → 2 mol·dm-3 Al3+ \nm(Al2(SO4)3) = 1\n2 (85,5) \n = 42,75 g \n(4) \n \n \n \n[11] \n \n \n \n \n(b) \n(a) \n(b) \n(c) \n(d) \n(c) \n(a) \n(d) \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n22 \nDBE/November 2025 \nNSC/NSS – Marking Guidelines/Nasienriglyne \nCopyright reserved/Kopiereg voorbehou \n \n \n \n \nQUESTION 9/VRAAG 9",
+      "paper_pages": [
+        15,
+        16
+      ],
+      "memo_pages": [
+        21,
+        22
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "9.1",
+      "topic": "electrochemistry",
+      "question": "9.1 \nIs this an ELECTROLYTIC or a GALVANIC cell? \n (1)",
+      "answer": "9.1 \nElectrolytic/Elektrolitiese ✓ \n \n(1)",
+      "paper_pages": [
+        16,
+        16
+      ],
+      "memo_pages": [
+        22,
+        22
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "9.2",
+      "topic": "electrochemistry",
+      "question": "9.2 \nWhen the switch is closed, it is found after T hours that the amount of Cu2+(aq) \nions in the electrolyte changed by 0,05 moles and 0,15 moles of Cu(s) were \ndeposited on electrode Q.",
+      "answer": null,
+      "paper_pages": [
+        16,
+        16
+      ],
+      "memo_pages": null,
+      "topic_mismatch": null,
+      "missing_in": [
+        "memo"
+      ]
+    },
+    {
+      "label": "9.2.1",
+      "topic": "electrochemistry",
+      "question": "9.2.1 \nHow will the concentration of the zinc ions in the electrolyte be \naffected during the refining of the copper? Choose from \nINCREASES, DECREASES or REMAINS THE SAME. \n \n(1)",
+      "answer": "9.2.1 \nIncreases/Neem toe ✓ \n \n(1)",
+      "paper_pages": [
+        16,
+        16
+      ],
+      "memo_pages": [
+        22,
+        22
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "9.2.2",
+      "topic": "electrochemistry",
+      "question": "9.2.2 \nWill the amount of Cu2+(aq) ions INCREASE or DECREASE? \n \nExplain the answer in terms of the relative strengths of the oxidising \nagents present. \n \n(3)",
+      "answer": "9.2.2 \nDecrease ✓ \n• More copper (II) ions/Cu2+ are reduced than formed./ Only copper (II) \nions/Cu2+ are reduced. ✓ \n• Copper (II) ion/Cu2+ is a stronger oxidising agent than the zinc (II) ion/Zn2+ ✓ \n OR \n Zinc (II) ion/Zn2+ is a weaker oxidising agent than the copper (II) ion/Cu2+ \n \nAfneem \n• Meer koper(II)ione/Cu2+ word gereduseer as wat gevorm word./ Slegs \nkoper(II)ione/Cu2+ word gereduseer. \n• Koper(II)ioon/Cu2+ is ŉ sterkter oksideermiddel as die sink(II)ioon/Zn2+ \nOF \n Sink(II)ioon/Zn2+ is ŉ swakker oksideermiddel as die koper(II)ioon/Cu2+ \n \n(3)",
+      "paper_pages": [
+        16,
+        16
+      ],
+      "memo_pages": [
+        22,
+        22
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "9.2.3",
+      "topic": "electrochemistry",
+      "question": "9.2.3 \nCalculate the change in mass of electrode R after T hours. \n (6) \n \n \n \n [11] \n \n \nTOTAL: 150 \n \n \n \n \n \nElectrode R \n \n \nElectrolyte \nElectrode Q \n \n• • \n\nPhysical Sciences/P2 \n1 \nDBE/November 2025 \n \nNSC Confidential \nCopyright reserved \n \nPlease turn over \n \n \nDATA FOR PHYSICAL SCIENCES GRADE 12 \nPAPER 2 (CHEMISTRY) \n \nGEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12 \nVRAESTEL 2 (CHEMIE) \n \nTABLE 1: PHYSICAL CONSTANTS/TABEL 1: FISIESE KONSTANTES \n \nNAME/NAAM \nSYMBOL/SIMBOOL \nVALUE/WAARDE \nStandard pressure \nStandaarddruk \n1 \n1,013 x 105 Pa \nMolar gas volume at STP \nMolêre gasvolume by STD \nVm \n22,4 dm3∙mol-1 \nStandard temperature \nStandaardtemperatuur \nθ\nT \n273 K \nCharge on electron \nLading op elektron \ne \n1,6 x 10-19 C \nAvogadro's constant \nAvogadro-konstante \nNA \n6,02 x 1023 mol-1 \n \n \nTABLE 2: FORMULAE/TABEL 2: FORMULES \n \n \nn = \nm\nM \nn = \nN\nNA\n \n \nc = \nn\nV or/of c = \nm\nMV \nn = \nV\nVm\n \ncaVa\ncbVb = \nna\nnb\n \npH = -log[H3O+] \nKw = [H3O+][OH-] = 1 x 10-14 at/by 298 K \nEcell\nθ = Ecathode\nθ\n - Eanode\nθ\n /Esel\nθ = Ekatode\nθ\n - Eanode\nθ\n \n \nor/of \nEcell \nθ\n= Ereduction \nθ\n- Eoxidation\nθ\n/Esel\nθ = Ereduksie \nθ\n- Eoksidasie\nθ\n \n \nor/of \nEcell\nθ = Eoxidising agent\nθ\n - Ereducing agent\nθ\n /Esel\nθ = Eoksideermiddel \nθ\n- Ereduseermiddel\nθ\n \n \n \n \n \n\nPhysical Sciences/P2 \n2 \nDBE/November 2025 \nNSC Confidential \nCopyright reserved \n \nPlease turn over \nTABLE 3: THE PERIODIC TABLE OF ELEMENTS \nTABEL 3: DIE PERIODIEKE TABEL VAN ELEMENTE\n1 \n(I) \n2 \n(II) \n \n3 \n \n4 \n \n5 \n \n6 \n \n7 \n \n8 \n \n9 \n \n10 \n \n11 \n \n12 \n13 \n(III) \n14 \n(IV) \n15 \n(V) \n16 \n(VI) \n17 \n(VII) \n18 \n(VIII) \n2,1 \n1 \nH \n1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2 \nHe \n4 \n1,0 \n3 \nLi \n7 \n1,5 \n4 \nBe \n9 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2,0 \n5 \nB \n11 \n2,5 \n6 \nC \n12 \n3,0 \n7 \nN \n14 \n3,5 \n8 \nO \n16 \n4,0 \n9 \nF \n19 \n \n10 \nNe \n20 \n0,9 \n11 \nNa \n23 \n1,2 \n12 \nMg \n24 \n \n \n \n \n \n \n \n \n \n \n1,5 \n13 \nAℓ \n27 \n1,8 \n14 \nSi \n28 \n2,1 \n15 \nP \n31 \n2,5 \n16 \nS \n32 \n3,0 \n17 \nCℓ \n35,5 \n \n18 \nAr \n40 \n0,8 \n19 \nK \n39 \n1,0 \n20 \nCa \n40 \n1,3 \n21 \nSc \n45 \n1,5 \n22 \nTi \n48 \n1,6 \n23 \nV \n51 \n1,6 \n24 \nCr \n52 \n1,5 \n25 \nMn \n55 \n1,8 \n26 \nFe \n56 \n1,8 \n27 \nCo \n59 \n1,8 \n28 \nNi \n59 \n1,9 \n29 \nCu \n63,5 \n1,6 \n30 \nZn \n65 \n1,6 \n31 \nGa \n70 \n1,8 \n32 \nGe \n73 \n2,0 \n33 \nAs \n75 \n2,4 \n34 \nSe \n79 \n2,8 \n35 \nBr \n80 \n \n36 \nKr \n84 \n0,8 \n37 \nRb \n86 \n1,0 \n38 \nSr \n88 \n1,2 \n39 \nY \n89 \n1,4 \n40 \nZr \n91 \n \n41 \nNb \n92 \n1,8 \n42 \nMo \n96 \n1,9 \n43 \nTc \n \n2,2 \n44 \nRu \n101 \n2,2 \n45 \nRh \n103 \n2,2 \n46 \nPd \n106 \n1,9 \n47 \nAg \n108 \n1,7 \n48 \nCd \n112 \n1,7 \n49 \nIn \n115 \n1,8 \n50 \nSn \n119 \n1,9 \n51 \nSb \n122 \n2,1 \n52 \nTe \n128 \n2,5 \n53 \nI \n127 \n \n54 \nXe \n131 \n0,7 \n55 \nCs \n133 \n0,9 \n56 \nBa \n137 \n \n57 \nLa \n139 \n1,6 \n72 \nHf \n179 \n \n73 \nTa \n181 \n \n74 \nW \n184 \n \n75 \nRe \n186 \n \n76 \nOs \n190 \n \n77 \nIr \n192 \n \n78 \nPt \n195 \n \n79 \nAu \n197 \n \n80 \nHg \n201 \n1,8 \n81 \nTℓ \n204 \n1,8 \n82 \nPb \n207 \n1,9 \n83 \nBi \n209 \n2,0 \n84 \nPo \n \n2,5 \n85 \nAt \n \n \n86 \nRn \n \n0,7 \n87 \nFr \n \n0,9 \n88 \nRa \n226 \n \n89 \nAc \n \n \n \n \n \n \n \n \n \n58 \nCe \n140 \n59 \nPr \n141 \n60 \nNd \n144 \n61 \nPm \n \n62 \nSm \n150 \n63 \nEu \n152 \n64 \nGd \n157 \n65 \nTb \n159 \n66 \nDy \n163 \n67 \nHo \n165 \n68 \nEr \n167 \n69 \nTm \n169 \n70 \nYb \n173 \n71 \nLu \n175 \n \n90 \nTh \n232 \n91 \nPa \n \n92 \nU \n238 \n93 \nNp \n \n94 \nPu \n \n95 \nAm \n \n96 \nCm \n \n97 \nBk \n \n98 \nCf \n \n99 \nEs \n \n100 \nFm \n \n101 \nMd \n \n102 \nNo \n \n103 \nLr \n \nElectronegativity \nElektronegatiwiteit \nApproximate relative atomic mass \nBenaderde relatiewe atoommassa \nAtomic number \nAtoomgetal \n 29 \n Cu \n 63,5 \n1,9 \n Symbol \n Simbool \nKEY/SLEUTEL \n\nPhysical Sciences/P2 \n3 \nDBE/November 2025 \nNSC Confidential \nCopyright reserved \n \nPlease turn over \n \nTABLE 4A: STANDARD REDUCTION POTENTIALS \nTABEL 4A: STANDAARD-REDUKSIEPOTENSIALE \nHalf-reactions/Halfreaksies \nE\nΘ (V) \nF2(g) + 2e− \n⇌ \n2F\n− \n+ 2,87 \nCo3+ + e− \n⇌ \nCo2+ \n+ 1,81 \nH2O2 + 2H+ +2e− \n⇌ \n2H2O \n+ 1,77 \nMnO4\n− + 8H+ + 5e− \n⇌ \nMn2+ + 4H2O \n+ 1,51 \nCℓ2(g) + 2e− \n⇌ \n2Cℓ\n− \n+ 1,36 \nCr2O7\n2− + 14H+ + 6e− \n⇌ \n2Cr3+ + 7H2O \n+ 1,33 \nO2(g) + 4H+ + 4e− \n⇌ \n2H2O \n+ 1,23 \nMnO2 + 4H+ + 2e− \n⇌ \nMn2+ + 2H2O \n+ 1,23 \nPt2+ + 2e− \n⇌ \nPt \n+ 1,20 \nBr2(ℓ) + 2e− \n⇌ \n2Br\n− \n+ 1,07 \nNO3\n− + 4H+ + 3e− \n⇌ \nNO(g) + 2H2O \n+ 0,96 \nHg2+ + 2e− \n⇌ \nHg(ℓ) \n+ 0,85 \nAg+ + e− \n⇌ \nAg \n+ 0,80 \nNO3\n− + 2H+ + e− \n⇌ \nNO2(g) + H2O \n+ 0,80 \nFe3+ + e− \n⇌ \nFe2+ \n+ 0,77 \nO2(g) + 2H+ + 2e− \n⇌ \nH2O2 \n+ 0,68 \nI2 + 2e− \n⇌ \n2I\n− \n+ 0,54 \nCu+ + e− \n⇌ \nCu \n+ 0,52 \nSO2 + 4H+ + 4e− \n⇌ \nS + 2H2O \n+ 0,45 \n2H2O + O2 + 4e− \n⇌ \n4OH\n− \n+ 0,40 \nCu2+ + 2e− \n⇌ \nCu \n+ 0,34 \nSO4\n2− + 4H+ + 2e− \n⇌ \nSO2(g) + 2H2O \n+ 0,17 \nCu2+ + e− \n⇌ \nCu+ \n+ 0,16 \nSn4+ + 2e− \n⇌ \nSn2+ \n+ 0,15 \nS + 2H+ + 2e− ⇌ \nH2S(g) \n+ 0,14 \n2H+ + 2e− \n⇌ \nH2(g) \n0,00 \nFe3+ + 3e− \n⇌ \nFe \n− 0,06 \nPb2+ + 2e− \n⇌ \nPb \n− 0,13 \nSn2+ + 2e− \n⇌ \nSn \n− 0,14 \nNi2+ + 2e− \n⇌ \nNi \n− 0,27 \nCo2+ + 2e− \n⇌ \nCo \n− 0,28 \nCd2+ + 2e− \n⇌ \nCd \n− 0,40 \nCr3+ + e− \n⇌ \nCr2+ \n− 0,41 \nFe2+ + 2e− \n⇌ \nFe \n− 0,44 \nCr3+ + 3e− \n⇌ \nCr \n− 0,74 \nZn2+ + 2e− \n⇌ \nZn \n− 0,76 \n2H2O + 2e− \n⇌ \nH2(g) + 2OH\n− \n− 0,83 \nCr2+ + 2e− \n⇌ \nCr \n− 0,91 \nMn2+ + 2e− \n⇌ \nMn \n− 1,18 \nAℓ3+ + 3e− \n⇌ \nAℓ \n− 1,66 \nMg2+ + 2e− \n⇌ \nMg \n− 2,36 \nNa+ + e− \n⇌ \nNa \n− 2,71 \nCa2+ + 2e− \n⇌ \nCa \n− 2,87 \nSr2+ + 2e− \n⇌ \nSr \n− 2,89 \nBa2+ + 2e− \n⇌ \nBa \n− 2,90 \nCs+ + e- \n⇌ \nCs \n− 2,92 \nK+ + e− \n⇌ \nK \n− 2,93 \nLi+ + e− \n⇌ \nLi \n− 3,05 \nIncreasing strength of oxidising agents /Toenemende sterkte van oksideermiddels \nIncreasing strength of reducing agents /Toenemende sterkte van reduseermiddels \n\nPhysical Sciences/P2 \n4 \nDBE/November 2025 \nNSC Confidential \nCopyright reserved \n \nTABLE 4B: STANDARD REDUCTION POTENTIALS \nTABEL 4B: STANDAARD-REDUKSIEPOTENSIALE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nHalf-reactions/Halfreaksies \nE\nΘ(V) \nLi+ + e− \n⇌ \nLi \n− 3,05 \nK+ + e− \n⇌ \nK \n− 2,93 \nCs+ + e− \n⇌ \nCs \n− 2,92 \nBa2+ + 2e− \n⇌ \nBa \n− 2,90 \nSr2+ + 2e− \n⇌ \nSr \n− 2,89 \nCa2+ + 2e− \n⇌ \nCa \n− 2,87 \nNa+ + e− \n⇌ \nNa \n− 2,71 \nMg2+ + 2e− \n⇌ \nMg \n− 2,36 \nAℓ3+ + 3e− \n⇌ \nAℓ \n− 1,66 \nMn2+ + 2e− \n⇌ \nMn \n− 1,18 \nCr2+ + 2e− \n⇌ \nCr \n− 0,91 \n2H2O + 2e− \n⇌ \nH2(g) + 2OH\n− \n− 0,83 \nZn2+ + 2e− \n⇌ \nZn \n− 0,76 \nCr3+ + 3e− \n⇌ \nCr \n− 0,74 \nFe2+ + 2e− \n⇌ \nFe \n− 0,44 \nCr3+ + e− \n⇌ \nCr2+ \n− 0,41 \nCd2+ + 2e− \n⇌ \nCd \n− 0,40 \nCo2+ + 2e− \n⇌ \nCo \n− 0,28 \nNi2+ + 2e− \n⇌ \nNi \n− 0,27 \nSn2+ + 2e− \n⇌ \nSn \n− 0,14 \nPb2+ + 2e− \n⇌ \nPb \n− 0,13 \nFe3+ + 3e− \n⇌ \nFe \n− 0,06 \n2H+ + 2e− \n⇌ \nH2(g) \n0,00 \nS + 2H+ + 2e− ⇌ \nH2S(g) \n+ 0,14 \nSn4+ + 2e− \n⇌ \nSn2+ \n+ 0,15 \nCu2+ + e− \n⇌ \nCu+ \n+ 0,16 \nSO4\n2- + 4H+ + 2e− \n⇌ \nSO2(g) + 2H2O \n+ 0,17 \nCu2+ + 2e− \n⇌ \nCu \n+ 0,34 \n2H2O + O2 + 4e− \n⇌ \n4OH\n− \n+ 0,40 \nSO2 + 4H+ + 4e− \n⇌ \nS + 2H2O \n+ 0,45 \nCu+ + e− \n⇌ \nCu \n+ 0,52 \nI2 + 2e− \n⇌ \n2I\n− \n+ 0,54 \nO2(g) + 2H+ + 2e− \n⇌ \nH2O2 \n+ 0,68 \nFe3+ + e− \n⇌ \nFe2+ \n+ 0,77 \nNO3\n− + 2H+ + e− \n⇌ \nNO2(g) + H2O \n+ 0,80 \nAg+ + e− \n⇌ \nAg \n+ 0,80 \nHg2+ + 2e− \n⇌ \nHg(ℓ) \n+ 0,85 \nNO3\n− + 4H+ + 3e− \n⇌ \nNO(g) + 2H2O \n+ 0,96 \nBr2(ℓ) + 2e− \n⇌ \n2Br\n− \n+ 1,07 \nPt2+ + 2 e− \n⇌ \nPt \n+ 1,20 \nMnO2 + 4H+ + 2e− \n⇌ \nMn2+ + 2H2O \n+ 1,23 \nO2(g) + 4H+ + 4e− \n⇌ \n2H2O \n+ 1,23 \nCr2O7\n2- + 14H+ + 6e− \n⇌ \n2Cr3+ + 7H2O \n+ 1,33 \nCℓ2(g) + 2e− \n⇌ \n2Cℓ\n− \n+ 1,36 \nMnO4\n− + 8H+ + 5e− \n⇌ \nMn2+ + 4H2O \n+ 1,51 \nH2O2 + 2H+ +2 e− \n⇌ \n2H2O \n+1,77 \nCo3+ + e− \n⇌ \nCo2+ \n+ 1,81 \nF2(g) + 2e− \n⇌ \n2F\n− \n+ 2,87 \nIncreasing strength of reducing agents /Toenemende sterkte van reduseermiddels \nIncreasing strength of oxidising agents /Toenemende sterkte van oksideermiddels",
+      "answer": "9.2.3 \nMarking criteria \n(a) USING RATIO: \nn(Cu2+) : n(Zn2+) = 1 : 1  \n(b) Formula: n = \nm\nM  \n(c) Substitute 65 AND n(Zn2+) in n = \nm\nM  \n(d) Subtraction of moles  \n(e) Substitute 63,5 AND n(Cu) in n = \nm\nM  \n(f) Final correct answer: 9,6 g  \n(NO RANGE) \nNasienkriteria: \n(a) GEBRUIK VERHOUDING  \nn(Cu2+) : n(Zn2+) = 1 : 1 \n(b) Formule: n = \nm\nM  \n(c) Vervang 65 EN n(Zn2+) in n = \nm\nM  \n(d) Aftrek van aantal mol  \n(e) Vervang 63,5 EN n(Cu) in n = \nm\nM  \n(f) Finale korrekte antwoord: 9,6 g  \n(GEEN GEBIED) \n \n \n \n \nn(Zn2+) = n(Cu2+) \n= 0,05 mol \n \nm(Zn) = nM \n = (0,05)(65) \n = 3,25 g Zn from R \n \n0,15 – 0,05 = 0,1 mol Cu \nm(Cu) = nM \n = 0,1(63,5) \n = 6,35 g Cu from R \n \nChange in mass = 6,35 + 3,25 \n = 9,6 g (decrease in mass) \n \n(6) \n \n \n \n[11] \n \n \nTOTAL/TOTAAL: \n150 \n \n(a) \n(c) \n(d) \n(b) \n(f) \n(e)",
+      "paper_pages": [
+        16,
+        20
+      ],
+      "memo_pages": [
+        22,
+        22
+      ],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

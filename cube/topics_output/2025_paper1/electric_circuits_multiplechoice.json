@@ -1,0 +1,608 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "electric_circuits",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "electric_circuits",
+      "question": "Three identical light bulbs, X, Y and Z, are connected in a circuit. Switch S is initially closed. Switch S is now opened. How will the brightness of bulbs X and Y be affected?\n\nA Brightness of X increases; brightness of Y decreases\nB Brightness of X decreases; brightness of Y increases\nC Brightness of X increases; brightness of Y increases\nD Brightness of X decreases; brightness of Y decreases\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "electric_circuits",
+      "question": "How does the commutator in a DC motor ensure that the coil rotates continuously in ONE direction?\n\nA By reducing friction\nB By converting AC to DC\nC By reversing the direction of the current in the coil\nD By maintaining electrical contact between the external and the internal circuits\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "electric_circuits",
+      "question": "A battery with emf epsilon and internal resistance r is connected to a resistor R. The current in the circuit is I. Which ONE of the following equations is CORRECT?\n\nA epsilon = IR - Ir\nB epsilon = IR + Ir\nC epsilon = IR\nD epsilon = Ir\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "electric_circuits",
+      "question": "Two resistors, R1 and R2, are connected in parallel. Which ONE of the following statements about the equivalent resistance (Rp) of the combination is CORRECT?\n\nA Rp is greater than both R1 and R2.\nB Rp is equal to the sum of R1 and R2.\nC Rp is less than both R1 and R2.\nD Rp is equal to the average of R1 and R2.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "electric_circuits",
+      "question": "A battery has an emf of 12 V and an internal resistance of 0.5 ohm. It is connected to an external resistor of 5.5 ohm. The terminal voltage of the battery is ...\n\nA 1 V\nB 5.5 V\nC 11 V\nD 12 V\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "electric_circuits",
+      "question": "The emf of a battery is defined as the ...\n\nA maximum energy provided by the battery per unit charge passing through it.\nB total charge passing through the battery per unit time.\nC resistance within the battery that opposes the flow of charge.\nD potential difference across the external circuit.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "electric_circuits",
+      "question": "The internal resistance of a battery is defined as ...\n\nA the resistance within the battery that opposes the flow of charge through the battery.\nB the resistance of the external circuit.\nC the maximum energy provided by the battery per unit charge.\nD the potential difference across the battery terminals.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "electric_circuits",
+      "question": "Two identical headlights, L1 and L2, each with resistance 12 ohm, and a starter motor M with resistance 0.1 ohm are connected to a battery. Switch S1 remains open while switch S2 is closed. The reading on ammeter A2 is 120 A. The reading on the voltmeter is ...\n\nA 6 V\nB 12 V\nC 24 V\nD 120 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "electric_circuits",
+      "question": "Switch S1 is closed and switch S2 is opened. The power dissipated by each headlight is 15 W. The resistance of each headlight is 12 ohm. The current passing through L1 is approximately ...\n\nA 0.56 A\nB 1.12 A\nC 2.24 A\nD 4.48 A\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "electric_circuits",
+      "question": "Switch S1 is closed and switch S2 is opened. The power dissipated by each headlight is 15 W. The resistance of each headlight is 12 ohm. The reading on ammeter A1 is ...\n\nA 1.12 A\nB 2.24 A\nC 3.36 A\nD 4.48 A\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to two resistors, R1 = 6 ohm and R2 = 12 ohm, connected in parallel. The equivalent resistance of the external circuit is ...\n\nA 2 ohm\nB 4 ohm\nC 6 ohm\nD 18 ohm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to two resistors, R1 = 6 ohm and R2 = 12 ohm, connected in parallel. The total current in the circuit is ...\n\nA 2 A\nB 4 A\nC 6 A\nD 12 A\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to two resistors, R1 = 6 ohm and R2 = 12 ohm, connected in parallel. The terminal voltage of the battery is ...\n\nA 8 V\nB 12 V\nC 16 V\nD 24 V\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "electric_circuits",
+      "question": "A battery with unknown emf and internal resistance is connected to a variable resistor. The graph of terminal voltage versus current gives the following data: (0 A, 12 V), (2 A, 10 V), (4 A, 8 V), (6 A, 6 V). The emf of the battery is ...\n\nA 6 V\nB 8 V\nC 10 V\nD 12 V\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "electric_circuits",
+      "question": "A battery with unknown emf and internal resistance is connected to a variable resistor. The graph of terminal voltage versus current gives the following data: (0 A, 12 V), (2 A, 10 V), (4 A, 8 V), (6 A, 6 V). The internal resistance of the battery is ...\n\nA 0.5 ohm\nB 1 ohm\nC 1.5 ohm\nD 2 ohm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 12 V and internal resistance 1 ohm is connected to a variable resistor. The maximum power that can be delivered to the variable resistor is ...\n\nA 12 W\nB 24 W\nC 36 W\nD 48 W\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "electric_circuits",
+      "question": "Three resistors, R1 = 4 ohm, R2 = 6 ohm and R3 = 12 ohm, are connected in parallel to a 12 V battery with negligible internal resistance. The equivalent resistance of the circuit is ...\n\nA 1 ohm\nB 2 ohm\nC 3 ohm\nD 6 ohm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "electric_circuits",
+      "question": "Three resistors, R1 = 4 ohm, R2 = 6 ohm and R3 = 12 ohm, are connected in parallel to a 12 V battery with negligible internal resistance. The total current drawn from the battery is ...\n\nA 2 A\nB 4 A\nC 6 A\nD 12 A\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "electric_circuits",
+      "question": "Three resistors, R1 = 4 ohm, R2 = 6 ohm and R3 = 12 ohm, are connected in parallel to a 12 V battery with negligible internal resistance. The current through R1 is ...\n\nA 1 A\nB 2 A\nC 3 A\nD 4 A\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "electric_circuits",
+      "question": "Three resistors, R1 = 4 ohm, R2 = 6 ohm and R3 = 12 ohm, are connected in parallel to a 12 V battery with negligible internal resistance. The power dissipated by R2 is ...\n\nA 6 W\nB 12 W\nC 24 W\nD 36 W\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 18 V and internal resistance 1.5 ohm is connected to a circuit containing a 3 ohm resistor in series with a parallel combination of two 6 ohm resistors. The equivalent resistance of the external circuit is ...\n\nA 3 ohm\nB 6 ohm\nC 9 ohm\nD 12 ohm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 18 V and internal resistance 1.5 ohm is connected to a circuit containing a 3 ohm resistor in series with a parallel combination of two 6 ohm resistors. The total current in the circuit is ...\n\nA 1.2 A\nB 2.0 A\nC 2.4 A\nD 3.0 A\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 18 V and internal resistance 1.5 ohm is connected to a circuit containing a 3 ohm resistor in series with a parallel combination of two 6 ohm resistors. The terminal voltage of the battery is ...\n\nA 12.6 V\nB 14.4 V\nC 16.2 V\nD 18.0 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 18 V and internal resistance 1.5 ohm is connected to a circuit containing a 3 ohm resistor in series with a parallel combination of two 6 ohm resistors. The power dissipated by the 3 ohm resistor is ...\n\nA 8.64 W\nB 17.28 W\nC 25.92 W\nD 34.56 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 9 V and internal resistance 0.5 ohm is connected to a 4 ohm resistor. The current in the circuit is ...\n\nA 1 A\nB 2 A\nC 3 A\nD 4 A\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 9 V and internal resistance 0.5 ohm is connected to a 4 ohm resistor. The terminal voltage is ...\n\nA 4 V\nB 6 V\nC 8 V\nD 9 V\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 9 V and internal resistance 0.5 ohm is connected to a 4 ohm resistor. The power dissipated by the external resistor is ...\n\nA 8 W\nB 12 W\nC 16 W\nD 20 W\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 9 V and internal resistance 0.5 ohm is connected to a 4 ohm resistor. The power dissipated by the internal resistance is ...\n\nA 1 W\nB 2 W\nC 3 W\nD 4 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 9 V and internal resistance 0.5 ohm is connected to a 4 ohm resistor. The efficiency of the battery is approximately ...\n\nA 75.00%\nB 80.00%\nC 88.89%\nD 95.00%\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to a circuit with a 6 ohm resistor in series with a parallel combination of a 12 ohm resistor and a 4 ohm resistor. The equivalent resistance of the parallel combination is ...\n\nA 2 ohm\nB 3 ohm\nC 4 ohm\nD 6 ohm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to a circuit with a 6 ohm resistor in series with a parallel combination of a 12 ohm resistor and a 4 ohm resistor. The total external resistance is ...\n\nA 3 ohm\nB 6 ohm\nC 9 ohm\nD 12 ohm\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to a circuit with a 6 ohm resistor in series with a parallel combination of a 12 ohm resistor and a 4 ohm resistor. The total current in the circuit is approximately ...\n\nA 1.50 A\nB 2.18 A\nC 3.00 A\nD 4.00 A\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to a circuit with a 6 ohm resistor in series with a parallel combination of a 12 ohm resistor and a 4 ohm resistor. The terminal voltage of the battery is approximately ...\n\nA 15.64 V\nB 19.64 V\nC 21.82 V\nD 24.00 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to a circuit with a 6 ohm resistor in series with a parallel combination of a 12 ohm resistor and a 4 ohm resistor. The current through the 12 ohm resistor is approximately ...\n\nA 0.55 A\nB 1.09 A\nC 1.64 A\nD 2.18 A\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 12 V and internal resistance 1 ohm is connected to a circuit with a 5 ohm resistor in series with a parallel combination of a 6 ohm resistor and a 3 ohm resistor. The equivalent resistance of the parallel combination is ...\n\nA 1 ohm\nB 2 ohm\nC 3 ohm\nD 6 ohm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 12 V and internal resistance 1 ohm is connected to a circuit with a 5 ohm resistor in series with a parallel combination of a 6 ohm resistor and a 3 ohm resistor. The total external resistance is ...\n\nA 5 ohm\nB 6 ohm\nC 7 ohm\nD 8 ohm\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 12 V and internal resistance 1 ohm is connected to a circuit with a 5 ohm resistor in series with a parallel combination of a 6 ohm resistor and a 3 ohm resistor. The total current in the circuit is ...\n\nA 1.0 A\nB 1.5 A\nC 2.0 A\nD 2.5 A\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 12 V and internal resistance 1 ohm is connected to a circuit with a 5 ohm resistor in series with a parallel combination of a 6 ohm resistor and a 3 ohm resistor. The terminal voltage is ...\n\nA 9.0 V\nB 10.5 V\nC 11.0 V\nD 12.0 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 12 V and internal resistance 1 ohm is connected to a circuit with a 5 ohm resistor in series with a parallel combination of a 6 ohm resistor and a 3 ohm resistor. The power dissipated by the 5 ohm resistor is ...\n\nA 5.00 W\nB 7.50 W\nC 11.25 W\nD 15.00 W\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "electric_circuits",
+      "question": "A battery with emf epsilon and internal resistance r is connected to a variable resistor R. The power dissipated by the variable resistor is measured for different values of R: (1 ohm, 16 W), (2 ohm, 24 W), (3 ohm, 27 W), (4 ohm, 24 W), (5 ohm, 16 W). The value of R for which maximum power is delivered is ...\n\nA 1 ohm\nB 2 ohm\nC 3 ohm\nD 4 ohm\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "electric_circuits",
+      "question": "A battery with emf epsilon and internal resistance r is connected to a variable resistor R. The power dissipated by the variable resistor is measured for different values of R: (1 ohm, 16 W), (2 ohm, 24 W), (3 ohm, 27 W), (4 ohm, 24 W), (5 ohm, 16 W). The current in the circuit when R = 3 ohm is ...\n\nA 1 A\nB 2 A\nC 3 A\nD 4 A\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "electric_circuits",
+      "question": "A battery with emf epsilon and internal resistance r is connected to a variable resistor R. The power dissipated by the variable resistor is measured for different values of R: (1 ohm, 16 W), (2 ohm, 24 W), (3 ohm, 27 W), (4 ohm, 24 W), (5 ohm, 16 W). The emf of the battery is ...\n\nA 9 V\nB 12 V\nC 18 V\nD 24 V\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "electric_circuits",
+      "question": "A battery with emf epsilon and internal resistance r is connected to a variable resistor R. The power dissipated by the variable resistor is measured for different values of R: (1 ohm, 16 W), (2 ohm, 24 W), (3 ohm, 27 W), (4 ohm, 24 W), (5 ohm, 16 W). The internal resistance of the battery is ...\n\nA 1 ohm\nB 2 ohm\nC 3 ohm\nD 4 ohm\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "electric_circuits",
+      "question": "The terminal voltage of a battery is given by ...\n\nA V = epsilon + Ir\nB V = epsilon - Ir\nC V = epsilon + IR\nD V = epsilon - IR\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "electric_circuits",
+      "question": "The power dissipated by a resistor is given by ...\n\nA P = I^2R\nB P = I^2/R\nC P = IR^2\nD P = I/R^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "electric_circuits",
+      "question": "For maximum power transfer to an external resistor R, the value of R should be ...\n\nA equal to the internal resistance r.\nB greater than the internal resistance r.\nC less than the internal resistance r.\nD zero.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "electric_circuits",
+      "question": "The efficiency of a battery is given by ...\n\nA (Pexternal / Ptotal) x 100%\nB (Pinternal / Ptotal) x 100%\nC (Ptotal / Pexternal) x 100%\nD (Ptotal / Pinternal) x 100%\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "electric_circuits",
+      "question": "Two resistors of 6 ohm and 3 ohm are connected in parallel. The equivalent resistance is ...\n\nA 1 ohm\nB 2 ohm\nC 3 ohm\nD 9 ohm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "electric_circuits",
+      "question": "Two resistors of 12 ohm and 4 ohm are connected in parallel. The equivalent resistance is ...\n\nA 2 ohm\nB 3 ohm\nC 4 ohm\nD 8 ohm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "electric_circuits",
+      "question": "Three resistors of 4 ohm, 6 ohm and 12 ohm are connected in parallel. The equivalent resistance is ...\n\nA 1 ohm\nB 2 ohm\nC 3 ohm\nD 6 ohm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "electric_circuits",
+      "question": "A battery has an emf of 12 V and internal resistance of 0.5 ohm. It is connected to an external resistor of 5.5 ohm. The current in the circuit is ...\n\nA 1 A\nB 2 A\nC 3 A\nD 4 A\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "electric_circuits",
+      "question": "A battery has an emf of 12 V and internal resistance of 0.5 ohm. It is connected to an external resistor of 5.5 ohm. The terminal voltage is ...\n\nA 5.5 V\nB 11 V\nC 12 V\nD 12.5 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "electric_circuits",
+      "question": "A battery has an emf of 12 V and internal resistance of 0.5 ohm. It is connected to an external resistor of 5.5 ohm. The power dissipated by the external resistor is ...\n\nA 11 W\nB 22 W\nC 33 W\nD 44 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "electric_circuits",
+      "question": "A battery has an emf of 12 V and internal resistance of 0.5 ohm. It is connected to an external resistor of 5.5 ohm. The power dissipated by the internal resistance is ...\n\nA 1 W\nB 2 W\nC 3 W\nD 4 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "electric_circuits",
+      "question": "A battery has an emf of 12 V and internal resistance of 0.5 ohm. It is connected to an external resistor of 5.5 ohm. The efficiency of the battery is approximately ...\n\nA 80.00%\nB 85.00%\nC 91.67%\nD 95.00%\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to a circuit with a 6 ohm resistor in series with a parallel combination of a 12 ohm resistor and a 4 ohm resistor. The voltage across the parallel combination is approximately ...\n\nA 3.27 V\nB 6.54 V\nC 9.82 V\nD 13.09 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 24 V and internal resistance 2 ohm is connected to a circuit with a 6 ohm resistor in series with a parallel combination of a 12 ohm resistor and a 4 ohm resistor. The current through the 4 ohm resistor is approximately ...\n\nA 0.55 A\nB 1.09 A\nC 1.64 A\nD 2.18 A\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 12 V and internal resistance 1 ohm is connected to a circuit with a 5 ohm resistor in series with a parallel combination of a 6 ohm resistor and a 3 ohm resistor. The voltage across the parallel combination is ...\n\nA 1.5 V\nB 3.0 V\nC 4.5 V\nD 6.0 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 12 V and internal resistance 1 ohm is connected to a circuit with a 5 ohm resistor in series with a parallel combination of a 6 ohm resistor and a 3 ohm resistor. The current through the 3 ohm resistor is ...\n\nA 0.5 A\nB 1.0 A\nC 1.5 A\nD 2.0 A\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "electric_circuits",
+      "question": "A battery with emf 12 V and internal resistance 1 ohm is connected to a circuit with a 5 ohm resistor in series with a parallel combination of a 6 ohm resistor and a 3 ohm resistor. The current through the 6 ohm resistor is ...\n\nA 0.25 A\nB 0.50 A\nC 0.75 A\nD 1.00 A\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

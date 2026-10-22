@@ -1,0 +1,208 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "electrostatics",
+  "count": 20,
+  "questions": [
+    {
+      "label": "1.1",
+      "topic": "electrostatics",
+      "question": "1.1\nThree point charges, Q1, Q2 and Q3, are fixed in a straight line. Q1 is r metres from Q2, while Q3 is 2r metres from Q2, as shown in the diagram below.\n\nQ1 ---- r ---- Q2 ---- 2r ---- Q3\n\nThe magnitude of the charge on Q2 is q. The net electrostatic force on charge Q1 is zero.\n\nWhat is the magnitude of charge Q3 in terms of q?\n\nA (1/9)q\nB (1/3)q\nC 9q\nD 3q\n\n(2)",
+      "answer": "1.1\nD\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.2",
+      "topic": "electrostatics",
+      "question": "1.2\nTwo identical conducting spheres, A and B, carry charges of +6 μC and −2 μC respectively. The spheres are brought into contact and then separated.\n\nThe charge on each sphere after separation is ...\n\nA +4 μC\nB +2 μC\nC −2 μC\nD −4 μC\n\n(2)",
+      "answer": "1.2\nB\n(2)",
+      "paper_pages": [5, 5],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.3",
+      "topic": "electrostatics",
+      "question": "1.3\nThe electric field at a point is defined as the ...\n\nA force experienced by a unit positive charge placed at that point.\nB force experienced by a unit negative charge placed at that point.\nC electrostatic force per unit positive charge placed at that point.\nD electrostatic force per unit negative charge placed at that point.\n\n(2)",
+      "answer": "1.3\nC\n(2)",
+      "paper_pages": [6, 6],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.4",
+      "topic": "electrostatics",
+      "question": "1.4\nTwo point charges, +q and −q, are separated by a distance r. The magnitude of the electrostatic force between them is F.\n\nIf the distance between the charges is halved, the magnitude of the electrostatic force will be ...\n\nA F/4\nB F/2\nC 2F\nD 4F\n\n(2)",
+      "answer": "1.4\nD\n(2)",
+      "paper_pages": [6, 6],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "1.5",
+      "topic": "electrostatics",
+      "question": "1.5\nTwo point charges, Q1 = +4 × 10⁻⁹ C and Q2 = −9 × 10⁻⁹ C, are separated by a distance of 0.3 m. The point P is located on the line joining the charges, 0.1 m from Q1 and 0.2 m from Q2.\n\nThe magnitude and direction of the net electric field at point P is ...\n\nA 3.6 × 10³ N·C⁻¹ towards Q2\nB 3.6 × 10³ N·C⁻¹ towards Q1\nC 4.5 × 10³ N·C⁻¹ towards Q2\nD 4.5 × 10³ N·C⁻¹ towards Q1\n\n(2)",
+      "answer": "1.5\nA\n(2)",
+      "paper_pages": [6, 6],
+      "memo_pages": [2, 2],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.1",
+      "topic": "electrostatics",
+      "question": "2.1\nDescribe an electric field.\n\n(2)",
+      "answer": "2.1\nA region of space in which an electric charge experiences a force. (2 or 0)\n\n(2)",
+      "paper_pages": [7, 7],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.2",
+      "topic": "electrostatics",
+      "question": "2.2\nState Coulomb's law in words.\n\n(2)",
+      "answer": "2.2\nMarking criteria:\nIf any of the underlined key words/phrases in the correct context is omitted, deduct 1 mark.\n\nThe magnitude of the electrostatic force exerted by one point charge on another point charge is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them.\n\n(2)",
+      "paper_pages": [7, 7],
+      "memo_pages": [3, 3],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.3",
+      "topic": "electrostatics",
+      "question": "2.3\nA sphere X carrying a charge of +3 × 10⁻⁷ C is fixed at point A. The electric field at a point 0.05 m from sphere X is 1.08 × 10⁶ N·C⁻¹.\n\nShow, by means of a calculation, that r = 0.05 m.\n\n(3)",
+      "answer": "2.3\n\nE = kQ/r²\n1.08 × 10⁶ = (9 × 10⁹)(3 × 10⁻⁷)/r²\nr² = (9 × 10⁹)(3 × 10⁻⁷)/(1.08 × 10⁶)\nr² = 2.5 × 10⁻³\nr = 0.05 m\n\n(3)",
+      "paper_pages": [7, 7],
+      "memo_pages": [3, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.4",
+      "topic": "electrostatics",
+      "question": "2.4\nDraw the electric field pattern due to the charge on sphere X.\n\n(2)",
+      "answer": "2.4\n\nMarking criteria:\nDirection\n• Field lines radially outward.\n• Two or more field lines inside sphere / not touching sphere / cross each other: deduct 1 mark.\nIf more than one charge drawn: 0/2\n\n(2)",
+      "paper_pages": [7, 7],
+      "memo_pages": [4, 4],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.5",
+      "topic": "electrostatics",
+      "question": "2.5\nSphere Y, carrying a charge of −5 × 10⁻⁷ C, is now fixed at point P and sphere Z, carrying a charge of −4 × 10⁻⁷ C, is fixed 0.04 m to the right of sphere X.\n\nThe NET FORCE acting on sphere X is 0.0427 N at point A.\n\nIs the surface frictionless? Choose from YES or NO. Explain the answer by means of a calculation.\n\n(6)",
+      "answer": "2.5\n\nNOTE: Ignore if negative charges are substituted.\n\nOPTION 1\n\nFXY = kQXQY/r²\nFXY = (9 × 10⁹)(3 × 10⁻⁷)(5 × 10⁻⁷)/(0.05)²\nFXY = 0.54 N\n\nFXZ = kQXQZ/r²\nFXZ = (9 × 10⁹)(3 × 10⁻⁷)(4 × 10⁻⁷)/(0.04)²\nFXZ = 0.68 N\n\nFnet(E) = FXZ + FXY\n= 0.68 − 0.54\n= 0.14 N\n\nNo\nFnet(E) > Fnet\n\nOPTION 2\n\nEnet = kQ/r² + kQ/r²\nEnet = (9 × 10⁹)(5 × 10⁻⁷)/(0.05)² − (9 × 10⁹)(4 × 10⁻⁷)/(0.04)²\nEnet = 450 000 N·C⁻¹\n\nFnet = qE\nFnet = (3 × 10⁻⁷)(450 000)\nFnet = 0.14 N\n\nNo\nFnet(E) > Fnet\n\nOPTION 3\n\nFnet(E) = kQXQY/r² − kQXQZ/r²\nFnet(E) = (9 × 10⁹)(3 × 10⁻⁷)(5 × 10⁻⁷)/(0.05)² − (9 × 10⁹)(3 × 10⁻⁷)(4 × 10⁻⁷)/(0.04)²\nFnet(E) = 0.14 N\n\n0.0427 = 0.14 − f\nf = 0.0923 N\n\nNo\n\n(6)",
+      "paper_pages": [7, 8],
+      "memo_pages": [4, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "2.6",
+      "topic": "electrostatics",
+      "question": "2.6\nSphere Y is brought into contact with sphere X, and is placed back in its original position.\n\nHow will the magnitude of the force that sphere X now exerts on sphere Y be affected? Choose from INCREASES, DECREASES or REMAINS THE SAME.\n\n(2)",
+      "answer": "2.6\nDecrease\n\n(2)",
+      "paper_pages": [8, 8],
+      "memo_pages": [5, 5],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.1",
+      "topic": "electrostatics",
+      "question": "3.1\nTwo point charges, Q1 = +5 × 10⁻⁶ C and Q2 = −3 × 10⁻⁶ C, are separated by a distance of 0.2 m in a vacuum.\n\nCalculate the magnitude of the electrostatic force between the charges.\n\n(3)",
+      "answer": "3.1\n\nF = kQ1Q2/r²\nF = (9 × 10⁹)(5 × 10⁻⁶)(3 × 10⁻⁶)/(0.2)²\nF = (9 × 10⁹)(15 × 10⁻¹²)/0.04\nF = 0.135/0.04\nF = 3.38 N\n\n(3)",
+      "paper_pages": [8, 8],
+      "memo_pages": [5, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.2",
+      "topic": "electrostatics",
+      "question": "3.2\nTwo point charges, Q1 = +2 × 10⁻⁸ C and Q2 = +8 × 10⁻⁸ C, are separated by a distance of 0.3 m.\n\n3.2.1 Calculate the magnitude of the electric field at a point P, which is 0.1 m from Q1 and 0.2 m from Q2, on the line joining the charges.\n\n3.2.2 Draw the electric field lines for the two charges.\n\n(7)",
+      "answer": "3.2.1\n\nE1 = kQ1/r1²\nE1 = (9 × 10⁹)(2 × 10⁻⁸)/(0.1)²\nE1 = 1.8 × 10⁴ N·C⁻¹ (away from Q1)\n\nE2 = kQ2/r2²\nE2 = (9 × 10⁹)(8 × 10⁻⁸)/(0.2)²\nE2 = 1.8 × 10⁴ N·C⁻¹ (away from Q2)\n\nSince both fields are in opposite directions:\nEnet = E2 − E1\nEnet = 1.8 × 10⁴ − 1.8 × 10⁴\nEnet = 0 N·C⁻¹\n\n(4)\n\n3.2.2\n\nCriteria:\n• Field lines originate from positive charges and terminate on negative charges (or extend to infinity for positive charges).\n• Field lines do not cross.\n• Correct direction indicated.\n• Correct shape (repulsion pattern for like charges).\n\n(3)\n\n(7)",
+      "paper_pages": [8, 9],
+      "memo_pages": [6, 6],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "3.3",
+      "topic": "electrostatics",
+      "question": "3.3\nA small charged sphere of mass 0.5 g carrying a charge of +4 × 10⁻⁸ C is suspended from a light inextensible string in a uniform horizontal electric field of magnitude 2 × 10⁴ N·C⁻¹. The string makes an angle θ with the vertical.\n\n3.3.1 Draw a labelled free-body diagram showing ALL the forces acting on the sphere.\n\n3.3.2 Calculate the angle θ.\n\n(7)",
+      "answer": "3.3.1\n\nAccepted labels:\nT — Tension\nw — Fg / weight / mg\nFE — Electric force / electrostatic force\n\nNotes:\n• Mark awarded for label and arrow.\n• Any other additional force(s): Max 3/4\n• If everything correct, but no arrows: Max 3/4\n\n(4)\n\n3.3.2\n\nFE = qE\nFE = (4 × 10⁻⁸)(2 × 10⁴)\nFE = 8 × 10⁻⁴ N\n\nw = mg\nw = (0.5 × 10⁻³)(9.8)\nw = 4.9 × 10⁻³ N\n\ntan θ = FE/w\ntan θ = (8 × 10⁻⁴)/(4.9 × 10⁻³)\ntan θ = 0.1633\nθ = 9.27°\n\n(3)\n\n(7)",
+      "paper_pages": [9, 9],
+      "memo_pages": [6, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.1",
+      "topic": "electrostatics",
+      "question": "4.1\nTwo identical small conducting spheres, A and B, carry charges of +8 μC and −4 μC respectively. They are separated by a distance of 0.2 m.\n\n4.1.1 Calculate the magnitude of the electrostatic force between the spheres.\n\n4.1.2 The spheres are now brought into contact and then separated to a distance of 0.2 m. Calculate the new electrostatic force between the spheres.\n\n(6)",
+      "answer": "4.1.1\n\nF = kQ1Q2/r²\nF = (9 × 10⁹)(8 × 10⁻⁶)(4 × 10⁻⁶)/(0.2)²\nF = (9 × 10⁹)(32 × 10⁻¹²)/0.04\nF = 0.288/0.04\nF = 7.2 N\n\n(3)\n\n4.1.2\n\nAfter contact, charge is shared equally:\nQ = (Q1 + Q2)/2\nQ = (8 × 10⁻⁶ + (−4 × 10⁻⁶))/2\nQ = (4 × 10⁻⁶)/2\nQ = 2 × 10⁻⁶ C\n\nF = kQ²/r²\nF = (9 × 10⁹)(2 × 10⁻⁶)²/(0.2)²\nF = (9 × 10⁹)(4 × 10⁻¹²)/0.04\nF = 0.036/0.04\nF = 0.9 N\n\n(3)\n\n(6)",
+      "paper_pages": [9, 10],
+      "memo_pages": [7, 7],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "4.2",
+      "topic": "electrostatics",
+      "question": "4.2\nThree point charges, Q1 = +2 × 10⁻⁶ C, Q2 = −4 × 10⁻⁶ C and Q3 = +6 × 10⁻⁶ C, are placed at the corners of a right-angled triangle as shown below.\n\nQ1 is at the origin, Q2 is at (0.3, 0) m and Q3 is at (0, 0.4) m.\n\nCalculate the magnitude and direction of the net electrostatic force on Q1.\n\n(8)",
+      "answer": "4.2\n\nF12 = kQ1Q2/r²\nF12 = (9 × 10⁹)(2 × 10⁻⁶)(4 × 10⁻⁶)/(0.3)²\nF12 = (9 × 10⁹)(8 × 10⁻¹²)/0.09\nF12 = 0.072/0.09\nF12 = 0.8 N (attractive, towards Q2, i.e., +x direction)\n\nF13 = kQ1Q3/r²\nF13 = (9 × 10⁹)(2 × 10⁻⁶)(6 × 10⁻⁶)/(0.4)²\nF13 = (9 × 10⁹)(12 × 10⁻¹²)/0.16\nF13 = 0.108/0.16\nF13 = 0.675 N (repulsive, away from Q3, i.e., −y direction)\n\nFnet = √(F12² + F13²)\nFnet = √(0.8² + 0.675²)\nFnet = √(0.64 + 0.4556)\nFnet = √1.0956\nFnet = 1.05 N\n\ntan θ = F13/F12\ntan θ = 0.675/0.8\ntan θ = 0.84375\nθ = 40.15° below the positive x-axis\n\n(8)",
+      "paper_pages": [10, 10],
+      "memo_pages": [7, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.1",
+      "topic": "electrostatics",
+      "question": "5.1\nA point charge Q1 = +5 × 10⁻⁹ C is placed at the origin. A second point charge Q2 = −3 × 10⁻⁹ C is placed at x = 0.4 m.\n\n5.1.1 Calculate the magnitude and direction of the electric field at x = 0.2 m.\n\n5.1.2 Calculate the magnitude and direction of the electric field at x = 0.6 m.\n\n(8)",
+      "answer": "5.1.1\n\nE1 = kQ1/r1²\nE1 = (9 × 10⁹)(5 × 10⁻⁹)/(0.2)²\nE1 = 45/0.04\nE1 = 1125 N·C⁻¹ (away from Q1, i.e., +x direction)\n\nE2 = kQ2/r2²\nE2 = (9 × 10⁹)(3 × 10⁻⁹)/(0.2)²\nE2 = 27/0.04\nE2 = 675 N·C⁻¹ (towards Q2, i.e., +x direction)\n\nEnet = E1 + E2\nEnet = 1125 + 675\nEnet = 1800 N·C⁻¹ in the +x direction\n\n(4)\n\n5.1.2\n\nE1 = kQ1/r1²\nE1 = (9 × 10⁹)(5 × 10⁻⁹)/(0.6)²\nE1 = 45/0.36\nE1 = 125 N·C⁻¹ (away from Q1, i.e., +x direction)\n\nE2 = kQ2/r2²\nE2 = (9 × 10⁹)(3 × 10⁻⁹)/(0.2)²\nE2 = 27/0.04\nE2 = 675 N·C⁻¹ (towards Q2, i.e., −x direction)\n\nEnet = E2 − E1\nEnet = 675 − 125\nEnet = 550 N·C⁻¹ in the −x direction\n\n(4)\n\n(8)",
+      "paper_pages": [10, 11],
+      "memo_pages": [8, 8],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.2",
+      "topic": "electrostatics",
+      "question": "5.2\nA small sphere of mass 2 g carrying a charge of +3 × 10⁻⁸ C is placed in a uniform electric field of magnitude 5 × 10⁴ N·C⁻¹ directed vertically upwards.\n\n5.2.1 Calculate the magnitude of the electric force on the sphere.\n\n5.2.2 Calculate the magnitude and direction of the acceleration of the sphere.\n\n(5)",
+      "answer": "5.2.1\n\nFE = qE\nFE = (3 × 10⁻⁸)(5 × 10⁴)\nFE = 1.5 × 10⁻³ N (upwards)\n\n(2)\n\n5.2.2\n\nw = mg\nw = (2 × 10⁻³)(9.8)\nw = 1.96 × 10⁻² N (downwards)\n\nFnet = FE − w\nFnet = 1.5 × 10⁻³ − 1.96 × 10⁻²\nFnet = 1.5 × 10⁻³ − 19.6 × 10⁻³\nFnet = −18.1 × 10⁻³ N\n\nFnet = ma\n−18.1 × 10⁻³ = (2 × 10⁻³)a\na = −9.05 m·s⁻²\na = 9.05 m·s⁻² downwards\n\n(3)\n\n(5)",
+      "paper_pages": [11, 11],
+      "memo_pages": [8, 9],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.3",
+      "topic": "electrostatics",
+      "question": "5.3\nTwo point charges, Q1 = +4 × 10⁻⁶ C and Q2 = +9 × 10⁻⁶ C, are separated by a distance of 0.5 m.\n\n5.3.1 Calculate the distance from Q1 at which the net electric field is zero.\n\n5.3.2 Sketch the electric field pattern for the two charges.\n\n(6)",
+      "answer": "5.3.1\n\nLet the distance from Q1 be x. Then the distance from Q2 is (0.5 − x).\n\nE1 = E2\nkQ1/x² = kQ2/(0.5 − x)²\nQ1/x² = Q2/(0.5 − x)²\n(4 × 10⁻⁶)/x² = (9 × 10⁻⁶)/(0.5 − x)²\n4/x² = 9/(0.5 − x)²\n2/x = 3/(0.5 − x)\n2(0.5 − x) = 3x\n1 − 2x = 3x\n1 = 5x\nx = 0.2 m\n\n(3)\n\n5.3.2\n\nCriteria:\n• Field lines originate from both positive charges and extend to infinity.\n• Field lines do not cross.\n• Correct shape (repulsion pattern).\n\n(3)\n\n(6)",
+      "paper_pages": [11, 12],
+      "memo_pages": [9, 9],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "5.4",
+      "topic": "electrostatics",
+      "question": "5.4\nA small charged sphere of mass 0.8 g carrying a charge of +5 × 10⁻⁸ C is suspended from a light inextensible string in a uniform horizontal electric field of magnitude 3 × 10⁴ N·C⁻¹. The string makes an angle θ with the vertical.\n\n5.4.1 Draw a labelled free-body diagram showing ALL the forces acting on the sphere.\n\n5.4.2 Calculate the angle θ.\n\n5.4.3 Calculate the tension in the string.\n\n(9)",
+      "answer": "5.4.1\n\nAccepted labels:\nT — Tension\nw — Fg / weight / mg\nFE — Electric force / electrostatic force\n\nNotes:\n• Mark awarded for label and arrow.\n• Any other additional force(s): Max 3/4\n• If everything correct, but no arrows: Max 3/4\n\n(4)\n\n5.4.2\n\nFE = qE\nFE = (5 × 10⁻⁸)(3 × 10⁴)\nFE = 1.5 × 10⁻³ N\n\nw = mg\nw = (0.8 × 10⁻³)(9.8)\nw = 7.84 × 10⁻³ N\n\ntan θ = FE/w\ntan θ = (1.5 × 10⁻³)/(7.84 × 10⁻³)\ntan θ = 0.1913\nθ = 10.83°\n\n(3)\n\n5.4.3\n\nT = √(FE² + w²)\nT = √((1.5 × 10⁻³)² + (7.84 × 10⁻³)²)\nT = √(2.25 × 10⁻⁶ + 61.47 × 10⁻⁶)\nT = √(63.72 × 10⁻⁶)\nT = 7.98 × 10⁻³ N\n\n(2)\n\n(9)",
+      "paper_pages": [12, 12],
+      "memo_pages": [9, 10],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

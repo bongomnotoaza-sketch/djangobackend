@@ -1,0 +1,607 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "atomic_energy_levels",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows electron energies E3 = 5.7 x 10^-19 J, E2 = 5.1 x 10^-19 J and E1 = 1.3 x 10^-19 J. An electron moves from E3 to E1. The energy of the emitted photon is ...\n\nA 1.3 x 10^-19 J\nB 4.4 x 10^-19 J\nC 5.7 x 10^-19 J\nD 7.0 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 5.7 x 10^-19 J, E2 = 5.1 x 10^-19 J and E1 = 1.3 x 10^-19 J. An electron moves from E3 to E1. The frequency of the emitted photon is approximately ...\n\nA 6.64 x 10^14 Hz\nB 7.70 x 10^14 Hz\nC 8.60 x 10^14 Hz\nD 9.95 x 10^14 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 5.7 x 10^-19 J, E2 = 5.1 x 10^-19 J and E1 = 1.3 x 10^-19 J. Is it possible for a photon with energy 2.5 x 10^-19 J to be emitted from this atom?\n\nA YES, it corresponds to the transition E2 to E1\nB YES, it corresponds to the transition E3 to E2\nC NO, the energy does not correspond to any transition in this atom\nD NO, the energy is too small for any transition\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 5.7 x 10^-19 J, E2 = 5.1 x 10^-19 J and E1 = 1.3 x 10^-19 J. The energy of the photon emitted when an electron moves from E3 to E2 is ...\n\nA 0.6 x 10^-19 J\nB 3.8 x 10^-19 J\nC 4.4 x 10^-19 J\nD 5.1 x 10^-19 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 5.7 x 10^-19 J, E2 = 5.1 x 10^-19 J and E1 = 1.3 x 10^-19 J. The energy of the photon emitted when an electron moves from E2 to E1 is ...\n\nA 0.6 x 10^-19 J\nB 3.8 x 10^-19 J\nC 4.4 x 10^-19 J\nD 6.4 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 8.0 x 10^-19 J, E3 = 5.5 x 10^-19 J, E2 = 3.2 x 10^-19 J and E1 = 0 J. The energy of the photon emitted when an electron moves from E4 to E2 is ...\n\nA 2.3 x 10^-19 J\nB 3.2 x 10^-19 J\nC 4.8 x 10^-19 J\nD 8.0 x 10^-19 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 8.0 x 10^-19 J, E3 = 5.5 x 10^-19 J, E2 = 3.2 x 10^-19 J and E1 = 0 J. The wavelength of the photon emitted when an electron moves from E4 to E2 is approximately ...\n\nA 3.11 x 10^-7 m\nB 4.14 x 10^-7 m\nC 5.18 x 10^-7 m\nD 6.22 x 10^-7 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 8.0 x 10^-19 J, E3 = 5.5 x 10^-19 J, E2 = 3.2 x 10^-19 J and E1 = 0 J. The frequency of the photon emitted when an electron moves from E3 to E1 is approximately ...\n\nA 6.64 x 10^14 Hz\nB 7.24 x 10^14 Hz\nC 8.30 x 10^14 Hz\nD 9.95 x 10^14 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 10.0 eV, E3 = 7.0 eV, E2 = 4.0 eV and E1 = 0 eV. How many possible spectral lines can be emitted when electrons transition from higher to lower energy levels?\n\nA 3\nB 4\nC 6\nD 10\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 10.0 eV, E3 = 7.0 eV, E2 = 4.0 eV and E1 = 0 eV. The energy of the photon with the highest frequency is ...\n\nA 3.0 eV\nB 7.0 eV\nC 10.0 eV\nD 14.0 eV\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 10.0 eV, E3 = 7.0 eV, E2 = 4.0 eV and E1 = 0 eV. The energy of the photon with the longest wavelength is ...\n\nA 3.0 eV\nB 4.0 eV\nC 7.0 eV\nD 10.0 eV\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 10.0 eV, E3 = 7.0 eV, E2 = 4.0 eV and E1 = 0 eV. The frequency of the photon emitted when an electron transitions from E3 to E2 is approximately ...\n\nA 4.82 x 10^14 Hz\nB 7.24 x 10^14 Hz\nC 9.65 x 10^14 Hz\nD 1.21 x 10^15 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the ground state (n = 1) in joules is ...\n\nA -2.176 x 10^-18 J\nB -5.44 x 10^-19 J\nC -2.42 x 10^-19 J\nD -1.36 x 10^-19 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the first excited state (n = 2) in joules is ...\n\nA -2.176 x 10^-18 J\nB -5.44 x 10^-19 J\nC -2.42 x 10^-19 J\nD -1.36 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the n = 3 level in joules is ...\n\nA -2.176 x 10^-18 J\nB -5.44 x 10^-19 J\nC -2.42 x 10^-19 J\nD -1.36 x 10^-19 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the photon emitted when an electron transitions from n = 3 to n = 2 is ...\n\nA 1.89 x 10^-19 J\nB 3.02 x 10^-19 J\nC 4.08 x 10^-19 J\nD 5.44 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The wavelength of the photon emitted when an electron transitions from n = 3 to n = 2 is approximately ...\n\nA 4.88 x 10^-7 m\nB 5.50 x 10^-7 m\nC 6.59 x 10^-7 m\nD 7.20 x 10^-7 m\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the n = 4 level in joules is ...\n\nA -1.36 x 10^-19 J\nB -2.42 x 10^-19 J\nC -5.44 x 10^-19 J\nD -2.176 x 10^-18 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the photon emitted when an electron transitions from n = 4 to n = 2 is ...\n\nA 3.02 x 10^-19 J\nB 4.08 x 10^-19 J\nC 5.44 x 10^-19 J\nD 6.80 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The wavelength of the photon emitted when an electron transitions from n = 4 to n = 2 is approximately ...\n\nA 4.88 x 10^-7 m\nB 5.50 x 10^-7 m\nC 6.59 x 10^-7 m\nD 7.20 x 10^-7 m\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the n = 5 level in joules is approximately ...\n\nA -8.70 x 10^-20 J\nB -1.36 x 10^-19 J\nC -2.42 x 10^-19 J\nD -5.44 x 10^-19 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the photon emitted when an electron transitions from n = 5 to n = 2 is approximately ...\n\nA 3.02 x 10^-19 J\nB 4.08 x 10^-19 J\nC 4.57 x 10^-19 J\nD 5.44 x 10^-19 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The frequency of the photon emitted when an electron transitions from n = 5 to n = 2 is approximately ...\n\nA 5.73 x 10^14 Hz\nB 6.89 x 10^14 Hz\nC 8.30 x 10^14 Hz\nD 9.95 x 10^14 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the n = 6 level in joules is approximately ...\n\nA -6.05 x 10^-20 J\nB -8.70 x 10^-20 J\nC -1.36 x 10^-19 J\nD -2.42 x 10^-19 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the photon emitted when an electron transitions from n = 6 to n = 3 is approximately ...\n\nA 1.815 x 10^-19 J\nB 3.02 x 10^-19 J\nC 4.08 x 10^-19 J\nD 5.44 x 10^-19 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The wavelength of the photon emitted when an electron transitions from n = 6 to n = 3 is approximately ...\n\nA 4.88 x 10^-7 m\nB 6.59 x 10^-7 m\nC 1.096 x 10^-6 m\nD 1.875 x 10^-6 m\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The energy of the photon emitted when an electron transitions from n = 3 to n = 1 is approximately ...\n\nA 1.934 x 10^-18 J\nB 2.176 x 10^-18 J\nC 3.02 x 10^-19 J\nD 4.08 x 10^-19 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "atomic_energy_levels",
+      "question": "The energy levels of a hydrogen atom are given by En = -13.6/n^2 eV. The frequency of the photon emitted when an electron transitions from n = 3 to n = 1 is approximately ...\n\nA 1.46 x 10^15 Hz\nB 2.92 x 10^15 Hz\nC 4.38 x 10^15 Hz\nD 5.84 x 10^15 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 6.0 x 10^-19 J, E3 = 4.0 x 10^-19 J, E2 = 2.0 x 10^-19 J and E1 = 0 J. The energy of the photon emitted when an electron transitions from E4 to E2 is ...\n\nA 2.0 x 10^-19 J\nB 4.0 x 10^-19 J\nC 6.0 x 10^-19 J\nD 8.0 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 6.0 x 10^-19 J, E3 = 4.0 x 10^-19 J, E2 = 2.0 x 10^-19 J and E1 = 0 J. The wavelength of the photon emitted when an electron transitions from E4 to E2 is approximately ...\n\nA 3.98 x 10^-7 m\nB 4.97 x 10^-7 m\nC 5.96 x 10^-7 m\nD 6.95 x 10^-7 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 6.0 x 10^-19 J, E3 = 4.0 x 10^-19 J, E2 = 2.0 x 10^-19 J and E1 = 0 J. The frequency of the photon emitted when an electron transitions from E3 to E1 is approximately ...\n\nA 4.82 x 10^14 Hz\nB 6.03 x 10^14 Hz\nC 7.24 x 10^14 Hz\nD 8.45 x 10^14 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E5 = 15.0 eV, E4 = 12.0 eV, E3 = 9.0 eV, E2 = 5.0 eV and E1 = 0 eV. How many possible spectral lines can be emitted?\n\nA 4\nB 6\nC 10\nD 15\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E5 = 15.0 eV, E4 = 12.0 eV, E3 = 9.0 eV, E2 = 5.0 eV and E1 = 0 eV. The energy of the photon with the highest frequency is ...\n\nA 3.0 eV\nB 6.0 eV\nC 12.0 eV\nD 15.0 eV\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E5 = 15.0 eV, E4 = 12.0 eV, E3 = 9.0 eV, E2 = 5.0 eV and E1 = 0 eV. The energy of the photon with the longest wavelength is ...\n\nA 3.0 eV\nB 5.0 eV\nC 6.0 eV\nD 9.0 eV\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E5 = 15.0 eV, E4 = 12.0 eV, E3 = 9.0 eV, E2 = 5.0 eV and E1 = 0 eV. The frequency of the photon emitted when an electron transitions from E4 to E2 is approximately ...\n\nA 1.21 x 10^15 Hz\nB 1.69 x 10^15 Hz\nC 2.17 x 10^15 Hz\nD 2.65 x 10^15 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E5 = 20.0 eV, E4 = 15.0 eV, E3 = 10.0 eV, E2 = 5.0 eV and E1 = 0 eV. How many possible spectral lines can be emitted?\n\nA 4\nB 6\nC 10\nD 15\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E5 = 20.0 eV, E4 = 15.0 eV, E3 = 10.0 eV, E2 = 5.0 eV and E1 = 0 eV. The energy of the photon with the highest frequency is ...\n\nA 5.0 eV\nB 10.0 eV\nC 15.0 eV\nD 20.0 eV\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E5 = 20.0 eV, E4 = 15.0 eV, E3 = 10.0 eV, E2 = 5.0 eV and E1 = 0 eV. The energy of the photon with the longest wavelength is ...\n\nA 5.0 eV\nB 10.0 eV\nC 15.0 eV\nD 20.0 eV\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E5 = 20.0 eV, E4 = 15.0 eV, E3 = 10.0 eV, E2 = 5.0 eV and E1 = 0 eV. The frequency of the photon emitted when an electron transitions from E5 to E3 is approximately ...\n\nA 1.21 x 10^15 Hz\nB 1.69 x 10^15 Hz\nC 2.41 x 10^15 Hz\nD 3.62 x 10^15 Hz\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 8.0 x 10^-19 J, E2 = 4.0 x 10^-19 J and E1 = 0 J. The frequency of the photon emitted when an electron moves from E2 to E1 is approximately ...\n\nA 4.82 x 10^14 Hz\nB 6.03 x 10^14 Hz\nC 7.24 x 10^14 Hz\nD 8.45 x 10^14 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 8.0 x 10^-19 J, E2 = 4.0 x 10^-19 J and E1 = 0 J. The wavelength of the photon emitted when an electron moves from E2 to E1 is approximately ...\n\nA 3.98 x 10^-7 m\nB 4.97 x 10^-7 m\nC 5.96 x 10^-7 m\nD 6.95 x 10^-7 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 8.0 x 10^-19 J, E2 = 4.0 x 10^-19 J and E1 = 0 J. The energy of the photon absorbed when an electron moves from E1 to E3 is ...\n\nA 4.0 x 10^-19 J\nB 8.0 x 10^-19 J\nC 12.0 x 10^-19 J\nD 16.0 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 14.0 eV, E3 = 10.0 eV, E2 = 6.0 eV and E1 = 0 eV. How many possible spectral lines can be emitted?\n\nA 3\nB 4\nC 6\nD 10\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 14.0 eV, E3 = 10.0 eV, E2 = 6.0 eV and E1 = 0 eV. The energy of the photon with the highest frequency is ...\n\nA 4.0 eV\nB 6.0 eV\nC 10.0 eV\nD 14.0 eV\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 14.0 eV, E3 = 10.0 eV, E2 = 6.0 eV and E1 = 0 eV. The energy of the photon with the longest wavelength is ...\n\nA 4.0 eV\nB 6.0 eV\nC 10.0 eV\nD 14.0 eV\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 14.0 eV, E3 = 10.0 eV, E2 = 6.0 eV and E1 = 0 eV. The frequency of the photon emitted when an electron transitions from E3 to E1 is approximately ...\n\nA 1.21 x 10^15 Hz\nB 2.41 x 10^15 Hz\nC 3.62 x 10^15 Hz\nD 4.82 x 10^15 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 6.0 x 10^-19 J, E2 = 3.0 x 10^-19 J and E1 = 1.0 x 10^-19 J. The energy of the photon emitted when an electron moves from E3 to E2 is ...\n\nA 1.0 x 10^-19 J\nB 2.0 x 10^-19 J\nC 3.0 x 10^-19 J\nD 5.0 x 10^-19 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 6.0 x 10^-19 J, E2 = 3.0 x 10^-19 J and E1 = 1.0 x 10^-19 J. The frequency of the photon emitted when an electron moves from E2 to E1 is approximately ...\n\nA 3.02 x 10^14 Hz\nB 4.52 x 10^14 Hz\nC 6.03 x 10^14 Hz\nD 7.54 x 10^14 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 6.0 x 10^-19 J, E2 = 3.0 x 10^-19 J and E1 = 1.0 x 10^-19 J. The energy of the photon emitted when an electron moves from E3 to E1 is ...\n\nA 3.0 x 10^-19 J\nB 4.0 x 10^-19 J\nC 5.0 x 10^-19 J\nD 6.0 x 10^-19 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E3 = 6.0 x 10^-19 J, E2 = 3.0 x 10^-19 J and E1 = 1.0 x 10^-19 J. The wavelength of the photon emitted when an electron moves from E3 to E1 is approximately ...\n\nA 3.98 x 10^-7 m\nB 4.97 x 10^-7 m\nC 5.96 x 10^-7 m\nD 6.95 x 10^-7 m\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 12.0 eV, E3 = 9.0 eV, E2 = 5.0 eV and E1 = 0 eV. How many possible spectral lines can be emitted?\n\nA 3\nB 4\nC 6\nD 10\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 12.0 eV, E3 = 9.0 eV, E2 = 5.0 eV and E1 = 0 eV. The energy of the photon with the highest frequency is ...\n\nA 3.0 eV\nB 5.0 eV\nC 9.0 eV\nD 12.0 eV\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 12.0 eV, E3 = 9.0 eV, E2 = 5.0 eV and E1 = 0 eV. The energy of the photon with the longest wavelength is ...\n\nA 3.0 eV\nB 4.0 eV\nC 5.0 eV\nD 7.0 eV\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "atomic_energy_levels",
+      "question": "The energy diagram shows E4 = 12.0 eV, E3 = 9.0 eV, E2 = 5.0 eV and E1 = 0 eV. The frequency of the photon emitted when an electron transitions from E4 to E3 is approximately ...\n\nA 7.24 x 10^14 Hz\nB 1.21 x 10^15 Hz\nC 1.69 x 10^15 Hz\nD 2.17 x 10^15 Hz\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "atomic_energy_levels",
+      "question": "The formula to calculate the number of possible spectral lines when an electron transitions from higher to lower energy levels in an atom with n energy levels is:\n\nA n(n-1)\nB n(n-1)/2\nC n(n+1)/2\nD n^2\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "atomic_energy_levels",
+      "question": "The energy of a photon is given by:\n\nA E = hf\nB E = h/f\nC E = f/h\nD E = hf^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "atomic_energy_levels",
+      "question": "The energy of a photon in terms of wavelength is given by:\n\nA E = hc x lambda\nB E = hc / lambda\nC E = lambda / hc\nD E = h / (c x lambda)\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "atomic_energy_levels",
+      "question": "The value of Planck's constant is:\n\nA 6.63 x 10^-34 J.s\nB 3.00 x 10^8 J.s\nC 1.60 x 10^-19 J.s\nD 9.11 x 10^-31 J.s\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "atomic_energy_levels",
+      "question": "The speed of light in a vacuum is:\n\nA 3.00 x 10^6 m/s\nB 3.00 x 10^8 m/s\nC 3.00 x 10^10 m/s\nD 3.00 x 10^12 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "atomic_energy_levels",
+      "question": "When an electron transitions from a higher energy level to a lower energy level, the atom:\n\nA absorbs energy and emits a photon\nB emits energy and emits a photon\nC absorbs energy and absorbs a photon\nD emits energy and absorbs a photon\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

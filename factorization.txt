@@ -1,0 +1,587 @@
+
+
+Factorisation of Algebraic Expressions
+
+Factorisation is the process of writing an algebraic expression as a multiplication of smaller expressions called **factors**.
+
+Factorisation is the opposite of expansion.
+
+Example:
+
+Expansion:
+
+$$
+3(x+4)=3x+12
+$$
+
+Factorisation:
+
+$$
+3x+12=3(x+4)
+$$
+
+---
+
+# Factorisation Types
+
+The main factorisation methods are:
+
+1. Common Factor
+2. Difference of Squares
+3. Trinomial Factorisation
+4. Factorisation by Grouping
+
+---
+
+# 1. Common Factor
+
+A common factor is a number or variable that appears in every term.
+
+## Method
+
+### Step 1
+
+Find the highest common factor (HCF).
+
+### Step 2
+
+Divide every term by the common factor.
+
+### Step 3
+
+Write the common factor outside the bracket.
+
+---
+
+## Example 1
+
+Factorise:
+
+$$
+6x+12
+$$
+
+### Step 1: Identify the common factor
+
+Family list:
+
+1. Constants
+2. Variables
+
+Terms:
+
+$$
+6x+12
+$$
+
+Common factor:
+
+$$
+6
+$$
+
+---
+
+### Step 2: Divide each term by 6
+
+$$
+\frac{6x}{6}+\frac{12}{6}
+$$
+
+$$
+x+2
+$$
+
+---
+
+### Step 3: Write the factorised form
+
+$$
+6(x+2)
+$$
+
+---
+
+# Example 2
+
+Factorise:
+
+$$
+8x^2+12x
+$$
+
+### Step 1: Find common factor
+
+Numbers:
+
+$$
+8 \text{ and } 12
+$$
+
+HCF:
+
+$$
+4
+$$
+
+Variables:
+
+$$
+x^2 \text{ and } x
+$$
+
+Common variable:
+
+$$
+x
+$$
+
+Common factor:
+
+$$
+4x
+$$
+
+---
+
+### Step 2: Divide every term
+
+$$
+\frac{8x^2}{4x}+\frac{12x}{4x}
+$$
+
+$$
+2x+3
+$$
+
+---
+
+### Step 3: Final answer
+
+$$
+4x(2x+3)
+$$
+
+---
+
+# 2. Factorisation of Binomials
+
+A binomial has two terms.
+
+$$
+a+b
+$$
+
+or
+
+$$
+a-b
+$$
+
+The main binomial factorisation method is **difference of squares**.
+
+---
+
+# Difference of Squares
+
+Rule:
+
+$$
+a^2-b^2=(a+b)(a-b)
+$$
+
+A difference of squares must have:
+
+1. Two terms
+2. A subtraction sign
+3. Both terms must be perfect squares
+
+---
+
+## Example
+
+Factorise:
+
+$$
+x^2-25
+$$
+
+### Step 1: Identify squares
+
+$$
+x^2=(x)^2
+$$
+
+$$
+25=(5)^2
+$$
+
+---
+
+### Step 2: Apply rule
+
+$$
+(x+5)(x-5)
+$$
+
+---
+
+# Example 2
+
+Factorise:
+
+$$
+9x^2-16
+$$
+
+### Step 1: Identify squares
+
+$$
+9x^2=(3x)^2
+$$
+
+$$
+16=4^2
+$$
+
+---
+
+### Step 2: Apply rule
+
+$$
+(3x+4)(3x-4)
+$$
+
+---
+
+# 3. Factorisation of Trinomials
+
+A trinomial has three terms.
+
+General form:
+
+$$
+ax^2+bx+c
+$$
+
+The goal is to find two brackets.
+
+$$
+(ax+b)(cx+d)
+$$
+
+---
+
+# Simple Trinomials
+
+When the coefficient of \(x^2\) is 1:
+
+$$
+x^2+bx+c
+$$
+
+Find two numbers that:
+
+1. Multiply to give \(c\)
+2. Add to give \(b\)
+
+---
+
+## Example
+
+Factorise:
+
+$$
+x^2+7x+12
+$$
+
+### Step 1: Identify numbers
+
+Need two numbers that:
+
+Multiply:
+
+$$
+12
+$$
+
+Add:
+
+$$
+7
+$$
+
+Numbers:
+
+$$
+3 \text{ and } 4
+$$
+
+---
+
+### Step 2: Write brackets
+
+$$
+(x+3)(x+4)
+$$
+
+---
+
+# Trinomials With Negative Signs
+
+## Example
+
+Factorise:
+
+$$
+x^2-5x+6
+$$
+
+Need two numbers that:
+
+Multiply:
+
+$$
+6
+$$
+
+Add:
+
+$$
+-5
+$$
+
+Numbers:
+
+$$
+-2 \text{ and } -3
+$$
+
+Answer:
+
+$$
+(x-2)(x-3)
+$$
+
+---
+
+# 4. Complex Trinomials
+
+When the coefficient of \(x^2\) is not 1.
+
+Example:
+
+$$
+2x^2+7x+3
+$$
+
+---
+
+## Method: Split the Middle Term
+
+### Step 1
+
+Multiply:
+
+$$
+a \times c
+$$
+
+where:
+
+$$
+a=2
+$$
+
+$$
+c=3
+$$
+
+$$
+2\times3=6
+$$
+
+---
+
+### Step 2
+
+Find two numbers that:
+
+Multiply to:
+
+$$
+6
+$$
+
+Add to:
+
+$$
+7
+$$
+
+Numbers:
+
+$$
+6 \text{ and } 1
+$$
+
+---
+
+### Step 3
+
+Split the middle term
+
+$$
+2x^2+6x+x+3
+$$
+
+---
+
+### Step 4
+
+Factorise by grouping
+
+Group:
+
+$$
+(2x^2+6x)+(x+3)
+$$
+
+Common factors:
+
+$$
+2x(x+3)+1(x+3)
+$$
+
+---
+
+### Step 5
+
+Final factorisation
+
+$$
+(2x+1)(x+3)
+$$
+
+---
+
+# 5. Factorisation By Grouping
+
+Used when there are four terms.
+
+Example:
+
+$$
+x^3+3x^2+2x+6
+$$
+
+---
+
+## Step 1: Group terms
+
+$$
+(x^3+3x^2)+(2x+6)
+$$
+
+---
+
+## Step 2: Find common factors
+
+First group:
+
+$$
+x^2(x+3)
+$$
+
+Second group:
+
+$$
+2(x+3)
+$$
+
+---
+
+## Step 3: Common bracket
+
+$$
+x^2(x+3)+2(x+3)
+$$
+
+Common factor:
+
+$$
+(x+3)
+$$
+
+---
+
+Final answer:
+
+$$
+(x+3)(x^2+2)
+$$
+
+---
+
+# Factorisation Checking Method
+
+Always check your answer by expanding.
+
+Example:
+
+$$
+(x+3)(x+4)
+$$
+
+Multiply:
+
+$$
+x(x)+x(4)+3(x)+3(4)
+$$
+
+$$
+x^2+4x+3x+12
+$$
+
+Simplify:
+
+$$
+x^2+7x+12
+$$
+
+The answer matches the original expression.
+
+---
+
+# Factorisation Order Rule
+
+Always check methods in this order:
+
+1. Common factor
+2. Difference of squares
+3. Trinomial factorisation
+4. Grouping
+
+Always remove the common factor first before attempting another method.
+
+Example:
+
+$$
+2x^2-18
+$$
+
+First remove common factor:
+
+$$
+2(x^2-9)
+$$
+
+Then difference of squares:
+
+$$
+2(x+3)(x-3)
+$$
+
+---
+
+This follows the same teaching philosophy as your multiplication notes: **identify → apply method → show every term → simplify → verify.**

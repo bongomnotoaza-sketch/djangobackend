@@ -1,0 +1,886 @@
+{
+  "year": 2015,
+  "paper": "paper2",
+  "subject": "Physical Sciences",
+  "questions": [
+    {
+      "question_number": 2,
+      "topic": "organic_molecules",
+      "marks": null,
+      "start_page": 2,
+      "end_page": 3,
+      "full_text": "QUESTION 2.1 and QUESTION 2.2. \n \nYou may use a non-programmable calculator. \n \nYou may use appropriate mathematical instruments. \n \nYou are advised to use the attached DATA SHEETS. \n \nShow ALL formulae and substitutions in ALL calculations. \n \nRound off your final numerical answers to a minimum of TWO decimal places. \n \nGive brief motivations, discussions et cetera where required. \n \nWrite neatly and legibly. \n \n \n\nPhysical Sciences/P2 \n3 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+      "memo_full_text": "QUESTION 2/VRAAG 2 \n \n \n2.1 \n2.1.1 \n \nB  \n \n \n \n(1) \n \n2.1.2 \n \n \n \n \n \n \n \n(1) \n \n2.1.3 \nCnH2n-2  \n \n(1) \n \n2.1.4 \n4-ethyl-5-methylhept-2-yne / 4-ethyl-5-methyl-2-heptyne \n \n4-etiel-5-metielhept-2-yn / 4-etiel-5-metiel-2-heptyn \n \n \n \nMarking criteria/Nasienriglyne: \n \n4-ethyl / 4-etiel  OR/OF 4 ethyl / 4 etiel \n \n5-methyl / 5-metiel  OR/OF 5 methyl / 5 metiel \n \nhept-2-yne / 2-heptyne / hept-2-yn / 2-heptyn  \n \nOR/OF hept 2 yne / 2 heptyne / hept 2 yn / 2 heptyn \nIF/INDIEN: \nAny error e.g. hyphens omitted and/or incorrect sequence: \nEnige fout bv. koppeltekens weggelaat en/of verkeerde volgorde: \nMax./Maks.\n3\n2\n \n \n(3) \n \n2.1.5 \nButan-2-one / 2-butanone / Butanone \nButan-2-oon / 2-butanoon / Butanoon \n \n \n \nMarking criteria/Nasienriglyne: \n \nFunctional group / Funksionele groep  \n \nWhole name correct / Hele naam korrek  \n \n(2) \n \n \nC\nO\nH\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n3 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n2.2 \n2.2.1 \n \nAlkanes / Alkane  \n \n \n \n(1) \n \n2.2.2 \n2-methylpropane \n2-metielpropaan \n \nOR/OF \n \nMethylpropane \nMetielpropaan \nNotes/Aantekeninge: \nIF/INDIEN: \n2 methylpropane / 2 metielpropaan  \n2\n1 \n \nIF sequence incorrect/INDIEN volgorde \nverkeerd: Max./Maks. \n2\n1 \n \n(4) \n \n \n \n \n \n \n \n \nMarking criteria structural formula: \nNasienriglyne struktuurformule: \n \nThree carbons in longest chain.  \nDrie koolstowwe in die langste ketting. \n \nMethyl group on second carbon. \nMetielgroep op tweede koolstof.  \nNotes/Aantekeninge: \n One or more H atoms omitted: \n \nEen of meer H-atome uitgelaat: \n2\n1 \n Condensed or semi-structural formula: \n \nGekondenseerde of semi-struktuur- \n \nformule: \n \n \n \n2\n1\n \n \n \n2.2.3 \nChain / Ketting  \n \n(1) \n \n2.3 \n2.3.1 \n \nHaloalkanes / Alkyl halides  \nHaloalkane / Alkielhaliede \n \n(1) \n \n2.3.2 \nSubstitution / halogenation / bromonation  \nSubstitusie / halogenering / halogenasie / bromonering \n \n(1) \n \n \n \n[16] \n \n \nC\nC \nH\nH\nH \nH\nC\nH\nH \nH\nC \nH \nH \nH \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n4 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+      "sub_questions": [
+        {
+          "label": "2",
+          "question": "QUESTION 2.1 and QUESTION 2.2. \n \nYou may use a non-programmable calculator. \n \nYou may use appropriate mathematical instruments. \n \nYou are advised to use the attached DATA SHEETS. \n \nShow ALL formulae and substitutions in ALL calculations. \n \nRound off your final numerical answers to a minimum of TWO decimal places. \n \nGive brief motivations, discussions et cetera where required. \n \nWrite neatly and legibly. \n \n \n\nPhysical Sciences/P2 \n3 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": null,
+          "answer_english": null,
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 1,
+      "topic": "multiple_choice",
+      "marks": 20,
+      "start_page": 3,
+      "end_page": 6,
+      "full_text": "QUESTION 1: MULTIPLE-CHOICE QUESTIONS \n \n \nFour options are provided as possible answers to the following questions. Each \nquestion has only ONE correct answer. Choose the answer and write only the letter \n(A–D) next to the question number (1.1–1.10) in the ANSWER BOOK, for example \n1.11 E. \n \n \n1.1 \nWhich ONE of the following pairs of reactants is used in a reaction during the \ncontact process? \n \n \n \nA \n \nB \n \nC \n \nD \nN2(g) and H2(g) \n \nSO2(g) and O2(g) \n \nNH3(g) and O2(g) \n \nH2SO4(ℓ) and NH3(g) \n \n \n \n \n \n \n(2) \n \n1.2 \nThe rate of a chemical reaction is most correctly defined as the ... \n \n \n \nA \n \nB \n \nC \n \nD \ntime taken for a reaction to occur. \n \nspeed at which a reaction takes place. \n \nchange in the amount of reactants or products. \n \nchange in the concentration of reactants or products per unit time. \n \n \n \n \n \n \n(2) \n \n1.3 \nConsider the reaction represented by the balanced equation below. \n \nH3PO4(aq) + H2O(ℓ) ⇌ H3O+(aq) + H2\n−\n4\nPO (aq) \n \nWhich ONE of the following is a conjugate acid-base pair? \n \n \n \nA \n \nB \n \nC \n \nD \nH3O+(aq) and H2O(ℓ) \n \nH3PO4(aq) and H2O(ℓ) \n \nH3PO4(aq) and H3O+(aq) \n \nH3O+(aq) and H2\n−\n4\nPO (aq) \n \n \n \n \n(2) \n \n1.4 \nWhich ONE of the following compounds has dipole-dipole forces between its \nmolecules? \n \n \n \nA \n \nB \n \nC \n \nD \nEthanal \n \nEthane \n \nEthene \n \nEthyne \n \n \n \n \n(2) \n\nPhysical Sciences/P2 \n4 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over \n \n \n1.5 \nThe energy changes represented by P, Q and R on the potential energy \ngraph below take place during a reversible chemical reaction. \n \n \n \n \nWhich ONE of the following changes will decrease both P and R, but leave Q \nunchanged? \n \n \n \nA \n \nB \n \nC \n \nD \nA decrease in volume \n \nThe addition of a catalyst \n \nA decrease in temperature \n \nA decrease in concentration \n \n \n \n \n \n \n(2) \n \n1.6 \nWhich ONE of the following is a product formed during the hydrolysis of \nbromoethane? \n \n \n \nA \n \nB \n \nC \n \nD \nWater \n \nEthene \n \nEthanol \n \nBromine \n \n(2) \n \n1.7 \nWhich \nONE \nof \nthe \nfollowing \nis \nthe \nEMPIRICAL \nFORMULA \nof \n1,2-dichloroethane? \n \n \n \nA \n \nB \n \nC \n \nD \nCHCℓ \n \nCH2Cℓ \n \nCHCℓ2 \n \nC2H4Cℓ2 \n \n \n \n \n(2) \n \nCourse of reaction \nPotential energy \n(kJ∙mol-1) \nQ \n R \nP \n\nPhysical Sciences/P2 \n5 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over \n \n \n1.8 \nThe reaction represented by the balanced equation below reaches equilibrium \nin a closed container. \n \nCℓ2(g) + H2O(ℓ) ⇌ Cℓ─(aq) + CℓO─(aq) + 2H+(aq) \n \nWhich ONE of the following reagents will favour the forward reaction when \nadded? \n \n \n \nA \n \nB \n \nC \n \nD \nHydrogen \n \nSodium chloride \n \nHydrogen chloride \n \nSodium hydroxide \n \n \n \n \n \n \n(2) \n \n1.9 \nThe following half-reactions take place in a galvanic cell: \n \nCo3+ + e- ⇌ Co2+ \nAℓ3++ 3e- ⇌ Aℓ \n \nWhich ONE of the following is the cell notation for this cell? \n \n \n \n \nA \n \nB \n \nC \n \nD \nAℓ ∣ Aℓ3+ ∥ Co3+, Co2+ \n \nAℓ ∣ Aℓ3+ ∥ Co3+, Co2+ ∣ Pt \n \nAℓ ∣ Aℓ3+ ∥ Co2+, Co3+ ∣ Pt \n \nPt ∣ Co2+ , Co3+ ∥ Aℓ3+ ∣ Aℓ \n \n(2) \n \n1.10 \nChlorine gas (Cℓ2) is bubbled through a potassium iodide solution (KI). The \nreducing agent in this reaction is: \n \n \n \nA \n \nB \n \nC \n \nD \nPotassium ions \n \nChlorine gas \n \nIodide ions \n \nChloride ions \n \n(2) \n \n \n \n [20] \n \n\nPhysical Sciences/P2 \n6 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+      "memo_full_text": "QUESTION 1/VRAAG 1 \n \n \n1.1 \nB  \n \n(2) \n \n1.2 \nD  \n \n(2) \n \n1.3 \nA  \n \n(2) \n \n1.4 \nA  \n \n(2) \n \n1.5 \nB  \n \n(2) \n \n1.6 \nC  \n \n(2) \n \n1.7 \nB  \n \n(2) \n \n1.8 \nD  \n \n(2) \n \n1.9 \nB  \n \n(2) \n \n1.10 \nC  \n \n(2) \n[20]",
+      "sub_questions": [
+        {
+          "label": "1.11",
+          "question": "1.11 E.",
+          "answer": null,
+          "answer_english": null,
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.1",
+          "question": "1.1 \nWhich ONE of the following pairs of reactants is used in a reaction during the \ncontact process? \n \n \n \nA \n \nB \n \nC \n \nD \nN2(g) and H2(g) \n \nSO2(g) and O2(g) \n \nNH3(g) and O2(g) \n \nH2SO4(ℓ) and NH3(g) \n \n \n \n \n \n \n(2)",
+          "answer": "1.1 \nB  \n \n(2)",
+          "answer_english": "1.1 \nB  \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.2",
+          "question": "1.2 \nThe rate of a chemical reaction is most correctly defined as the ... \n \n \n \nA \n \nB \n \nC \n \nD \ntime taken for a reaction to occur. \n \nspeed at which a reaction takes place. \n \nchange in the amount of reactants or products. \n \nchange in the concentration of reactants or products per unit time. \n \n \n \n \n \n \n(2)",
+          "answer": "1.2 \nD  \n \n(2)",
+          "answer_english": "1.2 \nD  \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.3",
+          "question": "1.3 \nConsider the reaction represented by the balanced equation below. \n \nH3PO4(aq) + H2O(ℓ) ⇌ H3O+(aq) + H2\n−\n4\nPO (aq) \n \nWhich ONE of the following is a conjugate acid-base pair? \n \n \n \nA \n \nB \n \nC \n \nD \nH3O+(aq) and H2O(ℓ) \n \nH3PO4(aq) and H2O(ℓ) \n \nH3PO4(aq) and H3O+(aq) \n \nH3O+(aq) and H2\n−\n4\nPO (aq) \n \n \n \n \n(2)",
+          "answer": "1.3 \nA  \n \n(2)",
+          "answer_english": "1.3 \nA  \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.4",
+          "question": "1.4 \nWhich ONE of the following compounds has dipole-dipole forces between its \nmolecules? \n \n \n \nA \n \nB \n \nC \n \nD \nEthanal \n \nEthane \n \nEthene \n \nEthyne \n \n \n \n \n(2) \n\nPhysical Sciences/P2 \n4 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "1.4 \nA  \n \n(2)",
+          "answer_english": "1.4 \nA  \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.5",
+          "question": "1.5 \nThe energy changes represented by P, Q and R on the potential energy \ngraph below take place during a reversible chemical reaction. \n \n \n \n \nWhich ONE of the following changes will decrease both P and R, but leave Q \nunchanged? \n \n \n \nA \n \nB \n \nC \n \nD \nA decrease in volume \n \nThe addition of a catalyst \n \nA decrease in temperature \n \nA decrease in concentration \n \n \n \n \n \n \n(2)",
+          "answer": "1.5 \nB  \n \n(2)",
+          "answer_english": "1.5 \nB  \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.6",
+          "question": "1.6 \nWhich ONE of the following is a product formed during the hydrolysis of \nbromoethane? \n \n \n \nA \n \nB \n \nC \n \nD \nWater \n \nEthene \n \nEthanol \n \nBromine \n \n(2)",
+          "answer": "1.6 \nC  \n \n(2)",
+          "answer_english": "1.6 \nC  \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.7",
+          "question": "1.7 \nWhich \nONE \nof \nthe \nfollowing \nis \nthe \nEMPIRICAL \nFORMULA \nof \n1,2-dichloroethane? \n \n \n \nA \n \nB \n \nC \n \nD \nCHCℓ \n \nCH2Cℓ \n \nCHCℓ2 \n \nC2H4Cℓ2 \n \n \n \n \n(2) \n \nCourse of reaction \nPotential energy \n(kJ∙mol-1) \nQ \n R \nP \n\nPhysical Sciences/P2 \n5 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "1.7 \nB  \n \n(2)",
+          "answer_english": "1.7 \nB  \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.8",
+          "question": "1.8 \nThe reaction represented by the balanced equation below reaches equilibrium \nin a closed container. \n \nCℓ2(g) + H2O(ℓ) ⇌ Cℓ─(aq) + CℓO─(aq) + 2H+(aq) \n \nWhich ONE of the following reagents will favour the forward reaction when \nadded? \n \n \n \nA \n \nB \n \nC \n \nD \nHydrogen \n \nSodium chloride \n \nHydrogen chloride \n \nSodium hydroxide \n \n \n \n \n \n \n(2)",
+          "answer": "1.8 \nD  \n \n(2)",
+          "answer_english": "1.8 \nD  \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.9",
+          "question": "1.9 \nThe following half-reactions take place in a galvanic cell: \n \nCo3+ + e- ⇌ Co2+ \nAℓ3++ 3e- ⇌ Aℓ \n \nWhich ONE of the following is the cell notation for this cell? \n \n \n \n \nA \n \nB \n \nC \n \nD \nAℓ ∣ Aℓ3+ ∥ Co3+, Co2+ \n \nAℓ ∣ Aℓ3+ ∥ Co3+, Co2+ ∣ Pt \n \nAℓ ∣ Aℓ3+ ∥ Co2+, Co3+ ∣ Pt \n \nPt ∣ Co2+ , Co3+ ∥ Aℓ3+ ∣ Aℓ \n \n(2)",
+          "answer": "1.9 \nB  \n \n(2)",
+          "answer_english": "1.9 \nB  \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "1.10",
+          "question": "1.10 \nChlorine gas (Cℓ2) is bubbled through a potassium iodide solution (KI). The \nreducing agent in this reaction is: \n \n \n \nA \n \nB \n \nC \n \nD \nPotassium ions \n \nChlorine gas \n \nIodide ions \n \nChloride ions \n \n(2) \n \n \n \n [20] \n \n\nPhysical Sciences/P2 \n6 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "1.10 \nC  \n \n(2) \n[20]",
+          "answer_english": "1.10 \nC  \n \n(2) \n[20]",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "topic": "organic_molecules",
+      "marks": 16,
+      "start_page": 6,
+      "end_page": 7,
+      "full_text": "QUESTION 2 (Start on a new page.) \n \n \nThe letters A to D in the table below represent four organic compounds. \n \n \nA \n \n \nB \n \n \n \nC \n \nCH3CH2CHO \n \nD \nButane \n \n \nUse the information in the table to answer the questions that follow. \n \n \n2.1 \nWrite down the: \n \n \n \n2.1.1 \nLetter that represents a ketone \n (1) \n \n \n2.1.2 \nStructural formula of the functional group of compound C \n (1) \n \n \n2.1.3 \nGeneral formula of the homologous series to which compound A \nbelongs \n \n(1) \n \n \n2.1.4 \nIUPAC name of compound A \n (3) \n \n \n2.1.5 \nIUPAC name of compound B \n (2) \n \n2.2 \nCompound D is a gas used in cigarette lighters. \n \n \n \n2.2.1 \nTo which homologous series does compound D belong? \n (1) \n \n \n2.2.2 \nWrite down the STRUCTURAL FORMULA and IUPAC NAME of a \nstructural isomer of compound D. \n \n(4) \n \n \n2.2.3 \nIs the isomer in QUESTION 2.2.2 a CHAIN, POSITIONAL or \nFUNCTIONAL isomer? \n \n(1) \n \n2.3 \nCompound D reacts with bromine (Br2) to form 2-bromobutane. \n \nWrite down the name of the: \n \n \n \n \n2.3.1 \nHomologous series to which 2-bromobutane belongs \n (1) \n \n \n2.3.2 \nType of reaction that takes place \n (1) \n \n \n \n [16] \n \nC \nC\nC\nC\nC\nC\nCH3 \nH \nCH3 \nH\nH\nH\nH\nH\nH\nCH2CH3 \nC \nC\nC \nO\nC\nH \nH \nH \nH\nH\nH \nH \nH\n\nPhysical Sciences/P2 \n7 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+      "memo_full_text": "QUESTION 2/VRAAG 2 \n \n \n2.1 \n2.1.1 \n \nB  \n \n \n \n(1) \n \n2.1.2 \n \n \n \n \n \n \n \n(1) \n \n2.1.3 \nCnH2n-2  \n \n(1) \n \n2.1.4 \n4-ethyl-5-methylhept-2-yne / 4-ethyl-5-methyl-2-heptyne \n \n4-etiel-5-metielhept-2-yn / 4-etiel-5-metiel-2-heptyn \n \n \n \nMarking criteria/Nasienriglyne: \n \n4-ethyl / 4-etiel  OR/OF 4 ethyl / 4 etiel \n \n5-methyl / 5-metiel  OR/OF 5 methyl / 5 metiel \n \nhept-2-yne / 2-heptyne / hept-2-yn / 2-heptyn  \n \nOR/OF hept 2 yne / 2 heptyne / hept 2 yn / 2 heptyn \nIF/INDIEN: \nAny error e.g. hyphens omitted and/or incorrect sequence: \nEnige fout bv. koppeltekens weggelaat en/of verkeerde volgorde: \nMax./Maks.\n3\n2\n \n \n(3) \n \n2.1.5 \nButan-2-one / 2-butanone / Butanone \nButan-2-oon / 2-butanoon / Butanoon \n \n \n \nMarking criteria/Nasienriglyne: \n \nFunctional group / Funksionele groep  \n \nWhole name correct / Hele naam korrek  \n \n(2) \n \n \nC\nO\nH\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n3 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n2.2 \n2.2.1 \n \nAlkanes / Alkane  \n \n \n \n(1) \n \n2.2.2 \n2-methylpropane \n2-metielpropaan \n \nOR/OF \n \nMethylpropane \nMetielpropaan \nNotes/Aantekeninge: \nIF/INDIEN: \n2 methylpropane / 2 metielpropaan  \n2\n1 \n \nIF sequence incorrect/INDIEN volgorde \nverkeerd: Max./Maks. \n2\n1 \n \n(4) \n \n \n \n \n \n \n \n \nMarking criteria structural formula: \nNasienriglyne struktuurformule: \n \nThree carbons in longest chain.  \nDrie koolstowwe in die langste ketting. \n \nMethyl group on second carbon. \nMetielgroep op tweede koolstof.  \nNotes/Aantekeninge: \n One or more H atoms omitted: \n \nEen of meer H-atome uitgelaat: \n2\n1 \n Condensed or semi-structural formula: \n \nGekondenseerde of semi-struktuur- \n \nformule: \n \n \n \n2\n1\n \n \n \n2.2.3 \nChain / Ketting  \n \n(1) \n \n2.3 \n2.3.1 \n \nHaloalkanes / Alkyl halides  \nHaloalkane / Alkielhaliede \n \n(1) \n \n2.3.2 \nSubstitution / halogenation / bromonation  \nSubstitusie / halogenering / halogenasie / bromonering \n \n(1) \n \n \n \n[16] \n \n \nC\nC \nH\nH\nH \nH\nC\nH\nH \nH\nC \nH \nH \nH \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n4 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+      "sub_questions": [
+        {
+          "label": "2.1",
+          "question": "2.1 \nWrite down the:",
+          "answer": "2.1",
+          "answer_english": "2.1",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "2.1.1",
+          "question": "2.1.1 \nLetter that represents a ketone \n (1)",
+          "answer": "2.1.1 \n \nB  \n \n \n \n(1)",
+          "answer_english": "2.1.1 \n \nB  \n \n \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "2.1.2",
+          "question": "2.1.2 \nStructural formula of the functional group of compound C \n (1)",
+          "answer": "2.1.2 \n \n \n \n \n \n \n \n(1)",
+          "answer_english": "2.1.2 \n \n \n \n \n \n \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "2.1.3",
+          "question": "2.1.3 \nGeneral formula of the homologous series to which compound A \nbelongs \n \n(1)",
+          "answer": "2.1.3 \nCnH2n-2  \n \n(1)",
+          "answer_english": "2.1.3 \nCnH2n-2  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "2.1.4",
+          "question": "2.1.4 \nIUPAC name of compound A \n (3)",
+          "answer": "2.1.4 \n4-ethyl-5-methylhept-2-yne / 4-ethyl-5-methyl-2-heptyne \n \n4-etiel-5-metielhept-2-yn / 4-etiel-5-metiel-2-heptyn \n \n \n \nMarking criteria/Nasienriglyne: \n \n4-ethyl / 4-etiel  OR/OF 4 ethyl / 4 etiel \n \n5-methyl / 5-metiel  OR/OF 5 methyl / 5 metiel \n \nhept-2-yne / 2-heptyne / hept-2-yn / 2-heptyn  \n \nOR/OF hept 2 yne / 2 heptyne / hept 2 yn / 2 heptyn \nIF/INDIEN: \nAny error e.g. hyphens omitted and/or incorrect sequence: \nEnige fout bv. koppeltekens weggelaat en/of verkeerde volgorde: \nMax./Maks.\n3\n2\n \n \n(3)",
+          "answer_english": "2.1.4 \n4-ethyl-5-methylhept-2-yne / 4-ethyl-5-methyl-2-heptyne \n \n4-etiel-5-metielhept-2-yn / 4-etiel-5-metiel-2-heptyn \n \n \n \nMarking criteria/Nasienriglyne: \n \n4-ethyl / 4-etiel  OR/OF 4 ethyl / 4 etiel \n \n5-methyl / 5-metiel  OR/OF 5 methyl / 5 metiel \n \nhept-2-yne / 2-heptyne / hept-2-yn / 2-heptyn  \n \nOR/OF hept 2 yne / 2 heptyne / hept 2 yn / 2 heptyn \nIF/INDIEN: \nAny error e.g. hyphens omitted and/or incorrect sequence: \nEnige fout bv. koppeltekens weggelaat en/of verkeerde volgorde: \nMax./Maks.\n3\n2\n \n \n(3)",
+          "answer_afrikaans": null,
+          "marking_criteria": [
+            " \n4-ethyl / 4-etiel  OR/OF 4 ethyl / 4 etiel \n \n5-methyl / 5-metiel  OR/OF 5 methyl / 5 metiel \n \nhept-2-yne / 2-heptyne / hept-2-yn / 2-heptyn  \n \nOR/OF hept 2 yne / 2 heptyne / hept 2 yn / 2 heptyn \nIF/INDIEN: \nAny error e.g. hyphens omitted and/or incorrect sequence: \nEnige fout bv. koppeltekens weggelaat en/of verkeerde volgorde: \nMax./Maks.\n3\n2\n \n \n(3)"
+          ]
+        },
+        {
+          "label": "2.1.5",
+          "question": "2.1.5 \nIUPAC name of compound B \n (2)",
+          "answer": "2.1.5 \nButan-2-one / 2-butanone / Butanone \nButan-2-oon / 2-butanoon / Butanoon \n \n \n \nMarking criteria/Nasienriglyne: \n \nFunctional group / Funksionele groep  \n \nWhole name correct / Hele naam korrek  \n \n(2) \n \n \nC\nO\nH\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n3 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "2.1.5 \nButan-2-one / 2-butanone / Butanone \nButan-2-oon / 2-butanoon / Butanoon \n \n \n \nMarking criteria/Nasienriglyne: \n \nFunctional group / Funksionele groep  \n \nWhole name correct / Hele naam korrek  \n \n(2) \n \n \nC\nO\nH\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n3 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": null,
+          "marking_criteria": [
+            " \nFunctional group / Funksionele groep  \n \nWhole name correct / Hele naam korrek  \n \n(2) \n \n \nC\nO\nH\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n3 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief"
+          ]
+        },
+        {
+          "label": "2.2",
+          "question": "2.2 \nCompound D is a gas used in cigarette lighters.",
+          "answer": "2.2",
+          "answer_english": "2.2",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "2.2.1",
+          "question": "2.2.1 \nTo which homologous series does compound D belong? \n (1)",
+          "answer": "2.2.1 \n \nAlkanes / Alkane  \n \n \n \n(1)",
+          "answer_english": "2.2.1 \n \nAlkanes / Alkane  \n \n \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "2.2.2",
+          "question": "2.2.2 \nWrite down the STRUCTURAL FORMULA and IUPAC NAME of a \nstructural isomer of compound D. \n \n(4)",
+          "answer": "2.2.2 \n2-methylpropane \n2-metielpropaan \n \nOR/OF \n \nMethylpropane \nMetielpropaan \nNotes/Aantekeninge: \nIF/INDIEN: \n2 methylpropane / 2 metielpropaan  \n2\n1 \n \nIF sequence incorrect/INDIEN volgorde \nverkeerd: Max./Maks. \n2\n1 \n \n(4) \n \n \n \n \n \n \n \n \nMarking criteria structural formula: \nNasienriglyne struktuurformule: \n \nThree carbons in longest chain.  \nDrie koolstowwe in die langste ketting. \n \nMethyl group on second carbon. \nMetielgroep op tweede koolstof.  \nNotes/Aantekeninge: \n One or more H atoms omitted: \n \nEen of meer H-atome uitgelaat: \n2\n1 \n Condensed or semi-structural formula: \n \nGekondenseerde of semi-struktuur- \n \nformule: \n \n \n \n2\n1",
+          "answer_english": "2.2.2 \n2-methylpropane \n2-metielpropaan \n \nOR/OF \n \nMethylpropane \nMetielpropaan \nNotes/Aantekeninge: \nIF/INDIEN: \n2 methylpropane / 2 metielpropaan  \n2\n1 \n \nverkeerd: Max./Maks. \n2\n1 \n \n(4) \n \n \n \n \n \n \n \n \nMarking criteria structural formula: \nNasienriglyne struktuurformule: \n \nThree carbons in longest chain.  \n \nMethyl group on second carbon. \nNotes/Aantekeninge: \n One or more H atoms omitted: \n \n2\n1 \n Condensed or semi-structural formula: \n \nGekondenseerde of semi-struktuur- \n \nformule: \n \n \n \n2\n1",
+          "answer_afrikaans": "IF sequence incorrect/INDIEN volgorde \nDrie koolstowwe in die langste ketting. \nMetielgroep op tweede koolstof.  \nEen of meer H-atome uitgelaat:",
+          "marking_criteria": [
+            "Nasienriglyne struktuurformule: \n \nThree carbons in longest chain.  \nDrie koolstowwe in die langste ketting. \n \nMethyl group on second carbon. \nMetielgroep op tweede koolstof.  \nNotes/Aantekeninge: \n One or more H atoms omitted: \n \nEen of meer H-atome uitgelaat: \n2\n1 \n Condensed or semi-structural formula: \n \nGekondenseerde of semi-struktuur- \n \nformule: \n \n \n \n2\n1"
+          ]
+        },
+        {
+          "label": "2.2.3",
+          "question": "2.2.3 \nIs the isomer in QUESTION 2.2.2 a CHAIN, POSITIONAL or \nFUNCTIONAL isomer? \n \n(1)",
+          "answer": "2.2.3 \nChain / Ketting  \n \n(1)",
+          "answer_english": "2.2.3 \nChain / Ketting  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "2.3",
+          "question": "2.3 \nCompound D reacts with bromine (Br2) to form 2-bromobutane. \n \nWrite down the name of the:",
+          "answer": "2.3",
+          "answer_english": "2.3",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "2.3.1",
+          "question": "2.3.1 \nHomologous series to which 2-bromobutane belongs \n (1)",
+          "answer": "2.3.1 \n \nHaloalkanes / Alkyl halides  \nHaloalkane / Alkielhaliede \n \n(1)",
+          "answer_english": "2.3.1 \n \nHaloalkanes / Alkyl halides  \nHaloalkane / Alkielhaliede \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "2.3.2",
+          "question": "2.3.2 \nType of reaction that takes place \n (1) \n \n \n \n [16] \n \nC \nC\nC\nC\nC\nC\nCH3 \nH \nCH3 \nH\nH\nH\nH\nH\nH\nCH2CH3 \nC \nC\nC \nO\nC\nH \nH \nH \nH\nH\nH \nH \nH\n\nPhysical Sciences/P2 \n7 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "2.3.2 \nSubstitution / halogenation / bromonation  \nSubstitusie / halogenering / halogenasie / bromonering \n \n(1) \n \n \n \n[16] \n \n \nC\nC \nH\nH\nH \nH\nC\nH\nH \nH\nC \nH \nH \nH \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n4 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "2.3.2 \nSubstitution / halogenation / bromonation  \nSubstitusie / halogenering / halogenasie / bromonering \n \n(1) \n \n \n \n[16] \n \n \nC\nC \nH\nH\nH \nH\nC\nH\nH \nH\nC \nH \nH \nH \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n4 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "topic": "organic_molecules",
+      "marks": 10,
+      "start_page": 7,
+      "end_page": 8,
+      "full_text": "QUESTION 3 (Start on a new page.) \n \n \n3.1 \nThe flow diagram below shows two organic reactions. The letter P represents \nan organic compound. \n \n \n \n \n \nUse the information in the flow diagram to answer the questions that follow. \n \n \n \nWrite down the: \n \n \n \n3.1.1 \nType of reaction of which Reaction 1 is an example \n (1) \n \n \n3.1.2 \nSTRUCTURAL FORMULA of the functional group of ethyl \npropanoate \n \n(1) \n \n \n3.1.3 \nIUPAC name of compound P \n (1) \n \n \nReaction 2 takes place in the presence of an acid catalyst and heat. \n \nWrite down the: \n \n \n \n3.1.4 \nType of reaction of which Reaction 2 is an example \n (1) \n \n \n3.1.5 \nNAME or FORMULA of the acid catalyst \n (1) \n \n \n3.1.6 \nSTRUCTURAL FORMULA of the alkene \n (2) \n \n3.2 \nThe condensed formula of a polymer is shown below. \n \n \n \n \n \n \nWrite down the: \n \n \n \n3.2.1 \nSTRUCTURAL FORMULA of the monomer that is used to prepare \nthe above polymer \n \n(2) \n \n \n3.2.2 \nType of polymerisation reaction (ADDITION or CONDENSATION) \nthat is used to prepare this polymer \n \n(1) \n \n \n \n \n[10] \nAlcohol \nP \nEthyl propanoate \nReaction 2 \n+ \nAlkene \nReaction 1 \nC \nC \nH \nH \nH\nn \nH \n\nPhysical Sciences/P2 \n8 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+      "memo_full_text": "QUESTION 3/VRAAG 3 \n \n \n3.1 \n3.1.1 \n \nEsterification / Condensation  \nEsterifikasie / Verestering / Kondensasie \n \n(1) \n \n3.1.2 \n \n \n \n \n \n(1) \n \n3.1.3 \nPropanoic acid / Propanoësuur  \n \n(1) \n \n3.1.4 \nDehydration / elimination  \nDehidrasie / dehidratering / eliminasie \n \n(1) \n \n3.1.5 \n(Concentrated) H2SO4 / sulphuric acid / H3PO4 / phosphoric acid  \n(Gekonsentreerde) H2SO4 / / swaelsuur / swawelsuur / H3PO4 / fosforsuur \n \n(1) \n \n3.1.6 \n \n \n \n \n \nNotes/Aantekeninge \n \nFunctional group:  \nFunksionele groep: \n \nWhole structure correct:  \nHele struktuur korrek: \n \n(2) \n \n3.2 \n \n \n \n \n3.2.1 \n \n \n \n \n \nNotes/Aantekeninge \n \nFunctional group:  \nFunksionele groep: \n \nWhole structure correct:  \n \nHele struktuur korrek: \n \n(2) \n \n3.2.2 \nAddition / Addisie  \n \n(1) \n \n \n \n[10] \n \n \nC \nO\nC \nO\n \n \nC \nC\nH \nH \nH \nH\n \n \nC \nC\nH \nH \nH \nH \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n5 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+      "sub_questions": [
+        {
+          "label": "3.1",
+          "question": "3.1 \nThe flow diagram below shows two organic reactions. The letter P represents \nan organic compound. \n \n \n \n \n \nUse the information in the flow diagram to answer the questions that follow. \n \n \n \nWrite down the:",
+          "answer": "3.1",
+          "answer_english": "3.1",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "3.1.1",
+          "question": "3.1.1 \nType of reaction of which Reaction 1 is an example \n (1)",
+          "answer": "3.1.1 \n \nEsterification / Condensation  \nEsterifikasie / Verestering / Kondensasie \n \n(1)",
+          "answer_english": "3.1.1 \n \nEsterification / Condensation  \nEsterifikasie / Verestering / Kondensasie \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "3.1.2",
+          "question": "3.1.2 \nSTRUCTURAL FORMULA of the functional group of ethyl \npropanoate \n \n(1)",
+          "answer": "3.1.2 \n \n \n \n \n \n(1)",
+          "answer_english": "3.1.2 \n \n \n \n \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "3.1.3",
+          "question": "3.1.3 \nIUPAC name of compound P \n (1) \n \n \nReaction 2 takes place in the presence of an acid catalyst and heat. \n \nWrite down the:",
+          "answer": "3.1.3 \nPropanoic acid / Propanoësuur  \n \n(1)",
+          "answer_english": "3.1.3 \nPropanoic acid / Propanoësuur  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "3.1.4",
+          "question": "3.1.4 \nType of reaction of which Reaction 2 is an example \n (1)",
+          "answer": "3.1.4 \nDehydration / elimination  \nDehidrasie / dehidratering / eliminasie \n \n(1)",
+          "answer_english": "3.1.4 \nDehydration / elimination  \nDehidrasie / dehidratering / eliminasie \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "3.1.5",
+          "question": "3.1.5 \nNAME or FORMULA of the acid catalyst \n (1)",
+          "answer": "3.1.5 \n(Concentrated) H2SO4 / sulphuric acid / H3PO4 / phosphoric acid  \n(Gekonsentreerde) H2SO4 / / swaelsuur / swawelsuur / H3PO4 / fosforsuur \n \n(1)",
+          "answer_english": "3.1.5 \n(Concentrated) H2SO4 / sulphuric acid / H3PO4 / phosphoric acid  \n(Gekonsentreerde) H2SO4 / / swaelsuur / swawelsuur / H3PO4 / fosforsuur \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "3.1.6",
+          "question": "3.1.6 \nSTRUCTURAL FORMULA of the alkene \n (2)",
+          "answer": "3.1.6 \n \n \n \n \n \nNotes/Aantekeninge \n \nFunctional group:  \nFunksionele groep: \n \nWhole structure correct:  \nHele struktuur korrek: \n \n(2)",
+          "answer_english": "3.1.6 \n \n \n \n \n \nNotes/Aantekeninge \n \nFunctional group:  \nFunksionele groep: \n \nWhole structure correct:  \nHele struktuur korrek: \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "3.2",
+          "question": "3.2 \nThe condensed formula of a polymer is shown below. \n \n \n \n \n \n \nWrite down the:",
+          "answer": "3.2",
+          "answer_english": "3.2",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "3.2.1",
+          "question": "3.2.1 \nSTRUCTURAL FORMULA of the monomer that is used to prepare \nthe above polymer \n \n(2)",
+          "answer": "3.2.1 \n \n \n \n \n \nNotes/Aantekeninge \n \nFunctional group:  \nFunksionele groep: \n \nWhole structure correct:  \n \nHele struktuur korrek: \n \n(2)",
+          "answer_english": "3.2.1 \n \n \n \n \n \nNotes/Aantekeninge \n \nFunctional group:  \nFunksionele groep: \n \nWhole structure correct:  \n \nHele struktuur korrek: \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "3.2.2",
+          "question": "3.2.2 \nType of polymerisation reaction (ADDITION or CONDENSATION) \nthat is used to prepare this polymer \n \n(1) \n \n \n \n \n[10] \nAlcohol \nP \nEthyl propanoate \nReaction 2 \n+ \nAlkene \nReaction 1 \nC \nC \nH \nH \nH\nn \nH \n\nPhysical Sciences/P2 \n8 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "3.2.2 \nAddition / Addisie  \n \n(1) \n \n \n \n[10] \n \n \nC \nO\nC \nO\n \n \nC \nC\nH \nH \nH \nH\n \n \nC \nC\nH \nH \nH \nH \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n5 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "3.2.2 \nAddition / Addisie  \n \n(1) \n \n \n \n[10] \n \n \nC \nO\nC \nO\n \n \nC \nC\nH \nH \nH \nH\n \n \nC \nC\nH \nH \nH \nH \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n5 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "topic": "organic_reactions",
+      "marks": 16,
+      "start_page": 8,
+      "end_page": 9,
+      "full_text": "QUESTION 4 (Start on a new page.) \n \n \nFour compounds of comparable molecular mass are used to investigate the effect of \nfunctional groups on vapour pressure. The results obtained are shown in the table \nbelow. \n \n \nCOMPOUND \nVAPOUR PRESSURE \n(kPa at 20 °C) \nA \nButane \n204 \nB \nPropan-2-one \n24,6 \nC \nPropan-1-ol \n2 \nD \nEthanoic acid \n1,6 \n \n4.1 \nDefine the term functional group of an organic compound. \n (2) \n \n4.2 \nWhich ONE of the compounds (A, B, C or D) in the table has the: \n \n \n \n4.2.1 \nHighest boiling point \n(Refer to the vapour pressures in the table to give a reason for the \nanswer.) \n \n(2) \n \n \n4.2.2 \nWeakest intermolecular forces \n (1) \n \n4.3 \nRefer to the type of intermolecular forces to explain the difference between \nthe vapour pressure of compound A and compound B. \n \n(3) \n \n4.4 \nThe vapour pressures of compounds C and D are much lower than those of \ncompounds A and B. Name the type of intermolecular force in A and B that is \nresponsible for this difference. \n \n(1) \n \n4.5 \nBriefly explain the difference in vapour pressure between compound C and \ncompound D. \n \n(2) \n \n4.6 \nDuring a combustion reaction in a closed container of adjustable volume, \n8 cm3 of compound A (butane) reacts in excess oxygen according to the \nfollowing balanced equation: \n \n2C4H10(g) + 13O2(g) → 8CO2(g) + 10H2O(g) \n \nIf the initial volume of the oxygen in the container was 60 cm3, calculate the \nTOTAL volume of the gases that are present in the container at the end of the \nreaction. All the gases in the container are at the same temperature and \npressure. \n \n(5) \n \n \n [16] \n \n\nPhysical Sciences/P2 \n9 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+      "memo_full_text": "QUESTION 4/VRAAG 4 \n \n \n4.1 \nA bond/an atom or a group of atoms  that determine(s) the (physical and \nchemical) properties of a group of organic compounds.  \n'n Binding of 'n atoom of 'n groep atome wat die (fisiese en chemiese) \neienskappe van 'n groep organiese verbindings bepaal. \n \n(2) \n \n4.2 \n4.2.1 \n \nD / ethanoic acid / etanoësuur  \n \nLowest vapour pressure.  \nLaagste dampdruk. \n \n(2) \n \n4.2.2 \nA / butane / butaan  \n \n(1) \n \n4.3 \n Between molecules of A / butane / alkanes are London / induced dipole / \ndispersion forces.  \nTussen molekule van A / butaan / alkane is London / geïnduseerde dipole / \ndispersiekragte. \n Between molecules of B / propan-2-one / ketones are dipole-dipole \nforces  in addition to London / induced dipole / dispersion forces. \nTussen molekule van B / propan-2-oon / ketone is dipool-dipool-kragte \ntesame met London / geïnduseerde dipool /dispersiekragte. \n Intermolecular forces in A are weaker than those in B. / Less energy is \nneeded in A to break/overcome intermolecular forces.  \n \nIntermolekulêre kragte in A is swakker as die in B./ Minder energie word \nby A benodig om intermolekulêre kragte te breek/oorkom. \n- \nOR/OF \n \nIntermolecular forces in B are stronger than those in A. / More energy is \nneeded in B to break/overcome intermolecular forces. \nIntermolekulêre kragte in B is sterker as die in A. / Meer energie word by B \nbenodig om intermolekulêre kragte te breek/oorkom. \n \nOR/OF \n Between molecules of A / butane / alkanes are weak London / induced \ndipole / dispersion forces. \nTussen molekule van A / butaan/alkane is swak London / geïnduseerde \ndipool / dispersiekragte. \n Between molecules of B /propan-2-one / ketone are strong(er) dipole-\ndipole forces in addition to London/induced dipole / dispersion forces. \nTussen molekule van B / propan-2-oon / ketone is sterk(er) dipool-\ndipool/dispersiekragte. \n \n(3) \n \n4.4 \nLondon forces/dispersion forces/induced dipole forces/dipole-dipole forces.  \nLondonkragte/dispersiekragte/geïnduseerde dipoolkragte/dipool-dipoolkragte. \n \nOR/OF \nA and B do not have hydrogen bonding./C and D have hydrogen bonding. \nA en B het nie waterstofbinding nie./C en D het waterstofbinding. \n \n(1) \n \n-\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n6 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n4.5 \nOPTION 1/OPSIE 1 \n D has more sites for hydrogen bonding than C / forms dimers / is \n \nmore polar than C.  \n \nD het meer punte vir waterstofbinding as C / vorm dimere / is meer \n \npolêr as C. \n D has stronger / more intermolecular forces / dipole-dipole forces.  \n \nD het sterker / meer intermolekulêre kragte / dipool-dipoolkragte. \n \n \nOR/OF \n \nD needs more energy to overcome/break the intermolecular forces. \n \nD het meer energie nodig om die intermolekulêre kragte te oorkom/breek. \n \nOPTION 2/OPSIE 2 \n C has less sites for hydrogen bonding than D. / C does not form dimers / C \nis less polar. \nC het minder plekke vir waterstofbinding as D. / C vorm nie dimere nie / C \nis minder polêr. \n C has weaker / less intermolecular forces / dipole-dipole forces./ C needs \nless energy to overcome/break intermolecular forces / dipole-dipole forces. \n \nC het swakker / minder intermolekulêre kragte / dipool-dipoolkragte./ C \nbenodig minder energie om intermolekulêre kragte / dipool-dipoolkragte te \noorkom/breek. \n \n(2) \n \n4.6 \nMarking criteria/Nasienriglyne \n Mole ratio for V(CO2) correctly used. / Molverhouding vir V(CO2) korrek gebruik. \n Mole ratio for V(H2O) correctly used. / Molverhouding vir V(H2O) korrek gebruik. \n Mole ratio for V(O2 reacted) correctly used. / Molverhouding vir V(O2 reageer) \n \nkorrek gebruik. \n V(O2 excess/oormaat) = V(O2 initial/aanvanklik) – V(O2 change/verandering). \n Vtot = 80 cm3 \n \n \n \n \nOPTION 1/OPSIE 1 \nV(CO2) = 4V(C4H10) \n = (4)(8)  \n = 32 cm3 \n \n \n \n \n \nV(H2O) = 5V(C4H10) \n = (5)(8)  \n = 40 cm3 \n \nV(O2 reacted/reageer): \nV(O2) = 2\n13 V(C4H10) \n = ( 2\n13 )(8)  = 52 cm3 \nV(O2 excess/oormaat): \nV(O2) = 60 – 52 = 8 cm3 \n \n \n \nVtot = 32 + 40 + 8 = 80 cm3  \n \nOPTION 2/OPSIE 2 \n \n \n \n \n \n \n \n \n \nTotal/totale volume = 8 + 32 + 40 = 80 cm3  \n \nC4H10 \nO2 \nCO2 \nH2O \nInitial V (cm3) \nBeginV (cm3) \n8 \n60 \n0 \n0 \nChange in V (cm3) \nVerandering V (cm3) \n8 \n52  \n32  \n40  \nFinal V (cm3) \nFinale V (cm3) \n0 \n8  \n32 \n40 \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n7 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \n \nOPTION 3/OPSIE 3 \n \n \n \n \n \n \n \n \n \nTotal/totale volume = 0,008 + 0,032 + 0,04 = 0,08 dm3  \n \nC4H10 \nO2 \nCO2 \nH2O \nInitial V (dm3) \nBegin V (dm3) \n0,008 \n0,06 \n0 \n0 \nChange in V (dm3) \nVerandering V (dm3) \n0,008 \n0,052  \n0,032  \n0,04  \nFinal V (dm3) \nFinale V (dm3) \n0 \n0,008  \n0,032 \n0,04 \n \n(5) \n \n \n \n[16]",
+      "sub_questions": [
+        {
+          "label": "4.1",
+          "question": "4.1 \nDefine the term functional group of an organic compound. \n (2)",
+          "answer": "4.1 \nA bond/an atom or a group of atoms  that determine(s) the (physical and \nchemical) properties of a group of organic compounds.  \n'n Binding of 'n atoom of 'n groep atome wat die (fisiese en chemiese) \neienskappe van 'n groep organiese verbindings bepaal. \n \n(2)",
+          "answer_english": "4.1 \nA bond/an atom or a group of atoms  that determine(s) the (physical and \nchemical) properties of a group of organic compounds.  \n \n(2)",
+          "answer_afrikaans": "'n Binding of 'n atoom of 'n groep atome wat die (fisiese en chemiese) \neienskappe van 'n groep organiese verbindings bepaal.",
+          "marking_criteria": []
+        },
+        {
+          "label": "4.2",
+          "question": "4.2 \nWhich ONE of the compounds (A, B, C or D) in the table has the:",
+          "answer": "4.2",
+          "answer_english": "4.2",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "4.2.1",
+          "question": "4.2.1 \nHighest boiling point \n(Refer to the vapour pressures in the table to give a reason for the \nanswer.) \n \n(2)",
+          "answer": "4.2.1 \n \nD / ethanoic acid / etanoësuur  \n \nLowest vapour pressure.  \nLaagste dampdruk. \n \n(2)",
+          "answer_english": "4.2.1 \n \nD / ethanoic acid / etanoësuur  \n \nLowest vapour pressure.  \nLaagste dampdruk. \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "4.2.2",
+          "question": "4.2.2 \nWeakest intermolecular forces \n (1)",
+          "answer": "4.2.2 \nA / butane / butaan  \n \n(1)",
+          "answer_english": "4.2.2 \nA / butane / butaan  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "4.3",
+          "question": "4.3 \nRefer to the type of intermolecular forces to explain the difference between \nthe vapour pressure of compound A and compound B. \n \n(3)",
+          "answer": "4.3 \n Between molecules of A / butane / alkanes are London / induced dipole / \ndispersion forces.  \nTussen molekule van A / butaan / alkane is London / geïnduseerde dipole / \ndispersiekragte. \n Between molecules of B / propan-2-one / ketones are dipole-dipole \nforces  in addition to London / induced dipole / dispersion forces. \nTussen molekule van B / propan-2-oon / ketone is dipool-dipool-kragte \ntesame met London / geïnduseerde dipool /dispersiekragte. \n Intermolecular forces in A are weaker than those in B. / Less energy is \nneeded in A to break/overcome intermolecular forces.  \n \nIntermolekulêre kragte in A is swakker as die in B./ Minder energie word \nby A benodig om intermolekulêre kragte te breek/oorkom. \n- \nOR/OF \n \nIntermolecular forces in B are stronger than those in A. / More energy is \nneeded in B to break/overcome intermolecular forces. \nIntermolekulêre kragte in B is sterker as die in A. / Meer energie word by B \nbenodig om intermolekulêre kragte te breek/oorkom. \n \nOR/OF \n Between molecules of A / butane / alkanes are weak London / induced \ndipole / dispersion forces. \nTussen molekule van A / butaan/alkane is swak London / geïnduseerde \ndipool / dispersiekragte. \n Between molecules of B /propan-2-one / ketone are strong(er) dipole-\ndipole forces in addition to London/induced dipole / dispersion forces. \nTussen molekule van B / propan-2-oon / ketone is sterk(er) dipool-\ndipool/dispersiekragte. \n \n(3)",
+          "answer_english": "4.3 \ndispersion forces.  \nforces  in addition to London / induced dipole / dispersion forces. \n Intermolecular forces in A are weaker than those in B. / Less energy is \nneeded in A to break/overcome intermolecular forces.  \n \n- \nOR/OF \n \nIntermolecular forces in B are stronger than those in A. / More energy is \nneeded in B to break/overcome intermolecular forces. \n \nOR/OF \ndipole / dispersion forces. \ndipole forces in addition to London/induced dipole / dispersion forces. \n \n(3)",
+          "answer_afrikaans": " Between molecules of A / butane / alkanes are London / induced dipole / \nTussen molekule van A / butaan / alkane is London / geïnduseerde dipole / \ndispersiekragte. \n Between molecules of B / propan-2-one / ketones are dipole-dipole \nTussen molekule van B / propan-2-oon / ketone is dipool-dipool-kragte \ntesame met London / geïnduseerde dipool /dispersiekragte. \nIntermolekulêre kragte in A is swakker as die in B./ Minder energie word \nby A benodig om intermolekulêre kragte te breek/oorkom. \nIntermolekulêre kragte in B is sterker as die in A. / Meer energie word by B \nbenodig om intermolekulêre kragte te breek/oorkom. \n Between molecules of A / butane / alkanes are weak London / induced \nTussen molekule van A / butaan/alkane is swak London / geïnduseerde \ndipool / dispersiekragte. \n Between molecules of B /propan-2-one / ketone are strong(er) dipole-\nTussen molekule van B / propan-2-oon / ketone is sterk(er) dipool-\ndipool/dispersiekragte.",
+          "marking_criteria": []
+        },
+        {
+          "label": "4.4",
+          "question": "4.4 \nThe vapour pressures of compounds C and D are much lower than those of \ncompounds A and B. Name the type of intermolecular force in A and B that is \nresponsible for this difference. \n \n(1)",
+          "answer": "4.4 \nLondon forces/dispersion forces/induced dipole forces/dipole-dipole forces.  \nLondonkragte/dispersiekragte/geïnduseerde dipoolkragte/dipool-dipoolkragte. \n \nOR/OF \nA and B do not have hydrogen bonding./C and D have hydrogen bonding. \nA en B het nie waterstofbinding nie./C en D het waterstofbinding. \n \n(1) \n \n-\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n6 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "4.4 \nLondon forces/dispersion forces/induced dipole forces/dipole-dipole forces.  \n \nOR/OF \n \n(1) \n \n-\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n6 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": "Londonkragte/dispersiekragte/geïnduseerde dipoolkragte/dipool-dipoolkragte. \nA and B do not have hydrogen bonding./C and D have hydrogen bonding. \nA en B het nie waterstofbinding nie./C en D het waterstofbinding.",
+          "marking_criteria": []
+        },
+        {
+          "label": "4.5",
+          "question": "4.5 \nBriefly explain the difference in vapour pressure between compound C and \ncompound D. \n \n(2)",
+          "answer": "4.5 \nOPTION 1/OPSIE 1 \n D has more sites for hydrogen bonding than C / forms dimers / is \n \nmore polar than C.  \n \nD het meer punte vir waterstofbinding as C / vorm dimere / is meer \n \npolêr as C. \n D has stronger / more intermolecular forces / dipole-dipole forces.  \n \nD het sterker / meer intermolekulêre kragte / dipool-dipoolkragte. \n \n \nOR/OF \n \nD needs more energy to overcome/break the intermolecular forces. \n \nD het meer energie nodig om die intermolekulêre kragte te oorkom/breek. \n \nOPTION 2/OPSIE 2 \n C has less sites for hydrogen bonding than D. / C does not form dimers / C \nis less polar. \nC het minder plekke vir waterstofbinding as D. / C vorm nie dimere nie / C \nis minder polêr. \n C has weaker / less intermolecular forces / dipole-dipole forces./ C needs \nless energy to overcome/break intermolecular forces / dipole-dipole forces. \n \nC het swakker / minder intermolekulêre kragte / dipool-dipoolkragte./ C \nbenodig minder energie om intermolekulêre kragte / dipool-dipoolkragte te \noorkom/breek. \n \n(2)",
+          "answer_english": "4.5 \nOPTION 1/OPSIE 1 \n \nmore polar than C.  \n \n \npolêr as C. \n D has stronger / more intermolecular forces / dipole-dipole forces.  \n \n \n \nOR/OF \n \nD needs more energy to overcome/break the intermolecular forces. \n \n \nOPTION 2/OPSIE 2 \nis less polar. \nis minder polêr. \n C has weaker / less intermolecular forces / dipole-dipole forces./ C needs \nless energy to overcome/break intermolecular forces / dipole-dipole forces. \n \noorkom/breek. \n \n(2)",
+          "answer_afrikaans": " D has more sites for hydrogen bonding than C / forms dimers / is \nD het meer punte vir waterstofbinding as C / vorm dimere / is meer \nD het sterker / meer intermolekulêre kragte / dipool-dipoolkragte. \nD het meer energie nodig om die intermolekulêre kragte te oorkom/breek. \n C has less sites for hydrogen bonding than D. / C does not form dimers / C \nC het minder plekke vir waterstofbinding as D. / C vorm nie dimere nie / C \nC het swakker / minder intermolekulêre kragte / dipool-dipoolkragte./ C \nbenodig minder energie om intermolekulêre kragte / dipool-dipoolkragte te",
+          "marking_criteria": []
+        },
+        {
+          "label": "4.6",
+          "question": "4.6 \nDuring a combustion reaction in a closed container of adjustable volume, \n8 cm3 of compound A (butane) reacts in excess oxygen according to the \nfollowing balanced equation: \n \n2C4H10(g) + 13O2(g) → 8CO2(g) + 10H2O(g) \n \nIf the initial volume of the oxygen in the container was 60 cm3, calculate the \nTOTAL volume of the gases that are present in the container at the end of the \nreaction. All the gases in the container are at the same temperature and \npressure. \n \n(5) \n \n \n [16] \n \n\nPhysical Sciences/P2 \n9 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "4.6 \nMarking criteria/Nasienriglyne \n Mole ratio for V(CO2) correctly used. / Molverhouding vir V(CO2) korrek gebruik. \n Mole ratio for V(H2O) correctly used. / Molverhouding vir V(H2O) korrek gebruik. \n Mole ratio for V(O2 reacted) correctly used. / Molverhouding vir V(O2 reageer) \n \nkorrek gebruik. \n V(O2 excess/oormaat) = V(O2 initial/aanvanklik) – V(O2 change/verandering). \n Vtot = 80 cm3 \n \n \n \n \nOPTION 1/OPSIE 1 \nV(CO2) = 4V(C4H10) \n = (4)(8)  \n = 32 cm3 \n \n \n \n \n \nV(H2O) = 5V(C4H10) \n = (5)(8)  \n = 40 cm3 \n \nV(O2 reacted/reageer): \nV(O2) = 2\n13 V(C4H10) \n = ( 2\n13 )(8)  = 52 cm3 \nV(O2 excess/oormaat): \nV(O2) = 60 – 52 = 8 cm3 \n \n \n \nVtot = 32 + 40 + 8 = 80 cm3  \n \nOPTION 2/OPSIE 2 \n \n \n \n \n \n \n \n \n \nTotal/totale volume = 8 + 32 + 40 = 80 cm3  \n \nC4H10 \nO2 \nCO2 \nH2O \nInitial V (cm3) \nBeginV (cm3) \n8 \n60 \n0 \n0 \nChange in V (cm3) \nVerandering V (cm3) \n8 \n52  \n32  \n40  \nFinal V (cm3) \nFinale V (cm3) \n0 \n8  \n32 \n40 \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n7 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \n \nOPTION 3/OPSIE 3 \n \n \n \n \n \n \n \n \n \nTotal/totale volume = 0,008 + 0,032 + 0,04 = 0,08 dm3  \n \nC4H10 \nO2 \nCO2 \nH2O \nInitial V (dm3) \nBegin V (dm3) \n0,008 \n0,06 \n0 \n0 \nChange in V (dm3) \nVerandering V (dm3) \n0,008 \n0,052  \n0,032  \n0,04  \nFinal V (dm3) \nFinale V (dm3) \n0 \n0,008  \n0,032 \n0,04 \n \n(5) \n \n \n \n[16]",
+          "answer_english": "4.6 \nMarking criteria/Nasienriglyne \n \nkorrek gebruik. \n V(O2 excess/oormaat) = V(O2 initial/aanvanklik) – V(O2 change/verandering). \n Vtot = 80 cm3 \n \n \n \n \nOPTION 1/OPSIE 1 \nV(CO2) = 4V(C4H10) \n = (4)(8)  \n = 32 cm3 \n \n \n \n \n \nV(H2O) = 5V(C4H10) \n = (5)(8)  \n = 40 cm3 \n \nV(O2 reacted/reageer): \nV(O2) = 2\n13 V(C4H10) \n = ( 2\n13 )(8)  = 52 cm3 \nV(O2 excess/oormaat): \nV(O2) = 60 – 52 = 8 cm3 \n \n \n \nVtot = 32 + 40 + 8 = 80 cm3  \n \nOPTION 2/OPSIE 2 \n \n \n \n \n \n \n \n \n \nTotal/totale volume = 8 + 32 + 40 = 80 cm3  \n \nC4H10 \nO2 \nCO2 \nH2O \nInitial V (cm3) \nBeginV (cm3) \n8 \n60 \n0 \n0 \nChange in V (cm3) \nVerandering V (cm3) \n8 \n52  \n32  \n40  \nFinal V (cm3) \nFinale V (cm3) \n0 \n8  \n32 \n40 \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n7 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \n \nOPTION 3/OPSIE 3 \n \n \n \n \n \n \n \n \n \nTotal/totale volume = 0,008 + 0,032 + 0,04 = 0,08 dm3  \n \nC4H10 \nO2 \nCO2 \nH2O \nInitial V (dm3) \nBegin V (dm3) \n0,008 \n0,06 \n0 \n0 \nChange in V (dm3) \nVerandering V (dm3) \n0,008 \n0,052  \n0,032  \n0,04  \nFinal V (dm3) \nFinale V (dm3) \n0 \n0,008  \n0,032 \n0,04 \n \n(5) \n \n \n \n[16]",
+          "answer_afrikaans": " Mole ratio for V(CO2) correctly used. / Molverhouding vir V(CO2) korrek gebruik. \n Mole ratio for V(H2O) correctly used. / Molverhouding vir V(H2O) korrek gebruik. \n Mole ratio for V(O2 reacted) correctly used. / Molverhouding vir V(O2 reageer)",
+          "marking_criteria": [
+            " Mole ratio for V(CO2) correctly used. / Molverhouding vir V(CO2) korrek gebruik. \n Mole ratio for V(H2O) correctly used. / Molverhouding vir V(H2O) korrek gebruik. \n Mole ratio for V(O2 reacted) correctly used. / Molverhouding vir V(O2 reageer) \n \nkorrek gebruik. \n V(O2 excess/oormaat) = V(O2 initial/aanvanklik) – V(O2 change/verandering). \n Vtot = 80 cm3 \n \n \n \n \nOPTION 1/OPSIE 1 \nV(CO2) = 4V(C4H10) \n = (4)(8)  \n = 32 cm3 \n \n \n \n \n \nV(H2O) = 5V(C4H10) \n = (5)(8)  \n = 40 cm3 \n \nV(O2 reacted/reageer): \nV(O2) = 2\n13 V(C4H10) \n = ( 2\n13 )(8)  = 52 cm3 \nV(O2 excess/oormaat): \nV(O2) = 60 – 52 = 8 cm3 \n \n \n \nVtot = 32 + 40 + 8 = 80 cm3  \n \nOPTION 2/OPSIE 2 \n \n \n \n \n \n \n \n \n \nTotal/totale volume = 8 + 32 + 40 = 80 cm3  \n \nC4H10 \nO2 \nCO2 \nH2O \nInitial V (cm3) \nBeginV (cm3) \n8 \n60 \n0 \n0 \nChange in V (cm3) \nVerandering V (cm3) \n8 \n52  \n32  \n40  \nFinal V (cm3) \nFinale V (cm3) \n0 \n8  \n32 \n40 \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n7 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \n \nOPTION 3/OPSIE 3 \n \n \n \n \n \n \n \n \n \nTotal/totale volume = 0,008 + 0,032 + 0,04 = 0,08 dm3  \n \nC4H10 \nO2 \nCO2 \nH2O \nInitial V (dm3) \nBegin V (dm3) \n0,008 \n0,06 \n0 \n0 \nChange in V (dm3) \nVerandering V (dm3) \n0,008 \n0,052  \n0,032  \n0,04  \nFinal V (dm3) \nFinale V (dm3) \n0 \n0,008  \n0,032 \n0,04 \n \n(5) \n \n \n \n[16]"
+          ]
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "topic": "reaction_rates",
+      "marks": null,
+      "start_page": 9,
+      "end_page": 10,
+      "full_text": "QUESTION 5 (Start on a new page.) \n \n \nDilute acids, indicated in the table below, react with EXCESS zinc in each of the three \nexperiments to produce hydrogen gas. The zinc is completely covered with the acid in \neach experiment. \n \n \nEXPERIMENT \nDILUTE ACID \n1 \n100 cm3 of 0,1 mol∙dm-3 H2SO4 \n2 \n50 cm3 of 0,2 mol∙dm-3 H2SO4 \n3 \n100 cm3 of 0,1 mol∙dm-3 HCℓ \n \nThe volume of hydrogen gas produced is measured in each experiment. \n \n \n5.1 \nName TWO essential apparatuses needed to determine the rate of hydrogen \nproduction. \n \n(2) \n \nThe graph below was obtained for Experiment 1. \n \n \n \n \n \n \n \n \n \n \n \n \n \nUse this graph and answer the questions that follow. \n \n \n5.2 \nAt which time (t1, t2 or t3) is the: \n \n \n \n5.2.1 \nReaction rate the highest \n (1) \n \n \n5.2.2 \nMass of zinc present in the flask the smallest \n (1) \n \n5.3 \nIn which time interval, between t1 and t2 OR between t2 and t3, does the \nlargest volume of hydrogen gas form per second? \n \n(1) \n \n5.4 \nRedraw the graph for Experiment 1 in the ANSWER BOOK. \n \nOn the same set of axes, sketch the graphs that will be obtained for \nExperiments 2 and 3. Clearly label the three graphs as EXPERIMENT 1, \nEXPERIMENT 2 and EXPERIMENT 3. \n \n(4) \n \nTime (s) \nVolume (cm3) \nExperiment 1 \n0 t1 t2 t3 \n\nPhysical Sciences/P2 \n10 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over \n \n \n5.5 \nThe initial mass of zinc used in each experiment is 0,8 g. The balanced \nequation for the reaction in Experiment 3 is: \n \nZn(s) + 2HCℓ(aq) → ZnCℓ2(aq) + H2(g) \n \n \n \n \n5.5.1 \nCalculate the mass of zinc present in the flask after completion of \nthe reaction in Experiment 3. \n \n(5) \n \n \n5.5.2 \nHow will the mass of zinc present in the flask after completion \nof the reaction in Experiment 2 compare to the answer to",
+      "memo_full_text": "QUESTION 5/VRAAG 5 \n \n \n \n5.1 \nTime/Tyd: (Stop) watch / (Stop)horlosie  \n \nVolume: (Gas) syringe / Burette / Measuring cylinder / (Chemical) balance / \n \nErlenmeyer flask / Graduated flask  \n \n \n(Gas)spuit / Buret / Maatsilinder / (Chemiese) balans / \n \n \nErlenmeyer fles / Gegradueerde fles \n \n \nNotes/Aantekeninge \n Only one mark per type of apparatus. / Slegs een punt per tipe apparaat. \n(2) \n \n5.2 \n5.2.1 \n \nt1  \n(1) \n \n5.2.2 \nt3  \n(1) \n \n5.3 \nBetween t1 and t2  \nTussen t1 en t2 \n(1) \n \n5.4 \n \n \n \n \n \n \n \n \n \n \nMarking criteria/Nasienriglyne \nExp. \n2 \nInitial gradient higher than that of Exp.1. \nAanvanklike gradient groter as die van Eksp 1. \n \nCurve reaches same constant volume as for Exp. 1 (but earlier). \nKurwe bereik dieselfde konstante volume as in Eksp 1 (maar gouer). \n \nExp.\n3 \nInitial gradient lower than that of Exp.1. \nAanvanklike gradient kleiner as die van Eksp. 1. \n \nCurve reaches a smaller constant volume as for Exp. 1 (at a later stage). \nKurwe bereik (later) 'n kleiner konstante volume as vir Eksp. 1. \n \n \n \n \n(4) \n \nTime (s) \nVolume (cm3) \nExp. 1 \nExp. 2 \nExp. 3 \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n8 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n5.5.1 \nMarking criteria/Nasienriglyne \n n(HCℓ) = (0,1)(100 x 10-3) \n Use mole ratio/Gebruik molverhouding: n(Zn) = ½n(HCℓ) \n Substitute 65 into/ Vervang 65 in n = M\nm . \n n(Znfinal/finaal) = n(Zninitial/aanvanklik) – n(Znused/gebruik) \nm(Znfinal/finaal) = m(Zninitial/aanvanklik) – m(Znused/gebruik) \n \n Final answer/Finale antwoord: Range/gebied: 0,33 g – 0,48 g \n \n \nOPTION/OPSIE 1 \nn(HCℓ) = cV \n = (0,1)(100 x 10-3)  \n = 0,01 mol \n \n \nn(Zn reacted/gereageer): \nn(Zn) = ½n(HCℓ) \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \n \n \nn(Zn reacted/gereageer): \nm(Zn) = (5 x 10-3)(65) = 0,325 g \n \nm(Znf) = 0,8 – 0,325  \n \n = 0,48 g  (0,475 g) \nOPTION/OPSIE 2 \nn(HCℓ) = cV \n \n = (0,1)(100 x 10-3)  \n \n = 0,01 mol \n \nn(Zn reacted/gereageer) = ½n(HCℓ) \n \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \nn(Zn)i = M\nm \n \n= 65\n8,0\n  \n= 1,23 x 10-2 mol \n \nn(Zn)f = 1,23 x 10-2 – 5 x 10-3  \n = 7,3 x 10-3 mol \n \nm(Zn) = nM \n \n = (7,3 x 10-3)(65) = 0,47 g  \n(5) \n \n5.5.2 \nSmaller than / Kleiner as  \n(1) \n \n \n[15]",
+      "sub_questions": [
+        {
+          "label": "5.1",
+          "question": "5.1 \nName TWO essential apparatuses needed to determine the rate of hydrogen \nproduction. \n \n(2) \n \nThe graph below was obtained for Experiment 1. \n \n \n \n \n \n \n \n \n \n \n \n \n \nUse this graph and answer the questions that follow.",
+          "answer": "5.1 \nTime/Tyd: (Stop) watch / (Stop)horlosie  \n \nVolume: (Gas) syringe / Burette / Measuring cylinder / (Chemical) balance / \n \nErlenmeyer flask / Graduated flask  \n \n \n(Gas)spuit / Buret / Maatsilinder / (Chemiese) balans / \n \n \nErlenmeyer fles / Gegradueerde fles \n \n \nNotes/Aantekeninge \n Only one mark per type of apparatus. / Slegs een punt per tipe apparaat. \n(2)",
+          "answer_english": "5.1 \n \nVolume: (Gas) syringe / Burette / Measuring cylinder / (Chemical) balance / \n \nErlenmeyer flask / Graduated flask  \n \n \n(Gas)spuit / Buret / Maatsilinder / (Chemiese) balans / \n \n \nErlenmeyer fles / Gegradueerde fles \n \n \nNotes/Aantekeninge \n(2)",
+          "answer_afrikaans": "Time/Tyd: (Stop) watch / (Stop)horlosie  \n Only one mark per type of apparatus. / Slegs een punt per tipe apparaat.",
+          "marking_criteria": []
+        },
+        {
+          "label": "5.2",
+          "question": "5.2 \nAt which time (t1, t2 or t3) is the:",
+          "answer": "5.2",
+          "answer_english": "5.2",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "5.2.1",
+          "question": "5.2.1 \nReaction rate the highest \n (1)",
+          "answer": "5.2.1 \n \nt1  \n(1)",
+          "answer_english": "5.2.1 \n \nt1  \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "5.2.2",
+          "question": "5.2.2 \nMass of zinc present in the flask the smallest \n (1)",
+          "answer": "5.2.2 \nt3  \n(1)",
+          "answer_english": "5.2.2 \nt3  \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "5.3",
+          "question": "5.3 \nIn which time interval, between t1 and t2 OR between t2 and t3, does the \nlargest volume of hydrogen gas form per second? \n \n(1)",
+          "answer": "5.3 \nBetween t1 and t2  \nTussen t1 en t2 \n(1)",
+          "answer_english": "5.3 \n(1)",
+          "answer_afrikaans": "Between t1 and t2  \nTussen t1 en t2",
+          "marking_criteria": []
+        },
+        {
+          "label": "5.4",
+          "question": "5.4 \nRedraw the graph for Experiment 1 in the ANSWER BOOK. \n \nOn the same set of axes, sketch the graphs that will be obtained for \nExperiments 2 and 3. Clearly label the three graphs as EXPERIMENT 1, \nEXPERIMENT 2 and EXPERIMENT 3. \n \n(4) \n \nTime (s) \nVolume (cm3) \nExperiment 1 \n0 t1 t2 t3 \n\nPhysical Sciences/P2 \n10 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "5.4 \n \n \n \n \n \n \n \n \n \n \nMarking criteria/Nasienriglyne \nExp. \n2 \nInitial gradient higher than that of Exp.1. \nAanvanklike gradient groter as die van Eksp 1. \n \nCurve reaches same constant volume as for Exp. 1 (but earlier). \nKurwe bereik dieselfde konstante volume as in Eksp 1 (maar gouer). \n \nExp.\n3 \nInitial gradient lower than that of Exp.1. \nAanvanklike gradient kleiner as die van Eksp. 1. \n \nCurve reaches a smaller constant volume as for Exp. 1 (at a later stage). \nKurwe bereik (later) 'n kleiner konstante volume as vir Eksp. 1. \n \n \n \n \n(4) \n \nTime (s) \nVolume (cm3) \nExp. 1 \nExp. 2 \nExp. 3 \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n8 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "5.4 \n \n \n \n \n \n \n \n \n \n \nMarking criteria/Nasienriglyne \nExp. \n2 \nInitial gradient higher than that of Exp.1. \n \nCurve reaches same constant volume as for Exp. 1 (but earlier). \nKurwe bereik dieselfde konstante volume as in Eksp 1 (maar gouer). \n \nExp.\n3 \nInitial gradient lower than that of Exp.1. \n \nCurve reaches a smaller constant volume as for Exp. 1 (at a later stage). \n \n \n \n \n(4) \n \nTime (s) \nVolume (cm3) \nExp. 1 \nExp. 2 \nExp. 3 \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n8 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": "Aanvanklike gradient groter as die van Eksp 1. \nAanvanklike gradient kleiner as die van Eksp. 1. \nKurwe bereik (later) 'n kleiner konstante volume as vir Eksp. 1.",
+          "marking_criteria": [
+            "Exp. \n2 \nInitial gradient higher than that of Exp.1. \nAanvanklike gradient groter as die van Eksp 1. \n \nCurve reaches same constant volume as for Exp. 1 (but earlier). \nKurwe bereik dieselfde konstante volume as in Eksp 1 (maar gouer). \n \nExp.\n3 \nInitial gradient lower than that of Exp.1. \nAanvanklike gradient kleiner as die van Eksp. 1. \n \nCurve reaches a smaller constant volume as for Exp. 1 (at a later stage). \nKurwe bereik (later) 'n kleiner konstante volume as vir Eksp. 1. \n \n \n \n \n(4) \n \nTime (s) \nVolume (cm3) \nExp. 1 \nExp. 2 \nExp. 3 \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n8 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief"
+          ]
+        },
+        {
+          "label": "5.5",
+          "question": "5.5 \nThe initial mass of zinc used in each experiment is 0,8 g. The balanced \nequation for the reaction in Experiment 3 is: \n \nZn(s) + 2HCℓ(aq) → ZnCℓ2(aq) + H2(g)",
+          "answer": null,
+          "answer_english": null,
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "5.5.1",
+          "question": "5.5.1 \nCalculate the mass of zinc present in the flask after completion of \nthe reaction in Experiment 3. \n \n(5)",
+          "answer": "5.5.1 \nMarking criteria/Nasienriglyne \n n(HCℓ) = (0,1)(100 x 10-3) \n Use mole ratio/Gebruik molverhouding: n(Zn) = ½n(HCℓ) \n Substitute 65 into/ Vervang 65 in n = M\nm . \n n(Znfinal/finaal) = n(Zninitial/aanvanklik) – n(Znused/gebruik) \nm(Znfinal/finaal) = m(Zninitial/aanvanklik) – m(Znused/gebruik) \n \n Final answer/Finale antwoord: Range/gebied: 0,33 g – 0,48 g \n \n \nOPTION/OPSIE 1 \nn(HCℓ) = cV \n = (0,1)(100 x 10-3)  \n = 0,01 mol \n \n \nn(Zn reacted/gereageer): \nn(Zn) = ½n(HCℓ) \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \n \n \nn(Zn reacted/gereageer): \nm(Zn) = (5 x 10-3)(65) = 0,325 g \n \nm(Znf) = 0,8 – 0,325  \n \n = 0,48 g  (0,475 g) \nOPTION/OPSIE 2 \nn(HCℓ) = cV \n \n = (0,1)(100 x 10-3)  \n \n = 0,01 mol \n \nn(Zn reacted/gereageer) = ½n(HCℓ) \n \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \nn(Zn)i = M\nm \n \n= 65\n8,0\n  \n= 1,23 x 10-2 mol \n \nn(Zn)f = 1,23 x 10-2 – 5 x 10-3  \n = 7,3 x 10-3 mol \n \nm(Zn) = nM \n \n = (7,3 x 10-3)(65) = 0,47 g  \n(5)",
+          "answer_english": "5.5.1 \nMarking criteria/Nasienriglyne \n n(HCℓ) = (0,1)(100 x 10-3) \n Use mole ratio/Gebruik molverhouding: n(Zn) = ½n(HCℓ) \n Substitute 65 into/ Vervang 65 in n = M\nm . \n n(Znfinal/finaal) = n(Zninitial/aanvanklik) – n(Znused/gebruik) \nm(Znfinal/finaal) = m(Zninitial/aanvanklik) – m(Znused/gebruik) \n \n Final answer/Finale antwoord: Range/gebied: 0,33 g – 0,48 g \n \n \nOPTION/OPSIE 1 \nn(HCℓ) = cV \n = (0,1)(100 x 10-3)  \n = 0,01 mol \n \n \nn(Zn reacted/gereageer): \nn(Zn) = ½n(HCℓ) \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \n \n \nn(Zn reacted/gereageer): \nm(Zn) = (5 x 10-3)(65) = 0,325 g \n \nm(Znf) = 0,8 – 0,325  \n \n = 0,48 g  (0,475 g) \nOPTION/OPSIE 2 \nn(HCℓ) = cV \n \n = (0,1)(100 x 10-3)  \n \n = 0,01 mol \n \nn(Zn reacted/gereageer) = ½n(HCℓ) \n \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \nn(Zn)i = M\nm \n \n= 65\n8,0\n  \n= 1,23 x 10-2 mol \n \nn(Zn)f = 1,23 x 10-2 – 5 x 10-3  \n = 7,3 x 10-3 mol \n \nm(Zn) = nM \n \n = (7,3 x 10-3)(65) = 0,47 g  \n(5)",
+          "answer_afrikaans": null,
+          "marking_criteria": [
+            " n(HCℓ) = (0,1)(100 x 10-3) \n Use mole ratio/Gebruik molverhouding: n(Zn) = ½n(HCℓ) \n Substitute 65 into/ Vervang 65 in n = M\nm . \n n(Znfinal/finaal) = n(Zninitial/aanvanklik) – n(Znused/gebruik) \nm(Znfinal/finaal) = m(Zninitial/aanvanklik) – m(Znused/gebruik) \n \n Final answer/Finale antwoord: Range/gebied: 0,33 g – 0,48 g \n \n \nOPTION/OPSIE 1 \nn(HCℓ) = cV \n = (0,1)(100 x 10-3)  \n = 0,01 mol \n \n \nn(Zn reacted/gereageer): \nn(Zn) = ½n(HCℓ) \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \n \n \nn(Zn reacted/gereageer): \nm(Zn) = (5 x 10-3)(65) = 0,325 g \n \nm(Znf) = 0,8 – 0,325  \n \n = 0,48 g  (0,475 g) \nOPTION/OPSIE 2 \nn(HCℓ) = cV \n \n = (0,1)(100 x 10-3)  \n \n = 0,01 mol \n \nn(Zn reacted/gereageer) = ½n(HCℓ) \n \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \nn(Zn)i = M\nm \n \n= 65\n8,0\n  \n= 1,23 x 10-2 mol \n \nn(Zn)f = 1,23 x 10-2 – 5 x 10-3  \n = 7,3 x 10-3 mol \n \nm(Zn) = nM \n \n = (7,3 x 10-3)(65) = 0,47 g  \n(5)"
+          ]
+        },
+        {
+          "label": "5.5.2",
+          "question": "5.5.2 \nHow will the mass of zinc present in the flask after completion \nof the reaction in Experiment 2 compare to the answer to",
+          "answer": "5.5.2 \nSmaller than / Kleiner as  \n(1) \n \n \n[15]",
+          "answer_english": "5.5.2 \nSmaller than / Kleiner as  \n(1) \n \n \n[15]",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "topic": "reaction_rates",
+      "marks": 15,
+      "start_page": 10,
+      "end_page": 10,
+      "full_text": "QUESTION 5.5.1? Write down only LARGER THAN, SMALLER \nTHAN or EQUAL TO. \n \n(1) \n \n \n [15]",
+      "memo_full_text": "QUESTION 5/VRAAG 5 \n \n \n \n5.1 \nTime/Tyd: (Stop) watch / (Stop)horlosie  \n \nVolume: (Gas) syringe / Burette / Measuring cylinder / (Chemical) balance / \n \nErlenmeyer flask / Graduated flask  \n \n \n(Gas)spuit / Buret / Maatsilinder / (Chemiese) balans / \n \n \nErlenmeyer fles / Gegradueerde fles \n \n \nNotes/Aantekeninge \n Only one mark per type of apparatus. / Slegs een punt per tipe apparaat. \n(2) \n \n5.2 \n5.2.1 \n \nt1  \n(1) \n \n5.2.2 \nt3  \n(1) \n \n5.3 \nBetween t1 and t2  \nTussen t1 en t2 \n(1) \n \n5.4 \n \n \n \n \n \n \n \n \n \n \nMarking criteria/Nasienriglyne \nExp. \n2 \nInitial gradient higher than that of Exp.1. \nAanvanklike gradient groter as die van Eksp 1. \n \nCurve reaches same constant volume as for Exp. 1 (but earlier). \nKurwe bereik dieselfde konstante volume as in Eksp 1 (maar gouer). \n \nExp.\n3 \nInitial gradient lower than that of Exp.1. \nAanvanklike gradient kleiner as die van Eksp. 1. \n \nCurve reaches a smaller constant volume as for Exp. 1 (at a later stage). \nKurwe bereik (later) 'n kleiner konstante volume as vir Eksp. 1. \n \n \n \n \n(4) \n \nTime (s) \nVolume (cm3) \nExp. 1 \nExp. 2 \nExp. 3 \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n8 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n5.5.1 \nMarking criteria/Nasienriglyne \n n(HCℓ) = (0,1)(100 x 10-3) \n Use mole ratio/Gebruik molverhouding: n(Zn) = ½n(HCℓ) \n Substitute 65 into/ Vervang 65 in n = M\nm . \n n(Znfinal/finaal) = n(Zninitial/aanvanklik) – n(Znused/gebruik) \nm(Znfinal/finaal) = m(Zninitial/aanvanklik) – m(Znused/gebruik) \n \n Final answer/Finale antwoord: Range/gebied: 0,33 g – 0,48 g \n \n \nOPTION/OPSIE 1 \nn(HCℓ) = cV \n = (0,1)(100 x 10-3)  \n = 0,01 mol \n \n \nn(Zn reacted/gereageer): \nn(Zn) = ½n(HCℓ) \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \n \n \nn(Zn reacted/gereageer): \nm(Zn) = (5 x 10-3)(65) = 0,325 g \n \nm(Znf) = 0,8 – 0,325  \n \n = 0,48 g  (0,475 g) \nOPTION/OPSIE 2 \nn(HCℓ) = cV \n \n = (0,1)(100 x 10-3)  \n \n = 0,01 mol \n \nn(Zn reacted/gereageer) = ½n(HCℓ) \n \n \n = ½(0,01)  \n \n = 5 x 10-3 mol \nn(Zn)i = M\nm \n \n= 65\n8,0\n  \n= 1,23 x 10-2 mol \n \nn(Zn)f = 1,23 x 10-2 – 5 x 10-3  \n = 7,3 x 10-3 mol \n \nm(Zn) = nM \n \n = (7,3 x 10-3)(65) = 0,47 g  \n(5) \n \n5.5.2 \nSmaller than / Kleiner as  \n(1) \n \n \n[15]",
+      "sub_questions": [
+        {
+          "label": "5",
+          "question": "QUESTION 5.5.1? Write down only LARGER THAN, SMALLER \nTHAN or EQUAL TO. \n \n(1) \n \n \n [15]",
+          "answer": null,
+          "answer_english": null,
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "topic": "chemical_equilibrium",
+      "marks": null,
+      "start_page": 10,
+      "end_page": 10,
+      "full_text": "QUESTION 6 (Start on a new page.) \n \n \nAn unknown gas, X2(g), is sealed in a container and allowed to form X3(g) at 300 °C. \nThe reaction reaches equilibrium according to the following balanced equation: \n \n3X2(g) ⇌ 2X3(g) \n \n \n \n6.1 \nHow will the rate of formation of X3(g) compare to the rate of formation of \nX2(g) at equilibrium? Write down only HIGHER THAN, LOWER THAN or \nEQUAL TO. \n \n(1) \n \nThe reaction mixture is analysed at regular time intervals. The results obtained are \nshown in the table below. \n \n \n \nTIME \n(s) \n[ X2 ] \n(mol∙dm-3) \n[ X3 ] \n(mol∙dm-3) \n0 \n0,4 \n0 \n2 \n0,22 \n0,120 \n4 \n0,08 \n0,213 \n6 \n0,06 \n0,226 \n8 \n0,06 \n0,226 \n10 \n0,06 \n0,226 \n \n6.2 \nCalculate the equilibrium constant, Kc, for this reaction at 300 °C. \n (4) \n \n6.3 \nMore X3(g) is now added to the container. \n \n \n \n6.3.1 \n \n \n6.3.2 \nHow will this change affect the amount of X2(g)? Write down \nINCREASES, DECREASES or REMAINS THE SAME. \n \nUse \nLe \nChatelier's \nprinciple \nto \nexplain \nthe \nanswer \nto",
+      "memo_full_text": "QUESTION 6/VRAAG 6 \n \n \n6.1 \nEqual to / Gelyk aan  \n \n(1) \n \n6.2 \nKc = \n3\n2\n2\n3\n]\nX\n[\n]\nX\n[\n  \n \n= \n3\n2\n)\n06\n,0\n(\n)\n226\n,0\n(\n \n \n= 236,46  \nNo KC expression, correct substitution /Geen Kc- uitdrukking, \nkorrekte substitusie: Max./Maks. \n4\n3\n \nWrong KC expression /Verkeerde Kc-uitdrukking Max./Maks. \n4\n0\n \n \n(4) \nIf one or more exponents are omitted in substitution step but \ncorrect answer obtained: Max \n4\n3\n \nIndien een of meer eksponente uitgelaat by substitusie stap, \nmaar korrekte antwoord verkry: Maks \n4\n3\n \n \n6.3 \n \n \n(1) \n6.3.1 \nIncreases / Vermeerder  \n \n \n \n6.3.2 \n The increase in [X3] is opposed. / Change is opposed.  \nDie verhoging in [X3] word teengewerk. / Verandering word teenwerk. \n The reverse reaction is favoured. / X3 is used / [X3] decreases.  \n \nDie terugwaartse reaksie word bevoordeel./X3 word gebruik / [X3] neem af. \n \n \n \n \n(2) \n \n-\n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n9 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n6.4 \nHigher than / Hoër as  \n \n(1) \n \n6.5 \nExothermic / Eksotermies  \n \n The concentration of the product/X3(g) is lower / the concentration of the \n \nreactant / X2(g) is higher.  \n \nDie konsentrasie van die produkte/X3(g) is laer / die konsentrasie van die \n \nreaktans / X2(g) is hoër. \n The increase in temperature favoured the reverse reaction.  \n \nDie toename in temperatuur het die terugwaartse reaksie bevoordeel. \n According to Le Chatelier's principle an increase in temperature favours the \nendothermic reaction.  \nVolgens Le Chatelier se beginsel bevoordeel 'n toename in temperatuur die \nendotermiese reaksie. \n \nOR/OF \nExothermic / Eksotermies  \n \n [X3] decreases and [X2] increases. / [X3] neem af en [X2] neem toe.  \n Kc decreases if temperature increases./Kc neem af as die temperatuur \nafneem.  \n Decrease in temperature favoured the forward reaction. / Verlaging in \ntemperatuur het die voorwaartse reaksie bevoordeel.  \n \n(4) \n \n6.6 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMarking criteria/Nasienriglyne \nPeak of curve at 400 °C lower than at 300 °C and shifted to the right. \nPiek van kurwe by 400 °C laer as by 300 °C en skuif na regs. \n \nCurve at 400 °C has larger area at the higher Ek. \nKurwe by 400 °C het groter oppervlak by hoë Ek. \n \n \n \n \n \n(2) \n \n \n \n[15] \n \n300 °C \nNumber of particles / \nAantal deeltjies \nKinetic energy /Kinetiese energie \n400 °C \n-\n-\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n10 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+      "sub_questions": [
+        {
+          "label": "6.1",
+          "question": "6.1 \nHow will the rate of formation of X3(g) compare to the rate of formation of \nX2(g) at equilibrium? Write down only HIGHER THAN, LOWER THAN or \nEQUAL TO. \n \n(1) \n \nThe reaction mixture is analysed at regular time intervals. The results obtained are \nshown in the table below. \n \n \n \nTIME \n(s) \n[ X2 ] \n(mol∙dm-3) \n[ X3 ] \n(mol∙dm-3) \n0 \n0,4 \n0 \n2 \n0,22 \n0,120 \n4 \n0,08 \n0,213 \n6 \n0,06 \n0,226 \n8 \n0,06 \n0,226 \n10 \n0,06 \n0,226",
+          "answer": "6.1 \nEqual to / Gelyk aan  \n \n(1)",
+          "answer_english": "6.1 \nEqual to / Gelyk aan  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "6.2",
+          "question": "6.2 \nCalculate the equilibrium constant, Kc, for this reaction at 300 °C. \n (4)",
+          "answer": "6.2 \nKc = \n3\n2\n2\n3\n]\nX\n[\n]\nX\n[\n  \n \n= \n3\n2\n)\n06\n,0\n(\n)\n226\n,0\n(\n \n \n= 236,46  \nNo KC expression, correct substitution /Geen Kc- uitdrukking, \nkorrekte substitusie: Max./Maks. \n4\n3\n \nWrong KC expression /Verkeerde Kc-uitdrukking Max./Maks. \n4\n0\n \n \n(4) \nIf one or more exponents are omitted in substitution step but \ncorrect answer obtained: Max \n4\n3\n \nIndien een of meer eksponente uitgelaat by substitusie stap, \nmaar korrekte antwoord verkry: Maks \n4\n3",
+          "answer_english": "6.2 \nKc = \n3\n2\n2\n3\n]\nX\n[\n]\nX\n[\n  \n \n= \n3\n2\n)\n06\n,0\n(\n)\n226\n,0\n(\n \n \n= 236,46  \nkorrekte substitusie: Max./Maks. \n4\n3\n \nWrong KC expression /Verkeerde Kc-uitdrukking Max./Maks. \n4\n0\n \n \n(4) \nIf one or more exponents are omitted in substitution step but \ncorrect answer obtained: Max \n4\n3\n \nmaar korrekte antwoord verkry: Maks \n4\n3",
+          "answer_afrikaans": "No KC expression, correct substitution /Geen Kc- uitdrukking, \nIndien een of meer eksponente uitgelaat by substitusie stap,",
+          "marking_criteria": []
+        },
+        {
+          "label": "6.3",
+          "question": "6.3 \nMore X3(g) is now added to the container.",
+          "answer": "6.3 \n \n \n(1)",
+          "answer_english": "6.3 \n \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "6.3.1",
+          "question": "6.3.1",
+          "answer": "6.3.1 \nIncreases / Vermeerder ",
+          "answer_english": "6.3.1 \nIncreases / Vermeerder ",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "6.3.2",
+          "question": "6.3.2 \nHow will this change affect the amount of X2(g)? Write down \nINCREASES, DECREASES or REMAINS THE SAME. \n \nUse \nLe \nChatelier's \nprinciple \nto \nexplain \nthe \nanswer \nto",
+          "answer": "6.3.2 \n The increase in [X3] is opposed. / Change is opposed.  \nDie verhoging in [X3] word teengewerk. / Verandering word teenwerk. \n The reverse reaction is favoured. / X3 is used / [X3] decreases.  \n \nDie terugwaartse reaksie word bevoordeel./X3 word gebruik / [X3] neem af. \n \n \n \n \n(2) \n \n-\n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n9 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "6.3.2 \n The increase in [X3] is opposed. / Change is opposed.  \n The reverse reaction is favoured. / X3 is used / [X3] decreases.  \n \n \n \n \n \n(2) \n \n-\n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n9 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": "Die verhoging in [X3] word teengewerk. / Verandering word teenwerk. \nDie terugwaartse reaksie word bevoordeel./X3 word gebruik / [X3] neem af.",
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "topic": "chemical_equilibrium",
+      "marks": 15,
+      "start_page": 10,
+      "end_page": 12,
+      "full_text": "QUESTION 6.3.1. \n \n(1) \n \n \n(2) \n\nPhysical Sciences/P2 \n11 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over \n \n \nThe curves on the set of axes below (not drawn to scale) was obtained from the results \nin the table on page 10. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n6.4 \nHow does the rate of the forward reaction compare to that of the reverse \nreaction at t1? Write down only HIGHER THAN, LOWER THAN or \nEQUAL TO. \n \n(1) \n \nThe reaction is now repeated at a temperature of 400 °C. The curves indicated by the \ndotted lines below were obtained at this temperature. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n6.5 \nIs the forward reaction EXOTHERMIC or ENDOTHERMIC? Fully explain how \nyou arrived at the answer. \n \n(4) \n \nThe Maxwell-Boltzmann distribution curve below represents the number of particles \nagainst kinetic energy at 300 °C. \n \n \n \n \n \n6.6 \nRedraw this curve in the ANSWER BOOK. On the same set of axes, sketch \nthe curve that will be obtained at 400 °C. Clearly label the curves as 300 °C \nand 400 °C respectively. \n \n(2) \n \n \n [15] \n300 °C \nNumber of particles \nKinetic energy \nTime (s) \nConcentration (mol∙dm-3) \nt1 \nTime (s) \nConcentration (mol∙dm-3) \n300 °C\n400 °C \n\nPhysical Sciences/P2 \n12 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+      "memo_full_text": "QUESTION 6/VRAAG 6 \n \n \n6.1 \nEqual to / Gelyk aan  \n \n(1) \n \n6.2 \nKc = \n3\n2\n2\n3\n]\nX\n[\n]\nX\n[\n  \n \n= \n3\n2\n)\n06\n,0\n(\n)\n226\n,0\n(\n \n \n= 236,46  \nNo KC expression, correct substitution /Geen Kc- uitdrukking, \nkorrekte substitusie: Max./Maks. \n4\n3\n \nWrong KC expression /Verkeerde Kc-uitdrukking Max./Maks. \n4\n0\n \n \n(4) \nIf one or more exponents are omitted in substitution step but \ncorrect answer obtained: Max \n4\n3\n \nIndien een of meer eksponente uitgelaat by substitusie stap, \nmaar korrekte antwoord verkry: Maks \n4\n3\n \n \n6.3 \n \n \n(1) \n6.3.1 \nIncreases / Vermeerder  \n \n \n \n6.3.2 \n The increase in [X3] is opposed. / Change is opposed.  \nDie verhoging in [X3] word teengewerk. / Verandering word teenwerk. \n The reverse reaction is favoured. / X3 is used / [X3] decreases.  \n \nDie terugwaartse reaksie word bevoordeel./X3 word gebruik / [X3] neem af. \n \n \n \n \n(2) \n \n-\n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n9 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n6.4 \nHigher than / Hoër as  \n \n(1) \n \n6.5 \nExothermic / Eksotermies  \n \n The concentration of the product/X3(g) is lower / the concentration of the \n \nreactant / X2(g) is higher.  \n \nDie konsentrasie van die produkte/X3(g) is laer / die konsentrasie van die \n \nreaktans / X2(g) is hoër. \n The increase in temperature favoured the reverse reaction.  \n \nDie toename in temperatuur het die terugwaartse reaksie bevoordeel. \n According to Le Chatelier's principle an increase in temperature favours the \nendothermic reaction.  \nVolgens Le Chatelier se beginsel bevoordeel 'n toename in temperatuur die \nendotermiese reaksie. \n \nOR/OF \nExothermic / Eksotermies  \n \n [X3] decreases and [X2] increases. / [X3] neem af en [X2] neem toe.  \n Kc decreases if temperature increases./Kc neem af as die temperatuur \nafneem.  \n Decrease in temperature favoured the forward reaction. / Verlaging in \ntemperatuur het die voorwaartse reaksie bevoordeel.  \n \n(4) \n \n6.6 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMarking criteria/Nasienriglyne \nPeak of curve at 400 °C lower than at 300 °C and shifted to the right. \nPiek van kurwe by 400 °C laer as by 300 °C en skuif na regs. \n \nCurve at 400 °C has larger area at the higher Ek. \nKurwe by 400 °C het groter oppervlak by hoë Ek. \n \n \n \n \n \n(2) \n \n \n \n[15] \n \n300 °C \nNumber of particles / \nAantal deeltjies \nKinetic energy /Kinetiese energie \n400 °C \n-\n-\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n10 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+      "sub_questions": [
+        {
+          "label": "6.4",
+          "question": "6.4 \nHow does the rate of the forward reaction compare to that of the reverse \nreaction at t1? Write down only HIGHER THAN, LOWER THAN or \nEQUAL TO. \n \n(1) \n \nThe reaction is now repeated at a temperature of 400 °C. The curves indicated by the \ndotted lines below were obtained at this temperature.",
+          "answer": "6.4 \nHigher than / Hoër as  \n \n(1)",
+          "answer_english": "6.4 \nHigher than / Hoër as  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "6.5",
+          "question": "6.5 \nIs the forward reaction EXOTHERMIC or ENDOTHERMIC? Fully explain how \nyou arrived at the answer. \n \n(4) \n \nThe Maxwell-Boltzmann distribution curve below represents the number of particles \nagainst kinetic energy at 300 °C.",
+          "answer": "6.5 \nExothermic / Eksotermies  \n \n The concentration of the product/X3(g) is lower / the concentration of the \n \nreactant / X2(g) is higher.  \n \nDie konsentrasie van die produkte/X3(g) is laer / die konsentrasie van die \n \nreaktans / X2(g) is hoër. \n The increase in temperature favoured the reverse reaction.  \n \nDie toename in temperatuur het die terugwaartse reaksie bevoordeel. \n According to Le Chatelier's principle an increase in temperature favours the \nendothermic reaction.  \nVolgens Le Chatelier se beginsel bevoordeel 'n toename in temperatuur die \nendotermiese reaksie. \n \nOR/OF \nExothermic / Eksotermies  \n \n [X3] decreases and [X2] increases. / [X3] neem af en [X2] neem toe.  \n Kc decreases if temperature increases./Kc neem af as die temperatuur \nafneem.  \n Decrease in temperature favoured the forward reaction. / Verlaging in \ntemperatuur het die voorwaartse reaksie bevoordeel.  \n \n(4)",
+          "answer_english": "6.5 \nExothermic / Eksotermies  \n \n The concentration of the product/X3(g) is lower / the concentration of the \n \nreactant / X2(g) is higher.  \n \n \nreaktans / X2(g) is hoër. \n The increase in temperature favoured the reverse reaction.  \n \n According to Le Chatelier's principle an increase in temperature favours the \nendothermic reaction.  \nendotermiese reaksie. \n \nOR/OF \nExothermic / Eksotermies  \n \nafneem.  \n Decrease in temperature favoured the forward reaction. / Verlaging in \n \n(4)",
+          "answer_afrikaans": "Die konsentrasie van die produkte/X3(g) is laer / die konsentrasie van die \nDie toename in temperatuur het die terugwaartse reaksie bevoordeel. \nVolgens Le Chatelier se beginsel bevoordeel 'n toename in temperatuur die \n [X3] decreases and [X2] increases. / [X3] neem af en [X2] neem toe.  \n Kc decreases if temperature increases./Kc neem af as die temperatuur \ntemperatuur het die voorwaartse reaksie bevoordeel. ",
+          "marking_criteria": []
+        },
+        {
+          "label": "6.6",
+          "question": "6.6 \nRedraw this curve in the ANSWER BOOK. On the same set of axes, sketch \nthe curve that will be obtained at 400 °C. Clearly label the curves as 300 °C \nand 400 °C respectively. \n \n(2) \n \n \n [15] \n300 °C \nNumber of particles \nKinetic energy \nTime (s) \nConcentration (mol∙dm-3) \nt1 \nTime (s) \nConcentration (mol∙dm-3) \n300 °C\n400 °C \n\nPhysical Sciences/P2 \n12 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "6.6 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMarking criteria/Nasienriglyne \nPeak of curve at 400 °C lower than at 300 °C and shifted to the right. \nPiek van kurwe by 400 °C laer as by 300 °C en skuif na regs. \n \nCurve at 400 °C has larger area at the higher Ek. \nKurwe by 400 °C het groter oppervlak by hoë Ek. \n \n \n \n \n \n(2) \n \n \n \n[15] \n \n300 °C \nNumber of particles / \nAantal deeltjies \nKinetic energy /Kinetiese energie \n400 °C \n-\n-\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n10 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "6.6 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMarking criteria/Nasienriglyne \nPeak of curve at 400 °C lower than at 300 °C and shifted to the right. \n \nCurve at 400 °C has larger area at the higher Ek. \nKurwe by 400 °C het groter oppervlak by hoë Ek. \n \n \n \n \n \n(2) \n \n \n \n[15] \n \n300 °C \nNumber of particles / \nAantal deeltjies \n400 °C \n-\n-\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n10 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": "Piek van kurwe by 400 °C laer as by 300 °C en skuif na regs. \nKinetic energy /Kinetiese energie",
+          "marking_criteria": [
+            "Peak of curve at 400 °C lower than at 300 °C and shifted to the right. \nPiek van kurwe by 400 °C laer as by 300 °C en skuif na regs. \n \nCurve at 400 °C has larger area at the higher Ek. \nKurwe by 400 °C het groter oppervlak by hoë Ek. \n \n \n \n \n \n(2) \n \n \n \n[15] \n \n300 °C \nNumber of particles / \nAantal deeltjies \nKinetic energy /Kinetiese energie \n400 °C \n-\n-\n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n10 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief"
+          ]
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "topic": "acids_bases",
+      "marks": 18,
+      "start_page": 12,
+      "end_page": 13,
+      "full_text": "QUESTION 7 (Start on a new page.) \n \n \n7.1 \nAmmonium chloride crystals, NH4Cℓ(s), dissolve in water to form ammonium \nand chloride ions. The ammonium ions react with water according to the \nbalanced equation below: \n \n+\n4\nNH (aq) + H2O(ℓ) ⇌ NH3(aq) + H3O+(aq) \n \n \n \n7.1.1 \nWrite down the name of the process described by the underlined \nsentence. \n \n(1) \n \n \n7.1.2 \nIs ammonium chloride ACIDIC or BASIC in aqueous solution? Give \na reason for the answer. \n \n(2) \n \n7.2 \nA certain fertiliser consists of 92% ammonium chloride. A sample of mass x g \nof this fertiliser is dissolved in 100 cm3 of a 0,10 mol∙dm-3 sodium hydroxide \nsolution, NaOH(aq). The NaOH is in excess. \n \nThe balanced equation for the reaction is: \n \nNH4Cℓ(s) + NaOH(aq)  NH3(g) + H2O(ℓ) + NaCℓ(aq) \n \n \n \n \n7.2.1 \nCalculate the number of moles of sodium hydroxide in which the \nsample is dissolved. \n \n(3) \n \n \nDuring a titration, 25 cm3 of the excess sodium hydroxide solution is titrated \nwith a 0,11 mol∙dm-3 hydrochloric acid solution, HCℓ(aq). At the endpoint it is \nfound that 14,55 cm3 of the hydrochloric acid was used to neutralise the \nsodium hydroxide solution according to the following balanced equation: \n \nHCℓ(aq) + NaOH(aq)  NaCℓ(aq) + H2O(ℓ) \n \n \n \n7.2.2 \nCalculate the mass x (in grams) of the fertiliser sample used. \n (8) \n \n7.3 \nCalculate the pH of a 0,5 moldm-3 sodium hydroxide solution at 25 °C. \n (4) \n[18] \n \n\nPhysical Sciences/P2 \n13 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+      "memo_full_text": "QUESTION 7/VRAAG 7 \n \n \n7.1 \n7.1.1 \n \nHydrolysis / Hidrolise  \n \n(1) \n \n7.1.2 \nAcidic / Suur  \n \nForms H3O+ ions during hydrolysis./Vorm H3O+ ione gedurende hidrolise.  \n \nOR/OF \nSalt of strong acid and weak base./Sout van sterk suur en swak basis. \n \nOR/OF \n(\n\n4\nNH ) acts as proton donor. / (\n\n4\nNH ) tree op as ‘n protonskenker. \n \n(2) \n \n7.2 \n7.2.1 \n \nn = cV  \n = (0,1)(0,1)  \n = 0,01 mol  \n \n \n(3) \n \n7.2.2 \nPOSITIVE MARKING FROM QUESTION 7.2.1. \nPOSITIEWE NASIEN VAN VRAAG 7.2.1. \n \n \n \nMarking criteria/Nasienriglyne \n Substitute volume and concentration to calculate n(HCℓ)  \n \nVervang volume en konsentrasie om n(HCℓ) te bereken. \n \n Use mole ratio/Gebruik molverhouding: n(NaOH) = n(HCℓ) = 1:1  \n \n n(NaOH) x 4 OR/OF V(HCℓ) x 4 OR/OF n(HCℓ) x 4  \n \n Subtraction/Aftrekking: n(NaOHinitial/aanvanklik) - n(NaOHexcess/oormaat)  \n \n Use mole ratio/Gebruik molverhouding: n(NaOH) = n(NH4Cℓ) = 1:1  \n \n Substitute/Vervang 53,5 g·mol-1 in n = M\nm .  \n \n Percentage calculation/Persentasieberekening  \n \n Final answer/Finale antwoord: 0,11 g - 0,21 g  \n \n \n \n- \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n11 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \nOPTION 1/OPSIE 1 \nn(HCℓ) = caVa = (0,11)(14,55 x 10-3)  = 1,6 x 10-3 mol \n \nn(NaOH) = n(HCℓ) = 1,6 x 10-3 mol  \n \nn(NaOH excess/oormaat) in 100 cm3 = 1,6 x 10-3 x 4  \n \n = 6,4 x 10-3 mol \n \nn(NaOH reacted/gereageer) = 0,01 - 6,4 x 10-3  \n \n \n= 3,6 x 10-3 mol \n \nn(NH4Cℓ) = n(NaOH) = 3,6 x 10-3 mol  (0,003598 mol) \n \n \n \n \nm(NH4Cℓ) = nM \n \n = (3,6 x 10-3)(53,5) \n = 0,193 g \n \n92% : 0,193 g \n100% : x \n \nx = \n92\n100\n193\n,0\n\n  \n \n= 0,21 g  \n \nn(NH4Cℓ) = \n5,\n53\nx\n92\n,0\n \n \n3,6 x 10-3 = \n5,\n53\nx\n92\n,0\n \n \nx = 0,21 g  \n \n \n \nn(NH4Cℓ) = \n5,\n53\nm \n3,6 x 10-3 = \n5,\n53\nm \nn(NH4Cℓ) = 0,192 g \n \nm(fertiliser/kunsmis): \nm = \n92\n100\n192\n,0\n\n  \n = 0,21 g  \n \nOPTION 2/OPSIE 2 \nV(HCℓ) to neutralise 100 cm3 NaOH: \nV(HCℓ) neutraliseer 100 cm3 NaOH: \nV(HCℓ) = 14,55 x 4  \n = 58,2 cm3 \n \nn(HCℓ) = cV \n = (0,11)(0,0582)  \n = 0,006402 mol \n \nn(NaOH) = n(HCℓ) \n \n = 0,006402 mol  \n \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : \n92\n100\n192\n,0\n\n = 0,21 g  \nOPTION 3/OPSIE 3 \nn(HCℓ) to neutralise 100 cm3 NaOH: \nn(HCℓ) neutraliseer 100 cm3 NaOH: \nn(HCℓ) = cV \n = (0,11)(0,01455 x 4)  \n = 0,006402 mol (6,4 x 10-3 mol) \n \nn(NaOH excess/oormaat): \nn(NaOH) = n(HCℓ) = 6,4 x 10-3 mol  \n \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : 0,192 x 92\n100  = 0,21 g  \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n12 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \nOPTION 4/OPSIE 4 \n \nb\na\nb\nb\na\na\nn\nn\nV\nc\nV\nc\n\n\n1\n1\n25\n x \nc\n14,55\n x \n0,11\nb\n\n  \ncb = 0,064 mol·dm-3 \n \nn(NaOH in excess in 100 cm3): \nn(NaOH in oormaat in 100 cm3): \nn(NaOH) = cV \n = (0,064)(0,1)  \n = 6,4 x 10-3 mol \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : 0,192 x 92\n100  = 0,21 g  \nOPTION 5/OPSIE 5 \n \nb\na\nb\nb\na\na\nn\nn\nV\nc\nV\nc\n\n \n\n1\n1\n25\n x \nc\n14,55\n x \n0,11\nb\n\n  \ncb = 0,064 mol·dm-3 \nΔc(NaOH) = 0,1 - 0,064  \n = 0,036 mol·dm-3 \n \nn(NaOH reacted/gereageer): \nn(NaOH) = cV \n \n= 0,036 x 0,1 \n = 0,0036 mol \n \nn(NH4Cℓ) = n(NaOH) = 0,0036 mol  \nM\nm\nn \n \n0,0036 = \n5,\n53\nx\n100\n92\n  \n0,0036(53,5) = 0,92x \nx = 0,21 g  \n \n(8) \n \n7.3 \nOPTION 1/OPSIE 1 \n[OH-] = [NaOH] = 0,5 mol∙dm-3 \n \nKw = [H3O+][OH-] \n1 x 10-14 = [H3O+]0,5  \n[H3O+] = 2 x 10-14 mol∙dm-3 \n \npH = -log[H+]  \n = -log(2 x 10-14)  \n = 13,7  \nOPTION 2/OPSIE 2 \npOH = -log[OH-]  \n = -log(0,5)  \n = 0,301 \n \npH + pOH = 14 \npH = 14 – 0,301  \n = 13,7  (13,699) \n \n \n \n \n \nNotes/Aantekeninge \nIF/INDIEN: \nWrong formula/Verkeerde formule: pH = -log[OH−]; pOH = -log[NaOH] \nNo marks for substitution and answer./Geen punte vir vervanging en antwoord. \n \n(4) \n \n \n \n[18] \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n13 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+      "sub_questions": [
+        {
+          "label": "7.1",
+          "question": "7.1 \nAmmonium chloride crystals, NH4Cℓ(s), dissolve in water to form ammonium \nand chloride ions. The ammonium ions react with water according to the \nbalanced equation below: \n \n+\n4\nNH (aq) + H2O(ℓ) ⇌ NH3(aq) + H3O+(aq)",
+          "answer": "7.1",
+          "answer_english": "7.1",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "7.1.1",
+          "question": "7.1.1 \nWrite down the name of the process described by the underlined \nsentence. \n \n(1)",
+          "answer": "7.1.1 \n \nHydrolysis / Hidrolise  \n \n(1)",
+          "answer_english": "7.1.1 \n \nHydrolysis / Hidrolise  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "7.1.2",
+          "question": "7.1.2 \nIs ammonium chloride ACIDIC or BASIC in aqueous solution? Give \na reason for the answer. \n \n(2)",
+          "answer": "7.1.2 \nAcidic / Suur  \n \nForms H3O+ ions during hydrolysis./Vorm H3O+ ione gedurende hidrolise.  \n \nOR/OF \nSalt of strong acid and weak base./Sout van sterk suur en swak basis. \n \nOR/OF \n(\n\n4\nNH ) acts as proton donor. / (\n\n4\nNH ) tree op as ‘n protonskenker. \n \n(2)",
+          "answer_english": "7.1.2 \nAcidic / Suur  \n \nForms H3O+ ions during hydrolysis./Vorm H3O+ ione gedurende hidrolise.  \n \nOR/OF \n \nOR/OF \n(\n\n4\nNH ) acts as proton donor. / (\n\n4\n \n(2)",
+          "answer_afrikaans": "Salt of strong acid and weak base./Sout van sterk suur en swak basis. \nNH ) tree op as ‘n protonskenker.",
+          "marking_criteria": []
+        },
+        {
+          "label": "7.2",
+          "question": "7.2 \nA certain fertiliser consists of 92% ammonium chloride. A sample of mass x g \nof this fertiliser is dissolved in 100 cm3 of a 0,10 mol∙dm-3 sodium hydroxide \nsolution, NaOH(aq). The NaOH is in excess. \n \nThe balanced equation for the reaction is: \n \nNH4Cℓ(s) + NaOH(aq)  NH3(g) + H2O(ℓ) + NaCℓ(aq)",
+          "answer": "7.2",
+          "answer_english": "7.2",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "7.2.1",
+          "question": "7.2.1 \nCalculate the number of moles of sodium hydroxide in which the \nsample is dissolved. \n \n(3) \n \n \nDuring a titration, 25 cm3 of the excess sodium hydroxide solution is titrated \nwith a 0,11 mol∙dm-3 hydrochloric acid solution, HCℓ(aq). At the endpoint it is \nfound that 14,55 cm3 of the hydrochloric acid was used to neutralise the \nsodium hydroxide solution according to the following balanced equation: \n \nHCℓ(aq) + NaOH(aq)  NaCℓ(aq) + H2O(ℓ)",
+          "answer": "7.2.1 \n \nn = cV  \n = (0,1)(0,1)  \n = 0,01 mol  \n \n \n(3)",
+          "answer_english": "7.2.1 \n \nn = cV  \n = (0,1)(0,1)  \n = 0,01 mol  \n \n \n(3)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "7.2.2",
+          "question": "7.2.2 \nCalculate the mass x (in grams) of the fertiliser sample used. \n (8)",
+          "answer": "7.2.2 \nPOSITIVE MARKING FROM QUESTION 7.2.1. \nPOSITIEWE NASIEN VAN VRAAG 7.2.1. \n \n \n \nMarking criteria/Nasienriglyne \n Substitute volume and concentration to calculate n(HCℓ)  \n \nVervang volume en konsentrasie om n(HCℓ) te bereken. \n \n Use mole ratio/Gebruik molverhouding: n(NaOH) = n(HCℓ) = 1:1  \n \n n(NaOH) x 4 OR/OF V(HCℓ) x 4 OR/OF n(HCℓ) x 4  \n \n Subtraction/Aftrekking: n(NaOHinitial/aanvanklik) - n(NaOHexcess/oormaat)  \n \n Use mole ratio/Gebruik molverhouding: n(NaOH) = n(NH4Cℓ) = 1:1  \n \n Substitute/Vervang 53,5 g·mol-1 in n = M\nm .  \n \n Percentage calculation/Persentasieberekening  \n \n Final answer/Finale antwoord: 0,11 g - 0,21 g  \n \n \n \n- \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n11 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \nOPTION 1/OPSIE 1 \nn(HCℓ) = caVa = (0,11)(14,55 x 10-3)  = 1,6 x 10-3 mol \n \nn(NaOH) = n(HCℓ) = 1,6 x 10-3 mol  \n \nn(NaOH excess/oormaat) in 100 cm3 = 1,6 x 10-3 x 4  \n \n = 6,4 x 10-3 mol \n \nn(NaOH reacted/gereageer) = 0,01 - 6,4 x 10-3  \n \n \n= 3,6 x 10-3 mol \n \nn(NH4Cℓ) = n(NaOH) = 3,6 x 10-3 mol  (0,003598 mol) \n \n \n \n \nm(NH4Cℓ) = nM \n \n = (3,6 x 10-3)(53,5) \n = 0,193 g \n \n92% : 0,193 g \n100% : x \n \nx = \n92\n100\n193\n,0\n\n  \n \n= 0,21 g  \n \nn(NH4Cℓ) = \n5,\n53\nx\n92\n,0\n \n \n3,6 x 10-3 = \n5,\n53\nx\n92\n,0\n \n \nx = 0,21 g  \n \n \n \nn(NH4Cℓ) = \n5,\n53\nm \n3,6 x 10-3 = \n5,\n53\nm \nn(NH4Cℓ) = 0,192 g \n \nm(fertiliser/kunsmis): \nm = \n92\n100\n192\n,0\n\n  \n = 0,21 g  \n \nOPTION 2/OPSIE 2 \nV(HCℓ) to neutralise 100 cm3 NaOH: \nV(HCℓ) neutraliseer 100 cm3 NaOH: \nV(HCℓ) = 14,55 x 4  \n = 58,2 cm3 \n \nn(HCℓ) = cV \n = (0,11)(0,0582)  \n = 0,006402 mol \n \nn(NaOH) = n(HCℓ) \n \n = 0,006402 mol  \n \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : \n92\n100\n192\n,0\n\n = 0,21 g  \nOPTION 3/OPSIE 3 \nn(HCℓ) to neutralise 100 cm3 NaOH: \nn(HCℓ) neutraliseer 100 cm3 NaOH: \nn(HCℓ) = cV \n = (0,11)(0,01455 x 4)  \n = 0,006402 mol (6,4 x 10-3 mol) \n \nn(NaOH excess/oormaat): \nn(NaOH) = n(HCℓ) = 6,4 x 10-3 mol  \n \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : 0,192 x 92\n100  = 0,21 g  \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n12 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \nOPTION 4/OPSIE 4 \n \nb\na\nb\nb\na\na\nn\nn\nV\nc\nV\nc\n\n\n1\n1\n25\n x \nc\n14,55\n x \n0,11\nb\n\n  \ncb = 0,064 mol·dm-3 \n \nn(NaOH in excess in 100 cm3): \nn(NaOH in oormaat in 100 cm3): \nn(NaOH) = cV \n = (0,064)(0,1)  \n = 6,4 x 10-3 mol \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : 0,192 x 92\n100  = 0,21 g  \nOPTION 5/OPSIE 5 \n \nb\na\nb\nb\na\na\nn\nn\nV\nc\nV\nc\n\n \n\n1\n1\n25\n x \nc\n14,55\n x \n0,11\nb\n\n  \ncb = 0,064 mol·dm-3 \nΔc(NaOH) = 0,1 - 0,064  \n = 0,036 mol·dm-3 \n \nn(NaOH reacted/gereageer): \nn(NaOH) = cV \n \n= 0,036 x 0,1 \n = 0,0036 mol \n \nn(NH4Cℓ) = n(NaOH) = 0,0036 mol  \nM\nm\nn \n \n0,0036 = \n5,\n53\nx\n100\n92\n  \n0,0036(53,5) = 0,92x \nx = 0,21 g  \n \n(8)",
+          "answer_english": "7.2.2 \nPOSITIVE MARKING FROM QUESTION 7.2.1. \n \n \n \nMarking criteria/Nasienriglyne \n Substitute volume and concentration to calculate n(HCℓ)  \n \n \n Use mole ratio/Gebruik molverhouding: n(NaOH) = n(HCℓ) = 1:1  \n \n n(NaOH) x 4 OR/OF V(HCℓ) x 4 OR/OF n(HCℓ) x 4  \n \n Subtraction/Aftrekking: n(NaOHinitial/aanvanklik) - n(NaOHexcess/oormaat)  \n \n Use mole ratio/Gebruik molverhouding: n(NaOH) = n(NH4Cℓ) = 1:1  \n \n Substitute/Vervang 53,5 g·mol-1 in n = M\nm .  \n \n Percentage calculation/Persentasieberekening  \n \n Final answer/Finale antwoord: 0,11 g - 0,21 g  \n \n \n \n- \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n11 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \nOPTION 1/OPSIE 1 \nn(HCℓ) = caVa = (0,11)(14,55 x 10-3)  = 1,6 x 10-3 mol \n \nn(NaOH) = n(HCℓ) = 1,6 x 10-3 mol  \n \nn(NaOH excess/oormaat) in 100 cm3 = 1,6 x 10-3 x 4  \n \n = 6,4 x 10-3 mol \n \nn(NaOH reacted/gereageer) = 0,01 - 6,4 x 10-3  \n \n \n= 3,6 x 10-3 mol \n \nn(NH4Cℓ) = n(NaOH) = 3,6 x 10-3 mol  (0,003598 mol) \n \n \n \n \nm(NH4Cℓ) = nM \n \n = (3,6 x 10-3)(53,5) \n = 0,193 g \n \n92% : 0,193 g \n100% : x \n \nx = \n92\n100\n193\n,0\n\n  \n \n= 0,21 g  \n \nn(NH4Cℓ) = \n5,\n53\nx\n92\n,0\n \n \n3,6 x 10-3 = \n5,\n53\nx\n92\n,0\n \n \nx = 0,21 g  \n \n \n \nn(NH4Cℓ) = \n5,\n53\nm \n3,6 x 10-3 = \n5,\n53\nm \nn(NH4Cℓ) = 0,192 g \n \nm(fertiliser/kunsmis): \nm = \n92\n100\n192\n,0\n\n  \n = 0,21 g  \n \nOPTION 2/OPSIE 2 \nV(HCℓ) to neutralise 100 cm3 NaOH: \nV(HCℓ) neutraliseer 100 cm3 NaOH: \nV(HCℓ) = 14,55 x 4  \n = 58,2 cm3 \n \nn(HCℓ) = cV \n = (0,11)(0,0582)  \n = 0,006402 mol \n \nn(NaOH) = n(HCℓ) \n \n = 0,006402 mol  \n \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : \n92\n100\n192\n,0\n\n = 0,21 g  \nOPTION 3/OPSIE 3 \nn(HCℓ) to neutralise 100 cm3 NaOH: \nn(HCℓ) neutraliseer 100 cm3 NaOH: \nn(HCℓ) = cV \n = (0,11)(0,01455 x 4)  \n = 0,006402 mol (6,4 x 10-3 mol) \n \nn(NaOH excess/oormaat): \nn(NaOH) = n(HCℓ) = 6,4 x 10-3 mol  \n \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : 0,192 x 92\n100  = 0,21 g  \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n12 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \nOPTION 4/OPSIE 4 \n \nb\na\nb\nb\na\na\nn\nn\nV\nc\nV\nc\n\n\n1\n1\n25\n x \nc\n14,55\n x \n0,11\nb\n\n  \ncb = 0,064 mol·dm-3 \n \nn(NaOH in excess in 100 cm3): \nn(NaOH in oormaat in 100 cm3): \nn(NaOH) = cV \n = (0,064)(0,1)  \n = 6,4 x 10-3 mol \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : 0,192 x 92\n100  = 0,21 g  \nOPTION 5/OPSIE 5 \n \nb\na\nb\nb\na\na\nn\nn\nV\nc\nV\nc\n\n \n\n1\n1\n25\n x \nc\n14,55\n x \n0,11\nb\n\n  \ncb = 0,064 mol·dm-3 \nΔc(NaOH) = 0,1 - 0,064  \n = 0,036 mol·dm-3 \n \nn(NaOH reacted/gereageer): \nn(NaOH) = cV \n \n= 0,036 x 0,1 \n = 0,0036 mol \n \nn(NH4Cℓ) = n(NaOH) = 0,0036 mol  \nM\nm\nn \n \n0,0036 = \n5,\n53\nx\n100\n92\n  \n0,0036(53,5) = 0,92x \nx = 0,21 g  \n \n(8)",
+          "answer_afrikaans": "POSITIEWE NASIEN VAN VRAAG 7.2.1. \nVervang volume en konsentrasie om n(HCℓ) te bereken.",
+          "marking_criteria": [
+            " Substitute volume and concentration to calculate n(HCℓ)  \n \nVervang volume en konsentrasie om n(HCℓ) te bereken. \n \n Use mole ratio/Gebruik molverhouding: n(NaOH) = n(HCℓ) = 1:1  \n \n n(NaOH) x 4 OR/OF V(HCℓ) x 4 OR/OF n(HCℓ) x 4  \n \n Subtraction/Aftrekking: n(NaOHinitial/aanvanklik) - n(NaOHexcess/oormaat)  \n \n Use mole ratio/Gebruik molverhouding: n(NaOH) = n(NH4Cℓ) = 1:1  \n \n Substitute/Vervang 53,5 g·mol-1 in n = M\nm .  \n \n Percentage calculation/Persentasieberekening  \n \n Final answer/Finale antwoord: 0,11 g - 0,21 g  \n \n \n \n- \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n11 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \nOPTION 1/OPSIE 1 \nn(HCℓ) = caVa = (0,11)(14,55 x 10-3)  = 1,6 x 10-3 mol \n \nn(NaOH) = n(HCℓ) = 1,6 x 10-3 mol  \n \nn(NaOH excess/oormaat) in 100 cm3 = 1,6 x 10-3 x 4  \n \n = 6,4 x 10-3 mol \n \nn(NaOH reacted/gereageer) = 0,01 - 6,4 x 10-3  \n \n \n= 3,6 x 10-3 mol \n \nn(NH4Cℓ) = n(NaOH) = 3,6 x 10-3 mol  (0,003598 mol) \n \n \n \n \nm(NH4Cℓ) = nM \n \n = (3,6 x 10-3)(53,5) \n = 0,193 g \n \n92% : 0,193 g \n100% : x \n \nx = \n92\n100\n193\n,0\n\n  \n \n= 0,21 g  \n \nn(NH4Cℓ) = \n5,\n53\nx\n92\n,0\n \n \n3,6 x 10-3 = \n5,\n53\nx\n92\n,0\n \n \nx = 0,21 g  \n \n \n \nn(NH4Cℓ) = \n5,\n53\nm \n3,6 x 10-3 = \n5,\n53\nm \nn(NH4Cℓ) = 0,192 g \n \nm(fertiliser/kunsmis): \nm = \n92\n100\n192\n,0\n\n  \n = 0,21 g  \n \nOPTION 2/OPSIE 2 \nV(HCℓ) to neutralise 100 cm3 NaOH: \nV(HCℓ) neutraliseer 100 cm3 NaOH: \nV(HCℓ) = 14,55 x 4  \n = 58,2 cm3 \n \nn(HCℓ) = cV \n = (0,11)(0,0582)  \n = 0,006402 mol \n \nn(NaOH) = n(HCℓ) \n \n = 0,006402 mol  \n \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : \n92\n100\n192\n,0\n\n = 0,21 g  \nOPTION 3/OPSIE 3 \nn(HCℓ) to neutralise 100 cm3 NaOH: \nn(HCℓ) neutraliseer 100 cm3 NaOH: \nn(HCℓ) = cV \n = (0,11)(0,01455 x 4)  \n = 0,006402 mol (6,4 x 10-3 mol) \n \nn(NaOH excess/oormaat): \nn(NaOH) = n(HCℓ) = 6,4 x 10-3 mol  \n \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : 0,192 x 92\n100  = 0,21 g  \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n12 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n \nOPTION 4/OPSIE 4 \n \nb\na\nb\nb\na\na\nn\nn\nV\nc\nV\nc\n\n\n1\n1\n25\n x \nc\n14,55\n x \n0,11\nb\n\n  \ncb = 0,064 mol·dm-3 \n \nn(NaOH in excess in 100 cm3): \nn(NaOH in oormaat in 100 cm3): \nn(NaOH) = cV \n = (0,064)(0,1)  \n = 6,4 x 10-3 mol \nn(NaOH reacted/gereageer): \nn(NaOH) = 0,01 - 0,006402  \n = 0,003598 mol \n \nn(NH4Cℓ) = n(NaOH) \n = 0,003598 mol  \n \nm(NH4Cℓ) = nM \n = (0,003598)(53,5)  \n = 0,192 g \n \n92% : 0,192 g \n100% : 0,192 x 92\n100  = 0,21 g  \nOPTION 5/OPSIE 5 \n \nb\na\nb\nb\na\na\nn\nn\nV\nc\nV\nc\n\n \n\n1\n1\n25\n x \nc\n14,55\n x \n0,11\nb\n\n  \ncb = 0,064 mol·dm-3 \nΔc(NaOH) = 0,1 - 0,064  \n = 0,036 mol·dm-3 \n \nn(NaOH reacted/gereageer): \nn(NaOH) = cV \n \n= 0,036 x 0,1 \n = 0,0036 mol \n \nn(NH4Cℓ) = n(NaOH) = 0,0036 mol  \nM\nm\nn \n \n0,0036 = \n5,\n53\nx\n100\n92\n  \n0,0036(53,5) = 0,92x \nx = 0,21 g  \n \n(8)"
+          ]
+        },
+        {
+          "label": "7.3",
+          "question": "7.3 \nCalculate the pH of a 0,5 moldm-3 sodium hydroxide solution at 25 °C. \n (4) \n[18] \n \n\nPhysical Sciences/P2 \n13 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "7.3 \nOPTION 1/OPSIE 1 \n[OH-] = [NaOH] = 0,5 mol∙dm-3 \n \nKw = [H3O+][OH-] \n1 x 10-14 = [H3O+]0,5  \n[H3O+] = 2 x 10-14 mol∙dm-3 \n \npH = -log[H+]  \n = -log(2 x 10-14)  \n = 13,7  \nOPTION 2/OPSIE 2 \npOH = -log[OH-]  \n = -log(0,5)  \n = 0,301 \n \npH + pOH = 14 \npH = 14 – 0,301  \n = 13,7  (13,699) \n \n \n \n \n \nNotes/Aantekeninge \nIF/INDIEN: \nWrong formula/Verkeerde formule: pH = -log[OH−]; pOH = -log[NaOH] \nNo marks for substitution and answer./Geen punte vir vervanging en antwoord. \n \n(4) \n \n \n \n[18] \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n13 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "7.3 \nOPTION 1/OPSIE 1 \n[OH-] = [NaOH] = 0,5 mol∙dm-3 \n \nKw = [H3O+][OH-] \n1 x 10-14 = [H3O+]0,5  \n[H3O+] = 2 x 10-14 mol∙dm-3 \n \npH = -log[H+]  \n = -log(2 x 10-14)  \n = 13,7  \nOPTION 2/OPSIE 2 \npOH = -log[OH-]  \n = -log(0,5)  \n = 0,301 \n \npH + pOH = 14 \npH = 14 – 0,301  \n = 13,7  (13,699) \n \n \n \n \n \nNotes/Aantekeninge \nIF/INDIEN: \nWrong formula/Verkeerde formule: pH = -log[OH−]; pOH = -log[NaOH] \n \n(4) \n \n \n \n[18] \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n13 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": "No marks for substitution and answer./Geen punte vir vervanging en antwoord.",
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "topic": "electrochemistry",
+      "marks": 16,
+      "start_page": 13,
+      "end_page": 14,
+      "full_text": "QUESTION 8 (Start on a new page.) \n \n \nLearners are given the following two unknown half-cells: \n \nHalf-cell 1: Q2+ (aq) | Q(s) \n \nHalf-cell 2: Pt | R2(g) | R-(aq) \n \nDuring an investigation to identify the two half-cells, the learners connect each half-cell \nalternately to a Cd2+(aq) | Cd(s) half-cell under standard conditions. For each \ncombination of two half-cells, they write down the net cell reaction and measure the \ncell potential. \n \nThe results obtained for the two half-cell combinations are given in the table below. \n \n \nCOMBINATION \nNET CELL REACTION \nCELL POTENTIAL \nI \nQ2+(aq) + Cd(s) → Cd2+(aq) + Q(s) \n0,13 V \nII \nR2(g) + Cd(s) → Cd2+(aq) + 2R-(aq) \n1,76 V \n \n8.1 \nWrite down THREE conditions needed for these cells to function as standard \ncells. \n \n(3) \n \n8.2 \nFor Combination I, identify: \n \n \n \n8.2.1 \nThe anode of the cell \n (1) \n \n \n8.2.2 \nQ by using a calculation \n (5) \n \n8.3 \nFor Combination II, write down the: \n \n \n \n8.3.1 \nOxidation half-reaction \n (2) \n \n \n8.3.2 \nNAME or FORMULA of the metal used in the cathode \ncompartment \n \n(1) \n \n8.4 \nArrange the following species in order of INCREASING oxidising ability: \n \nQ2+ ; R2 ; Cd2+ \n \nExplain fully how you arrived at the answer. A calculation is NOT required. \n \n \n(4) \n \n \n [16] \n \n\nPhysical Sciences/P2 \n14 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+      "memo_full_text": "QUESTION 8/VRAAG 8 \n \n \n8.1 \nTemperature/Temperatuur: \n25 °C / 298 K  \n \nPressure/Druk: \n101,3 kPa / 1,013 x 105 Pa / 1 atm / 100 kPa  \n \nConcentration/Konsentrasie: 1 mol∙dm-3  \n \n(3) \n \n8.2 \n \n \n \n \n8.2.1 \nCd(s) / Cadmium / Kadmium / Cd∣Cd2+ / Cd2+∣Cd  \nNotes/Aantekeninge \nIgnore phases. / Ignoreer \nfases. \n \n(1) \n \n8.2.2 \n)\nV\n(\n27\n,0\n40\n,0\n13\n,0\nE\n)\n40\n,0\n(\nE\n13\n,0\nE\nE\nE\ncathode\ncathode\nanode\ncathode\ncell\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \nQ is Ni/nickel/nikkel  \nNotes/Aantekeninge \n \nAccept any other correct formula from the data \n \nsheet. / Aanvaar enige ander korrekte formule \n \nvanaf gegewensblad. \n Any other formula using unconventional \n \nabbreviations, e.g. E°cell = E°OA - E°RA \n followed by correct substitutions: / Enige ander \n \nformule wat onkonvensionele afkortings gebruik \n \nbv. E°sel = E°OM - E°RM gevolg deur korrekte \n \nvervangings: \n5\n4\n \n \n \n \n \n \n \n \n(5) \n \n8.3 \n8.3.1 \n \nCd(s) → Cd2+(aq) + 2e-  \nIgnore phases. / Ignoreer fases. \n \n \n \nNotes/Aantekeninge \nCd2+ + 2e- ← Cd (\n2\n2\n) \n \n \nCd ⇌ Cd2+ + 2e- (\n2\n1 ) \nCd ← Cd2+ + 2e- (\n2\n0\n) \n \n \nCd2+ + 2e- ⇌ Cd (\n2\n0\n) \n \n(2) \n \n8.3.2 \nPt/Platinum  \n \n(1) \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n14 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n8.4 \nOPTION 1/OPSIE 1 \n \n \n \nCompare/Vergelyk \nQ2+ & Cd2+ \n \nQ2+ is reduced / Cd is oxidised and therefore Q2+ is a \nstronger oxidising agent than Cd2+. \nQ2+ word gereduseer / Cd word geoksideer, en dus is Q2+ \n'n sterker oksideermiddel as Cd2+. \n \nCompare/Vergelyk \nR2 & Cd2+ \nR2 is reduced / Cd is oxidised and therefore R2 is a \nstronger oxidising agent than Cd2+.  \nR2 word gereduseer / Cd word geoksideer, dus is R2 'n \nsterker oksideermiddel as Cd2+. \n \nCompare/Vergelyk \nR2 & Q2+ \nThe cell potential of combination II is higher than that of \ncombination I, therefore R2 is a stronger oxidising agent \nthan Q2+. \nDie selpotensiaal van kombinasie II is hoër as dié van \nkombinasie I en dus is R2 'n sterker oksideermiddel as \nQ2+. \n \nFinal answer/ \nFinale antwoord \nCd2+; Q2+;R2 OR/OF Cd2+ ; Ni2+ ; Cℓ2 \n \n \n \nOPTION 2/OPSIE 2 \n \nThe reduction potential of Cℓ-∣Cℓ2 = 1,36 V  because the cell potential of \ncombination II is 1,76 V and the reduction potential of Cd∣Cd2+ is 0,4 V. \nDie reduksiepotensiaal van Cℓ-∣Cℓ2 = 1,36 V omdat die selpotensiaal van \nkombinasie II 1,76 V is en die reduksiepotensiaal van Cd∣Cd2+ 0,4 V is. \n \nOR/OF \nR2 is Cℓ2 because the cell potential of combination II is 1,76 V and the \nreduction potential of Cd∣Cd2+ is 0,4 V./ R2 is Cℓ2 omdat die selpotensiaal \nvan kombinasie II 1,76 V is en die reduksiepotensiaal van Cd∣Cd2+ 0,4 V \nis. \n \n \nCd∣Cd2+ has the lowest reduction potential (-0,4 V) and therefore Cd2+ is \nthe weakest oxidising agent. / Cd∣Cd2+ het die laagste reduksiepotensiaal \n(0,4 V) en dus is Cd2+ die swakste oksideermiddel.  \n \n \nCℓ-∣Cℓ2 has the highest reduction potential and therefore Cℓ2 is the \nstrongest oxidising agent. / Cℓ-∣Cℓ2 het die hoogste reduksiepotensiaal en \ndus is Cℓ2 die sterkste oksideermiddel.  \n \n \nFinal answer/Finale antwoord: Cd2+; Q2+;R2  OR/OF Cd2+ ; Ni2+ ; Cℓ2 \n \n(4) \n \n \n \n[16] \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n15 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+      "sub_questions": [
+        {
+          "label": "8.1",
+          "question": "8.1 \nWrite down THREE conditions needed for these cells to function as standard \ncells. \n \n(3)",
+          "answer": "8.1 \nTemperature/Temperatuur: \n25 °C / 298 K  \n \nPressure/Druk: \n101,3 kPa / 1,013 x 105 Pa / 1 atm / 100 kPa  \n \nConcentration/Konsentrasie: 1 mol∙dm-3  \n \n(3)",
+          "answer_english": "8.1 \nTemperature/Temperatuur: \n25 °C / 298 K  \n \nPressure/Druk: \n101,3 kPa / 1,013 x 105 Pa / 1 atm / 100 kPa  \n \nConcentration/Konsentrasie: 1 mol∙dm-3  \n \n(3)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "8.2",
+          "question": "8.2 \nFor Combination I, identify:",
+          "answer": "8.2",
+          "answer_english": "8.2",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "8.2.1",
+          "question": "8.2.1 \nThe anode of the cell \n (1)",
+          "answer": "8.2.1 \nCd(s) / Cadmium / Kadmium / Cd∣Cd2+ / Cd2+∣Cd  \nNotes/Aantekeninge \nIgnore phases. / Ignoreer \nfases. \n \n(1)",
+          "answer_english": "8.2.1 \nCd(s) / Cadmium / Kadmium / Cd∣Cd2+ / Cd2+∣Cd  \nNotes/Aantekeninge \nIgnore phases. / Ignoreer \nfases. \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "8.2.2",
+          "question": "8.2.2 \nQ by using a calculation \n (5)",
+          "answer": "8.2.2 \n)\nV\n(\n27\n,0\n40\n,0\n13\n,0\nE\n)\n40\n,0\n(\nE\n13\n,0\nE\nE\nE\ncathode\ncathode\nanode\ncathode\ncell\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \nQ is Ni/nickel/nikkel  \nNotes/Aantekeninge \n \nAccept any other correct formula from the data \n \nsheet. / Aanvaar enige ander korrekte formule \n \nvanaf gegewensblad. \n Any other formula using unconventional \n \nabbreviations, e.g. E°cell = E°OA - E°RA \n followed by correct substitutions: / Enige ander \n \nformule wat onkonvensionele afkortings gebruik \n \nbv. E°sel = E°OM - E°RM gevolg deur korrekte \n \nvervangings: \n5\n4\n \n \n \n \n \n \n \n \n(5)",
+          "answer_english": "8.2.2 \n)\nV\n(\n27\n,0\n40\n,0\n13\n,0\nE\n)\n40\n,0\n(\nE\n13\n,0\nE\nE\nE\ncathode\ncathode\nanode\ncathode\ncell\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \nQ is Ni/nickel/nikkel  \nNotes/Aantekeninge \n \nAccept any other correct formula from the data \n \nsheet. / Aanvaar enige ander korrekte formule \n \nvanaf gegewensblad. \n Any other formula using unconventional \n \nabbreviations, e.g. E°cell = E°OA - E°RA \n followed by correct substitutions: / Enige ander \n \n \n \nvervangings: \n5\n4\n \n \n \n \n \n \n \n \n(5)",
+          "answer_afrikaans": "formule wat onkonvensionele afkortings gebruik \nbv. E°sel = E°OM - E°RM gevolg deur korrekte",
+          "marking_criteria": []
+        },
+        {
+          "label": "8.3",
+          "question": "8.3 \nFor Combination II, write down the:",
+          "answer": "8.3",
+          "answer_english": "8.3",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "8.3.1",
+          "question": "8.3.1 \nOxidation half-reaction \n (2)",
+          "answer": "8.3.1 \n \nCd(s) → Cd2+(aq) + 2e-  \nIgnore phases. / Ignoreer fases. \n \n \n \nNotes/Aantekeninge \nCd2+ + 2e- ← Cd (\n2\n2\n) \n \n \nCd ⇌ Cd2+ + 2e- (\n2\n1 ) \nCd ← Cd2+ + 2e- (\n2\n0\n) \n \n \nCd2+ + 2e- ⇌ Cd (\n2\n0\n) \n \n(2)",
+          "answer_english": "8.3.1 \n \nCd(s) → Cd2+(aq) + 2e-  \nIgnore phases. / Ignoreer fases. \n \n \n \nNotes/Aantekeninge \nCd2+ + 2e- ← Cd (\n2\n2\n) \n \n \nCd ⇌ Cd2+ + 2e- (\n2\n1 ) \nCd ← Cd2+ + 2e- (\n2\n0\n) \n \n \nCd2+ + 2e- ⇌ Cd (\n2\n0\n) \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "8.3.2",
+          "question": "8.3.2 \nNAME or FORMULA of the metal used in the cathode \ncompartment \n \n(1)",
+          "answer": "8.3.2 \nPt/Platinum  \n \n(1) \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n14 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "8.3.2 \nPt/Platinum  \n \n(1) \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n14 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "8.4",
+          "question": "8.4 \nArrange the following species in order of INCREASING oxidising ability: \n \nQ2+ ; R2 ; Cd2+ \n \nExplain fully how you arrived at the answer. A calculation is NOT required. \n \n \n(4) \n \n \n [16] \n \n\nPhysical Sciences/P2 \n14 \n DBE/November 2015 \nNSC \nCopyright reserved \n Please turn over",
+          "answer": "8.4 \nOPTION 1/OPSIE 1 \n \n \n \nCompare/Vergelyk \nQ2+ & Cd2+ \n \nQ2+ is reduced / Cd is oxidised and therefore Q2+ is a \nstronger oxidising agent than Cd2+. \nQ2+ word gereduseer / Cd word geoksideer, en dus is Q2+ \n'n sterker oksideermiddel as Cd2+. \n \nCompare/Vergelyk \nR2 & Cd2+ \nR2 is reduced / Cd is oxidised and therefore R2 is a \nstronger oxidising agent than Cd2+.  \nR2 word gereduseer / Cd word geoksideer, dus is R2 'n \nsterker oksideermiddel as Cd2+. \n \nCompare/Vergelyk \nR2 & Q2+ \nThe cell potential of combination II is higher than that of \ncombination I, therefore R2 is a stronger oxidising agent \nthan Q2+. \nDie selpotensiaal van kombinasie II is hoër as dié van \nkombinasie I en dus is R2 'n sterker oksideermiddel as \nQ2+. \n \nFinal answer/ \nFinale antwoord \nCd2+; Q2+;R2 OR/OF Cd2+ ; Ni2+ ; Cℓ2 \n \n \n \nOPTION 2/OPSIE 2 \n \nThe reduction potential of Cℓ-∣Cℓ2 = 1,36 V  because the cell potential of \ncombination II is 1,76 V and the reduction potential of Cd∣Cd2+ is 0,4 V. \nDie reduksiepotensiaal van Cℓ-∣Cℓ2 = 1,36 V omdat die selpotensiaal van \nkombinasie II 1,76 V is en die reduksiepotensiaal van Cd∣Cd2+ 0,4 V is. \n \nOR/OF \nR2 is Cℓ2 because the cell potential of combination II is 1,76 V and the \nreduction potential of Cd∣Cd2+ is 0,4 V./ R2 is Cℓ2 omdat die selpotensiaal \nvan kombinasie II 1,76 V is en die reduksiepotensiaal van Cd∣Cd2+ 0,4 V \nis. \n \n \nCd∣Cd2+ has the lowest reduction potential (-0,4 V) and therefore Cd2+ is \nthe weakest oxidising agent. / Cd∣Cd2+ het die laagste reduksiepotensiaal \n(0,4 V) en dus is Cd2+ die swakste oksideermiddel.  \n \n \nCℓ-∣Cℓ2 has the highest reduction potential and therefore Cℓ2 is the \nstrongest oxidising agent. / Cℓ-∣Cℓ2 het die hoogste reduksiepotensiaal en \ndus is Cℓ2 die sterkste oksideermiddel.  \n \n \nFinal answer/Finale antwoord: Cd2+; Q2+;R2  OR/OF Cd2+ ; Ni2+ ; Cℓ2 \n \n(4) \n \n \n \n[16] \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n15 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "8.4 \nOPTION 1/OPSIE 1 \n \n \n \nCompare/Vergelyk \nQ2+ & Cd2+ \n \nQ2+ is reduced / Cd is oxidised and therefore Q2+ is a \nstronger oxidising agent than Cd2+. \n \nCompare/Vergelyk \nR2 & Cd2+ \nR2 is reduced / Cd is oxidised and therefore R2 is a \nstronger oxidising agent than Cd2+.  \nsterker oksideermiddel as Cd2+. \n \nCompare/Vergelyk \nR2 & Q2+ \nThe cell potential of combination II is higher than that of \ncombination I, therefore R2 is a stronger oxidising agent \nthan Q2+. \nQ2+. \n \nFinal answer/ \nFinale antwoord \nCd2+; Q2+;R2 OR/OF Cd2+ ; Ni2+ ; Cℓ2 \n \n \n \nOPTION 2/OPSIE 2 \n \nThe reduction potential of Cℓ-∣Cℓ2 = 1,36 V  because the cell potential of \ncombination II is 1,76 V and the reduction potential of Cd∣Cd2+ is 0,4 V. \n \nOR/OF \nR2 is Cℓ2 because the cell potential of combination II is 1,76 V and the \nis. \n \n \nCd∣Cd2+ has the lowest reduction potential (-0,4 V) and therefore Cd2+ is \n \n \nCℓ-∣Cℓ2 has the highest reduction potential and therefore Cℓ2 is the \n \n \nFinal answer/Finale antwoord: Cd2+; Q2+;R2  OR/OF Cd2+ ; Ni2+ ; Cℓ2 \n \n(4) \n \n \n \n[16] \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n15 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": "Q2+ word gereduseer / Cd word geoksideer, en dus is Q2+ \n'n sterker oksideermiddel as Cd2+. \nR2 word gereduseer / Cd word geoksideer, dus is R2 'n \nDie selpotensiaal van kombinasie II is hoër as dié van \nkombinasie I en dus is R2 'n sterker oksideermiddel as \nDie reduksiepotensiaal van Cℓ-∣Cℓ2 = 1,36 V omdat die selpotensiaal van \nkombinasie II 1,76 V is en die reduksiepotensiaal van Cd∣Cd2+ 0,4 V is. \nreduction potential of Cd∣Cd2+ is 0,4 V./ R2 is Cℓ2 omdat die selpotensiaal \nvan kombinasie II 1,76 V is en die reduksiepotensiaal van Cd∣Cd2+ 0,4 V \nthe weakest oxidising agent. / Cd∣Cd2+ het die laagste reduksiepotensiaal \n(0,4 V) en dus is Cd2+ die swakste oksideermiddel.  \nstrongest oxidising agent. / Cℓ-∣Cℓ2 het die hoogste reduksiepotensiaal en \ndus is Cℓ2 die sterkste oksideermiddel. ",
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "topic": "electrochemistry",
+      "marks": 12,
+      "start_page": 14,
+      "end_page": 15,
+      "full_text": "QUESTION 9 (Start on a new page.) \n \n \nThe simplified diagram below represents an electrochemical cell used for the \npurification of copper. \n \n \n \n \n \n \n \n \n \n \n \n \n9.1 \nDefine the term electrolysis. \n (2) \n \n9.2 \nGive a reason why a direct-current (DC) source is used in this experiment. \n (1) \n \n9.3 \nWrite down the half-reaction which takes place at electrode A. \n (2) \n \n9.4 \nDue to small amounts of zinc impurities in the impure copper, the electrolyte \nbecomes contaminated with Zn2+ ions. \n \nRefer to the attached Table of Standard Reduction Potentials to explain why \nthe Zn2+ ions will not influence the purity of the copper obtained during this \nprocess. \n \n \n \n(3) \n \n9.5 \nAfter the purification of the impure copper was completed, it was found that \n2,85 x 10-2 moles of copper were formed. \n \nThe initial mass of electrode B was 2,0 g. Calculate the percentage of copper \nthat was initially present in electrode B. \n \n \n \n \n(4) \n \n \n [12] \n \n \nDC source \nElectrode B \n(impure copper) \nElectrode A \nElectrolyte \n\nPhysical Sciences/P2 \n15 \n DBE/November 2015 \nNSC \nCopyright reserved",
+      "memo_full_text": "QUESTION 9/VRAAG 9 \n \n \n9.1 \nANY ONE/ENIGE EEN: \n \nThe chemical process in which electrical energy is converted to \nchemical energy.  \nDie chemiese proses waarin elektriese energie omgeskakel word na \nchemiese energie. \n \n \nThe use of electrical energy to produce a chemical change. \nDie gebruik van elektriese energie om 'n chemiese verandering te weeg \nte bring. \n \n \nDecomposition of an ionic compound by means of electrical energy. \nOntbinding van 'n ioniese verbinding met behulp van elektriese energie. \n \n \nThe process during which and electric current passes through a \nsolution/ionic liquid/molten ionic compound. \nDie proses waardeur 'n elektriese stroom deur 'n oplossing/ioniese \nvloeistof/gesmelte ioniese verbinding beweeg. \n \n(2) \n \n9.2 \nANY ONE/ENIGE EEN: \n \nTo keep the polarity of the electrodes the same.  \nOm die polariteit van die elektrodes dieselfde te hou. \n \n \nTo prevent the anode and cathode from swopping. \nOm te verhoed dat die anode en katode omruil. \n \n \nDC provides a one way flow of electrons ensuring that the same chemical \nreaction occurs all the time at the electrodes. \nGS verskaf 'n eenrigting vloei van elektrone en verseker dat dieselfde \nchemiese reaksie altyd by die elektrodes plaasvind. \n \n \nIf you use AC the polarity of the electrodes will keep changing. \nWanneer jy WS gebruik word hou die polariteit van die elektrodes aan om \nte verander. \n \n \nPure copper deposited on only one electrode. \n \nSuiwer koper slaan slegs op een elektrode neer. \n \n \n(1) \n \n9.3 \nCu2+ (aq) + 2e-  Cu (s)  \nIgnore phases. / Ignoreer fases. \n \n \n \nNotes/Aantekeninge \nCu2+ + 2e- ⇌ Cu (\n2\n1 ) \n \n \nCu ← Cu2+ + 2e- (\n2\n2 ) \nCu ⇌ Cu2+ + 2e- (\n2\n0 ) \n \nCu2+ + 2e- ← Cu (\n2\n0 ) \n \n \n(2) \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n16 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief \n \n \n9.4 \n \nCu2+ is a stronger oxidising agent  than Zn2+.  \nCu2+ is 'n sterker oksideermiddel as Zn2+. \n \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu.  \n \nOR/OF \n \nZn is a stronger reducing agent than Cu. \nZn is 'n sterker reduseermiddel as Cu. \n \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu. \n \nOR/OF \n \nThe standard reduction potential of Cu2+|Cu is higher than that of Zn2+|Zn. \nDie standaard reduksie potensiaal van Cu2+|Cu is hoër as die van \nZn2+|Zn. \n \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu. \n \nOR/OF \n \nThe standard reduction potential of Zn2+|Zn is lower than that of Cu2+|Cu. \nDie standaard reduksie potensiaal van Zn2+|Zn is laer as die van Cu2+|Cu. \n \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu. \n \n(3) \n \n9.5 \ng\n81\n,1\nm\n5,\n63\nm\n10\nx\n85\n,2\nM\nm\nn\n2\n\n\n\n\n \n \n%\n49\n,\n90\n100\n2\n81\n,1\npurity\n%\n\n\n\n \nMarking guidelines/Nasienriglyne \n Substitute 63,5 and 2,85 x 10-2  in \nM\nm\nn \n \n \nVervang 63,5 en 2,85 x 10-2 in \nM\nm\nn \n \n Percentage purity.  \n \nPersentasie suiwerheid. \n \n Final answer/Finale antwoord: \n \n90,49%  (Accept/Aanvaar: 90,5%) \n \n \n \n \n \n \n(4) \n \n \n \n \n \n \n \n[12] \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n17 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou",
+      "sub_questions": [
+        {
+          "label": "9.1",
+          "question": "9.1 \nDefine the term electrolysis. \n (2)",
+          "answer": "9.1 \nANY ONE/ENIGE EEN: \n \nThe chemical process in which electrical energy is converted to \nchemical energy.  \nDie chemiese proses waarin elektriese energie omgeskakel word na \nchemiese energie. \n \n \nThe use of electrical energy to produce a chemical change. \nDie gebruik van elektriese energie om 'n chemiese verandering te weeg \nte bring. \n \n \nDecomposition of an ionic compound by means of electrical energy. \nOntbinding van 'n ioniese verbinding met behulp van elektriese energie. \n \n \nThe process during which and electric current passes through a \nsolution/ionic liquid/molten ionic compound. \nDie proses waardeur 'n elektriese stroom deur 'n oplossing/ioniese \nvloeistof/gesmelte ioniese verbinding beweeg. \n \n(2)",
+          "answer_english": "9.1 \nANY ONE/ENIGE EEN: \n \nThe chemical process in which electrical energy is converted to \nchemical energy.  \n \n \nThe use of electrical energy to produce a chemical change. \nte bring. \n \n \nDecomposition of an ionic compound by means of electrical energy. \n \n \nThe process during which and electric current passes through a \nvloeistof/gesmelte ioniese verbinding beweeg. \n \n(2)",
+          "answer_afrikaans": "Die chemiese proses waarin elektriese energie omgeskakel word na \nchemiese energie. \nDie gebruik van elektriese energie om 'n chemiese verandering te weeg \nOntbinding van 'n ioniese verbinding met behulp van elektriese energie. \nsolution/ionic liquid/molten ionic compound. \nDie proses waardeur 'n elektriese stroom deur 'n oplossing/ioniese",
+          "marking_criteria": []
+        },
+        {
+          "label": "9.2",
+          "question": "9.2 \nGive a reason why a direct-current (DC) source is used in this experiment. \n (1)",
+          "answer": "9.2 \nANY ONE/ENIGE EEN: \n \nTo keep the polarity of the electrodes the same.  \nOm die polariteit van die elektrodes dieselfde te hou. \n \n \nTo prevent the anode and cathode from swopping. \nOm te verhoed dat die anode en katode omruil. \n \n \nDC provides a one way flow of electrons ensuring that the same chemical \nreaction occurs all the time at the electrodes. \nGS verskaf 'n eenrigting vloei van elektrone en verseker dat dieselfde \nchemiese reaksie altyd by die elektrodes plaasvind. \n \n \nIf you use AC the polarity of the electrodes will keep changing. \nWanneer jy WS gebruik word hou die polariteit van die elektrodes aan om \nte verander. \n \n \nPure copper deposited on only one electrode. \n \nSuiwer koper slaan slegs op een elektrode neer. \n \n \n(1)",
+          "answer_english": "9.2 \nANY ONE/ENIGE EEN: \n \nTo keep the polarity of the electrodes the same.  \n \n \nTo prevent the anode and cathode from swopping. \n \n \nDC provides a one way flow of electrons ensuring that the same chemical \nreaction occurs all the time at the electrodes. \n \n \nIf you use AC the polarity of the electrodes will keep changing. \nte verander. \n \n \nPure copper deposited on only one electrode. \n \n \n \n(1)",
+          "answer_afrikaans": "Om die polariteit van die elektrodes dieselfde te hou. \nOm te verhoed dat die anode en katode omruil. \nGS verskaf 'n eenrigting vloei van elektrone en verseker dat dieselfde \nchemiese reaksie altyd by die elektrodes plaasvind. \nWanneer jy WS gebruik word hou die polariteit van die elektrodes aan om \nSuiwer koper slaan slegs op een elektrode neer.",
+          "marking_criteria": []
+        },
+        {
+          "label": "9.3",
+          "question": "9.3 \nWrite down the half-reaction which takes place at electrode A. \n (2)",
+          "answer": "9.3 \nCu2+ (aq) + 2e-  Cu (s)  \nIgnore phases. / Ignoreer fases. \n \n \n \nNotes/Aantekeninge \nCu2+ + 2e- ⇌ Cu (\n2\n1 ) \n \n \nCu ← Cu2+ + 2e- (\n2\n2 ) \nCu ⇌ Cu2+ + 2e- (\n2\n0 ) \n \nCu2+ + 2e- ← Cu (\n2\n0 ) \n \n \n(2) \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n16 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_english": "9.3 \nCu2+ (aq) + 2e-  Cu (s)  \nIgnore phases. / Ignoreer fases. \n \n \n \nNotes/Aantekeninge \nCu2+ + 2e- ⇌ Cu (\n2\n1 ) \n \n \nCu ← Cu2+ + 2e- (\n2\n2 ) \nCu ⇌ Cu2+ + 2e- (\n2\n0 ) \n \nCu2+ + 2e- ← Cu (\n2\n0 ) \n \n \n(2) \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n16 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou \n \nPlease turn over/Blaai om assbelief",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "9.4",
+          "question": "9.4 \nDue to small amounts of zinc impurities in the impure copper, the electrolyte \nbecomes contaminated with Zn2+ ions. \n \nRefer to the attached Table of Standard Reduction Potentials to explain why \nthe Zn2+ ions will not influence the purity of the copper obtained during this \nprocess. \n \n \n \n(3)",
+          "answer": "9.4 \n \nCu2+ is a stronger oxidising agent  than Zn2+.  \nCu2+ is 'n sterker oksideermiddel as Zn2+. \n \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu.  \n \nOR/OF \n \nZn is a stronger reducing agent than Cu. \nZn is 'n sterker reduseermiddel as Cu. \n \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu. \n \nOR/OF \n \nThe standard reduction potential of Cu2+|Cu is higher than that of Zn2+|Zn. \nDie standaard reduksie potensiaal van Cu2+|Cu is hoër as die van \nZn2+|Zn. \n \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu. \n \nOR/OF \n \nThe standard reduction potential of Zn2+|Zn is lower than that of Cu2+|Cu. \nDie standaard reduksie potensiaal van Zn2+|Zn is laer as die van Cu2+|Cu. \n \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu. \n \n(3)",
+          "answer_english": "9.4 \n \nCu2+ is a stronger oxidising agent  than Zn2+.  \n \n \nOR/OF \n \nZn is a stronger reducing agent than Cu. \n \n \nOR/OF \n \nThe standard reduction potential of Cu2+|Cu is higher than that of Zn2+|Zn. \nZn2+|Zn. \n \n \nOR/OF \n \nThe standard reduction potential of Zn2+|Zn is lower than that of Cu2+|Cu. \n \n \n(3)",
+          "answer_afrikaans": "Cu2+ is 'n sterker oksideermiddel as Zn2+. \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu.  \nZn is 'n sterker reduseermiddel as Cu. \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu. \nDie standaard reduksie potensiaal van Cu2+|Cu is hoër as die van \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu. \nDie standaard reduksie potensiaal van Zn2+|Zn is laer as die van Cu2+|Cu. \nCu2+ will be reduced to Cu. / Cu2+ sal gereduseer word na Cu.",
+          "marking_criteria": []
+        },
+        {
+          "label": "9.5",
+          "question": "9.5 \nAfter the purification of the impure copper was completed, it was found that \n2,85 x 10-2 moles of copper were formed. \n \nThe initial mass of electrode B was 2,0 g. Calculate the percentage of copper \nthat was initially present in electrode B. \n \n \n \n \n(4) \n \n \n [12] \n \n \nDC source \nElectrode B \n(impure copper) \nElectrode A \nElectrolyte \n\nPhysical Sciences/P2 \n15 \n DBE/November 2015 \nNSC \nCopyright reserved",
+          "answer": "9.5 \ng\n81\n,1\nm\n5,\n63\nm\n10\nx\n85\n,2\nM\nm\nn\n2\n\n\n\n\n \n \n%\n49\n,\n90\n100\n2\n81\n,1\npurity\n%\n\n\n\n \nMarking guidelines/Nasienriglyne \n Substitute 63,5 and 2,85 x 10-2  in \nM\nm\nn \n \n \nVervang 63,5 en 2,85 x 10-2 in \nM\nm\nn \n \n Percentage purity.  \n \nPersentasie suiwerheid. \n \n Final answer/Finale antwoord: \n \n90,49%  (Accept/Aanvaar: 90,5%) \n \n \n \n \n \n \n(4) \n \n \n \n \n \n \n \n[12] \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n17 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou",
+          "answer_english": "9.5 \ng\n81\n,1\nm\n5,\n63\nm\n10\nx\n85\n,2\nM\nm\nn\n2\n\n\n\n\n \n \n%\n49\n,\n90\n100\n2\n81\n,1\npurity\n%\n\n\n\n \nMarking guidelines/Nasienriglyne \n Substitute 63,5 and 2,85 x 10-2  in \nM\nm\nn \n \n \nM\nm\nn \n \n Percentage purity.  \n \nPersentasie suiwerheid. \n \n Final answer/Finale antwoord: \n \n90,49%  (Accept/Aanvaar: 90,5%) \n \n \n \n \n \n \n(4) \n \n \n \n \n \n \n \n[12] \n \n \n \n \n \n\nPhysical Sciences P2/Fisiese Wetenskappe V2 \n17 \nDBE/November 2015 \n \nNSC/NSS – Memorandum \nCopyright reserved/Kopiereg voorbehou",
+          "answer_afrikaans": "Vervang 63,5 en 2,85 x 10-2 in",
+          "marking_criteria": []
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "topic": "question_10",
+      "marks": 12,
+      "start_page": 15,
+      "end_page": 19,
+      "full_text": "QUESTION 10 (Start on a new page.) \n \n \nAmmonia is an important fertiliser. Large amounts are prepared from hydrogen and \nnitrogen in industry. \n \n \n10.1 \nFor the industrial preparation of ammonia, write down: \n \n \n \n10.1.1 \nThe name of the process used \n (1) \n \n \n10.1.2 \nA balanced equation for the reaction that occurs \n (3) \n \n \n10.1.3 \nThe source of nitrogen \n (1) \n \n10.2 \nThe yield of ammonia changes with temperature and pressure during its \nindustrial preparation. The graphs below show how the percentage of \nammonia in the reaction mixture that leaves the reaction vessel varies under \ndifferent conditions. \n \n \n \n \n \n10.2.1 \nUse the appropriate graph to estimate the percentage of ammonia \npresent in the reaction mixture at 240 atmosphere and 400 °C. \n \n(1) \n \n \n10.2.2 \nState TWO advantages of using high pressure in the preparation of \nammonia. \n \n(2) \n \n \n10.2.3 \nThe advantage of using a low temperature is the large percentage \nof ammonia formed. What is the disadvantage of using a low \ntemperature? \n \n(1) \n \n10.3 \nAmmonia is also used in the preparation of other fertilisers such as \nammonium nitrate. Calculate the mass of nitrogen in a 50 kg bag of pure \nammonium nitrate fertiliser. \n \n(3) \n \n \n [12] \n \n \nTOTAL: 150 \n \n300 °C \n400 °C \n500 °C \nGRAPHS OF THE PERCENTAGE OF AMMONIA IN \nTHE REACTION MIXTURE VERSUS PRESSURE \nPressure (atmosphere) \nPercentage \n\nPhysical Sciences/P2 \n DBE/November 2015 \n NSC \nCopyright reserved \n \nDATA FOR PHYSICAL SCIENCES GRADE 12 \nPAPER 2 (CHEMISTRY) \n \nGEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12 \nVRAESTEL 2 (CHEMIE) \n \nTABLE 1: PHYSICAL CONSTANTS/TABEL 1: FISIESE KONSTANTES \n \nNAME/NAAM \nSYMBOL/SIMBOOL \nVALUE/WAARDE \nStandard pressure \nStandaarddruk \nθ\np \n1,013 x 105 Pa \nMolar gas volume at STP \nMolêre gasvolume by STD \nVm \n22,4 dm3∙mol-1 \nStandard temperature \nStandaardtemperatuur \nθ\nT \n273 K \nCharge on electron \nLading op elektron \ne \n-1,6 x 10-19 C \nAvogadro's constant \nAvogadro-konstante \nNA \n6,02 x 1023 mol-1 \n \n \nTABLE 2: FORMULAE/TABEL 2: FORMULES \n \nM\nm\nn=\n \nA\nN\nN\nn=\n \nV\nn\nc =\n or/of \nMV\nm\nc =\n \nm\nV\nV\nn=\n \nb\na\nb\nb\na\na\nn\nn\nv\nc\nv\nc\n=\n \npH = -log[H3O+] \nKw = [H3O+][OH-] = 1 x 10-14 at/by 298 K \nθ\nanode\nθ\ncathode\nθ\ncell\nE\nE\nE\n−\n=\n /\nθ\nanode\nθ\nkatode\nθ\nsel\nE\nE\nE\n−\n=\n \n \nor/of \nθ\noxidation\nθ\nreduction\nθ\ncell\nE\nE\nE\n−\n=\n/\nθ\noksidasie\nθ\nreduksie\nθ\nsel\nE\nE\nE\n−\n=\n \n \nor/of \nθ\nagent\n \nreducing\nθ\nagent\n \noxidising\nθ\ncell\nE\nE\nE\n−\n=\n /\nθ\nddel\nreduseermi\nθ\nddel\noksideermi\nθ\nsel\nE\nE\nE\n−\n=\n \n \n \n \n \n \n\nPhysical Sciences/P2 \n \nDBE/November 2015 \n \n NSC \nCopyright reserved \n \n \nTABLE 3: THE PERIODIC TABLE OF ELEMENTS \nTABEL 3: DIE PERIODIEKE TABEL VAN ELEMENTE\n1 \n(I) \n2 \n(II) \n \n3 \n \n4 \n \n5 \n \n6 \n \n7 \n \n8 \n \n9 \n \n10 \n \n11 \n \n12 \n13 \n(III) \n14 \n(IV) \n15 \n(V) \n16 \n(VI) \n17 \n(VII) \n18 \n(VIII) \n2,1 \n1 \nH \n1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2 \nHe \n4 \n1,0 \n3 \nLi \n7 \n1,5 \n4 \nBe \n9 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2,0 \n5 \nB \n11 \n2,5 \n6 \nC \n12 \n3,0 \n7 \nN \n14 \n3,5 \n8 \nO \n16 \n4,0 \n9 \nF \n19 \n \n10 \nNe \n20 \n0,9 \n11 \nNa \n23 \n1,2 \n12 \nMg \n24 \n \n \n \n \n \n \n \n \n \n \n1,5 \n13 \nAℓ \n27 \n1,8 \n14 \nSi \n28 \n2,1 \n15 \nP \n31 \n2,5 \n16 \nS \n32 \n3,0 \n17 \nCℓ \n35,5 \n \n18 \nAr \n40 \n0,8 \n19 \nK \n39 \n1,0 \n20 \nCa \n40 \n1,3 \n21 \nSc \n45 \n1,5 \n22 \nTi \n48 \n1,6 \n23 \nV \n51 \n1,6 \n24 \nCr \n52 \n1,5 \n25 \nMn \n55 \n1,8 \n26 \nFe \n56 \n1,8 \n27 \nCo \n59 \n1,8 \n28 \nNi \n59 \n1,9 \n29 \nCu \n63,5 \n1,6 \n30 \nZn \n65 \n1,6 \n31 \nGa \n70 \n1,8 \n32 \nGe \n73 \n2,0 \n33 \nAs \n75 \n2,4 \n34 \nSe \n79 \n2,8 \n35 \nBr \n80 \n \n36 \nKr \n84 \n0,8 \n37 \nRb \n86 \n1,0 \n38 \nSr \n88 \n1,2 \n39 \nY \n89 \n1,4 \n40 \nZr \n91 \n \n41 \nNb \n92 \n1,8 \n42 \nMo \n96 \n1,9 \n43 \nTc \n \n2,2 \n44 \nRu \n101 \n2,2 \n45 \nRh \n103 \n2,2 \n46 \nPd \n106 \n1,9 \n47 \nAg \n108 \n1,7 \n48 \nCd \n112 \n1,7 \n49 \nIn \n115 \n1,8 \n50 \nSn \n119 \n1,9 \n51 \nSb \n122 \n2,1 \n52 \nTe \n128 \n2,5 \n53 \nI \n127 \n \n54 \nXe \n131 \n0,7 \n55 \nCs \n133 \n0,9 \n56 \nBa \n137 \n \n57 \nLa \n139 \n1,6 \n72 \nHf \n179 \n \n73 \nTa \n181 \n \n74 \nW \n184 \n \n75 \nRe \n186 \n \n76 \nOs \n190 \n \n77 \nIr \n192 \n \n78 \nPt \n195 \n \n79 \nAu \n197 \n \n80 \nHg \n201 \n1,8 \n81 \nTℓ \n204 \n1,8 \n82 \nPb \n207 \n1,9 \n83 \nBi \n209 \n2,0 \n84 \nPo \n \n2,5 \n85 \nAt \n \n \n86 \nRn \n \n0,7 \n87 \nFr \n \n0,9 \n88 \nRa \n226 \n \n89 \nAc \n \n \n \n \n \n \n \n \n \n58 \nCe \n140 \n59 \nPr \n141 \n60 \nNd \n144 \n61 \nPm \n \n62 \nSm \n150 \n63 \nEu \n152 \n64 \nGd \n157 \n65 \nTb \n159 \n66 \nDy \n163 \n67 \nHo \n165 \n68 \nEr \n167 \n69 \nTm \n169 \n70 \nYb \n173 \n71 \nLu \n175 \n \n90 \nTh \n232 \n91 \nPa \n \n92 \nU \n238 \n93 \nNp \n \n94 \nPu \n \n95 \nAm \n \n96 \nCm \n \n97 \nBk \n \n98 \nCf \n \n99 \nEs \n \n100 \nFm \n \n101 \nMd \n \n102 \nNo \n \n103 \nLr \n \nElectronegativity \nElektronegatiwiteit \nApproximate relative atomic mass \nBenaderde relatiewe atoommassa \nAtomic number \nAtoomgetal \n 29 \n Cu \n 63,5 \n1,9 \n Symbol \n Simbool \nKEY/SLEUTEL \n\nPhysical Sciences/P2 \n DBE/November 2015 \n \n NSC \nCopyright reserved \nTABLE 4A: STANDARD REDUCTION POTENTIALS \nTABEL 4A: STANDAARD-REDUKSIEPOTENSIALE \nHalf-reactions/Halfreaksies \nθ\nE\n (V) \nF2(g) + 2e− \n⇌ \n2F− \n+ 2,87 \nCo3+ + e− \n⇌ \nCo2+ \n+ 1,81 \nH2O2 + 2H+ +2e− \n⇌ \n2H2O \n+1,77 \nMnO −\n4 + 8H+ + 5e− \n⇌ \nMn2+ + 4H2O \n+ 1,51 \nCℓ2(g) + 2e− \n⇌ \n2Cℓ− \n+ 1,36 \nCr2O\n−\n2\n7 + 14H+ + 6e− \n⇌ \n2Cr3+ + 7H2O \n+ 1,33 \nO2(g) + 4H+ + 4e− \n⇌ \n2H2O \n+ 1,23 \nMnO2\n + 4H+ + 2e− \n⇌ \nMn2+ + 2H2O \n+ 1,23 \nPt2+ + 2e− \n⇌ \nPt \n+ 1,20 \nBr2(ℓ) + 2e− \n⇌ \n2Br− \n+ 1,07 \nNO −\n3 + 4H+ + 3e− \n⇌ \nNO(g) + 2H2O \n+ 0,96 \nHg2+ + 2e− \n⇌ \nHg(ℓ) \n+ 0,85 \nAg+ + e− \n⇌ \nAg \n+ 0,80 \nNO −\n3 + 2H+ + e− \n⇌ \nNO2(g) + H2O \n+ 0,80 \nFe3+ + e− \n⇌ \nFe2+ \n+ 0,77 \nO2(g) + 2H+ + 2e− \n⇌ \nH2O2 \n+ 0,68 \nI2 + 2e− \n⇌ \n2I− \n+ 0,54 \nCu+ + e− \n⇌ \nCu \n+ 0,52 \nSO2 + 4H+ + 4e− \n⇌ \nS + 2H2O \n+ 0,45 \n2H2O + O2 + 4e− \n⇌ \n4OH− \n+ 0,40 \nCu2+ + 2e− \n⇌ \nCu \n+ 0,34 \nSO\n−\n2\n4 + 4H+ + 2e− \n⇌ \nSO2(g) + 2H2O \n+ 0,17 \nCu2+ + e− \n⇌ \nCu+ \n+ 0,16 \nSn4+ + 2e− \n⇌ \nSn2+ \n+ 0,15 \nS + 2H+ + 2e− ⇌ \nH2S(g) \n+ 0,14 \n2H+ + 2e− \n⇌ \nH2(g) \n0,00 \nFe3+ + 3e− \n⇌ \nFe \n− 0,06 \nPb2+ + 2e− \n⇌ \nPb \n− 0,13 \nSn2+ + 2e− \n⇌ \nSn \n− 0,14 \nNi2+ + 2e− \n⇌ \nNi \n− 0,27 \nCo2+ + 2e− \n⇌ \nCo \n− 0,28 \nCd2+ + 2e− \n⇌ \nCd \n− 0,40 \nCr3+ + e− \n⇌ \nCr2+ \n− 0,41 \nFe2+ + 2e− \n⇌ \nFe \n− 0,44 \nCr3+ + 3e− \n⇌ \nCr \n− 0,74 \nZn2+ + 2e− \n⇌ \nZn \n− 0,76 \n2H2O + 2e− \n⇌ \nH2(g) + 2OH− \n− 0,83 \nCr2+ + 2e− \n⇌ \nCr \n− 0,91 \nMn2+ + 2e− \n⇌ \nMn \n− 1,18 \nAℓ3+ + 3e− \n⇌ \nAℓ \n− 1,66 \nMg2+ + 2e− \n⇌ \nMg \n− 2,36 \nNa+ + e− \n⇌ \nNa \n− 2,71 \nCa2+ + 2e− \n⇌ \nCa \n− 2,87 \nSr2+ + 2e− \n⇌ \nSr \n− 2,89 \nBa2+ + 2e− \n⇌ \nBa \n− 2,90 \nCs+ + e- \n⇌ \nCs \n- 2,92 \nK+ + e− \n⇌ \nK \n− 2,93 \nLi+ + e− \n⇌ \nLi \n− 3,05 \nIncreasing oxidising ability/Toenemende oksiderende vermoë \nIncreasing reducing ability/Toenemende reduserende vermoë \n\nPhysical Sciences/P2 \nDBE/November 2015 \nNSC \nCopyright reserved \nTABLE 4B: STANDARD REDUCTION POTENTIALS \nTABEL 4B: STANDAARD-REDUKSIEPOTENSIALE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nHalf-reactions/Halfreaksies \nθ\nE\n (V) \nLi+ + e− \n⇌ \nLi \n− 3,05 \nK+ + e− \n⇌ \nK \n− 2,93 \nCs+ + e− \n⇌ \nCs \n− 2,92 \nBa2+ + 2e− \n⇌ \nBa \n− 2,90 \nSr2+ + 2e− \n⇌ \nSr \n− 2,89 \nCa2+ + 2e− \n⇌ \nCa \n− 2,87 \nNa+ + e− \n⇌ \nNa \n− 2,71 \nMg2+ + 2e− \n⇌ \nMg \n− 2,36 \nAℓ3+ + 3e− \n⇌ \nAℓ \n− 1,66 \nMn2+ + 2e− \n⇌ \nMn \n− 1,18 \nCr2+ + 2e− \n⇌ \nCr \n− 0,91 \n2H2O + 2e− \n⇌ \nH2(g) + 2OH− \n− 0,83 \nZn2+ + 2e− \n⇌ \nZn \n− 0,76 \nCr3+ + 3e− \n⇌ \nCr \n− 0,74 \nFe2+ + 2e− \n⇌ \nFe \n− 0,44 \nCr3+ + e− \n⇌ \nCr2+ \n− 0,41 \nCd2+ + 2e− \n⇌ \nCd \n− 0,40 \nCo2+ + 2e− \n⇌ \nCo \n− 0,28 \nNi2+ + 2e− \n⇌ \nNi \n− 0,27 \nSn2+ + 2e− \n⇌ \nSn \n− 0,14 \nPb2+ + 2e− \n⇌ \nPb \n− 0,13 \nFe3+ + 3e− \n⇌ \nFe \n− 0,06 \n2H+ + 2e− \n⇌ \nH2(g) \n0,00 \nS + 2H+ + 2e− ⇌ \nH2S(g) \n+ 0,14 \nSn4+ + 2e− \n⇌ \nSn2+ \n+ 0,15 \nCu2+ + e− \n⇌ \nCu+ \n+ 0,16 \nSO\n−\n2\n4 + 4H+ + 2e− \n⇌ \nSO2(g) + 2H2O \n+ 0,17 \nCu2+ + 2e− \n⇌ \nCu \n+ 0,34 \n2H2O + O2 + 4e− \n⇌ \n4OH− \n+ 0,40 \nSO2 + 4H+ + 4e− \n⇌ \nS + 2H2O \n+ 0,45 \nCu+ + e− \n⇌ \nCu \n+ 0,52 \nI2 + 2e− \n⇌ \n2I− \n+ 0,54 \nO2(g) + 2H+ + 2e− \n⇌ \nH2O2 \n+ 0,68 \nFe3+ + e− \n⇌ \nFe2+ \n+ 0,77 \nNO −\n3 + 2H+ + e− \n⇌ \nNO2(g) + H2O \n+ 0,80 \nAg+ + e− \n⇌ \nAg \n+ 0,80 \nHg2+ + 2e− \n⇌ \nHg(ℓ) \n+ 0,85 \nNO −\n3 + 4H+ + 3e− \n⇌ \nNO(g) + 2H2O \n+ 0,96 \nBr2(ℓ) + 2e− \n⇌ \n2Br− \n+ 1,07 \nPt2+ + 2 e− \n⇌ \nPt \n+ 1,20 \nMnO2\n + 4H+ + 2e− \n⇌ \nMn2+ + 2H2O \n+ 1,23 \nO2(g) + 4H+ + 4e−\n \n⇌ \n2H2O \n+ 1,23 \nCr2O\n−\n2\n7 + 14H+ + 6e− \n⇌ \n2Cr3+ + 7H2O \n+ 1,33 \nCℓ2(g) + 2e− \n⇌ \n2Cℓ− \n+ 1,36 \nMnO −\n4 + 8H+ + 5e− \n⇌ \nMn2+ + 4H2O \n+ 1,51 \nH2O2 + 2H+ +2 e− \n⇌ \n2H2O \n+1,77 \nCo3+ + e− \n⇌ \nCo2+ \n+ 1,81 \nF2(g) + 2e− \n⇌ \n2F− \n+ 2,87 \nIncreasing oxidising ability/Toenemende oksiderende vermoë \nIncreasing reducing ability/Toenemende reduserende vermoë",
+      "memo_full_text": "QUESTION 10/VRAAG 10 \n \n \n10.1 \n10.1.1 \n \nHaber (process) / Haber(proses)  \n \n(1) \n \n10.1.2 \nN2 + 3H2 ⇌ 2NH3  bal  \n \n \nNotes/Aantekeninge \n \nReactants  \n Products  \nBalancing  \n \nReaktanse  \n Produkte  \nBalansering  \n \nIgnore/Ignoreer → and phases / en fases \n \nMarking rule 6.3.10/Nasienreël 6.3.10 \n \n(3) \n \n10.1.3 \nAir / Lug  \n \n(1) \n \n10.2 \n10.2.1 \n \n40%  \n \n(1) \n \n10.2.2 \n \nHigh yield / percentage  \nHoë opbrengs / persentasie \n \nHigh rate due to higher concentration.  \nHoë tempo weens hoër konsentrasie. \n \n(2) \n \n10.2.3 \nLow reaction rate / Lae reaksietempo  \n \n(1) \n \n10.3 \nMarking guidelines/Nasienriglyne \n80\n28  x 50  17,5 kg  \n \n \n \nOPTION 1/OPSIE 1 \n% N in NH4NO3 = 80\n28 100\n\n \n \n= 35% \nm(N) in 50 kg: \n50\n100\n35 \n = 17,5 kg  \nOPTION 2/OPSIE 2 \nm(N in NH4NO3) = 80\n28  x 50  \n \n \n = 17,5 kg  \n \n \n \n \n(3) \n \n \nTOTAL/TOTAAL: \n150",
+      "sub_questions": [
+        {
+          "label": "10.1",
+          "question": "10.1 \nFor the industrial preparation of ammonia, write down:",
+          "answer": "10.1",
+          "answer_english": "10.1",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "10.1.1",
+          "question": "10.1.1 \nThe name of the process used \n (1)",
+          "answer": "10.1.1 \n \nHaber (process) / Haber(proses)  \n \n(1)",
+          "answer_english": "10.1.1 \n \nHaber (process) / Haber(proses)  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "10.1.2",
+          "question": "10.1.2 \nA balanced equation for the reaction that occurs \n (3)",
+          "answer": "10.1.2 \nN2 + 3H2 ⇌ 2NH3  bal  \n \n \nNotes/Aantekeninge \n \nReactants  \n Products  \nBalancing  \n \nReaktanse  \n Produkte  \nBalansering  \n \nIgnore/Ignoreer → and phases / en fases \n \nMarking rule 6.3.10/Nasienreël 6.3.10 \n \n(3)",
+          "answer_english": "10.1.2 \nN2 + 3H2 ⇌ 2NH3  bal  \n \n \nNotes/Aantekeninge \n \nReactants  \n Products  \nBalancing  \n \nReaktanse  \n Produkte  \nBalansering  \n \n \nMarking rule 6.3.10/Nasienreël 6.3.10 \n \n(3)",
+          "answer_afrikaans": "Ignore/Ignoreer → and phases / en fases",
+          "marking_criteria": []
+        },
+        {
+          "label": "10.1.3",
+          "question": "10.1.3 \nThe source of nitrogen \n (1)",
+          "answer": "10.1.3 \nAir / Lug  \n \n(1)",
+          "answer_english": "10.1.3 \nAir / Lug  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "10.2",
+          "question": "10.2 \nThe yield of ammonia changes with temperature and pressure during its \nindustrial preparation. The graphs below show how the percentage of \nammonia in the reaction mixture that leaves the reaction vessel varies under \ndifferent conditions.",
+          "answer": "10.2",
+          "answer_english": "10.2",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "10.2.1",
+          "question": "10.2.1 \nUse the appropriate graph to estimate the percentage of ammonia \npresent in the reaction mixture at 240 atmosphere and 400 °C. \n \n(1)",
+          "answer": "10.2.1 \n \n40%  \n \n(1)",
+          "answer_english": "10.2.1 \n \n40%  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "10.2.2",
+          "question": "10.2.2 \nState TWO advantages of using high pressure in the preparation of \nammonia. \n \n(2)",
+          "answer": "10.2.2 \n \nHigh yield / percentage  \nHoë opbrengs / persentasie \n \nHigh rate due to higher concentration.  \nHoë tempo weens hoër konsentrasie. \n \n(2)",
+          "answer_english": "10.2.2 \n \nHigh yield / percentage  \nHoë opbrengs / persentasie \n \nHigh rate due to higher concentration.  \nHoë tempo weens hoër konsentrasie. \n \n(2)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "10.2.3",
+          "question": "10.2.3 \nThe advantage of using a low temperature is the large percentage \nof ammonia formed. What is the disadvantage of using a low \ntemperature? \n \n(1)",
+          "answer": "10.2.3 \nLow reaction rate / Lae reaksietempo  \n \n(1)",
+          "answer_english": "10.2.3 \nLow reaction rate / Lae reaksietempo  \n \n(1)",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        },
+        {
+          "label": "10.3",
+          "question": "10.3 \nAmmonia is also used in the preparation of other fertilisers such as \nammonium nitrate. Calculate the mass of nitrogen in a 50 kg bag of pure \nammonium nitrate fertiliser. \n \n(3) \n \n \n [12] \n \n \nTOTAL: 150 \n \n300 °C \n400 °C \n500 °C \nGRAPHS OF THE PERCENTAGE OF AMMONIA IN \nTHE REACTION MIXTURE VERSUS PRESSURE \nPressure (atmosphere) \nPercentage \n\nPhysical Sciences/P2 \n DBE/November 2015 \n NSC \nCopyright reserved \n \nDATA FOR PHYSICAL SCIENCES GRADE 12 \nPAPER 2 (CHEMISTRY) \n \nGEGEWENS VIR FISIESE WETENSKAPPE GRAAD 12 \nVRAESTEL 2 (CHEMIE) \n \nTABLE 1: PHYSICAL CONSTANTS/TABEL 1: FISIESE KONSTANTES \n \nNAME/NAAM \nSYMBOL/SIMBOOL \nVALUE/WAARDE \nStandard pressure \nStandaarddruk \nθ\np \n1,013 x 105 Pa \nMolar gas volume at STP \nMolêre gasvolume by STD \nVm \n22,4 dm3∙mol-1 \nStandard temperature \nStandaardtemperatuur \nθ\nT \n273 K \nCharge on electron \nLading op elektron \ne \n-1,6 x 10-19 C \nAvogadro's constant \nAvogadro-konstante \nNA \n6,02 x 1023 mol-1 \n \n \nTABLE 2: FORMULAE/TABEL 2: FORMULES \n \nM\nm\nn=\n \nA\nN\nN\nn=\n \nV\nn\nc =\n or/of \nMV\nm\nc =\n \nm\nV\nV\nn=\n \nb\na\nb\nb\na\na\nn\nn\nv\nc\nv\nc\n=\n \npH = -log[H3O+] \nKw = [H3O+][OH-] = 1 x 10-14 at/by 298 K \nθ\nanode\nθ\ncathode\nθ\ncell\nE\nE\nE\n−\n=\n /\nθ\nanode\nθ\nkatode\nθ\nsel\nE\nE\nE\n−\n=\n \n \nor/of \nθ\noxidation\nθ\nreduction\nθ\ncell\nE\nE\nE\n−\n=\n/\nθ\noksidasie\nθ\nreduksie\nθ\nsel\nE\nE\nE\n−\n=\n \n \nor/of \nθ\nagent\n \nreducing\nθ\nagent\n \noxidising\nθ\ncell\nE\nE\nE\n−\n=\n /\nθ\nddel\nreduseermi\nθ\nddel\noksideermi\nθ\nsel\nE\nE\nE\n−\n=\n \n \n \n \n \n \n\nPhysical Sciences/P2 \n \nDBE/November 2015 \n \n NSC \nCopyright reserved \n \n \nTABLE 3: THE PERIODIC TABLE OF ELEMENTS \nTABEL 3: DIE PERIODIEKE TABEL VAN ELEMENTE\n1 \n(I) \n2 \n(II) \n \n3 \n \n4 \n \n5 \n \n6 \n \n7 \n \n8 \n \n9 \n \n10 \n \n11 \n \n12 \n13 \n(III) \n14 \n(IV) \n15 \n(V) \n16 \n(VI) \n17 \n(VII) \n18 \n(VIII) \n2,1 \n1 \nH \n1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2 \nHe \n4 \n1,0 \n3 \nLi \n7 \n1,5 \n4 \nBe \n9 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2,0 \n5 \nB \n11 \n2,5 \n6 \nC \n12 \n3,0 \n7 \nN \n14 \n3,5 \n8 \nO \n16 \n4,0 \n9 \nF \n19 \n \n10 \nNe \n20 \n0,9 \n11 \nNa \n23 \n1,2 \n12 \nMg \n24 \n \n \n \n \n \n \n \n \n \n \n1,5 \n13 \nAℓ \n27 \n1,8 \n14 \nSi \n28 \n2,1 \n15 \nP \n31 \n2,5 \n16 \nS \n32 \n3,0 \n17 \nCℓ \n35,5 \n \n18 \nAr \n40 \n0,8 \n19 \nK \n39 \n1,0 \n20 \nCa \n40 \n1,3 \n21 \nSc \n45 \n1,5 \n22 \nTi \n48 \n1,6 \n23 \nV \n51 \n1,6 \n24 \nCr \n52 \n1,5 \n25 \nMn \n55 \n1,8 \n26 \nFe \n56 \n1,8 \n27 \nCo \n59 \n1,8 \n28 \nNi \n59 \n1,9 \n29 \nCu \n63,5 \n1,6 \n30 \nZn \n65 \n1,6 \n31 \nGa \n70 \n1,8 \n32 \nGe \n73 \n2,0 \n33 \nAs \n75 \n2,4 \n34 \nSe \n79 \n2,8 \n35 \nBr \n80 \n \n36 \nKr \n84 \n0,8 \n37 \nRb \n86 \n1,0 \n38 \nSr \n88 \n1,2 \n39 \nY \n89 \n1,4 \n40 \nZr \n91 \n \n41 \nNb \n92 \n1,8 \n42 \nMo \n96 \n1,9 \n43 \nTc \n \n2,2 \n44 \nRu \n101 \n2,2 \n45 \nRh \n103 \n2,2 \n46 \nPd \n106 \n1,9 \n47 \nAg \n108 \n1,7 \n48 \nCd \n112 \n1,7 \n49 \nIn \n115 \n1,8 \n50 \nSn \n119 \n1,9 \n51 \nSb \n122 \n2,1 \n52 \nTe \n128 \n2,5 \n53 \nI \n127 \n \n54 \nXe \n131 \n0,7 \n55 \nCs \n133 \n0,9 \n56 \nBa \n137 \n \n57 \nLa \n139 \n1,6 \n72 \nHf \n179 \n \n73 \nTa \n181 \n \n74 \nW \n184 \n \n75 \nRe \n186 \n \n76 \nOs \n190 \n \n77 \nIr \n192 \n \n78 \nPt \n195 \n \n79 \nAu \n197 \n \n80 \nHg \n201 \n1,8 \n81 \nTℓ \n204 \n1,8 \n82 \nPb \n207 \n1,9 \n83 \nBi \n209 \n2,0 \n84 \nPo \n \n2,5 \n85 \nAt \n \n \n86 \nRn \n \n0,7 \n87 \nFr \n \n0,9 \n88 \nRa \n226 \n \n89 \nAc \n \n \n \n \n \n \n \n \n \n58 \nCe \n140 \n59 \nPr \n141 \n60 \nNd \n144 \n61 \nPm \n \n62 \nSm \n150 \n63 \nEu \n152 \n64 \nGd \n157 \n65 \nTb \n159 \n66 \nDy \n163 \n67 \nHo \n165 \n68 \nEr \n167 \n69 \nTm \n169 \n70 \nYb \n173 \n71 \nLu \n175 \n \n90 \nTh \n232 \n91 \nPa \n \n92 \nU \n238 \n93 \nNp \n \n94 \nPu \n \n95 \nAm \n \n96 \nCm \n \n97 \nBk \n \n98 \nCf \n \n99 \nEs \n \n100 \nFm \n \n101 \nMd \n \n102 \nNo \n \n103 \nLr \n \nElectronegativity \nElektronegatiwiteit \nApproximate relative atomic mass \nBenaderde relatiewe atoommassa \nAtomic number \nAtoomgetal \n 29 \n Cu \n 63,5 \n1,9 \n Symbol \n Simbool \nKEY/SLEUTEL \n\nPhysical Sciences/P2 \n DBE/November 2015 \n \n NSC \nCopyright reserved \nTABLE 4A: STANDARD REDUCTION POTENTIALS \nTABEL 4A: STANDAARD-REDUKSIEPOTENSIALE \nHalf-reactions/Halfreaksies \nθ\nE\n (V) \nF2(g) + 2e− \n⇌ \n2F− \n+ 2,87 \nCo3+ + e− \n⇌ \nCo2+ \n+ 1,81 \nH2O2 + 2H+ +2e− \n⇌ \n2H2O \n+1,77 \nMnO −\n4 + 8H+ + 5e− \n⇌ \nMn2+ + 4H2O \n+ 1,51 \nCℓ2(g) + 2e− \n⇌ \n2Cℓ− \n+ 1,36 \nCr2O\n−\n2\n7 + 14H+ + 6e− \n⇌ \n2Cr3+ + 7H2O \n+ 1,33 \nO2(g) + 4H+ + 4e− \n⇌ \n2H2O \n+ 1,23 \nMnO2\n + 4H+ + 2e− \n⇌ \nMn2+ + 2H2O \n+ 1,23 \nPt2+ + 2e− \n⇌ \nPt \n+ 1,20 \nBr2(ℓ) + 2e− \n⇌ \n2Br− \n+ 1,07 \nNO −\n3 + 4H+ + 3e− \n⇌ \nNO(g) + 2H2O \n+ 0,96 \nHg2+ + 2e− \n⇌ \nHg(ℓ) \n+ 0,85 \nAg+ + e− \n⇌ \nAg \n+ 0,80 \nNO −\n3 + 2H+ + e− \n⇌ \nNO2(g) + H2O \n+ 0,80 \nFe3+ + e− \n⇌ \nFe2+ \n+ 0,77 \nO2(g) + 2H+ + 2e− \n⇌ \nH2O2 \n+ 0,68 \nI2 + 2e− \n⇌ \n2I− \n+ 0,54 \nCu+ + e− \n⇌ \nCu \n+ 0,52 \nSO2 + 4H+ + 4e− \n⇌ \nS + 2H2O \n+ 0,45 \n2H2O + O2 + 4e− \n⇌ \n4OH− \n+ 0,40 \nCu2+ + 2e− \n⇌ \nCu \n+ 0,34 \nSO\n−\n2\n4 + 4H+ + 2e− \n⇌ \nSO2(g) + 2H2O \n+ 0,17 \nCu2+ + e− \n⇌ \nCu+ \n+ 0,16 \nSn4+ + 2e− \n⇌ \nSn2+ \n+ 0,15 \nS + 2H+ + 2e− ⇌ \nH2S(g) \n+ 0,14 \n2H+ + 2e− \n⇌ \nH2(g) \n0,00 \nFe3+ + 3e− \n⇌ \nFe \n− 0,06 \nPb2+ + 2e− \n⇌ \nPb \n− 0,13 \nSn2+ + 2e− \n⇌ \nSn \n− 0,14 \nNi2+ + 2e− \n⇌ \nNi \n− 0,27 \nCo2+ + 2e− \n⇌ \nCo \n− 0,28 \nCd2+ + 2e− \n⇌ \nCd \n− 0,40 \nCr3+ + e− \n⇌ \nCr2+ \n− 0,41 \nFe2+ + 2e− \n⇌ \nFe \n− 0,44 \nCr3+ + 3e− \n⇌ \nCr \n− 0,74 \nZn2+ + 2e− \n⇌ \nZn \n− 0,76 \n2H2O + 2e− \n⇌ \nH2(g) + 2OH− \n− 0,83 \nCr2+ + 2e− \n⇌ \nCr \n− 0,91 \nMn2+ + 2e− \n⇌ \nMn \n− 1,18 \nAℓ3+ + 3e− \n⇌ \nAℓ \n− 1,66 \nMg2+ + 2e− \n⇌ \nMg \n− 2,36 \nNa+ + e− \n⇌ \nNa \n− 2,71 \nCa2+ + 2e− \n⇌ \nCa \n− 2,87 \nSr2+ + 2e− \n⇌ \nSr \n− 2,89 \nBa2+ + 2e− \n⇌ \nBa \n− 2,90 \nCs+ + e- \n⇌ \nCs \n- 2,92 \nK+ + e− \n⇌ \nK \n− 2,93 \nLi+ + e− \n⇌ \nLi \n− 3,05 \nIncreasing oxidising ability/Toenemende oksiderende vermoë \nIncreasing reducing ability/Toenemende reduserende vermoë \n\nPhysical Sciences/P2 \nDBE/November 2015 \nNSC \nCopyright reserved \nTABLE 4B: STANDARD REDUCTION POTENTIALS \nTABEL 4B: STANDAARD-REDUKSIEPOTENSIALE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nHalf-reactions/Halfreaksies \nθ\nE\n (V) \nLi+ + e− \n⇌ \nLi \n− 3,05 \nK+ + e− \n⇌ \nK \n− 2,93 \nCs+ + e− \n⇌ \nCs \n− 2,92 \nBa2+ + 2e− \n⇌ \nBa \n− 2,90 \nSr2+ + 2e− \n⇌ \nSr \n− 2,89 \nCa2+ + 2e− \n⇌ \nCa \n− 2,87 \nNa+ + e− \n⇌ \nNa \n− 2,71 \nMg2+ + 2e− \n⇌ \nMg \n− 2,36 \nAℓ3+ + 3e− \n⇌ \nAℓ \n− 1,66 \nMn2+ + 2e− \n⇌ \nMn \n− 1,18 \nCr2+ + 2e− \n⇌ \nCr \n− 0,91 \n2H2O + 2e− \n⇌ \nH2(g) + 2OH− \n− 0,83 \nZn2+ + 2e− \n⇌ \nZn \n− 0,76 \nCr3+ + 3e− \n⇌ \nCr \n− 0,74 \nFe2+ + 2e− \n⇌ \nFe \n− 0,44 \nCr3+ + e− \n⇌ \nCr2+ \n− 0,41 \nCd2+ + 2e− \n⇌ \nCd \n− 0,40 \nCo2+ + 2e− \n⇌ \nCo \n− 0,28 \nNi2+ + 2e− \n⇌ \nNi \n− 0,27 \nSn2+ + 2e− \n⇌ \nSn \n− 0,14 \nPb2+ + 2e− \n⇌ \nPb \n− 0,13 \nFe3+ + 3e− \n⇌ \nFe \n− 0,06 \n2H+ + 2e− \n⇌ \nH2(g) \n0,00 \nS + 2H+ + 2e− ⇌ \nH2S(g) \n+ 0,14 \nSn4+ + 2e− \n⇌ \nSn2+ \n+ 0,15 \nCu2+ + e− \n⇌ \nCu+ \n+ 0,16 \nSO\n−\n2\n4 + 4H+ + 2e− \n⇌ \nSO2(g) + 2H2O \n+ 0,17 \nCu2+ + 2e− \n⇌ \nCu \n+ 0,34 \n2H2O + O2 + 4e− \n⇌ \n4OH− \n+ 0,40 \nSO2 + 4H+ + 4e− \n⇌ \nS + 2H2O \n+ 0,45 \nCu+ + e− \n⇌ \nCu \n+ 0,52 \nI2 + 2e− \n⇌ \n2I− \n+ 0,54 \nO2(g) + 2H+ + 2e− \n⇌ \nH2O2 \n+ 0,68 \nFe3+ + e− \n⇌ \nFe2+ \n+ 0,77 \nNO −\n3 + 2H+ + e− \n⇌ \nNO2(g) + H2O \n+ 0,80 \nAg+ + e− \n⇌ \nAg \n+ 0,80 \nHg2+ + 2e− \n⇌ \nHg(ℓ) \n+ 0,85 \nNO −\n3 + 4H+ + 3e− \n⇌ \nNO(g) + 2H2O \n+ 0,96 \nBr2(ℓ) + 2e− \n⇌ \n2Br− \n+ 1,07 \nPt2+ + 2 e− \n⇌ \nPt \n+ 1,20 \nMnO2\n + 4H+ + 2e− \n⇌ \nMn2+ + 2H2O \n+ 1,23 \nO2(g) + 4H+ + 4e−\n \n⇌ \n2H2O \n+ 1,23 \nCr2O\n−\n2\n7 + 14H+ + 6e− \n⇌ \n2Cr3+ + 7H2O \n+ 1,33 \nCℓ2(g) + 2e− \n⇌ \n2Cℓ− \n+ 1,36 \nMnO −\n4 + 8H+ + 5e− \n⇌ \nMn2+ + 4H2O \n+ 1,51 \nH2O2 + 2H+ +2 e− \n⇌ \n2H2O \n+1,77 \nCo3+ + e− \n⇌ \nCo2+ \n+ 1,81 \nF2(g) + 2e− \n⇌ \n2F− \n+ 2,87 \nIncreasing oxidising ability/Toenemende oksiderende vermoë \nIncreasing reducing ability/Toenemende reduserende vermoë",
+          "answer": "10.3 \nMarking guidelines/Nasienriglyne \n80\n28  x 50  17,5 kg  \n \n \n \nOPTION 1/OPSIE 1 \n% N in NH4NO3 = 80\n28 100\n\n \n \n= 35% \nm(N) in 50 kg: \n50\n100\n35 \n = 17,5 kg  \nOPTION 2/OPSIE 2 \nm(N in NH4NO3) = 80\n28  x 50  \n \n \n = 17,5 kg  \n \n \n \n \n(3) \n \n \nTOTAL/TOTAAL: \n150",
+          "answer_english": "10.3 \nMarking guidelines/Nasienriglyne \n80\n28  x 50  17,5 kg  \n \n \n \nOPTION 1/OPSIE 1 \n% N in NH4NO3 = 80\n28 100\n\n \n \n= 35% \nm(N) in 50 kg: \n50\n100\n35 \n = 17,5 kg  \nOPTION 2/OPSIE 2 \nm(N in NH4NO3) = 80\n28  x 50  \n \n \n = 17,5 kg  \n \n \n \n \n(3) \n \n \nTOTAL/TOTAAL: \n150",
+          "answer_afrikaans": null,
+          "marking_criteria": []
+        }
+      ]
+    }
+  ]
+}

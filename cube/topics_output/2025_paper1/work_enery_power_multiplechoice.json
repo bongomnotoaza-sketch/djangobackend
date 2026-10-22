@@ -1,0 +1,608 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "work_energy_power",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "work_energy_power",
+      "question": "A box is pulled across a rough horizontal surface at a CONSTANT VELOCITY by a force F applied at an angle theta to the horizontal. Consider the following statements: (i) The net work done on the box is zero. (ii) The work done by the applied force F is equal to the work done by friction. (iii) The kinetic energy of the box increases. (iv) The mechanical energy of the box remains constant. Which of the statements above are CORRECT?\n\nA (i) and (ii) only\nB (i) and (iii) only\nC (ii) and (iv) only\nD (iii) and (iv) only\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "work_energy_power",
+      "question": "A crane lifts a load vertically upwards at a CONSTANT SPEED. Which ONE of the following statements is CORRECT?\n\nA The net work done on the load is zero.\nB The work done by the crane on the load is zero.\nC The kinetic energy of the load increases.\nD The gravitational potential energy of the load decreases.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "work_energy_power",
+      "question": "A car accelerates uniformly along a straight horizontal road. Consider the following statements: (i) The net work done on the car is equal to the change in its kinetic energy. (ii) The power delivered by the engine is constant. (iii) The mechanical energy of the car increases. (iv) The mechanical energy of the car remains constant. Which of the statements above are CORRECT?\n\nA (i) and (ii) only\nB (i) and (iii) only\nC (ii) and (iv) only\nD (iii) and (iv) only\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "work_energy_power",
+      "question": "A motor lifts a bucket of water vertically upwards at a CONSTANT VELOCITY. Which ONE of the following combinations is CORRECT?\n\nA Rate of work done by motor: Increases; Mechanical energy of bucket: Increases\nB Rate of work done by motor: Constant; Mechanical energy of bucket: Increases\nC Rate of work done by motor: Constant; Mechanical energy of bucket: Remains constant\nD Rate of work done by motor: Increases; Mechanical energy of bucket: Remains constant\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "work_energy_power",
+      "question": "A block slides down a frictionless inclined plane. Consider the following statements: (i) The mechanical energy of the block remains constant. (ii) The net work done on the block is zero. (iii) The kinetic energy of the block increases. (iv) The gravitational potential energy of the block increases. Which of the statements above are CORRECT?\n\nA (i) and (iii) only\nB (i) and (iv) only\nC (ii) and (iii) only\nD (ii) and (iv) only\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "work_energy_power",
+      "question": "The work-energy theorem states that the net work done on an object is equal to the ...\n\nA change in the object's kinetic energy.\nB change in the object's potential energy.\nC change in the object's mechanical energy.\nD product of the net force and the displacement.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "work_energy_power",
+      "question": "A 5 kg crate is pulled from rest across a rough horizontal surface by a constant force of 30 N applied horizontally. The crate moves a distance of 4 m and experiences a constant frictional force of 10 N. Using ENERGY PRINCIPLES ONLY, the kinetic energy of the crate after moving 4 m is ...\n\nA 40 J\nB 80 J\nC 120 J\nD 160 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "work_energy_power",
+      "question": "A 4 kg crate is pulled up a rough inclined plane by a constant force of 50 N applied parallel to the incline. The crate moves a distance of 5 m up the incline. The incline makes an angle of 30 degrees with the horizontal. The frictional force acting on the crate is 15 N. The crate starts from rest. Using ENERGY PRINCIPLES ONLY, the speed of the crate after moving 5 m up the incline is approximately ...\n\nA 4.39 m/s\nB 6.20 m/s\nC 8.77 m/s\nD 12.41 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "work_energy_power",
+      "question": "A motor is used to lift a 200 kg load vertically upwards at a constant speed of 2 m/s. The power delivered by the motor is ...\n\nA 1960 W\nB 3920 W\nC 7840 W\nD 15680 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "work_energy_power",
+      "question": "A pump is used to pump water from a borehole to a tank on the surface. The pump lifts 150 kg of water per minute through a vertical height of 20 m. The minimum power output of the pump is ...\n\nA 245 W\nB 490 W\nC 735 W\nD 980 W\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "work_energy_power",
+      "question": "A car of mass 1200 kg accelerates uniformly from rest to a speed of 20 m/s in 10 s along a straight horizontal road. The average frictional force acting on the car is 500 N. The average power delivered by the engine during the 10 s is ...\n\nA 14500 W\nB 24000 W\nC 29000 W\nD 48000 W\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "work_energy_power",
+      "question": "A 3 kg block is released from rest at the top of a frictionless inclined plane of height 5 m. The block slides down the incline and reaches the bottom. Using ENERGY PRINCIPLES ONLY, the speed of the block at the bottom of the incline is ...\n\nA 7.00 m/s\nB 9.90 m/s\nC 14.00 m/s\nD 19.80 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "work_energy_power",
+      "question": "A 2 kg block slides down a rough inclined plane from a height of 4 m. The block reaches the bottom of the incline with a speed of 6 m/s. The incline makes an angle of 35 degrees with the horizontal. Using ENERGY PRINCIPLES ONLY, the work done by friction on the block is ...\n\nA -42.4 J\nB -36.0 J\nC 36.0 J\nD 42.4 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "work_energy_power",
+      "question": "A 5 kg crate is pulled up a rough inclined plane by a constant force F applied parallel to the incline. The crate moves at a CONSTANT VELOCITY of 2 m/s up the incline. The incline makes an angle of 20 degrees with the horizontal. The frictional force acting on the crate is 12 N. The magnitude of force F is ...\n\nA 12.00 N\nB 16.76 N\nC 28.76 N\nD 40.76 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "work_energy_power",
+      "question": "A 6 kg block is pushed against a spring, compressing it by 0.3 m. The spring constant is 200 N/m. The block is then released and slides along a frictionless horizontal surface. Using ENERGY PRINCIPLES ONLY, the speed of the block when it leaves the spring is ...\n\nA 1.00 m/s\nB 1.73 m/s\nC 2.45 m/s\nD 3.46 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "work_energy_power",
+      "question": "A 2 kg object is dropped from a height of 10 m above the ground. It falls freely under gravity and experiences air resistance of 5 N. Using ENERGY PRINCIPLES ONLY, the speed of the object when it reaches the ground is approximately ...\n\nA 9.90 m/s\nB 12.08 m/s\nC 14.00 m/s\nD 19.80 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "work_energy_power",
+      "question": "A 1500 kg car travels along a straight horizontal road at a constant speed of 25 m/s. The engine delivers a power of 45 kW. The magnitude of the frictional force acting on the car is ...\n\nA 900 N\nB 1800 N\nC 2700 N\nD 3600 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "work_energy_power",
+      "question": "A 3 kg block is released from rest at point A at the top of a curved frictionless track. The block slides down the track and reaches point B, which is 2 m below point A. Using ENERGY PRINCIPLES ONLY, the speed of the block at point B is ...\n\nA 4.43 m/s\nB 6.26 m/s\nC 8.85 m/s\nD 12.52 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "work_energy_power",
+      "question": "A 3 kg block is released from rest at point A at the top of a curved frictionless track. The block slides down the track and reaches point B, which is 2 m below point A. From point B, the block slides along a rough horizontal surface and comes to rest at point C after travelling 4 m. The coefficient of kinetic friction between the block and the horizontal surface is ...\n\nA 0.25\nB 0.50\nC 0.75\nD 1.00\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "work_energy_power",
+      "question": "A 4 kg crate is pulled up a rough inclined plane by a constant force of 60 N applied parallel to the incline. The crate moves a distance of 6 m up the incline. The incline makes an angle of 25 degrees with the horizontal. The frictional force acting on the crate is 18 N. The crate starts from rest. Using ENERGY PRINCIPLES ONLY, the kinetic energy of the crate after moving 6 m up the incline is ...\n\nA 152.6 J\nB 252.6 J\nC 352.6 J\nD 452.6 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "work_energy_power",
+      "question": "The work done by a force is defined as the product of the ...\n\nA force and the displacement in the direction of the force.\nB force and the time during which it acts.\nC force and the velocity of the object.\nD mass and the acceleration of the object.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "work_energy_power",
+      "question": "The work done by a force can be calculated using ...\n\nA W = F delta x cos theta\nB W = F delta x sin theta\nC W = F delta x tan theta\nD W = F delta x\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "work_energy_power",
+      "question": "Power is defined as the ...\n\nA rate at which work is done.\nB product of force and displacement.\nC change in kinetic energy.\nD product of mass and acceleration.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "work_energy_power",
+      "question": "Power can be calculated using ...\n\nA P = W/t\nB P = W x t\nC P = t/W\nD P = W^2/t\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "work_energy_power",
+      "question": "Power can also be calculated using ...\n\nA P = Fv\nB P = F/v\nC P = v/F\nD P = Fv^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "work_energy_power",
+      "question": "The kinetic energy of an object is given by ...\n\nA Ek = 1/2 mv^2\nB Ek = mv^2\nC Ek = 1/2 mv\nD Ek = mgh\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "work_energy_power",
+      "question": "The gravitational potential energy of an object is given by ...\n\nA Ep = mgh\nB Ep = 1/2 mv^2\nC Ep = mg/h\nD Ep = mgh^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "work_energy_power",
+      "question": "The elastic potential energy of a spring is given by ...\n\nA Ep = 1/2 kx^2\nB Ep = kx^2\nC Ep = 1/2 kx\nD Ep = kx\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "work_energy_power",
+      "question": "Mechanical energy is the sum of ...\n\nA kinetic energy and gravitational potential energy.\nB kinetic energy and elastic potential energy only.\nC gravitational potential energy and elastic potential energy only.\nD kinetic energy, gravitational potential energy and elastic potential energy.\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "work_energy_power",
+      "question": "The principle of conservation of mechanical energy states that the total mechanical energy of an isolated system ...\n\nA remains constant.\nB always increases.\nC always decreases.\nD becomes zero.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "work_energy_power",
+      "question": "The net work done on an object is equal to ...\n\nA the change in kinetic energy of the object.\nB the change in potential energy of the object.\nC the change in mechanical energy of the object.\nD zero.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "work_energy_power",
+      "question": "The work done by a conservative force ...\n\nA is independent of the path taken.\nB depends on the path taken.\nC is always positive.\nD is always negative.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "work_energy_power",
+      "question": "The work done by a non-conservative force ...\n\nA depends on the path taken.\nB is independent of the path taken.\nC is always positive.\nD is always negative.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "work_energy_power",
+      "question": "Friction is an example of a ...\n\nA non-conservative force.\nB conservative force.\nC zero work force.\nD positive work force.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "work_energy_power",
+      "question": "Gravity is an example of a ...\n\nA conservative force.\nB non-conservative force.\nC zero work force.\nD negative work force.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "work_energy_power",
+      "question": "A force does negative work on an object when ...\n\nA the force and displacement are in opposite directions.\nB the force and displacement are in the same direction.\nC the force is perpendicular to the displacement.\nD the force is zero.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "work_energy_power",
+      "question": "A force does zero work on an object when ...\n\nA the force is perpendicular to the displacement.\nB the force and displacement are in the same direction.\nC the force and displacement are in opposite directions.\nD the force is non-zero and there is displacement.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "work_energy_power",
+      "question": "The work done by the normal force on an object sliding on a horizontal surface is ...\n\nA zero because the normal force is perpendicular to the displacement.\nB positive because the normal force is upward.\nC negative because the normal force opposes motion.\nD equal to the weight of the object.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "work_energy_power",
+      "question": "The work done by the gravitational force on an object moving horizontally is ...\n\nA zero because gravity is perpendicular to the displacement.\nB positive because gravity acts downward.\nC negative because gravity opposes motion.\nD equal to the weight of the object.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "work_energy_power",
+      "question": "A 10 kg object is lifted vertically upwards through a height of 5 m at a constant velocity. The work done by the lifting force is ...\n\nA 49 J\nB 98 J\nC 490 J\nD 980 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "work_energy_power",
+      "question": "A 10 kg object is lifted vertically upwards through a height of 5 m at a constant velocity. The work done by gravity is ...\n\nA -490 J\nB -98 J\nC 98 J\nD 490 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "work_energy_power",
+      "question": "A 10 kg object is lifted vertically upwards through a height of 5 m at a constant velocity. The net work done on the object is ...\n\nA -490 J\nB 0 J\nC 490 J\nD 980 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "work_energy_power",
+      "question": "A 5 kg object is pushed along a horizontal surface by a force of 20 N applied horizontally. The object moves 3 m against a frictional force of 8 N. The net work done on the object is ...\n\nA 24 J\nB 36 J\nC 60 J\nD 84 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "work_energy_power",
+      "question": "A 5 kg object is pushed along a horizontal surface by a force of 20 N applied horizontally. The object moves 3 m against a frictional force of 8 N. The work done by the applied force is ...\n\nA 24 J\nB 36 J\nC 60 J\nD 84 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "work_energy_power",
+      "question": "A 5 kg object is pushed along a horizontal surface by a force of 20 N applied horizontally. The object moves 3 m against a frictional force of 8 N. The work done by friction is ...\n\nA -24 J\nB -36 J\nC 24 J\nD 36 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "work_energy_power",
+      "question": "A 2 kg object is thrown vertically upwards with an initial velocity of 10 m/s. The maximum height reached by the object is ...\n\nA 2.55 m\nB 5.10 m\nC 10.20 m\nD 20.40 m\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "work_energy_power",
+      "question": "A 2 kg object is thrown vertically upwards with an initial velocity of 10 m/s. The initial kinetic energy of the object is ...\n\nA 50 J\nB 100 J\nC 200 J\nD 400 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "work_energy_power",
+      "question": "A 2 kg object is thrown vertically upwards with an initial velocity of 10 m/s. At the maximum height, the gravitational potential energy of the object is ...\n\nA 50 J\nB 100 J\nC 200 J\nD 400 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "work_energy_power",
+      "question": "A 4 kg object is moving at 6 m/s. The kinetic energy of the object is ...\n\nA 12 J\nB 24 J\nC 72 J\nD 144 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "work_energy_power",
+      "question": "A 4 kg object is moving at 6 m/s. If the speed of the object is doubled, the kinetic energy will ...\n\nA remain the same.\nB double.\nC triple.\nD quadruple.\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "work_energy_power",
+      "question": "A 4 kg object is moving at 6 m/s. If the speed of the object is halved, the kinetic energy will ...\n\nA remain the same.\nB be halved.\nC be quartered.\nD be doubled.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "work_energy_power",
+      "question": "A 6 kg object is lifted vertically upwards through a height of 4 m. The gravitational potential energy gained by the object is ...\n\nA 24 J\nB 235.2 J\nC 470.4 J\nD 940.8 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "work_energy_power",
+      "question": "A spring with spring constant 300 N/m is compressed by 0.2 m. The elastic potential energy stored in the spring is ...\n\nA 6 J\nB 12 J\nC 30 J\nD 60 J\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "work_energy_power",
+      "question": "A spring with spring constant 300 N/m is compressed by 0.2 m. If the compression is doubled, the elastic potential energy will ...\n\nA remain the same.\nB double.\nC triple.\nD quadruple.\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "work_energy_power",
+      "question": "A 500 W motor runs for 2 minutes. The work done by the motor is ...\n\nA 1000 J\nB 60000 J\nC 100000 J\nD 600000 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "work_energy_power",
+      "question": "A 2 kW motor lifts a load vertically upwards at a constant speed of 4 m/s. The force exerted by the motor is ...\n\nA 250 N\nB 500 N\nC 1000 N\nD 8000 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "work_energy_power",
+      "question": "A machine does 3600 J of work in 1 minute. The power of the machine is ...\n\nA 60 W\nB 120 W\nC 3600 W\nD 216000 W\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "work_energy_power",
+      "question": "An electric motor has a power output of 5 kW. The work done by the motor in 30 minutes is ...\n\nA 150 J\nB 9000 J\nC 150000 J\nD 9000000 J\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "work_energy_power",
+      "question": "A 1500 kg car accelerates from rest to 30 m/s. The work done by the engine is ...\n\nA 22500 J\nB 45000 J\nC 337500 J\nD 675000 J\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "work_energy_power",
+      "question": "A 1500 kg car accelerates from rest to 30 m/s in 15 s. The average power delivered by the engine is ...\n\nA 22500 W\nB 33750 W\nC 45000 W\nD 67500 W\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

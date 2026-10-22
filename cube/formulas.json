@@ -1,0 +1,268 @@
+{
+  "Physics": {
+    "Newton's Laws and Application of Newton's Laws": {
+      "net force": "Net force (Newton's second law): F_net = ma.",
+      "weight": "Weight: w = mg.",
+      "maximum static frictional force": "Maximum static frictional force: f_s_max = μ_s N.",
+      "kinetic frictional force": "Kinetic frictional force: f_k = μ_k N.",
+      "newtons law of universal gravitation": "Newton's Law of Universal Gravitation: F = G m1 m2 / r²."
+    },
+    "Momentum and Impulse": {
+      "momentum": "Momentum: p = mv.",
+      "change in momentum": "Change in momentum: Δp = mv_f - mv_i.",
+      "impulse": "Impulse (impulse-momentum theorem): F_net Δt = mΔv.",
+      "newtons second law in terms of momentum": "Newton's second law in terms of momentum: F_net = Δp / Δt.",
+      "elastic collision": "Elastic collision: both momentum and kinetic energy are conserved.\nΣp_i = Σp_f  →  m₁v₁ᵢ + m₂v₂ᵢ = m₁v₁f + m₂v₂f\nΣK_i = ΣK_f  →  ½m₁v₁ᵢ² + ½m₂v₂ᵢ² = ½m₁v₁f² + ½m₂v₂f²\nRelative velocity (1D elastic): v₁ᵢ - v₂ᵢ = -(v₁f - v₂f).",
+      "inelastic collision": "Inelastic collision: momentum is conserved, kinetic energy is NOT conserved (some is lost to heat, sound, deformation).\nΣp_i = Σp_f  →  m₁v₁ᵢ + m₂v₂ᵢ = m₁v₁f + m₂v₂f\nΔK = K_f - K_i < 0 (energy lost).",
+      "perfectly inelastic collision": "Perfectly inelastic collision: the objects stick together after the collision.\nΣp_i = Σp_f  →  m₁v₁ᵢ + m₂v₂ᵢ = (m₁ + m₂) v_f."
+    },
+    "Vertical Projectile Motion in One Dimension (1D)": {
+      "equations of motion": "Equations of motion (vertical projectile motion, 1D):\n1) v_f = v_i + aΔt\n2) Δx = v_i Δt + ½ a Δt²   (also Δy)\n3) v_f² = v_i² + 2aΔx   (also 2aΔy)\n4) Δx = ((v_i + v_f) / 2) Δt   (also Δy)\nwhere a = g = 9.8 m·s⁻² downward for free fall."
+    },
+    "Work, Energy and Power": {
+      "work": "Work done by a constant force: W = F Δx cos θ.",
+      "work energy theorem": "Work-energy theorem: W_net = ΔK = K_f - K_i.",
+      "kinetic energy": "Kinetic energy: K = ½ mv².",
+      "gravitational potential energy": "Gravitational potential energy: U = mgh (or E_p = mgh).",
+      "work done by non conservative forces": "Work done by non-conservative forces: W_nc = ΔK + ΔU (or ΔE_k + ΔE_p).",
+      "power": "Power as rate of work done: P = W / Δt.",
+      "average power": "Average power at constant speed: P_ave = F v_ave."
+    },
+    "Doppler Effect": {
+      "doppler effect": "Doppler effect for sound: f_L = ((v ± v_L) / (v ± v_s)) f_s."
+    },
+    "Electrostatics": {
+      "coulombs law": "Coulomb's law: F = k Q1 Q2 / r².",
+      "electric field": "Electric field at a point: E = F / q.",
+      "electric field due to a point charge": "Electric field due to a point charge: E = k Q / r².",
+      "electric potential": "Electric potential: V = W / q.",
+      "number of charges": "Number of charges: n = Q / e (or n = Q / q_e)."
+    },
+    "Electric Circuits": {
+      "ohms law": "Ohm's law / resistance: R = V / I.",
+      "resistance": "Ohm's law / resistance: R = V / I.",
+      "emf": "emf: emf (ε) = I(R + r).",
+      "emf with internal resistance": "emf (load + internal): ε = V_load + V_internal resistance (or ε = IR_ext + Ir).",
+      "series resistance": "Series resistance: R_s = R1 + R2 + ...",
+      "parallel resistance": "Parallel resistance: 1/R_p = 1/R1 + 1/R2 + ...",
+      "charge": "Charge: q = I Δt.",
+      "electrical work": "Electrical work: W = V q.",
+      "electrical energy": "Electrical energy: W = V I Δt.",
+      "electrical power": "Electrical power: P = V I."
+    },
+    "Electrodynamics": {
+      "rms current": "RMS current: I_rms = I_max / √2.",
+      "rms potential difference": "RMS potential difference: V_rms = V_max / √2.",
+      "average power ac": "Average power for a purely resistive AC circuit: P_ave = I_rms V_rms = ½ I_max V_max."
+    },
+    "Optical Phenomena and Properties of Materials": {
+      "energy of a photon": "Energy of a photon: E = hf (or E = hc / λ).",
+      "photoelectric equation": "Photoelectric equation: E = W0 + E_k(max).",
+      "work function": "Work function: W0 = h f0.",
+      "maximum kinetic energy of photoelectrons": "Maximum kinetic energy of emitted photoelectrons: E_k(max) = ½ m v_max².",
+      "wave equation": "Wave equation: v = f λ.",
+      "period": "Period: T = 1 / f."
+    }
+  },
+  "Chemistry": {
+    "Quantitative Aspects of Chemical Change": {
+      "number of moles": "Number of moles: n = m / M.",
+      "number of moles from particles": "Number of moles: n = N / N_A.",
+      "molar concentration": "Molar concentration: c = n / V (or c = m / (M V)).",
+      "moles of gas": "Number of moles of gas: n = V / V_m.",
+      "titration stoichiometry": "Titration stoichiometry: c_a V_a / n_a = c_b V_b / n_b."
+    },
+    "Acids and Bases": {
+      "ph": "pH of a solution: pH = -log[H3O⁺].",
+      "ion product of water": "Ion product of water: Kw = [H3O⁺][OH⁻] = 1 × 10⁻¹⁴ at 298 K."
+    },
+    "Electrochemical Reactions": {
+      "standard cell potential": "Standard cell potential: E°_cell = E°_cathode - E°_anode."
+    }
+  },
+  "Financial Mathematics": {
+    "Simple Interest": {
+      "simple interest": "Simple interest: I = Pin.",
+      "simple interest amount": "Simple interest amount: A = P(1 + in)."
+    },
+    "Compound Interest": {
+      "compound interest": "Compound interest: A = P(1 + i)^n.",
+      "present value": "Present value: P = A / (1 + i)^n.",
+      "effective rate": "Effective rate: i_e = (1 + i/m)^m - 1.",
+      "compound growth time": "Compound-growth time: n = log(A/P) / log(1 + i)."
+    },
+    "Depreciation": {
+      "straight line depreciation": "Straight-line depreciation: V = P(1 - in).",
+      "reducing balance depreciation": "Reducing-balance depreciation: V = P(1 - i)^n."
+    },
+    "Inflation": {
+      "inflation": "Inflation: A = P(1 + i)^n."
+    },
+    "Annuities": {
+      "future value of annuity": "Future value of annuity: FV = X ((1 + i)^n - 1) / i.",
+      "present value of annuity": "Present value of annuity: PV = X (1 - (1 + i)^(-n)) / i.",
+      "sinking fund payment": "Sinking fund payment: X = FV · i / ((1 + i)^n - 1)."
+    },
+    "Loans": {
+      "loan repayment": "Loan repayment: X = PV · i / (1 - (1 + i)^(-n)).",
+      "outstanding balance": "Outstanding balance: B = PV(1 + i)^k - X ((1 + i)^k - 1) / i."
+    }
+  },
+  "Sequences and Series": {
+    "Arithmetic Sequences": {
+      "arithmetic nth term": "Arithmetic nth term: T_n = a + (n - 1)d.",
+      "arithmetic difference": "Arithmetic difference: d = T_{n+1} - T_n.",
+      "arithmetic sum": "Arithmetic sum: S_n = (n / 2)[2a + (n - 1)d]  OR  S_n = (n / 2)(a + T_n).",
+      "arithmetic mean": "Arithmetic mean: AM = (a + b) / 2."
+    },
+    "Geometric Sequences": {
+      "geometric ratio": "Geometric ratio: r = T_{n+1} / T_n.",
+      "geometric nth term": "Geometric nth term: T_n = a r^(n - 1).",
+      "geometric sum": "Geometric sum: S_n = a(1 - r^n) / (1 - r).",
+      "infinite geometric sum": "Infinite geometric sum: S_∞ = a / (1 - r).",
+      "convergence condition": "Convergence condition: -1 < r < 1.",
+      "geometric mean": "Geometric mean: GM = √(ab).",
+      "geometric n": "Geometric n: n = 1 + log(T_n / a) / log r."
+    }
+  },
+  "Functions and Graphs": {
+    "Linear and Quadratic": {
+      "linear": "Linear: y = mx + c.",
+      "gradient": "Gradient: m = (y_2 - y_1) / (x_2 - x_1).",
+      "point gradient": "Point-gradient: y - y_1 = m(x - x_1).",
+      "quadratic": "Quadratic: y = ax² + bx + c.",
+      "axis of symmetry": "Axis of symmetry: x = -b / (2a).",
+      "quadratic formula": "Quadratic formula: x = (-b ± √(b² - 4ac)) / (2a).",
+      "discriminant": "Discriminant: Δ = b² - 4ac."
+    },
+    "Hyperbola": {
+      "hyperbola": "Hyperbola: y = a / (x - p) + q.",
+      "hyperbola vertical asymptote": "Hyperbola vertical asymptote: x = p.",
+      "hyperbola horizontal asymptote": "Hyperbola horizontal asymptote: y = q."
+    },
+    "Exponential and Logarithmic": {
+      "exponential": "Exponential: y = ab^x.",
+      "transformed exponential": "Transformed exponential: y = ab^(x - p) + q.",
+      "logarithmic": "Logarithmic: y = log_b x.",
+      "exponential log relationship": "Exponential/log relationship: b^x = y ⟺ x = log_b y.",
+      "product log law": "Product log law: log_b(MN) = log_b M + log_b N.",
+      "quotient log law": "Quotient log law: log_b(M/N) = log_b M - log_b N.",
+      "power log law": "Power log law: log_b(M^n) = n log_b M.",
+      "change of base": "Change of base: log_b M = log M / log b."
+    },
+    "Composite and Inverse Functions": {
+      "composition": "Composition: (f ∘ g)(x) = f(g(x)).",
+      "inverse": "Inverse: f(f⁻¹(x)) = x."
+    }
+  },
+  "Statistics": {
+    "Measures of Central Tendency": {
+      "mean": "Mean: x̄ = Σx / n.",
+      "frequency mean": "Frequency mean: x̄ = Σfx / Σf.",
+      "class midpoint": "Class midpoint: x = (lower + upper) / 2."
+    },
+    "Measures of Dispersion": {
+      "range": "Range: max - min.",
+      "q1 position": "Q₁ position: (n + 1) / 4.",
+      "median q2 position": "Median (Q₂) position: (n + 1) / 2.",
+      "q3 position": "Q₃ position: 3(n + 1) / 4.",
+      "iqr": "IQR: Q₃ - Q₁.",
+      "variance": "Variance: σ² = Σ(x - x̄)² / n.",
+      "alternative variance": "Alternative variance: σ² = Σx² / n - x̄².",
+      "standard deviation": "Standard deviation: σ = √(σ²)."
+    },
+    "Outliers": {
+      "lower outlier fence": "Lower outlier fence: Q₁ - 1.5(IQR).",
+      "upper outlier fence": "Upper outlier fence: Q₃ + 1.5(IQR)."
+    },
+    "Normal Distribution": {
+      "1 sd": "1 standard deviation: 68%.",
+      "2 sd": "2 standard deviations: 95%.",
+      "3 sd": "3 standard deviations: 99.7%."
+    }
+  },
+  "Analytical Geometry": {
+    "Points and Lines": {
+      "distance": "Distance: d = √((x_2 - x_1)² + (y_2 - y_1)²).",
+      "midpoint": "Midpoint: M((x_1 + x_2) / 2, (y_1 + y_2) / 2).",
+      "analytical gradient": "Gradient: m = (y_2 - y_1) / (x_2 - x_1).",
+      "straight line": "Straight line: y = mx + c.",
+      "analytical point gradient": "Point-gradient: y - y_1 = m(x - x_1)."
+    },
+    "Parallel, Perpendicular and Angles": {
+      "parallel": "Parallel lines: m_1 = m_2.",
+      "perpendicular": "Perpendicular lines: m_1 m_2 = -1.",
+      "inclination": "Inclination: m = tan θ.",
+      "angle between lines": "Angle between lines: tan θ = |(m_2 - m_1) / (1 + m_1 m_2)|."
+    },
+    "Circles": {
+      "circle": "Circle: (x - a)² + (y - b)² = r².",
+      "circle at origin": "Circle at origin: x² + y² = r².",
+      "radius": "Radius: r = √((x - a)² + (y - b)²).",
+      "tangent gradient": "Tangent gradient: m_t = -1 / m_r.",
+      "radius perpendicular tangent": "Radius ⟂ tangent: m_r m_t = -1."
+    }
+  },
+  "Trigonometry": {
+    "Right-Angle Trigonometry": {
+      "trig sine": "Sine: sin θ = O / H.",
+      "trig cosine": "Cosine: cos θ = A / H.",
+      "trig tangent": "Tangent: tan θ = O / A."
+    },
+    "Identities": {
+      "tan identity": "Tan identity: tan θ = sin θ / cos θ.",
+      "pythagorean identity": "Pythagorean identity: sin²θ + cos²θ = 1."
+    },
+    "Compound Angle Formulae": {
+      "sine compound": "Sine compound: sin(A ± B) = sin A cos B ± cos A sin B.",
+      "cos compound": "Cos compound: cos(A ± B) = cos A cos B ∓ sin A sin B.",
+      "tan compound": "Tan compound: tan(A ± B) = (tan A ± tan B) / (1 ∓ tan A tan B)."
+    },
+    "Double Angle Formulae": {
+      "double sine": "Double sine: sin 2A = 2 sin A cos A.",
+      "double cosine": "Double cosine: cos 2A = cos²A - sin²A  OR  cos 2A = 2 cos²A - 1  OR  cos 2A = 1 - 2 sin²A.",
+      "double tangent": "Double tangent: tan 2A = 2 tan A / (1 - tan²A)."
+    },
+    "Triangles": {
+      "sine rule": "Sine rule: a / sin A = b / sin B = c / sin C.",
+      "cosine rule": "Cosine rule: a² = b² + c² - 2bc cos A.",
+      "triangle area": "Triangle area: A = ½ ab sin C."
+    },
+    "Graphs of Trig Functions": {
+      "sine period": "Sine period: 360°.",
+      "graph period": "Graph period: 360° / b.",
+      "amplitude": "Amplitude: |a|."
+    }
+  },
+  "Euclidean Geometry": {
+    "Lines and Angles": {
+      "geometry straight line": "Straight line: 180°.",
+      "around a point": "Around a point: 360°.",
+      "vertically opposite": "Vertically opposite angles: Equal.",
+      "triangle angles": "Triangle angles: A + B + C = 180°.",
+      "exterior angle": "Exterior angle: Sum of opposite interior angles.",
+      "corresponding angles": "Corresponding angles: Equal.",
+      "alternate angles": "Alternate angles: Equal.",
+      "co interior angles": "Co-interior angles: 180°."
+    },
+    "Triangles": {
+      "isosceles triangle": "Isosceles triangle: Equal sides ⇒ equal opposite angles.",
+      "congruency": "Congruency: SSS, SAS, ASA, RHS.",
+      "similarity": "Similarity: AAA.",
+      "similar sides": "Similar sides: a / d = b / e = c / f.",
+      "similar areas": "Similar areas: Area ratio = k².",
+      "pythagoras": "Pythagoras: a² + b² = c²."
+    },
+    "Circle Geometry": {
+      "angle at centre": "Angle at centre: Centre = 2(circumference).",
+      "same segment": "Same segment: Angles equal.",
+      "semicircle": "Semicircle: 90°.",
+      "cyclic quadrilateral": "Cyclic quadrilateral: Opposite angles = 180°.",
+      "geometry radius perpendicular tangent": "Radius ⟂ tangent: 90°.",
+      "tangents from same point": "Tangents from same point: PA = PB.",
+      "tangent chord": "Tangent-chord: Angle tangent/chord = angle opposite segment.",
+      "centre perpendicular chord": "Centre ⟂ chord: Bisects chord.",
+      "equal chords": "Equal chords: Equal angles."
+    }
+  }
+}

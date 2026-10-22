@@ -1,0 +1,147 @@
+{
+  "Physics": {
+    "Newton's Laws and Application of Newton's Laws": {
+      "normal force": "The force or the component of a force which a surface exerts on an object with which it is in contact, and which is perpendicular to the surface.",
+      "frictional force": "The force that opposes the motion of an object and which acts parallel to the surface.",
+      "static frictional force": "The force that opposes the tendency of motion of a stationary object relative to a surface.",
+      "kinetic frictional force": "The force that opposes the motion of a moving object relative to a surface.",
+      "Newton's first law of motion": "A body will remain in its state of rest or motion at constant velocity unless a non-zero resultant/net force acts on it.",
+      "Newton's second law of motion": "When a net force acts on an object, the object will accelerate in the direction of the force and the acceleration is directly proportional to the force and inversely proportional to the mass of the object.",
+      "Newton's third law of motion": "When object A exerts a force on object B, object B SIMULTANEOUSLY exerts an oppositely directed force of equal magnitude on object A.",
+      "Newton's Law of Universal Gravitation": "Each body in the universe attracts every other body with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centres.",
+      "weight": "The gravitational force the Earth exerts on any object on or near its surface."
+    },
+    "Momentum and Impulse": {
+      "momentum": "The product of an object's mass and its velocity.",
+      "Newton's second law of motion in terms of momentum": "The net (or resultant) force acting on an object is equal to the rate of change of momentum of the object in the direction of the net force.",
+      "impulse": "The product of the resultant/net force acting on an object and the time the net force acts on the object.",
+      "system": "A system is a group of objects that interact with each other.",
+      "internal forces": "Forces exerted by objects within the system on each other.",
+      "external forces": "Forces exerted on objects in the system by objects outside the system.",
+      "isolated system": "A system on which the net external force is zero. (An isolated system excludes external forces that originate outside the colliding bodies, e.g. friction. Only internal forces, e.g. contact forces between the colliding objects, are considered.)",
+      "principle of conservation of linear momentum": "The total linear momentum of an isolated system remains constant (is conserved)."
+    },
+    "Vertical Projectile Motion in One Dimension (1D)": {
+      "projectile": "An object which has been given an initial velocity and then it moves under the influence of the gravitational force only.",
+      "free fall": "Motion during which the only force acting on an object is the gravitational force."
+    },
+    "Work, Energy and Power": {
+      "work done on an object by a constant force F": "F Δx cos θ, where F is the magnitude of the force, Δx the magnitude of the displacement and θ the angle between the force and the displacement.",
+      "work-energy theorem": "The work done on an object by a net force is equal to the change in the object's kinetic energy. In symbols: W_net = ΔK = K_f - K_i.",
+      "conservative force": "A force for which the work done in moving an object between two points is independent of the path taken. Examples are gravitational force, the elastic force in a spring and electrostatic forces (coulombic forces).",
+      "non-conservative force": "A force for which the work done in moving an object between two points depends on the path taken. Examples are frictional force, air resistance, tension in a chord, etc.",
+      "principle of conservation of mechanical energy": "The total mechanical energy (sum of gravitational potential energy and kinetic energy) in an isolated system remains constant.",
+      "power": "The rate at which work is done or energy is expended. In symbols: P = W/Δt."
+    },
+    "Doppler Effect": {
+      "Doppler effect": "The change in frequency (or pitch) of the sound detected by a listener, because the sound source and the listener have different velocities relative to the medium of sound propagation.",
+      "red shifts": "The shift of light towards longer wavelengths (lower frequencies) from a source moving away from the observer. It is used as evidence for the expanding universe."
+    },
+    "Electrostatics": {
+      "Coulomb's law": "The magnitude of the electrostatic force exerted by one point charge (Q1) on another point charge (Q2) is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance (r) between them.",
+      "electric field": "A region of space in which an electric charge experiences a force. The direction of the electric field at a point is the direction that a positive test charge would move if placed at that point.",
+      "electric field at a point": "The electric field at a point is the electrostatic force experienced per unit positive charge placed at that point. In symbols: E = F/q."
+    },
+    "Electric Circuits": {
+      "Ohm's law": "The potential difference across a conductor is directly proportional to the current in the conductor at constant temperature.",
+      "power": "The rate at which work is done. In symbols: P = W/Δt.",
+      "emf": "The maximum energy provided by a battery per unit charge passing through it."
+    },
+    "Electrodynamics": {
+      "rms potential difference": "The AC potential difference which dissipates/produces the same amount of energy as an equivalent DC potential difference.",
+      "rms current": "The alternating current which dissipates/produces the same amount of energy as an equivalent direct current (DC)."
+    },
+    "Optical Phenomena and Properties of Materials": {
+      "photoelectric effect": "The process whereby electrons are ejected from a metal surface when light of suitable frequency is incident on that surface.",
+      "threshold frequency": "The minimum frequency of light needed to emit electrons from a certain metal surface.",
+      "work function": "The minimum energy that an electron in the metal needs to be emitted from the metal surface.",
+      "atomic absorption spectrum": "A spectrum formed when certain frequencies of electromagnetic radiation passing through a substance is absorbed. For example, when light passes through a cold gas, atoms in the gas absorb characteristic frequencies of the light and the spectrum observed is a continuous spectrum with dark lines where characteristic frequencies of light were removed.",
+      "atomic emission spectrum": "A spectrum formed when certain frequencies of electromagnetic radiation are emitted due to an atom making a transition from a higher energy state to a lower energy state. For example, atoms in a hot gas emit light at characteristic frequencies. The spectrum observed is a line spectrum with only a few coloured lines of frequencies unique to the type of atom that is producing the emission lines."
+    }
+  },
+  "Chemistry": {
+    "Representing Chemical Change": {
+      "balanced chemical equations": "Write and balance chemical equations. Interpret balanced reaction equations in terms of conservation of atoms and conservation of mass (use relative atomic masses)."
+    },
+    "Quantitative Aspects of Chemical Change": {
+      "molar volume of gases": "1 mole of any gas occupies 22.4 dm³ at 0°C (273 K) and 1 atmosphere (101.3 kPa).",
+      "volume relationships in gaseous reactions": "Interpret balanced equations in terms of volume relationships for gases, i.e. under the same conditions of temperature and pressure, equal number of moles of all gases occupy the same volume."
+    },
+    "Intermolecular Forces": {
+      "dipole-dipole forces": "Forces between two polar molecules.",
+      "induced dipole forces or London forces": "Forces between non-polar molecules.",
+      "hydrogen bonding": "Forces between molecules in which hydrogen is covalently bonded to nitrogen, oxygen or fluorine – a special case of dipole-dipole forces.",
+      "intermolecular forces": "Forces between molecules.",
+      "interatomic forces (intramolecular forces)": "Chemical bonds within a molecule.",
+      "boiling point": "The temperature at which the vapour pressure of a substance equals atmospheric pressure.",
+      "melting point": "The temperature at which the solid and liquid phases of a substance are at equilibrium.",
+      "vapour pressure": "The pressure exerted by a vapour at equilibrium with its liquid in a closed system."
+    },
+    "Organic Molecules": {
+      "organic molecules": "Molecules containing carbon atoms.",
+      "molecular formula": "A chemical formula that indicates the element and numbers of each of the atoms in a molecule.",
+      "structural formula": "A structural formula of a compound shows which atoms are attached to which within the molecule. Atoms are represented by their chemical symbols and lines are used to represent ALL the bonds that hold the atoms together.",
+      "condensed structural formula": "This notation shows the way in which atoms are bonded together in the molecule, but DOES NOT SHOW ALL bond lines.",
+      "hydrocarbon": "Organic compounds that consist of hydrogen and carbon only.",
+      "homologous series": "A series of organic compounds that can be described by the same general formula OR in which one member differs from the next with a CH₂ group.",
+      "saturated compounds": "Compounds in which there are no multiple bonds between C atoms in their hydrocarbon chains.",
+      "unsaturated compounds": "Compounds with one or more multiple bonds between C atoms in their hydrocarbon chains.",
+      "functional group": "A bond or an atom or a group of atoms that determine(s) the physical and chemical properties of a group of organic compounds.",
+      "structural isomer": "Organic molecules with the same molecular formula, but different structural formulae.",
+      "chain isomers": "Same molecular formula, but different types of chains, e.g. butane and 2-methylpropane.",
+      "positional isomers": "Same molecular formula, but different positions of the side chain, substituents or functional groups on the parent chain, e.g. 1-chloropropane and 2-chloropropane or but-2-ene and but-1-ene.",
+      "functional isomers": "Same molecular formula, but different functional groups, e.g. methyl methanoate and ethanoic acid.",
+      "esterification": "The reaction of an alcohol with a carboxylic acid to form an ester and water.",
+      "hydrolysis": "The reaction of a compound with water.",
+      "cracking of alkanes": "The chemical process in which longer chain hydrocarbon molecules are broken down to shorter more useful molecules."
+    },
+    "Energy and Change": {
+      "heat of reaction (ΔH)": "The energy absorbed or released in a chemical reaction.",
+      "exothermic reactions": "Reactions that release energy.",
+      "endothermic reactions": "Reactions that absorb energy.",
+      "activation energy": "The minimum energy needed for a reaction to take place.",
+      "activated complex": "The unstable transition state from reactants to products."
+    },
+    "Rate and Extent of Reaction": {
+      "reaction rate": "The change in concentration of reactants or products per unit time.",
+      "collision theory": "A model that explains reaction rate as the result of particles colliding with a certain minimum energy to form products.",
+      "catalyst": "A substance that increases the rate of a chemical reaction without itself undergoing a permanent change."
+    },
+    "Chemical Equilibrium": {
+      "open system": "A system that continuously interacts with its environment.",
+      "closed system": "A system that is isolated from its surroundings.",
+      "reversible reaction": "A reaction is reversible when products can be converted back to reactants and vice versa.",
+      "chemical equilibrium": "It is a dynamic equilibrium when the rate of the forward reaction equals the rate of the reverse reaction.",
+      "Le Chatelier's principle": "When the equilibrium in a closed system is disturbed, the system will re-instate a new equilibrium by favouring the reaction that will oppose the disturbance."
+    },
+    "Acids and Bases": {
+      "Arrhenius theory": "Acids produce hydrogen ions (H⁺/H₃O⁺/hydrogen ions) in aqueous solution. Bases produce hydroxide ions (OH⁻) in aqueous solution.",
+      "Lowry-Bronsted theory": "An acid is a proton (H⁺ ion) donor. A base is a proton (H⁺ ion) acceptor.",
+      "strong acids": "Acids that ionise completely in water to form a high concentration of H₃O⁺ ions. Examples: hydrochloric acid, sulphuric acid and nitric acid.",
+      "weak acids": "Acids that ionise incompletely in water to form a low concentration of H₃O⁺ ions. Examples: ethanoic acid and oxalic acid.",
+      "strong bases": "Bases that dissociate completely in water to form a high concentration of OH⁻ ions. Examples: sodium hydroxide and potassium hydroxide.",
+      "weak bases": "Bases that dissociate/ionise incompletely in water to form a low concentration of OH⁻ ions. Examples: ammonia, calcium carbonate, potassium carbonate, calcium carbonate and sodium hydrogen carbonate.",
+      "concentrated acids/bases": "Contain a large amount (number of moles) of acid/base in proportion to the volume of water.",
+      "dilute acids/bases": "Contain a small amount (number of moles) of acid/base in proportion to the volume of water.",
+      "ampholyte": "A substance that can act as either acid or base. Water is a good example of an ampholyte substance.",
+      "hydrolysis": "The reaction of a salt with water.",
+      "equivalence point": "The point at which the acid/base has completely reacted with the base/acid.",
+      "endpoint": "The point where the indicator changes colour.",
+      "pH scale": "A scale of numbers from 0 to 14 used to express the acidity or alkalinity of a solution.",
+      "Kw": "The equilibrium constant for the ionisation of water or the ion product of water or the ionisation constant of water, i.e. Kw = [H₃O⁺][OH⁻] = 1 x 10⁻¹⁴ at 298 K.",
+      "auto-ionisation of water": "The reaction of water with itself to form H₃O⁺ ions and OH⁻ ions."
+    },
+    "Electrochemical Reactions": {
+      "galvanic cell": "A cell in which chemical energy is converted to electrical energy.",
+      "oxidation": "A loss of electrons. (Also: an increase in oxidation number.)",
+      "reduction": "A gain of electrons. (Also: a decrease in oxidation number.)",
+      "oxidising agent": "A substance that is reduced/gains electrons.",
+      "reducing agent": "A substance that is oxidised/loses electrons.",
+      "anode": "The electrode where oxidation takes place.",
+      "cathode": "The electrode where reduction takes place.",
+      "electrolyte": "A substance of which the aqueous solution contains ions OR a substance that dissolves in water to give a solution that conducts electricity.",
+      "electrolytic cell": "A cell in which electrical energy is converted into chemical energy.",
+      "electrolysis": "The chemical process in which electrical energy is converted to chemical energy OR the use of electrical energy to produce a chemical change."
+    }
+  }
+}

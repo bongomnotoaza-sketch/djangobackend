@@ -1,0 +1,547 @@
+# Final Exam Tips: Algebra and Equations
+
+Algebra questions are not only about getting the final answer. Marks are awarded for the **method**, so always show your working clearly.
+
+The goal is:
+
+$$
+\textbf{Identify the type of question → Apply the correct method → Show every step → Check your answer}
+$$
+
+---
+
+# 1. General Algebra Rules
+
+## Always Write Every Step
+
+Do not jump from:
+
+$$
+2x+5=15
+$$
+
+straight to:
+
+$$
+x=5
+$$
+
+Show:
+
+$$
+2x+5-5=15-5
+$$
+
+$$
+2x=10
+$$
+
+$$
+x=5
+$$
+
+Every line shows your method.
+
+---
+
+## Keep Signs Attached to Terms
+
+A negative sign belongs to the number or term after it.
+
+Example:
+
+$$
+5x-3x
+$$
+
+means:
+
+$$
+5x+(-3x)
+$$
+
+When multiplying:
+
+$$
+(x-4)(x+3)
+$$
+
+Treat it as:
+
+$$
+x(x)+x(3)-4(x)-4(3)
+$$
+
+---
+
+# 2. Simplification Tips
+
+Before simplifying:
+
+## Step 1
+
+Identify families.
+
+Example:
+
+$$
+5x^2+3x+7x^2+4x+8
+$$
+
+Family list:
+
+1. \(x^2\)
+2. \(x\)
+3. Constants
+
+---
+
+## Step 2
+
+Label every term.
+
+$$
+(1)5x^2+(2)3x+(1)7x^2+(2)4x+(3)8
+$$
+
+---
+
+## Step 3
+
+Combine only matching families.
+
+$$
+(1)(5+7)x^2+(2)(3+4)x+(3)8
+$$
+
+---
+
+Remember:
+
+$$
+x \neq x^2
+$$
+
+They are different families.
+
+---
+
+# 3. Multiplication Tips
+
+Before multiplying brackets:
+
+## Identify the type
+
+Ask:
+
+Is it:
+
+* SB?
+* ST?
+* BB?
+* BT?
+
+---
+
+## Multiplication Order
+
+Always follow:
+
+1. BB
+2. BT
+3. SB/ST
+
+Example:
+
+$$
+5x(4y-6)^2
+$$
+
+First:
+
+$$
+(4y-6)^2
+$$
+
+Then:
+
+$$
+5x(\text{answer})
+$$
+
+---
+
+## Do Not Forget Any Pair
+
+For BB:
+
+$$
+(a+b)(c+d)
+$$
+
+There are four multiplications:
+
+$$
+ac+ad+bc+bd
+$$
+
+Missing one term causes the whole answer to be wrong.
+
+---
+
+# 4. Factorisation Tips
+
+Always check methods in this order:
+
+## Step 1
+
+Common factor first.
+
+Example:
+
+$$
+2x^2-18
+$$
+
+Do not start with difference of squares.
+
+First:
+
+$$
+2(x^2-9)
+$$
+
+Then:
+
+$$
+2(x+3)(x-3)
+$$
+
+---
+
+## Step 2
+
+Look for patterns.
+
+Difference of squares:
+
+$$
+a^2-b^2=(a+b)(a-b)
+$$
+
+---
+
+## Step 3
+
+For trinomials:
+
+Check:
+
+Multiply:
+
+$$
+a \times c
+$$
+
+Add:
+
+$$
+b
+$$
+
+---
+
+# 5. Solving Equations Tips
+
+## Linear Equations
+
+Remember the goal:
+
+$$
+\text{Variable alone}
+$$
+
+Do the opposite operation.
+
+Example:
+
+$$
++5
+$$
+
+moves using:
+
+$$
+-5
+$$
+
+Example:
+
+$$
+\times3
+$$
+
+moves using:
+
+$$
+\div3
+$$
+
+---
+
+## Quadratic Equations
+
+First check:
+
+Can it factorise?
+
+If yes:
+
+$$
+(x+a)(x+b)=0
+$$
+
+If no:
+
+Use the quadratic formula.
+
+---
+
+## Quadratic Formula Checklist
+
+Before substituting:
+
+Write:
+
+$$
+a=
+$$
+
+$$
+b=
+$$
+
+$$
+c=
+$$
+
+Then:
+
+$$
+x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+$$
+
+Never skip the substitution step.
+
+---
+
+# 6. Simultaneous Equations Tips
+
+Before starting:
+
+Choose the easiest method.
+
+## Use Substitution when:
+
+One variable is already easy to isolate.
+
+Example:
+
+$$
+x+y=8
+$$
+
+---
+
+## Use Elimination when:
+
+Variables can cancel.
+
+Example:
+
+$$
+2x+y=5
+$$
+
+$$
+2x-y=3
+$$
+
+---
+
+Always find:
+
+$$
+x=\_\_
+$$
+
+and
+
+$$
+y=\_\_
+$$
+
+Finding only one variable is incomplete.
+
+---
+
+# 7. Inequality Tips
+
+The biggest rule:
+
+## Negative Multiply or Divide = Reverse the Sign
+
+Example:
+
+$$
+-3x>9
+$$
+
+Divide by \(-3\):
+
+$$
+x<-3
+$$
+
+---
+
+Remember:
+
+$$
+<
+$$
+
+and
+
+$$
+>
+$$
+
+do not include the number.
+
+$$
+\leq
+$$
+
+and
+
+$$
+\geq
+$$
+
+include the number.
+
+---
+
+# 8. Common Exam Mistakes
+
+## Mistake 1: Skipping Working
+
+Wrong:
+
+$$
+(2x+3)(x+4)=2x^2+11x+12
+$$
+
+Correct:
+
+Show:
+
+$$
+2x(x)+2x(4)+3(x)+3(4)
+$$
+
+---
+
+## Mistake 2: Losing Negative Signs
+
+Wrong:
+
+$$
+-(x+5)= -x+5
+$$
+
+Correct:
+
+$$
+-(x+5)=-x-5
+$$
+
+---
+
+## Mistake 3: Combining Wrong Families
+
+Wrong:
+
+$$
+3x+2x^2=5x^3
+$$
+
+Correct:
+
+They cannot combine.
+
+---
+
+## Mistake 4: Not Checking
+
+Whenever possible, substitute your answer back.
+
+---
+
+# Final Exam Strategy
+
+When you see a question:
+
+## Step 1
+
+Identify the topic:
+
+* Simplification?
+* Multiplication?
+* Factorisation?
+* Equation?
+* Inequality?
+
+---
+
+## Step 2
+
+Write the method.
+
+Markers cannot award method marks if the method is invisible.
+
+---
+
+## Step 3
+
+Work line by line.
+
+One correct step can still earn marks even if the final answer is wrong.
+
+---
+
+## Step 4
+
+Check:
+
+* Signs
+* Powers
+* Brackets
+* Final answer format
+
+---
+
+# Final Reminder
+
+In algebra, **accuracy comes from structure**.
+
+Do not try to do everything mentally.
+
+Use:
+
+$$
+\boxed{\text{Identify → Method → Working → Simplify → Answer}}
+$$
+
+A clear method earns marks. A missing method loses marks, even when the final answer is correct.

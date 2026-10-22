@@ -1,0 +1,608 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "momentum_impulse",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "momentum_impulse",
+      "question": "Objects P and Q, with masses m and 2m respectively, have the same momentum. The velocity of P is ...\n\nA equal to the velocity of Q.\nB half the velocity of Q.\nC twice the velocity of Q.\nD four times the velocity of Q.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "momentum_impulse",
+      "question": "A ball with momentum p strikes a wall perpendicularly and bounces back with the same speed. The change in momentum of the ball is ...\n\nA 0.\nB p.\nC 2p.\nD -2p.\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "momentum_impulse",
+      "question": "Two objects with different masses have the same kinetic energy. The object with the greater mass will have ...\n\nA greater momentum.\nB smaller momentum.\nC the same momentum.\nD zero momentum.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "momentum_impulse",
+      "question": "A cricket ball is hit by a bat. The contact time between the bat and the ball is delta t and the average net force acting on the ball is F. Which ONE of the following graphs best represents the relationship between the final momentum (pf) of the ball and the contact time (delta t) for a constant average net force?\n\nA A straight line with a positive gradient passing through the origin.\nB A straight line with a negative gradient.\nC A horizontal straight line.\nD A curve with a positive gradient.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "momentum_impulse",
+      "question": "A 2 kg object moving at 4 m/s collides head-on with a 3 kg object moving at 2 m/s in the opposite direction. After the collision, the 2 kg object moves at 1 m/s in the opposite direction. The magnitude of the velocity of the 3 kg object after the collision is ...\n\nA 0 m/s\nB 2 m/s\nC 4 m/s\nD 6 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "momentum_impulse",
+      "question": "Impulse is defined as the ...\n\nA product of the net force acting on an object and the time the force acts on the object.\nB product of the mass and the velocity of an object.\nC rate of change of momentum of an object.\nD product of the mass and the acceleration of an object.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "momentum_impulse",
+      "question": "Momentum is defined as the ...\n\nA product of the net force acting on an object and the time the force acts on the object.\nB product of the mass and the velocity of an object.\nC rate of change of velocity of an object.\nD product of the mass and the acceleration of an object.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "momentum_impulse",
+      "question": "A cricket ball of mass 150 g is thrown horizontally with an initial velocity of 15 m/s. It is struck by a bat and moves in the opposite direction with a velocity of 30 m/s. The contact time between the bat and the ball is 0.03 s. The average net force acting on the ball is ...\n\nA 75 N\nB 150 N\nC 225 N\nD 300 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "momentum_impulse",
+      "question": "A 1200 kg car travelling at 20 m/s collides head-on with a 2000 kg truck travelling at 15 m/s in the opposite direction. After the collision, the car moves at 5 m/s in the opposite direction. The velocity of the truck after the collision is ...\n\nA 0 m/s\nB 2 m/s\nC 5 m/s\nD 10 m/s\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "momentum_impulse",
+      "question": "The principle of conservation of linear momentum states that the total linear momentum of an isolated system ...\n\nA increases with time.\nB decreases with time.\nC remains constant.\nD becomes zero.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "momentum_impulse",
+      "question": "A 0.2 kg ball is dropped from a height of 5 m onto a hard floor. It bounces back to a height of 3.2 m. The velocity with which the ball strikes the floor is approximately ...\n\nA 7.92 m/s\nB 9.90 m/s\nC 11.00 m/s\nD 12.52 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "momentum_impulse",
+      "question": "A 0.2 kg ball is dropped from a height of 5 m onto a hard floor. It bounces back to a height of 3.2 m. The velocity with which the ball leaves the floor is approximately ...\n\nA 7.92 m/s\nB 9.90 m/s\nC 11.00 m/s\nD 12.52 m/s\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "momentum_impulse",
+      "question": "A 0.2 kg ball is dropped from a height of 5 m onto a hard floor. It bounces back to a height of 3.2 m. The ball is in contact with the floor for 0.02 s. The average net force exerted by the floor on the ball is ...\n\nA 89.1 N\nB 178.2 N\nC 267.3 N\nD 356.4 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "momentum_impulse",
+      "question": "A 4 kg block moving at 6 m/s collides with a stationary 2 kg block. After the collision, the 4 kg block moves at 2 m/s in the same direction. The velocity of the 2 kg block after the collision is ...\n\nA 4 m/s\nB 6 m/s\nC 8 m/s\nD 10 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "momentum_impulse",
+      "question": "A 4 kg block moving at 6 m/s collides with a stationary 2 kg block. After the collision, the 4 kg block moves at 2 m/s in the same direction. The collision is ...\n\nA elastic.\nB inelastic.\nC perfectly inelastic.\nD partially elastic.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "momentum_impulse",
+      "question": "A 0.15 kg cricket ball is thrown horizontally with a certain initial velocity and is struck by a bat so that the ball moves in the opposite direction. The graph of final momentum pf versus contact time delta t gives a straight line passing through (0.01; 0) and (0.03; 4.5). The average net force acting on the ball is ...\n\nA 75 N\nB 150 N\nC 225 N\nD 300 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "momentum_impulse",
+      "question": "A 0.15 kg cricket ball is thrown horizontally with a certain initial velocity and is struck by a bat so that the ball moves in the opposite direction. The graph of final momentum pf versus contact time delta t gives a straight line passing through (0.01; 0) and (0.03; 4.5). The magnitude of the initial velocity of the ball is ...\n\nA 10 m/s\nB 15 m/s\nC 20 m/s\nD 30 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "momentum_impulse",
+      "question": "A 0.5 kg ball is thrown vertically downwards from a height of 10 m with an initial velocity of 5 m/s. The velocity with which the ball strikes the ground is approximately ...\n\nA 10.84 m/s\nB 12.52 m/s\nC 14.87 m/s\nD 16.00 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "momentum_impulse",
+      "question": "A 0.5 kg ball is thrown vertically downwards from a height of 10 m with an initial velocity of 5 m/s. It strikes the ground and bounces back to a height of 6 m. The velocity with which the ball leaves the ground is approximately ...\n\nA 10.84 m/s\nB 12.52 m/s\nC 14.87 m/s\nD 16.00 m/s\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "momentum_impulse",
+      "question": "A 0.5 kg ball is thrown vertically downwards from a height of 10 m with an initial velocity of 5 m/s. It strikes the ground and bounces back to a height of 6 m. The ball is in contact with the ground for 0.05 s. The average net force exerted by the ground on the ball is ...\n\nA 128.6 N\nB 257.1 N\nC 385.7 N\nD 514.2 N\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "momentum_impulse",
+      "question": "A 1500 kg car travelling east at 25 m/s collides with a 2500 kg truck travelling west at 15 m/s. After the collision, the car moves west at 5 m/s. The velocity of the truck after the collision is ...\n\nA 3 m/s east\nB 3 m/s west\nC 5 m/s east\nD 5 m/s west\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "momentum_impulse",
+      "question": "A 1500 kg car travelling east at 25 m/s collides with a 2500 kg truck travelling west at 15 m/s. After the collision, the car moves west at 5 m/s. The collision is ...\n\nA elastic.\nB inelastic.\nC perfectly inelastic.\nD partially elastic.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "momentum_impulse",
+      "question": "A 2 kg block moving at 8 m/s collides with a stationary 3 kg block. After the collision, the two blocks stick together and move as one unit. The velocity of the combined blocks after the collision is ...\n\nA 2.0 m/s\nB 3.2 m/s\nC 4.0 m/s\nD 5.0 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "momentum_impulse",
+      "question": "A 2 kg block moving at 8 m/s collides with a stationary 3 kg block. After the collision, the two blocks stick together and move as one unit. The loss in kinetic energy during the collision is ...\n\nA 19.2 J\nB 25.6 J\nC 38.4 J\nD 64.0 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "momentum_impulse",
+      "question": "A 0.05 kg bullet is fired horizontally into a 2 kg wooden block resting on a frictionless horizontal surface. The bullet embeds itself in the block and the combined system moves at 3 m/s. The initial velocity of the bullet is ...\n\nA 60 m/s\nB 90 m/s\nC 123 m/s\nD 150 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "momentum_impulse",
+      "question": "A 0.05 kg bullet is fired horizontally into a 2 kg wooden block resting on a frictionless horizontal surface. The bullet embeds itself in the block and the combined system moves at 3 m/s. The loss in kinetic energy during the collision is approximately ...\n\nA 123 J\nB 246 J\nC 369 J\nD 492 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "momentum_impulse",
+      "question": "A 0.2 kg tennis ball approaches a racket horizontally with a velocity of 20 m/s. The racket applies an average net force of 400 N on the ball for a contact time of 0.03 s. The ball leaves the racket in the opposite direction. The velocity of the ball after it leaves the racket is ...\n\nA 20 m/s\nB 30 m/s\nC 40 m/s\nD 50 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "momentum_impulse",
+      "question": "A 0.2 kg tennis ball approaches a racket horizontally with a velocity of 20 m/s. The racket applies an average net force of 400 N on the ball for a contact time of 0.03 s. The ball leaves the racket in the opposite direction. The impulse exerted by the racket on the ball is ...\n\nA 6 N.s\nB 12 N.s\nC 18 N.s\nD 24 N.s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "momentum_impulse",
+      "question": "A 0.5 kg ball is dropped from a height of 8 m onto a hard floor. It bounces back to a height of 4.5 m. The ball is in contact with the floor for 0.03 s. The speed of the ball just before it strikes the floor is approximately ...\n\nA 9.39 m/s\nB 12.52 m/s\nC 14.87 m/s\nD 16.00 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "momentum_impulse",
+      "question": "A 0.5 kg ball is dropped from a height of 8 m onto a hard floor. It bounces back to a height of 4.5 m. The ball is in contact with the floor for 0.03 s. The speed of the ball just after it leaves the floor is approximately ...\n\nA 9.39 m/s\nB 12.52 m/s\nC 14.87 m/s\nD 16.00 m/s\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "momentum_impulse",
+      "question": "A 0.5 kg ball is dropped from a height of 8 m onto a hard floor. It bounces back to a height of 4.5 m. The ball is in contact with the floor for 0.03 s. The average net force exerted by the floor on the ball is approximately ...\n\nA 182.6 N\nB 273.9 N\nC 365.2 N\nD 456.5 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "momentum_impulse",
+      "question": "A 0.5 kg ball is dropped from a height of 8 m onto a hard floor. It bounces back to a height of 4.5 m. The ball is in contact with the floor for 0.03 s. The collision between the ball and the floor is ...\n\nA elastic because kinetic energy is conserved.\nB inelastic because the height decreased and kinetic energy is not conserved.\nC elastic because the ball bounces back.\nD inelastic because the ball sticks to the floor.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "momentum_impulse",
+      "question": "The impulse-momentum theorem states that ...\n\nA Fnet = ma.\nB Fnet delta t = delta p.\nC p = mv.\nD Ek = 1/2 mv^2.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "momentum_impulse",
+      "question": "Two objects with equal masses have velocities in the ratio 1:2. The ratio of their momenta is ...\n\nA 1:1\nB 1:2\nC 2:1\nD 1:4\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "momentum_impulse",
+      "question": "Two objects with equal masses have velocities in the ratio 1:2. The ratio of their kinetic energies is ...\n\nA 1:1\nB 1:2\nC 1:4\nD 2:1\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "momentum_impulse",
+      "question": "A force of 50 N acts on a 2 kg object for 4 s. The impulse on the object is ...\n\nA 25 N.s\nB 50 N.s\nC 100 N.s\nD 200 N.s\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "momentum_impulse",
+      "question": "A force of 50 N acts on a 2 kg object for 4 s. The change in momentum of the object is ...\n\nA 25 kg.m/s\nB 50 kg.m/s\nC 100 kg.m/s\nD 200 kg.m/s\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "momentum_impulse",
+      "question": "A force of 50 N acts on a 2 kg object for 4 s. The change in velocity of the object is ...\n\nA 25 m/s\nB 50 m/s\nC 100 m/s\nD 200 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "momentum_impulse",
+      "question": "A 0.1 kg ball moving at 10 m/s strikes a wall perpendicularly and bounces back at 8 m/s. The magnitude of the change in momentum of the ball is ...\n\nA 0.2 kg.m/s\nB 0.8 kg.m/s\nC 1.0 kg.m/s\nD 1.8 kg.m/s\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "momentum_impulse",
+      "question": "A 0.1 kg ball moving at 10 m/s strikes a wall perpendicularly and bounces back at 8 m/s. If the contact time is 0.02 s, the average net force exerted by the wall on the ball is ...\n\nA 9 N\nB 45 N\nC 90 N\nD 180 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "momentum_impulse",
+      "question": "A 3 kg object moving at 4 m/s collides with a 1 kg object moving at 2 m/s in the same direction. After the collision, the 3 kg object moves at 3 m/s. The velocity of the 1 kg object after the collision is ...\n\nA 2 m/s\nB 3 m/s\nC 5 m/s\nD 6 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "momentum_impulse",
+      "question": "A 3 kg object moving at 4 m/s collides with a 1 kg object moving at 2 m/s in the same direction. After the collision, the 3 kg object moves at 3 m/s. The collision is ...\n\nA elastic.\nB inelastic.\nC perfectly inelastic.\nD partially elastic.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "momentum_impulse",
+      "question": "Two objects with equal kinetic energies have masses in the ratio 1:4. The ratio of their momenta is ...\n\nA 1:1\nB 1:2\nC 2:1\nD 1:4\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "momentum_impulse",
+      "question": "The kinetic energy of an object can be expressed in terms of its momentum p and mass m as ...\n\nA Ek = p^2 / (2m)\nB Ek = p / (2m)\nC Ek = p^2 / m\nD Ek = 2p^2 / m\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "momentum_impulse",
+      "question": "A 0.01 kg bullet moving at 400 m/s strikes a 2 kg block and embeds itself in it. The velocity of the combined system is ...\n\nA 2 m/s\nB 4 m/s\nC 6 m/s\nD 8 m/s\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "momentum_impulse",
+      "question": "A 0.01 kg bullet moving at 400 m/s strikes a 2 kg block and embeds itself in it. The loss in kinetic energy is approximately ...\n\nA 400 J\nB 600 J\nC 800 J\nD 1000 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "momentum_impulse",
+      "question": "A 1000 kg car moving at 20 m/s collides with a 2000 kg car moving at 10 m/s in the opposite direction. After the collision, the two cars stick together. The velocity of the combined wreckage is ...\n\nA 0 m/s\nB 3.33 m/s in the direction of the 1000 kg car\nC 3.33 m/s in the direction of the 2000 kg car\nD 10 m/s in the direction of the 1000 kg car\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "momentum_impulse",
+      "question": "A 1000 kg car moving at 20 m/s collides with a 2000 kg car moving at 10 m/s in the opposite direction. After the collision, the two cars stick together. The loss in kinetic energy is ...\n\nA 100000 J\nB 200000 J\nC 300000 J\nD 400000 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "momentum_impulse",
+      "question": "The momentum of an object is doubled. Its kinetic energy will ...\n\nA remain the same.\nB double.\nC triple.\nD quadruple.\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "momentum_impulse",
+      "question": "The momentum of an object is halved. Its kinetic energy will ...\n\nA remain the same.\nB be halved.\nC be quartered.\nD be doubled.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "momentum_impulse",
+      "question": "A 2 kg object moving east at 6 m/s collides with a 4 kg object moving west at 3 m/s. After the collision, the 2 kg object moves west at 2 m/s. The velocity of the 4 kg object after the collision is ...\n\nA 1 m/s east\nB 1 m/s west\nC 2 m/s east\nD 2 m/s west\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "momentum_impulse",
+      "question": "A 2 kg object moving east at 6 m/s collides with a 4 kg object moving west at 3 m/s. After the collision, the 2 kg object moves west at 2 m/s. The collision is ...\n\nA elastic.\nB inelastic.\nC perfectly inelastic.\nD partially elastic.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "momentum_impulse",
+      "question": "A ball of mass 0.2 kg is thrown vertically upwards with a velocity of 10 m/s. It returns to the thrower's hand with a velocity of 8 m/s. The magnitude of the change in momentum of the ball is ...\n\nA 0.4 kg.m/s\nB 0.8 kg.m/s\nC 1.6 kg.m/s\nD 3.6 kg.m/s\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "momentum_impulse",
+      "question": "A ball of mass 0.2 kg is thrown vertically upwards with a velocity of 10 m/s. It returns to the thrower's hand with a velocity of 8 m/s. The impulse exerted by the ball on the thrower's hand is ...\n\nA 0.4 N.s\nB 0.8 N.s\nC 1.6 N.s\nD 3.6 N.s\n\n(2)",
+      "answer": "D\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "momentum_impulse",
+      "question": "A 0.5 kg ball moving at 4 m/s collides head-on with a 0.3 kg ball moving at 2 m/s in the opposite direction. After the collision, the 0.5 kg ball moves at 1 m/s in the opposite direction. The velocity of the 0.3 kg ball after the collision is ...\n\nA 1 m/s\nB 2 m/s\nC 3 m/s\nD 4 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "momentum_impulse",
+      "question": "A 0.5 kg ball moving at 4 m/s collides head-on with a 0.3 kg ball moving at 2 m/s in the opposite direction. After the collision, the 0.5 kg ball moves at 1 m/s in the opposite direction. The collision is ...\n\nA elastic.\nB inelastic.\nC perfectly inelastic.\nD partially elastic.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "momentum_impulse",
+      "question": "A 0.2 kg ball is dropped from a height of 20 m. It bounces back to a height of 5 m. The speed of the ball just before it strikes the ground is approximately ...\n\nA 10 m/s\nB 14 m/s\nC 20 m/s\nD 28 m/s\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "momentum_impulse",
+      "question": "A 0.2 kg ball is dropped from a height of 20 m. It bounces back to a height of 5 m. The speed of the ball just after it leaves the ground is approximately ...\n\nA 5 m/s\nB 10 m/s\nC 15 m/s\nD 20 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "momentum_impulse",
+      "question": "A 0.2 kg ball is dropped from a height of 20 m. It bounces back to a height of 5 m. If the contact time is 0.04 s, the average net force exerted by the ground on the ball is approximately ...\n\nA 50 N\nB 100 N\nC 150 N\nD 200 N\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "momentum_impulse",
+      "question": "A 0.2 kg ball is dropped from a height of 20 m. It bounces back to a height of 5 m. The collision between the ball and the ground is ...\n\nA elastic because kinetic energy is conserved.\nB inelastic because the height decreased and kinetic energy is not conserved.\nC elastic because the ball bounces back.\nD inelastic because the ball sticks to the ground.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

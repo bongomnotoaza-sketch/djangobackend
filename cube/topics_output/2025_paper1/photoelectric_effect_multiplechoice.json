@@ -1,0 +1,608 @@
+{
+  "year": 2025,
+  "paper": "paper1",
+  "topic": "photoelectric_effect",
+  "count": 60,
+  "questions": [
+    {
+      "label": "MCQ1",
+      "topic": "photoelectric_effect",
+      "question": "In the photoelectric effect, the minimum frequency of light required to eject electrons from a metal surface is called the ...\n\nA threshold frequency.\nB work function.\nC maximum frequency.\nD stopping potential.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ2",
+      "topic": "photoelectric_effect",
+      "question": "Light of a certain frequency is incident on a metal surface. The intensity of the light is increased while the frequency remains constant. Which ONE of the following statements is CORRECT?\n\nA The maximum kinetic energy of the emitted electrons increases.\nB The maximum kinetic energy of the emitted electrons remains constant.\nC The number of electrons emitted per second decreases.\nD No electrons will be emitted.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ3",
+      "topic": "photoelectric_effect",
+      "question": "Which ONE of the following graphs best represents the relationship between the maximum kinetic energy (Ek(max)) of emitted electrons and the frequency (f) of incident light in the photoelectric effect?\n\nA A straight line with a positive gradient, passing through the origin.\nB A straight line with a positive gradient, with a positive y-intercept.\nC A straight line with a negative gradient.\nD A curve with a positive gradient.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ4",
+      "topic": "photoelectric_effect",
+      "question": "Two metals, X and Y, have work functions Wx and Wy respectively, where Wx > Wy. Light of the same frequency is incident on both metals. Which ONE of the following statements is CORRECT?\n\nA The maximum kinetic energy of electrons from X is greater than that from Y.\nB The maximum kinetic energy of electrons from Y is greater than that from X.\nC The maximum kinetic energy of electrons from both metals is the same.\nD No electrons will be emitted from either metal.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ5",
+      "topic": "photoelectric_effect",
+      "question": "In the photoelectric effect, the stopping potential is the potential difference required to ...\n\nA eject electrons from the metal surface.\nB increase the maximum kinetic energy of the emitted electrons.\nC stop the fastest emitted electrons from reaching the anode.\nD increase the number of emitted electrons.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ6",
+      "topic": "photoelectric_effect",
+      "question": "The work function of a metal is defined as the ...\n\nA minimum energy needed for electrons to be emitted from the metal surface.\nB minimum frequency of light needed to emit electrons from the metal surface.\nC maximum kinetic energy of emitted electrons.\nD potential difference required to stop the fastest emitted electrons.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ7",
+      "topic": "photoelectric_effect",
+      "question": "The threshold frequency of a metal is defined as the ...\n\nA minimum energy needed for electrons to be emitted from the metal surface.\nB minimum frequency of light needed to emit electrons from the metal surface.\nC maximum frequency of light that can be incident on the metal surface.\nD frequency at which the maximum kinetic energy is zero.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ8",
+      "topic": "photoelectric_effect",
+      "question": "A metal surface has a work function of 3.2 x 10^-19 J. Light of frequency 1.2 x 10^15 Hz is incident on the metal surface. The maximum kinetic energy of the emitted electrons is ...\n\nA 3.20 x 10^-19 J\nB 4.76 x 10^-19 J\nC 7.96 x 10^-19 J\nD 11.16 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ9",
+      "topic": "photoelectric_effect",
+      "question": "Light of frequency 8 x 10^14 Hz is incident on a metal surface with a work function of 4.0 x 10^-19 J. The maximum speed of the emitted electrons is approximately ...\n\nA 3.78 x 10^5 m/s\nB 5.35 x 10^5 m/s\nC 7.56 x 10^5 m/s\nD 9.11 x 10^5 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ10",
+      "topic": "photoelectric_effect",
+      "question": "The threshold frequency of a certain metal is 6 x 10^14 Hz. The work function of the metal is ...\n\nA 2.65 x 10^-19 J\nB 3.98 x 10^-19 J\nC 4.76 x 10^-19 J\nD 6.63 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ11",
+      "topic": "photoelectric_effect",
+      "question": "In a photoelectric experiment, the maximum kinetic energy of the emitted electrons is 1.8 x 10^-19 J when light of frequency 7 x 10^14 Hz is used. The work function of the metal is ...\n\nA 1.80 x 10^-19 J\nB 2.84 x 10^-19 J\nC 4.64 x 10^-19 J\nD 6.44 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ12",
+      "topic": "photoelectric_effect",
+      "question": "The work function of a certain metal is 4.2 x 10^-19 J. The threshold frequency of the metal is approximately ...\n\nA 4.20 x 10^14 Hz\nB 6.34 x 10^14 Hz\nC 8.48 x 10^14 Hz\nD 1.06 x 10^15 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ13",
+      "topic": "photoelectric_effect",
+      "question": "Light of wavelength 300 nm is incident on a metal surface with a work function of 3.5 x 10^-19 J. The energy of a photon of this light is ...\n\nA 3.50 x 10^-19 J\nB 6.63 x 10^-19 J\nC 9.94 x 10^-19 J\nD 1.33 x 10^-18 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ14",
+      "topic": "photoelectric_effect",
+      "question": "Light of wavelength 300 nm is incident on a metal surface with a work function of 3.5 x 10^-19 J. The maximum kinetic energy of the emitted electrons is ...\n\nA 1.50 x 10^-19 J\nB 3.13 x 10^-19 J\nC 4.76 x 10^-19 J\nD 6.63 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ15",
+      "topic": "photoelectric_effect",
+      "question": "Light of wavelength 300 nm is incident on a metal surface with a work function of 3.5 x 10^-19 J. The maximum speed of the emitted electrons is approximately ...\n\nA 5.87 x 10^5 m/s\nB 8.29 x 10^5 m/s\nC 1.05 x 10^6 m/s\nD 1.28 x 10^6 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ16",
+      "topic": "photoelectric_effect",
+      "question": "A metal surface is illuminated with light of wavelength 420 nm. The work function of the metal is 2.5 x 10^-19 J. The energy of a photon of this light is approximately ...\n\nA 2.50 x 10^-19 J\nB 4.74 x 10^-19 J\nC 6.63 x 10^-19 J\nD 9.46 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ17",
+      "topic": "photoelectric_effect",
+      "question": "A metal surface is illuminated with light of wavelength 420 nm. The work function of the metal is 2.5 x 10^-19 J. The maximum kinetic energy of the emitted electrons is ...\n\nA 1.24 x 10^-19 J\nB 2.24 x 10^-19 J\nC 3.24 x 10^-19 J\nD 4.24 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ18",
+      "topic": "photoelectric_effect",
+      "question": "A metal surface is illuminated with light of wavelength 420 nm. The work function of the metal is 2.5 x 10^-19 J. The stopping potential for this metal is ...\n\nA 0.70 V\nB 1.40 V\nC 2.10 V\nD 2.80 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ19",
+      "topic": "photoelectric_effect",
+      "question": "A photoelectric cell is illuminated with light of wavelength 250 nm. The work function of the metal used in the cell is 4.5 x 10^-19 J. The energy of a photon of this light is ...\n\nA 4.50 x 10^-19 J\nB 7.96 x 10^-19 J\nC 9.94 x 10^-19 J\nD 1.33 x 10^-18 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ20",
+      "topic": "photoelectric_effect",
+      "question": "A photoelectric cell is illuminated with light of wavelength 250 nm. The work function of the metal used in the cell is 4.5 x 10^-19 J. The maximum kinetic energy of the emitted electrons is ...\n\nA 1.50 x 10^-19 J\nB 3.46 x 10^-19 J\nC 4.50 x 10^-19 J\nD 7.96 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ21",
+      "topic": "photoelectric_effect",
+      "question": "A photoelectric cell is illuminated with light of wavelength 250 nm. The work function of the metal used in the cell is 4.5 x 10^-19 J. The stopping potential is ...\n\nA 1.08 V\nB 2.16 V\nC 3.24 V\nD 4.32 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ22",
+      "topic": "photoelectric_effect",
+      "question": "A photoelectric cell is illuminated with light of wavelength 250 nm. The work function of the metal used in the cell is 4.5 x 10^-19 J. Will electrons be emitted if the wavelength of the incident light is increased to 500 nm?\n\nA Yes, because the wavelength is still in the visible range.\nB Yes, because the energy of the photons is still greater than the work function.\nC No, because increasing the wavelength decreases the frequency and the energy of the photons will be less than the work function.\nD No, because increasing the wavelength increases the frequency.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ23",
+      "topic": "photoelectric_effect",
+      "question": "In a photoelectric experiment, light of frequency f is incident on a metal surface with work function W0. The maximum kinetic energy of the emitted electrons is Ek(max). Which equation relates these quantities?\n\nA Ek(max) = hf + W0\nB Ek(max) = hf - W0\nC Ek(max) = W0 - hf\nD Ek(max) = hf x W0\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ24",
+      "topic": "photoelectric_effect",
+      "question": "The frequency of incident light is doubled while the metal surface remains the same. The new maximum kinetic energy in terms of the original maximum kinetic energy Ek(max), work function W0 and hf is ...\n\nA 2hf - W0\nB hf - W0\nC 2(hf - W0)\nD hf + W0\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ25",
+      "topic": "photoelectric_effect",
+      "question": "The intensity of light incident on a metal surface is doubled while the frequency remains constant. What effect does this have on the maximum kinetic energy of the emitted electrons?\n\nA It doubles.\nB It halves.\nC It remains constant.\nD It becomes zero.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ26",
+      "topic": "photoelectric_effect",
+      "question": "In the photoelectric effect, the gradient of the graph of maximum kinetic energy versus frequency represents ...\n\nA Planck's constant.\nB the work function.\nC the threshold frequency.\nD the stopping potential.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ27",
+      "topic": "photoelectric_effect",
+      "question": "In the photoelectric effect, the y-intercept of the graph of maximum kinetic energy versus frequency represents ...\n\nA Planck's constant.\nB the negative of the work function.\nC the threshold frequency.\nD the stopping potential.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ28",
+      "topic": "photoelectric_effect",
+      "question": "In the photoelectric effect, the x-intercept of the graph of maximum kinetic energy versus frequency represents ...\n\nA Planck's constant.\nB the work function.\nC the threshold frequency.\nD the stopping potential.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ29",
+      "topic": "photoelectric_effect",
+      "question": "The maximum kinetic energy of emitted electrons is given by ...\n\nA Ek(max) = hf\nB Ek(max) = hf - W0\nC Ek(max) = W0 - hf\nD Ek(max) = hf + W0\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ30",
+      "topic": "photoelectric_effect",
+      "question": "The stopping potential V0 is related to the maximum kinetic energy by ...\n\nA Ek(max) = qV0\nB Ek(max) = q/V0\nC Ek(max) = V0/q\nD Ek(max) = qV0^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ31",
+      "topic": "photoelectric_effect",
+      "question": "The energy of a photon is given by ...\n\nA E = hf\nB E = h/f\nC E = f/h\nD E = hf^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ32",
+      "topic": "photoelectric_effect",
+      "question": "The energy of a photon in terms of wavelength is given by ...\n\nA E = hc x lambda\nB E = hc / lambda\nC E = lambda / hc\nD E = h / (c x lambda)\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ33",
+      "topic": "photoelectric_effect",
+      "question": "The threshold frequency f0 is related to the work function W0 by ...\n\nA W0 = hf0\nB W0 = h/f0\nC W0 = f0/h\nD W0 = hf0^2\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ34",
+      "topic": "photoelectric_effect",
+      "question": "The value of Planck's constant is ...\n\nA 6.63 x 10^-34 J.s\nB 3.00 x 10^8 J.s\nC 1.60 x 10^-19 J.s\nD 9.11 x 10^-31 J.s\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ35",
+      "topic": "photoelectric_effect",
+      "question": "The speed of light in a vacuum is ...\n\nA 3.00 x 10^6 m/s\nB 3.00 x 10^8 m/s\nC 3.00 x 10^10 m/s\nD 3.00 x 10^12 m/s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ36",
+      "topic": "photoelectric_effect",
+      "question": "The charge of an electron is ...\n\nA 1.60 x 10^-19 C\nB 6.63 x 10^-34 C\nC 9.11 x 10^-31 C\nD 3.00 x 10^8 C\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ37",
+      "topic": "photoelectric_effect",
+      "question": "The mass of an electron is ...\n\nA 1.60 x 10^-19 kg\nB 6.63 x 10^-34 kg\nC 9.11 x 10^-31 kg\nD 3.00 x 10^8 kg\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ38",
+      "topic": "photoelectric_effect",
+      "question": "In a photoelectric experiment, light of frequency 1.045 x 10^15 Hz is incident on different metals. The maximum kinetic energies are: Caesium 4.32 x 10^-19 J, Sodium 2.65 x 10^-19 J, Zinc 0 J, Metal M 0 J. The threshold frequency of zinc is ...\n\nA less than 1.045 x 10^15 Hz\nB equal to 1.045 x 10^15 Hz\nC greater than 1.045 x 10^15 Hz\nD zero\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ39",
+      "topic": "photoelectric_effect",
+      "question": "In a photoelectric experiment, light of frequency 1.045 x 10^15 Hz is incident on different metals. The maximum kinetic energies are: Caesium 4.32 x 10^-19 J, Sodium 2.65 x 10^-19 J, Zinc 0 J, Metal M 0 J. How does the work function of sodium compare to that of caesium?\n\nA Smaller than\nB Greater than\nC Equal to\nD Cannot be determined\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ40",
+      "topic": "photoelectric_effect",
+      "question": "In a photoelectric experiment, light of frequency 1.045 x 10^15 Hz is incident on different metals. The maximum kinetic energies are: Caesium 4.32 x 10^-19 J, Sodium 2.65 x 10^-19 J, Zinc 0 J, Metal M 0 J. Light of the same frequency, but with a higher intensity, is now incident on metal M. Will electrons now be ejected?\n\nA Yes, because the intensity is higher.\nB Yes, because more photons are incident on the metal.\nC No, because the intensity of light does not affect the ejection of electrons.\nD No, because the work function of metal M is too large.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ41",
+      "topic": "photoelectric_effect",
+      "question": "Two different metals, A and B, are used in a photoelectric experiment. The work function of metal A is greater than the work function of metal B. Light of the same frequency is incident on both metals. Which metal will emit electrons with a greater maximum kinetic energy?\n\nA Metal A\nB Metal B\nC Both metals will emit electrons with the same maximum kinetic energy.\nD Neither metal will emit electrons.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ42",
+      "topic": "photoelectric_effect",
+      "question": "The graph of maximum kinetic energy versus frequency for two metals A and B (where WA > WB) shows two straight lines. Which ONE of the following statements is CORRECT?\n\nA The lines have different gradients.\nB The lines are parallel.\nC The line for A has a smaller x-intercept.\nD The line for B has a larger y-intercept magnitude.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ43",
+      "topic": "photoelectric_effect",
+      "question": "The graph of maximum kinetic energy versus frequency for a certain metal has a y-intercept of -3.2 x 10^-19 J and passes through the point (1.2 x 10^15 Hz; 4.76 x 10^-19 J). The work function of the metal is ...\n\nA 1.6 x 10^-19 J\nB 3.2 x 10^-19 J\nC 4.76 x 10^-19 J\nD 7.96 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ44",
+      "topic": "photoelectric_effect",
+      "question": "The graph of maximum kinetic energy versus frequency for a certain metal has a y-intercept of -3.2 x 10^-19 J and passes through the point (1.2 x 10^15 Hz; 4.76 x 10^-19 J). The gradient of the graph is approximately ...\n\nA 3.97 x 10^-34 J.s\nB 6.63 x 10^-34 J.s\nC 9.11 x 10^-34 J.s\nD 1.20 x 10^-33 J.s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ45",
+      "topic": "photoelectric_effect",
+      "question": "The gradient of the graph of maximum kinetic energy versus frequency represents ...\n\nA the work function.\nB Planck's constant.\nC the threshold frequency.\nD the stopping potential.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ46",
+      "topic": "photoelectric_effect",
+      "question": "The graph of maximum kinetic energy versus frequency for a certain metal gives the following data: (5.0 x 10^14 Hz; 0 J), (7.0 x 10^14 Hz; 1.33 x 10^-19 J), (9.0 x 10^14 Hz; 2.65 x 10^-19 J), (11.0 x 10^14 Hz; 3.98 x 10^-19 J), (13.0 x 10^14 Hz; 5.30 x 10^-19 J). The threshold frequency of the metal is ...\n\nA 3.0 x 10^14 Hz\nB 5.0 x 10^14 Hz\nC 7.0 x 10^14 Hz\nD 13.0 x 10^14 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ47",
+      "topic": "photoelectric_effect",
+      "question": "The graph of maximum kinetic energy versus frequency for a certain metal gives the following data: (5.0 x 10^14 Hz; 0 J), (7.0 x 10^14 Hz; 1.33 x 10^-19 J), (9.0 x 10^14 Hz; 2.65 x 10^-19 J), (11.0 x 10^14 Hz; 3.98 x 10^-19 J), (13.0 x 10^14 Hz; 5.30 x 10^-19 J). The work function of the metal is approximately ...\n\nA 1.66 x 10^-19 J\nB 3.32 x 10^-19 J\nC 4.98 x 10^-19 J\nD 6.63 x 10^-19 J\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ48",
+      "topic": "photoelectric_effect",
+      "question": "The graph of maximum kinetic energy versus frequency for a certain metal gives the following data: (5.0 x 10^14 Hz; 0 J), (7.0 x 10^14 Hz; 1.33 x 10^-19 J), (9.0 x 10^14 Hz; 2.65 x 10^-19 J), (11.0 x 10^14 Hz; 3.98 x 10^-19 J), (13.0 x 10^14 Hz; 5.30 x 10^-19 J). The gradient of the graph is approximately ...\n\nA 3.32 x 10^-34 J.s\nB 6.63 x 10^-34 J.s\nC 9.95 x 10^-34 J.s\nD 1.33 x 10^-33 J.s\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ49",
+      "topic": "photoelectric_effect",
+      "question": "The graph of maximum kinetic energy versus frequency for a certain metal gives the following data: (5.0 x 10^14 Hz; 0 J), (7.0 x 10^14 Hz; 1.33 x 10^-19 J), (9.0 x 10^14 Hz; 2.65 x 10^-19 J), (11.0 x 10^14 Hz; 3.98 x 10^-19 J), (13.0 x 10^14 Hz; 5.30 x 10^-19 J). The gradient of the graph represents ...\n\nA the work function.\nB Planck's constant.\nC the threshold frequency.\nD the stopping potential.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ50",
+      "topic": "photoelectric_effect",
+      "question": "In the photoelectric effect, electrons are emitted from a metal surface when ...\n\nA the intensity of the incident light is high enough.\nB the frequency of the incident light is above the threshold frequency.\nC the wavelength of the incident light is above the threshold wavelength.\nD the metal is heated to a high temperature.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ51",
+      "topic": "photoelectric_effect",
+      "question": "The photoelectric effect provides evidence for ...\n\nA the wave nature of light.\nB the particle nature of light.\nC the dual nature of light.\nD the electromagnetic nature of light.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ52",
+      "topic": "photoelectric_effect",
+      "question": "A photon of energy E is incident on a metal surface with work function W0. If E < W0, ...\n\nA electrons will be emitted with maximum kinetic energy E - W0.\nB electrons will be emitted with maximum kinetic energy W0 - E.\nC no electrons will be emitted.\nD electrons will be emitted but with zero kinetic energy.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ53",
+      "topic": "photoelectric_effect",
+      "question": "A photon of energy E is incident on a metal surface with work function W0. If E = W0, ...\n\nA electrons will be emitted with maximum kinetic energy E.\nB electrons will be emitted with zero kinetic energy.\nC no electrons will be emitted.\nD electrons will be emitted with maximum kinetic energy W0.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ54",
+      "topic": "photoelectric_effect",
+      "question": "The maximum kinetic energy of emitted electrons depends on ...\n\nA the intensity of the incident light.\nB the frequency of the incident light.\nC the number of photons incident per second.\nD the distance between the light source and the metal surface.\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ55",
+      "topic": "photoelectric_effect",
+      "question": "The number of electrons emitted per second depends on ...\n\nA the intensity of the incident light.\nB the frequency of the incident light.\nC the work function of the metal.\nD the maximum kinetic energy of the emitted electrons.\n\n(2)",
+      "answer": "A\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ56",
+      "topic": "photoelectric_effect",
+      "question": "A metal surface has a work function of 2.0 x 10^-19 J. Light of frequency 8 x 10^14 Hz is incident on the metal. The maximum kinetic energy of the emitted electrons is ...\n\nA 1.0 x 10^-19 J\nB 2.0 x 10^-19 J\nC 3.3 x 10^-19 J\nD 5.3 x 10^-19 J\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ57",
+      "topic": "photoelectric_effect",
+      "question": "A metal surface has a work function of 2.0 x 10^-19 J. Light of frequency 8 x 10^14 Hz is incident on the metal. The stopping potential is approximately ...\n\nA 1.04 V\nB 2.08 V\nC 3.12 V\nD 4.16 V\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ58",
+      "topic": "photoelectric_effect",
+      "question": "The work function of a metal is 5.0 x 10^-19 J. The threshold frequency is approximately ...\n\nA 5.02 x 10^14 Hz\nB 7.54 x 10^14 Hz\nC 9.05 x 10^14 Hz\nD 1.06 x 10^15 Hz\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ59",
+      "topic": "photoelectric_effect",
+      "question": "The work function of a metal is 5.0 x 10^-19 J. The threshold wavelength is approximately ...\n\nA 200 nm\nB 398 nm\nC 500 nm\nD 600 nm\n\n(2)",
+      "answer": "B\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    },
+    {
+      "label": "MCQ60",
+      "topic": "photoelectric_effect",
+      "question": "In the photoelectric effect, if the frequency of the incident light is below the threshold frequency, increasing the intensity will ...\n\nA increase the maximum kinetic energy of the emitted electrons.\nB increase the number of emitted electrons.\nC have no effect on the emission of electrons.\nD decrease the maximum kinetic energy of the emitted electrons.\n\n(2)",
+      "answer": "C\n(2)",
+      "paper_pages": [],
+      "memo_pages": [],
+      "topic_mismatch": null,
+      "missing_in": null
+    }
+  ]
+}

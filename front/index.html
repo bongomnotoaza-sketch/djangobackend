@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Filesystem</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: sans-serif;
+        }
+
+        #sidebar {
+            width: 300px;
+            height: 100vh;
+            border-right: 1px solid #ccc;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        .folder,
+        .file {
+            padding: 5px;
+            cursor: pointer;
+        }
+
+        .children {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <aside id="sidebar"></aside>
+
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+    <script src="./app.js"></script>
+
+</body>
+
+</html>
